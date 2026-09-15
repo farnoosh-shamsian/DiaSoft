@@ -1,0 +1,284 @@
+# NMF type-scene topics with word-by-word English glosses.
+# Source: type_scene_topics.txt (20 topics over 953 ~30-line passage windows).
+# Glosses: LSJ (Chicago) first senses, trimmed; proper names and a few
+# misleading LSJ first-senses corrected by hand. Topic numbers are arbitrary IDs.
+
+topic  0
+    ἀχαιός         Achaean, Greek
+    ἀγαμέμνων      Agamemnon
+    ἀτρείδης       son of Atreus (Agamemnon/Menelaus)
+    ναῦς           ship
+    λαός           people, host, men
+    κλισία         hut, shelter; couch
+    δίδωμι         give
+    μῦθος          word, speech; mere word
+    πᾶς            all; the whole
+    πείθω          persuade; obey
+    ἄναξ           lord, master, king
+    πόλεμος        war; battle, fight
+
+topic  1
+    δόρυ           spear, spear-shaft
+    ἔγχος          spear, lance; weapon
+    βάλλω          throw; throw so as to hit, hit
+    πίπτω          fall, fall down
+    ἀσπίς          shield
+    αἰνείας        Aeneas
+    χαλκός         bronze, copper
+    ὀξύς           sharp, keen, swift
+    ὦμος           shoulder
+    χείρ           hand
+    αἱρέω          take, seize
+    ἀκοντίζω       hurl a javelin; use the javelin
+
+topic  2
+    τηλέμαχος      Telemachus
+    μνηστήρ        wooer, suitor
+    πέπνυμαι       be wise, be shrewd
+    ἀντίνοος       Antinous (chief suitor)
+    αὐδάω          utter sounds, speak; utter
+    ξένος          guest-friend; guest
+    μῦθος          word, speech; mere word
+    μέγαρον        large room, hall; the chief room
+    δῶμα           house; chief room, hall
+    πατήρ          father; grandfather
+    πᾶς            all; the whole
+    ἀγορεύω        speak in the assembly, harangue; address
+
+topic  3
+    κῦμα           wave, billow
+    ἄνεμος         wind
+    πόντος         sea; open sea
+    μέγας          big, great
+    γαῖα           land, country; land
+    ποταμός        river, stream
+    πέτρα          rock; cliffs, ledges
+    σχεδία         raft, float; rafts
+    φέρω           bear, carry, bring
+    ζεύς           Zeus
+    ναῦς           ship
+    δεινός         fearful, terrible; fearful
+
+topic  4
+    ἥρα            Hera
+    θεός           god, deity
+    ζεύς           Zeus
+    ὄλυμπος        Olympus
+    ἀθάνατος       immortal, deathless
+    θεά            goddess
+    ἶρις           Iris (messenger goddess)
+    ἔπος           word; utterance
+    ἥφαιστος       Hephaestus
+    πᾶς            all; the whole
+    φημί           say, affirm, assert; shall we say of
+    θέτις          Thetis
+
+topic  5
+    ἵππος          horse
+    ἅρμα           chariot; war-chariot
+    τυδεΐδης       son of Tydeus (Diomedes)
+    ἐλαύνω         drive, set in motion; drive
+    διομήδης       Diomedes
+    δίφρος         chariot-board, chariot seat
+    μῶνυξ          single-hoofed (of horses)
+    ὄχος           carriage; chariot
+    ἀντίλοχος      Antilochus
+    ἡνία           reins; bit
+    ἡνίοχος        charioteer, driver
+    τυδεύς         Tydeus
+
+topic  6
+    ἀχιλλεύς       Achilles
+    πάτροκλος      Patroclus
+    πηλεύς         Peleus
+    δῖος           god-like, noble (epithet)
+    πούς           foot
+    μυρμιδόνες     Myrmidons
+    πηλείδης       son of Peleus (Achilles)
+    ὠκύς           quick, swift, fleet
+    ποταμός        river, stream
+    τεῦχος         tool, implement; implements of war, armour, arms
+    πῦρ            fire
+    αἰακίδης       descendant of Aeacus (Achilles)
+
+topic  7
+    οἶνος          wine
+    χρύσεος        golden
+    δέπας          beaker, goblet; bowl
+    χείρ           hand
+    τίθημι         set, put, place
+    ἐδητύς         meat, food
+    καλός          beautiful, fair
+    σῖτος          grain, bread, food
+    πόσις2         drink, drinking
+    ἔρος           love, desire
+    φέρω           bear, carry, bring
+    ἀργύρεος       of silver; silver-plated
+
+topic  8
+    ἀνήρ           man
+    πολύς          many; often
+    πατήρ          father; grandfather
+    θεός           god, deity
+    φίλος          beloved, dear; dear
+    γέρων          old man; Elders, Chiefs
+    κακός          bad; ugly
+    ἀμείβω         change, exchange; changing
+    γαῖα           land, country; land
+    ἄνθρωπος       man, human being
+    μήτηρ          mother
+    παῖς           child; son
+
+topic  9
+    ἀλκίνοος       Alcinous
+    φαίαξ          Phaeacian
+    ξένος          guest-friend; guest
+    πομπή          conduct, escort; an escort
+    πᾶς            all; the whole
+    ὀδυσσεύς       Odysseus
+    λαοδάμας       Laodamas
+    ἀρήτη          Arete (Phaeacian queen)
+    ἱκνέομαι       come, arrive, reach
+    ἀοιδός         singer, minstrel, bard; songstress
+    πόλις          city; the citadel
+    δῶμα           house; chief room, hall
+
+topic 10
+    μενέλαος       Menelaus
+    ἑλένη          Helen
+    ἀλέξανδρος     Alexandros (= Paris)
+    ἀρηίφιλος      dear to Ares (epithet)
+    ἀτρείδης       son of Atreus (Agamemnon/Menelaus)
+    ξανθός         fair-haired, blond
+    ὅρκιον         oath; oaths
+    τρώς           Trojan
+    κτῆμα          anything gotten, piece of property, possession; possessions
+    διοτρεφής      Zeus-nurtured (epithet)
+    ἀντίλοχος      Antilochus
+    ἀγαθός         good; well-born, gentle
+
+topic 11
+    ἀθήνη          Athena
+    γλαυκῶπις      bright-eyed (epithet of Athena)
+    θεά            goddess
+    παλλάς         Pallas (Athena)
+    κόρη           girl; maiden
+    αἰγίοχος       aegis-bearing (epithet of Zeus)
+    ζεύς           Zeus
+    ὀδυσσεύς       Odysseus
+    εἶδον          see
+    τίθημι         set, put, place
+    εὔχομαι        pray, vow, boast
+    δέμας          bodily frame, body
+
+topic 12
+    ὀδυσσεύς       Odysseus
+    συβώτης        swineherd
+    εὔμαιος        Eumaeus (the swineherd)
+    ἔρχομαι        come, go
+    ὗς             swine, pig
+    πρόσφημι       speak to, address
+    ἀπαμείβομαι    reply, answer
+    πολύμητις      of many counsels (epithet of Odysseus)
+    μνηστήρ        wooer, suitor
+    δῖος           god-like, noble (epithet)
+    κύων           dog
+    ξένος          guest-friend; guest
+
+topic 13
+    ναῦς           ship
+    ἑταῖρος        comrade, companion; comrades-in-arms
+    κίρκη          Circe
+    θάλασσα        sea
+    ἥλιος          sun
+    μῆλον1         sheep, small cattle
+    ἠώς            dawn; light of day
+    ἔρχομαι        come, go
+    νῆσος          island; the islands
+    πᾶς            all; the whole
+    ἕκαστος        each; every one
+    θοός           quick, nimble; swift
+
+topic 14
+    ἔχω            have, hold, keep
+    ναῦς           ship
+    ἕπομαι         follow
+    υἱός           son
+    τίκτω          bring into the world, engender; beget
+    ἄρχω           to be first; begin, make a beginning
+    νέμω           deal out, dispense; distribute
+    ἡγεμονεύω      lead the way; to lead
+    μέλας          black, dark; dark
+    ναίω           dwell, abide; dwell in, inhabit
+    ἡγέομαι        go before, lead the way; precede
+    ἄρης           Ares
+
+topic 15
+    τόξον          bow
+    ὀιστός         arrow
+    ἐντανύω        stretch tight; stretch
+    νευρή          bowstring
+    ἀντίνοος       Antinous (chief suitor)
+    τίθημι         set, put, place
+    σίδηρος        iron
+    χείρ           hand
+    βιός           bow
+    μνηστήρ        wooer, suitor
+    τανύω          stretch, strain; string
+    ἆθλος          contest; contest for a prize
+
+topic 16
+    αἴας           Ajax
+    τελαμών        Telamon
+    τεῦκρος        Teucer
+    ὄρνυμι         rouse, stir up
+    ἵστημι         make stand, set up
+    σάκος          shield
+    ἰδομενεύς      Idomeneus
+    λύκιοι         Lycians
+    δαναοί         Danaans, Greeks
+    μάχομαι        fight; fight with
+    μέγας          big, great
+    εἶμι           go, come
+
+topic 17
+    ἱστός          mast; loom
+    ὑφαίνω         weave; weave, ply the loom
+    γάμος          wedding, marriage
+    δόλος          trick, guile, cunning
+    ἀναλύω         undo, unravel
+    ἐκτελέω        bring to an end, accomplish, achieve; fulfil
+    φᾶρος          cloth, web, shroud
+    μέγας          big, great
+    θάνατος        death
+    ταφήιος        for a burial, funeral
+    περίμετρος     very large
+    κτεατίζω       gain, win; get for oneself, acquire
+
+topic 18
+    γυνή           woman, wife
+    μέγαρον        large room, hall; the chief room
+    πηνελόπεια     Penelope
+    ἀμφίπολος      handmaid, attendant
+    εὐρύκλεια      Eurycleia (Odysseus' nurse)
+    δμωή           female slave, servant
+    περίφρων       very thoughtful (epithet of Penelope)
+    ὕπνος          sleep, slumber; the sleep of death
+    ὑπερῷον        upper chamber (the women's rooms)
+    τροφός         feeder, rearer; nurse
+    θάλαμος        inner chamber, bedroom
+    ὀδυσσεύς       Odysseus
+
+topic 19
+    ἕκτωρ          Hector
+    τρώς           Trojan
+    ἀχαιός         Achaean, Greek
+    τεῖχος         wall; city-wall
+    ναῦς           ship
+    μάχομαι        fight; fight with
+    πύλη           gate, gates
+    μάχη           battle, fight
+    ἀπόλλων        Apollo
+    δαναοί         Danaans, Greeks
+    πόλις          city; the citadel
+    κορυθαίολος    of the glancing helm (epithet of Hector)
