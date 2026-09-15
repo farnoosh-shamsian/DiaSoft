@@ -1,0 +1,2722 @@
+hdbscan: 238 clusters, 877 unassigned lemmas
+
+=== hdbscan cluster 186  (n=35, coherence=0.511) ===
+  ῥήγνυμι(49) — break asunder, rend, shatter; rend; make grievous; break for oneself, get broken
+  τινάσσω(14) — shake; brandish; shook; upset
+  οἴγω(14) — open; opened the door; opened; véga
+  πήγνυμι(35) — stick; fix in; fix in the earth, plant; pitch
+  πλήσσω(45) — struck with terror; amazement; strike, smite; strike
+  φράσσω(5) — fence in, hedge round; secure, fortify; having fenced; fenced
+  ἄγνυμι(26) — break, shiver; broke; crashed through; to be broken, shivered
+  ζεύγνυμι(20) — yoke, put to; put to oneʼs; harness, saddle and bridle; put to, …
+  ἐπαίσσω(28) — rush at; upon; rush upon; assail, assault
+  πτύσσω(5) — fold, double up; fold up; fold; fold, close
+  μαστίζω(11) — whip, flog; whipped; stimulate
+  ὀρύσσω(6) — dig; trench; dig up; had
+  ἐλελίζω(15) — whirl round; move in coils; spires; cause
+  νύσσω(26) — touch with a sharp point, prick, stab, pierce; dinting; having nudged; prick
+  ἀράσσω(9) — smite, dash in pieces; rattling, clanging; knock at; open with a crash
+  ἀίσσω(61) — shoot, dart, glance; darting upon; rapid flight; gliding about
+  καταρρέζω(8) — pat, stroke, caress
+  στηρίζω(5) — make fast, prop, fix; sets; set; fast
+  στορέννυμι(12)
+  στόρνυμι(6) — spread; make up; make a bed; spread, strew
+  τανύω(49) — stretch, strain; string; having strung his; pull
+  πάλλω(25) — poise, sway; sway, brandish; toss; drove
+  ἐρείδω(33) — cause to lean, prop; piling; against; fix firmly, plant
+  στυφελίζω(12) — strike hard; drives away; thrust; treat roughly, maltreat
+  κλείω(6) — shut, close, bar; barred; shot; shut up, close, block up
+  ... +10 more
+
+=== hdbscan cluster 56  (n=32, coherence=0.558) ===
+  ὗς(70) — the wild swine; boar; sow; sus foeta
+  λέων(56) — lion; lionʼs skin; crab; serpent
+  ὄις(52) — sheep; ram; ewe; avis
+  ταῦρος(23) — bull; priest of Poseidon Taureios; the bull as a sign of the …
+  λύκος(10) — wolf; grisly; jackals; a wolf
+  βοῦς(164) — bullock, bull, ox; cow; cattle; buffalo
+  ἀρνός(23) — the case expressing ownership
+  ἔλαφος(16) — deer, Cervus elaphus; hart; stag; hind
+  κύων(111) — dog, bitch; shepherds’ dogs; watch-dogs; hounds
+  θήρ(14) — beast of prey; beasts; living creature; vermin
+  αἴξ(46) — goat; ibex; the star Capella; goose
+  ἰχθύς(18) — any of various mostly cold-blooded aquatic vertebrates usually having scales and breathing …
+  νεβρός(10) — young of the deer, fawn; fawn
+  ἀρνειός(10) — ram, wether; Aries
+  μῆλον(65) — sheep; goat; rams, wethers; goats
+  ὄρνις(32) — ara; arins; bird; bird of omen
+  μυῖα(6) — fly; carrion-fly, bluebottle; gall-insect; a fly
+  ἔριφος(6) — kid; Haedi
+  μῆλον2(10) — apple; treefruit; crab, Pyrus acerba; apricot, Prunus armeniaca
+  δράκων(9) — dragon, serpent; water-snake; Draco; the great weever
+  νομεύς(13) — herdsman; dealer out, distributor; ribs
+  ἀγρότερος(8) — wild; countrymen; fond of the chase, huntress; the huntress
+  ἱέραξ(8) — hawk, falcon; fish; bandage
+  μηκάς(5) — bleating one
+  ἡμίονος(38) — half-ass; mule; a team of racing-mules; wild ass, onager
+  ... +7 more
+
+=== hdbscan cluster 78  (n=31, coherence=0.445) ===
+  πόντος(119) — sea; open sea; wide waters; the sea
+  ἤπειρος(18) — terra firma, land; the sea; land; the mainland of Western Greece
+  νῆσος(62) — island; the islands; land flooded; alluvial land
+  λίμνη(10) — pool of standing water; marshy lake, mere; artificial pool; basin
+  ἅλς(119) — salt; rock-salt; brine; sugar
+  πέλαγος(7) — the sea; high sea, open sea; sea; flooded plain
+  θάλασσα(103) — sea; salt lake; maritime affairs; a sea
+  χέρσος(16) — dry land; by land; barren soils; dry, firm
+  ἠιών(12) — shore, beach; banks; lower part of the face
+  ἀκτή(23) — headland, foreland, promontory; rugged banks; strand; tract of land running out into …
+  κῦμα(105) — anything swollen; pregnant; wave, billow; swell
+  λιμήν(33) — harbour; havens of refuge from; haven, retreat, refuge; a haven of
+  Ἑλλήσποντος(11) — Hellespont; sea of Helle; the Dardanelles; the adjacent country
+  ναῦς(948) — ship; the ships; ships; naús
+  ποταμός(110) — river, stream; rivers; rivers of fire; lava
+  γαῖα(272) — land, country; land; earth; the earth
+  ναύτης(12) — seaman, sailor; by sea; passenger by sea; mates
+  Ὠκεανός(30) — Oceanus; great River; the great Outward Sea; oceans
+  γῆ(11) — earth; heaven; land; sea
+  κυβερνήτης(9) — steersman, pilot; skipper; guide, governor
+  ὅρμος(6) — cord, chain; necklace, collar; anything strung like a necklace, wreath, chaplet; a …
+  χθών(77) — earth; the surface of it; soil; the earth
+  ἐρέτης(7) — rowers; oars; era; aritár
+  Ἀλφειός(7)
+  χώρα(9) — space; room in which a thing is; partly occupied space; country
+  ... +6 more
+
+=== hdbscan cluster 40  (n=28, coherence=0.597) ===
+  Φυλείδης(7)
+  Πηλείδης(55)
+  Τυδεΐδης(5)
+  Τυδείδης(62)
+  Ἀτρείδης(198) — son of Atreus
+  Νηληιάδης(5)
+  Πηλείων(29)
+  Τυδεύς(41) — Tydeus
+  Ὀιλεύς(14) — Oïleus
+  Πανθοίδης(8)
+  Μενοιτιάδης(20)
+  Λαερτιάδης(33)
+  Ἡρακλέης(7) — Heracles; like Heracles
+  Μενεσθεύς(7)
+  Μαχάων(11)
+  Τελαμωνιάδης(12)
+  Οἰνεύς(8)
+  Φυλεύς(5)
+  Πριαμίδης(33)
+  Δαρδανίδης(12)
+  Πετεώς(6)
+  Λεοντεύς(5)
+  Δηίφοβος(18)
+  Καπανεύς(6)
+  Νηλεύς(17) — Neleus
+  ... +3 more
+
+=== hdbscan cluster 66  (n=25, coherence=0.514) ===
+  ἄκριτος(10) — undistinguishable, confused; common undistinguished; confused; continual, unceasing
+  ἄσχετος(5) — not to be checked, ungovernable; resistless; ungovernable, unmanageable; not held together
+  ἄφθιτος(9) — not liable to perish, undecaying, imperishable; immortal; unceasing; unchanging, unchangeable
+  ἄκρατος(5) — unmixed, neat; of pure wine; strong; without water
+  ἄμβροτος(20) — immortal, divine; belonging to the gods; five
+  ἀθέσφατος(8) — beyond even a godʼs power to express, unutterable; not according to a …
+  ἀλίαστος(7) — not to be turned aside, unabating; undaunted
+  ἄρρηκτος(10) — unbroken, not to be broken; invulnerable; unploughed; with unbroken courage
+  ἀκήριος(8) — unharmed by the; unharmed; free from power of the Fates; having no
+  ἄσβεστος(13) — unquenchable, inextinguishable; not quenched; ceaseless; unslaked lime
+  ἄπρακτος(5) — unavailing, unprofitable; when no business is done, holidays; restful; of inaction
+  ἄατος(7) — insatiate
+  ἄσπετος(32) — unspeakable, unutterable; unspeakably great; countless; unspeakably
+  ἄλαστος(6) — not to be forgotten. insufferable; inconsolably; thou whom I will never forget …
+  ἄμοτον(9) — insatiably, incessantly; insatiate; continually; implacably
+  ἐπήρατος(7) — lovely, delightsome
+  ἀκάματος(10) — without sense of toil; untiring, unresting; that never rests; inexhaustible
+  ἀπήμων(17) — unharmed, unhurt; without sorrow; care; doing no harm
+  ἀμέγαρτος(5) — unenviable; sad, melancholy; undesirable; unhappy, miserable
+  ἀκόρητος(6) — insatiate, unsated; undisturbed by bugs; unswept
+  ἀίδηλος(8) — making unseen, annihilating, destructive; unseen, unknown, obscure; unforeseen; formless
+  ἀγήραος(9) — ageless, undecaying
+  ἄναλκις(17) — without strength, impotent, feeble
+  ἀπείρων2(14) — boundless, endless; countless; seeming endless; profound
+  νέατος(15) — uttermost, lowest; the lowest part of; extreme, outermost; lowest
+
+=== hdbscan cluster 103  (n=25, coherence=0.530) ===
+  ἀυτμή(13) — breath; the fiery breath; heat; scent, fragrance
+  ἐρωή(11) — quick motion, rush, force; throw; the force; swing
+  ἀκωκή(15) — point; sting; fangs
+  ὀσμή(6) — smell, odour; foul smells; fragrant odours; scent, perfume
+  ἀυτή(29) — cry, shout; battle-shout, war-cry; blast; creaking
+  αὐδή(18) — human voice, speech; sound; twang; report, account
+  ἰωή(5) — any loud sound: shout; cry; sound; the roaring blast
+  ἀλοιφή(9) — anything with which one can smear; anoint; hogʼs-lard, grease; unguent
+  ἄελλα(14) — stormy wind, whirlwind; whirling motion
+  ἀχλύς(9) — mist; a mist over the eyes; Sorrow
+  ἄχνη(7) — anything that comes off the surface; foam, froth; exudation; froth
+  ἐφετμή(10) — command, behest; behests; demands, prayers
+  ἐνιπή(5) — rebuke, reproof; abuse, contumely; angry threats; reproach
+  αὐγή(19) — light of the sun; rays, beams; the light; in a full
+  στεροπή(6) — flash of lightning; dazzling light, gieam
+  ἅλμη(5) — sea-water, brine; spray that has dried on the skin; salt incrustation; brine
+  ὁμοκλή(6) — threat, reproof, rebuke; reproaches; threatening shouts; shouts
+  ὀδύνη(25) — a bothersome annoying person: "that kid is a terrible pain"
+  ῥιπή(7) — swing; force with which anything is thrown; flight; the sweep
+  ὑσμίνη(48) — fight, battle, combat; of the fight; the fight; yúdh
+  αὐδήεις(6) — speaking with human voice; using human speech; vocal; rumour
+  ἄτη(24) — bewilderment, infatuation; blindness; delusion; the goddess of mischief
+  ἐρετμόν(27) — oar
+  γαλήνη(5) — stillness of the sea, calm; calm sea; stillness; calmness, serenity
+  ἄορ(21) — hanger; sword hung in a belt; women; any weapon
+
+=== hdbscan cluster 15  (n=22, coherence=0.662) ===
+  Δαναοί(154) — the Danaäns; the Greeks; the sons; descendants of Danaus
+  Τρώς(631) — Tros; Trojans; Trojan men
+  Λύκιοι(44)
+  Ἀργεῖος(218) — from Argos, Argive; the Greeks; Argolis; womenʼs shoes
+  Δαναός(5)
+  Καδμεῖος(8)
+  τρώς(9) — Tros; Trojans; Trojan men
+  Μυρμιδόνες(42)
+  Αἰτωλός(14)
+  Βοιωτός(7) — a Boeotian; Boeotia; cattle-pastures; Boeotian
+  Λύκιος(5) — Lycian; the Lycians; history of Lycia
+  Κίκονες(8)
+  Πύλιος(14)
+  Τρῳάς(10)
+  Μυσός(5) — Mysian; a prey to all
+  Τρωιός(18)
+  Κρής(15) — Cretan
+  Παναχαιοί(12) — all the Achaeans; all Achaea
+  Ἀθηναῖος(6) — Athenian
+  Κουρῆτες(5)
+  Τρωικός(5) — Trojan; times of Troy; Trojan war
+  Πελασγός(5) — Pelasgian; Greeks
+
+=== hdbscan cluster 112  (n=22, coherence=0.533) ===
+  ἔντεα(32) — fighting gear, arms, armour; coat of mail, corslet; furniture, appliances, tackle; rigging
+  τεῦχος(189) — tool, implement; implements of war, armour, arms; whole armour, harness; the gear
+  ἡνία(27) — reins; bit; ṇsiyo; nāsyam
+  εἷμα(73) — garment; over-garment; rug, carpet
+  ὀστέον(45) — d)Fr; bone; the bleached bones of the dead; of bones
+  ῥῆγος(13) — rug, blanket
+  ἱστίον(24) — web, cloth, sheet; hangings; piece; sail
+  ἅρμα(66) — chariot; war-chariot; racing-chariot; travelling-chariot
+  ἔντερον(6) — piece of the guts; intestines; gut; guts, bowels
+  ὅπλον(19) — tool, implement; tackle, tackling; ropes, halyards; rope
+  ἄγκος(5) — bend, hollow; mountain glen; áñcati; ancus, uncus
+  ἔγκατα(6) — inwards, entrails
+  πτερόν(9) — feathers; feather; quill; plumage
+  δέμνιον(12) — bedstead, mattress; bed
+  ἄγγος(6) — vessel; vat; pitcher; bucket, pail
+  γόνυ(117) — knee; clasping the knees; on my knees; the knee
+  σῶμα(8) — body; dead body, corpse; living body; life
+  πρυμνήσιος(11) — of a stern; stern-cables
+  ξύλον(12) — Abh. Berl. Akad; wood; firewood, timber; timber
+  χρώς(107) — skin; flesh; oneʼs body, frame; close to the skin
+  ἴκρια(11) — halfdeck; platform, stage; scaffolding; benches
+  ἧπαρ(9) — liver; pregnant; fruitful land; yēqṷṛt
+
+=== hdbscan cluster 201  (n=22, coherence=0.583) ===
+  ἀντιάω(15) — go for the purpose of meeting; receiving; go in quest of; hit
+  παμφανόων(18) — bright-shining, radiant
+  γοάω(23) — groan, weep; bewail
+  ἰσχανάω(8) — hold back, stay; hold back, wait; to be stayed; cling to
+  κομάω(33) — let the hair grow long; plume oneself, give oneself airs; aimed at; …
+  μητιάω(11) — meditate, deliberate; consider among you; plan, devise
+  ἀσχαλάω(7) — to be distressed, grieved; is vexed because of
+  μηχανάομαι(9) — make by art, construct, build; prepare; prepare, make ready; contrive, devise
+  καγχαλάω(5) — rejoice, exult; rejoice
+  εἰσοράω(69) — look into, look upon, behold; to discern; to behold; seest)
+  ῥυπάω(5) — to be filthy, slovenly; to be filled with wax
+  ἀντιάζω(10) — meet face to face; encounter; shall answer to; approach as suppliants
+  αἰτιάομαι(6) — accuse, censure; to accuse; accuse; bring a charge
+  στιχάομαι(9) — march in rows; ranks; marching; stand in rows
+  χατέω(5) — crave, need; want, have need of
+  βλεμεαίνω(6) — exult
+  εὐχετάομαι(17) — pray; boast, profess; brag; to glory
+  δηριάομαι(7) — contend; wrangle; contend with; contest a prize
+  μενεαίνω(36) — desire earnestly; eagerly; long for; purpose
+  χατίζω(5) — have need of, crave; in want; in want, needy; lack, be without
+  γάλοως(5) — husbandʼs sister; brotherʼs wife, sister-in-law; glōs
+  κοτέω(19) — bear; a grudge, be angry at; angry at; angry
+
+=== hdbscan cluster 158  (n=21, coherence=0.551) ===
+  ξίφος(61) — sword; power of life and death; jus gladii; sword-shaped bone
+  σάκος(78) — shield; shield, defence; tvác
+  δόρυ(270) — stem, tree; plank; beam; mast
+  ἔγχος(239) — spear, lance; weapon; sword; weapons
+  βέλος(89) — missile; arrow, dart; hurled; thrown
+  τόξον(104) — bow; the bow; by guess; bowmanship, archery
+  πῆχυς(8) — forearm; arm; ulna; centrepiece, which joined the two horns of the bow
+  τελαμών(15) — broad strap; band for bearing; supporting; leathern strap
+  ξυστόν(5) — shaved; shaft, pole; shaft; spear
+  πέλεκυς(18) — axe; battle-axe; sacrificial axe; executionerʼs axe
+  ῥόπαλον(5) — club, cudgel; club; war-club; mace
+  θώραξ(35) — corslet; jerkin; coat of mail, scale armour; slough
+  φάλος(7) — horn; boss; ornament
+  φάσγανον(24) — sword; corn-flag, Gladiolus segetum
+  ἀσπίς(96) — shield; body of men-at-arms; deep; in file
+  χερμάδιον(16) — large stone, boulder; of the shape; size of a; for arm-exercises
+  σκῆπτρον(34) — staff; stick; staffs; supports
+  κέρας(16) — the horn of an animal; horns; tusks; antennae
+  ἐγχείη(23) — spear, lance; in the spear
+  ζωστήρ(17) — a warriorʼs belt; belt; a womanʼs girdle; anything that goes round like …
+  γύαλον(6) — hollow; breast; back-piece; front-piece
+
+=== hdbscan cluster 206  (n=21, coherence=0.517) ===
+  ἐθέλω(272) — to be willing; wish; wish to; wish that
+  μέλλω(83) — to be destined; likely to; belike; doubtless
+  βούλομαι(32) — will, wish, be willing; wish is will; willed; that supports
+  ὀφείλω(26) — owe, have to pay; account for; do I owe?; to be debtor
+  κέλομαι(93) — urge, exhort, command; commands; advise; constrained
+  ἄνωγα(135) — command, order; advise, urge; bade; bids, prompts
+  ἔλπω(60) — cause to hope; feeds; with hope; cause to expect
+  ἐάω(150) — suffer, permit; leave; alone; should be given up
+  μέμονα(13) — to be furiously; very eager; would fain; rage
+  κελεύω(178) — urge, drive on; exhort, bid; order; bade
+  δύναμαι(108) — to be able, strong enough; canst; powerful, mighty; multum valet
+  τλάω(80) — suffer, undergo; hold out, endure, be patient, submit; I submitted; bore up …
+  φάσκω(15) — say, affirm, assert; saying; would; think, deem, expect
+  τολμάω(9) — Bodl. Quarterly Record; undertake, take heart; to do; bear
+  οἴομαι(107) — forebode, presage; expect; suspect; fear
+  ἀπειλέω2(22) — hold out; promise; threat; boast
+  δοκέω(25) — expect; think, suppose, imagine; thought; methought
+  ὀφέλλω(28) — increase, enlarge, strengthen; raises high; multiply; add to
+  χρή(51) — sum; it is necessary; it must needs, one must; ought
+  ἐπιεικής(10) — fitting, meet, suitable; meet; a fair; reasonable
+  κέλευθος(38) — road, path; the streets; paths, orbits; path
+
+=== hdbscan cluster 58  (n=20, coherence=0.475) ===
+  δηθά(15) — for a long time; long
+  χθιζός(9) — of yesterday; yesterdayʼs; yesterday; yesterday!
+  πανημέριος(12) — all day long; in a whole dayʼs sail; of the whole day
+  μίνυνθα(14) — a short time; short-lived
+  ἀγχίμολος(15) — coming near; near, close at hand; close
+  παννύχιος(16) — completely given to or absorbed by: "became all attention"
+  δηρός(34) — long, too long; all too long; lingering
+  μινυνθάδιος(7) — short-lived; small
+  τυτθός(31) — little, small, young; a little one; a little, a bit; little
+  ἑσπέριος(9) — towards evening; at eventide; at even; western
+  ἠβαιός(8) — small; the least; a few; in the least
+  δήν(37) — for a long while; long-lived; long ago; dudum
+  ἐτεός(18) — true, genuine; true; in truth, verily; rightly
+  ὑπηοῖος(5) — towards dawn, early; early; morning
+  ἐξαπίνης(11) — happening or coming quickly and without warning: "a sudden unexpected development"
+  ὀλίγος(39) — little, small; small, low; not copious; slight
+  πάγχυ(24) — wholly, entirely; fully
+  πανσυδίῃ(5)
+  δηθύνω(5) — tarry, delay; to be prolonged; to be slow
+  ἄνεω(7) — without a sound, in silence
+
+=== hdbscan cluster 155  (n=20, coherence=0.569) ===
+  ἕζομαι(93) — seat oneself, sit; sank; crouch; sink
+  καθέζομαι(24) — sit down, take oneʼs seat; preside; taking their seats; sit down in, …
+  ἵζω(68) — si-sd-ō; e-sed-s; make to sit, seat, place, set; set
+  ἧμαι(118) — āste; to be seated, sit; sit still, sit idle; encamp
+  καθίζω(37) — make to sit down, seat; set, place; encamp; post
+  ἵστημι(442) — make to stand; stand; sthā; á-sthā-t
+  καθεύδω(7) — lie down to sleep, sleep; to sleep; pass the night; roost
+  κάθημαι(37) — to be seated, sit; as he sat there; sate; sit on
+  ἐφέζομαι(7) — sit upon; sit by; near
+  ἕννυμι(60) — ves; vestis; váste; put clothes on
+  ἑδριάω(6) — seat; set; sit
+  εὕδω(57) — sleep; slumbering; sleep of death; rest, be still
+  ἑλίσσω(17) — Acut.(Sp; turn round; about; turning
+  ἐφίζω(7) — set upon; set; ashore; having set
+  κεῖμαι(184) — śáyate; cunae; to be laid; lie, lie outstretched
+  ἕπω(6) — to be about, busy oneself with; sapati; saparyati; sepelio
+  ἱδρύω(6) — make to sit down, seat; encamped; to be seated, sit still; lie …
+  ἑανός(9) — fine; beaten out fine; fine robe; sail
+  κυλίνδω(22) — roll; trundle; rolls; revolve
+  σπεύδω(20) — set going, urge on, hasten; procure quickly, get ready; seek eagerly, strive …
+
+=== hdbscan cluster 42  (n=19, coherence=0.520) ===
+  χαλκοχίτων(32) — bronze-clad
+  χαλκοκορυστής(9) — bronze-armed, equipped with bronze
+  ἱπποκορυστής(5) — marshaller, arranger of chariots
+  ἀσπιστής(11) — one armed with a shield, warrior; shield
+  κυανοχαίτης(7) — dark-haired; dark blue; dark-maned
+  ἱπποδάσεια(9) — bushy with horsehair
+  ταχύπωλος(11)
+  ἱππόδαμος(48) — tamer of horses; Hippodamia
+  θωρηκτής(5) — armed with; cuirass
+  κυδιάνειρα(9) — bringing men glory; renown; glorified by men, famous for men
+  χαλκοβαρής(7) — heavy; loaded with bronze
+  ὀρθόκραιρος(5) — with straight; upright horns
+  μενεχάρμης(7)
+  ἀγκυλομήτης(7) — crooked of counsel
+  ἱπποσύνη(6) — the art of driving the war-chariot; driving, horsemanship; horse, cavalry
+  ἰοχέαιρα(12) — arrow-pourer, shooter of arrows; poison-shedding
+  κυδάλιμος(31) — glorious, renowned; noble
+  ἀγέρωχος(8) — high-minded, lordly; noble; lordly; high-spirited
+  κοιρανέω(10) — to be lord; master, rule, command; to be lord of; lead, arrange
+
+=== hdbscan cluster 69  (n=19, coherence=0.514) ===
+  πλεῖστος(24) — most, greatest, largest; most in vogue; the greatest number; the greatest part
+  πρώτιστος(19) — the very first; principal, primal; first of all; now that
+  πρῶτος(231) — (music) highest in pitch or chief among parts or voices or instruments …
+  πρότερος(122) — before, in front; fore; in front; former, earlier
+  πᾶς(1020) — all; the whole; every; all the
+  πα~ς(5)
+  πολύς(822) — many; often; frequent; much, mighty
+  μάλιστα(82) — used to form the superlative: "the king cobra is the most dangerous …
+  σύμπας(8) — all together, all at once; the whole; as a whole; general
+  πρόφρων(29) — with forward mind; of oneʼs free will; fain; kindly, gracious, willing
+  πρόπας(9) — all; long; together; utterly
+  πλέως(13) — full, filled; infected with; full; full, complete
+  μᾶλλον(63) — comparative of much; to a greater degree or extent: "he works more …
+  πάμπρωτος(8) — the very first, first of all
+  πάμπαν(36) — wholly, altogether; not at all, by no means
+  ταχύς(126) — swift, fleet; quick; quick, hasty; speed, haste
+  μυρίος(30) — numberless, countless, infinite; measureless, immense, in finite; boundless; all kinds of
+  παντοῖος(27) — of all sorts; kinds, manifold; all possible shapes; tries every shift
+  πρόμος(8) — foremost man; opposed to; in the front rank; chief
+
+=== hdbscan cluster 207  (n=19, coherence=0.505) ===
+  δίκη(15) — custom, usage; way; the way; like
+  ποινή(11) — bloodmoney, were-gild, fine; price paid, satisfaction, requital, penalty; in return for; satisfaction …
+  ποθή(10) — longing, desire for; from longing after; want
+  κομιδή(7) — attendance, care; care bestowed on horses; care bestowed on men; care bestowed …
+  θέμις(33) — that which is laid down; established, law; as established by custom; meet …
+  χάρις(23) — grace; outward grace; fauour, beauty; graces
+  λώβη(11) — outrage, dishonour; outrage; an outrage; ruin
+  μοῖρα(97) — part; portion; division; party
+  δόσις(5) — giving; licence, permission; ramming; gift
+  μῆνις(14) — wrath; revengeful temper
+  νέμεσις(9) — distribution of what is due; retribution; righteous anger; cause for anger
+  χρεώ(24) — want, need; need; necessity; need of
+  ἀρή(8) — bane, ruin
+  ὕβρις(15) — wanton violence; insolence; in wantonness; lust, lewdness
+  νοῦσος(5) — an impairment of health or a condition of abnormal functioning
+  αἰδώς(20) — reverence, awe, respect; shame, self-respect; sense of honour; shame
+  χρέος(10) — that which one needs must pay, obligation, debt; the obligation to restore …
+  τελευτή(5) — completion, accomplishment; event, issue; termination, end; the end of life, death
+  δίκαιος(16) — observant of custom; rule; of social rule, well-ordered, civilized; good
+
+=== hdbscan cluster 122  (n=18, coherence=0.585) ===
+  εὔξεστος(21) — well-planed, well-polished
+  εὔξοος(15) — of polished metal; haft; easy to polish
+  εὔτροχος(8) — well-wheeled; smoothlyrunning; running easily; ready, glib
+  ἐυστρεφής(7) — well-twisted; shapely
+  εὔδμητος(11) — well-built
+  εὐστέφανος(6) — well-girdled; graced with beauteous garlands; crowned with flowers; crowned, circled with walls …
+  εὐπλόκαμος(25)
+  εὔπεπλος(7) — with beautiful peplos, beautifully robed
+  ἐύτμητος(5)
+  εὔτυκτος(9) — well-made, well-wrought; ready for eating
+  εὔθρονος(5) — with beautiful seat; throne
+  εὐήρης(6) — well-fitted; well-poised, easy to handle; of the well-poised oars; well-knit
+  εὔζωνος(7) — well-girdled; girt up for exercise, active; well-equipped; well-girded
+  εὔσκοπος(5) — keen-sighted, watchful; far-seen; commanding a wide view; shooting well, of unerring aim
+  εὐποίητος(5) — well-made, well-wrought
+  εὔπηκτος(6) — well put together, well-built; well-moulded, compact; firm; easily congealed
+  ἐυρρεής(5) — fair-flowing
+  πολύκμητος(6) — requiring or showing effort: "heavy breathing"; "the subject made for labored reading"
+
+=== hdbscan cluster 214  (n=18, coherence=0.474) ===
+  νοέω(131) — Excerpta e libris Herodiani; perceive by the eyes, observe; perceive by the …
+  γιγνώσκω(113) — come to know, perceive; know; know by reflection; know by observation
+  οἶδα(268) — know; knew; Stadtrecht von Gortyn; Koische Forschungen
+  ὁράω(97) — Inscr. des tombeaux des rois; I know; a)ware; see, look
+  εἶδον(407) — see; to be seen; seem; know
+  ἀθρέω(5) — gaze at, observe; inspect; look earnestly, gaze; observe, watch
+  εἴδω(42) — see; to be seen; seem; know
+  δάω(21) — learn; teach; know; wilt learn
+  εἰσείδω(5)
+  ἀίω(21) — perceive; hear; see; listen to, give ear to
+  προεῖδον(6) — look forward; see beforehand, catch sight of; foresee, portend; take thought for
+  ἐφοράω(12) — oversee, observe; watch over, visit; visit; attend
+  εὑρίσκω(77) — find; find that; found; find means, be able
+  ἐπίσταμαι(26) — know; be able; capable; can
+  ἐλεέω(35) — to have pity on, show mercy to; feel pity
+  ἀλέγω(9) — have a care, mind, heed; have; care; with good heed
+  ἀλεγίζω(6) — trouble oneself about; care for, mind, heed
+  ἀλεγύνω(5) — heed, care for; find; prepare; for guests
+
+=== hdbscan cluster 24  (n=17, coherence=0.666) ===
+  Ἀχιλλεύς(381) — Achilles; ‘Achilles and the Tortoise’
+  Ὀδυσσεύς(665) — Odysseus; games in honour of Odysseus; temple of Odysseus
+  Μενέλαος(182) — Abiding-men
+  Ἀγαμέμνων(183) — Agamemnon; Agamemnonʼs son
+  ʼὀδυσσεύς(7) — Odysseus; games in honour of Odysseus; temple of Odysseus
+  Διομήδης(80) — Jove-counselled
+  Ἕκτωρ(441)
+  Νέστωρ(111) — Nestor
+  Αἴας(196) — Ajax
+  ἥρως(110) — hero; the Fourth Age of men; heroes, as objects of worship; local …
+  Αἰακίδης(25)
+  ἕκτωρ(8) — holding fast; hair-net; Hector, the prop; stay
+  Ἀλέξανδρος(43)
+  Ἄρης(161) — Ares; the god of destruction; of Ares; Mars
+  Πηνελόπεια(74) — Penelope
+  συβώτης(66) — swineherd
+  Ἀτρυτώνη(5) — the Unwearied
+
+=== hdbscan cluster 44  (n=17, coherence=0.507) ===
+  ξένος(168) — guest-friend; guest; visitor; guests
+  πτωχός(17) — beggar; beggar-woman; beggarly; beggared of, poor in
+  γεραιός(34) — old; reverend sire; the elders, senators; eldest
+  δύστηνος(21) — wretched, unhappy, unfortunate, disastrous; unhappy are they; wretched
+  γέρων(208) — old man; Elders, Chiefs; Senators; old
+  δειλός(37) — cowardly; vile, worthless; lowborn, mean; afraid of
+  νέος(100) — young, youthful; youths; youth upwards; youth
+  ξένος2(6) — guest-friend; guest; visitor; guests
+  παλαιός(18) — old in years; aged; a dotard; of old date, ancient
+  ἀφνειός(27) — rich, wealthy; abundant
+  ἀγαπητός(5) — that wherewith one must be content; to be acquiesced in; one must …
+  ἐλεεινός(12) — finding pity, pitied; moving pity, piteous; piteous; having received mercy
+  ἰατρός(5) — one who heals, physician; surgeon; midwife
+  πάλαι(17) — long ago; once upon a time; long; of old
+  ὑβριστής(5) — violent, wanton, licentious, insolent man; sarcastic; lustful, lewd; insolent
+  πάρος(95) — aforetime, formerly; up to now, hitherto; before; not until
+  σχέτλιος(29) — able to hold out, unwearying, unflinching; flinching from no cruelty; wickedness, merciless, …
+
+=== hdbscan cluster 89  (n=17, coherence=0.547) ===
+  τηλόθι(14) — afar, at a distance
+  ὑψόθεν(7) — from on high, from above; aloft, on high; above, over
+  τηλόθεν(13) — from after; far from
+  ὑψόσε(23) — aloft, on high; high
+  οὐρανόθεν(19) — from heaven, down from heaven
+  τηλοῦ(6) — afar, far away, in a far country; in a far-away corner; long …
+  ὕψι(9) — on high, aloft; high on; out at sea
+  χαμάδις(13) — to the ground, on the ground
+  σχεδόθεν(8) — from nigh at hand; nigh at hand, near
+  ἄλλυδις(12) — elsewhither; hither; thither; now one way, now another
+  χαμᾶζε(29) — to the ground, on the ground; to the ground
+  πάντοσε(29) — every way, in all directions
+  ἄμυδις(15) — together, at the same time; all together; together
+  ἐξοπίσω(9) — backwards, back again; behind; hereafter
+  ἄφαρ(34) — straightway, forthwith; thereupon, after that; suddenly, quickly; very
+  κηρόθι(8) — with all the heart, heartily
+  τηλύγετος(8) — a darling son, petted child; only; of oneʼs old age; the only
+
+=== hdbscan cluster 228  (n=17, coherence=0.607) ===
+  θαμβέω(16) — to be astounded; to be astonished at; alarm; PMag. Leid.W
+  γηθέω(38) — rejoice; will rejoice; rejoice in doing; impune
+  ῥιγέω(20) — shudder; bristle; shudder to do, shrink from doing; cool
+  βομβέω(5) — make a booming noise; fell with a loud noise; flew humming; roar
+  δουπέω(24) — sound heavy; dead; the heavy thud of a corpse; falls with heavy …
+  ὀχθέω(29) — to be sorely angered, vexed in spirit
+  οἰμώζω(21) — wail aloud, lament; plague take you !; pity, bewail; bewailed
+  κωκύω(11) — shriek, wail; lament; shriek over; káuti
+  δακρύω(13) — weep, shed tears; with tears; to flood; to be in tears
+  μειδάω(15) — smile; laugh aloud; grinning; smáyati
+  ἀραβέω(10) — rattle, ring; gnash; gnash, grind
+  ταρβέω(23) — to be frightened, alarmed; feels fear; a state of fear; from fear
+  κλαίω(80) — cry, wail, lament; crying; crying, howling; well beaten
+  οἰκτείρω(5)
+  ἀγνοέω(6) — not to perceive; recognize; he perceived; knew well
+  χαίρω(93) — rejoice, be glad; to rejoice; rejoice at, take pleasure in; express oneʼs …
+  θαυμάζω(22) — wonder, marvel; marvel at; wonder; honour, admire, worship
+
+=== hdbscan cluster 31  (n=15, coherence=0.601) ===
+  ὑμέτερος(18) — your, yours; you; your; to your house
+  σφός(14) — their, their own, belonging to them; his; her, his own; her own
+  ἡμέτερος(84) — our; our case; our part; in our power
+  σφέτερος(10) — their own, their; their own property; their own; their own people
+  τεός(38)
+  σός(201) — thy, thine; of yours; thy; thine
+  ὑμός(7) — your
+  ἑός(296) — his, her own; his own; his own inmost; their
+  ἐμός(312) — mine; mine, of me; possessive; favourable to me
+  ἀλλοδαπός(11) — aliud; long-inquus) belonging to another people; land, foreign; in foreign parts
+  ἁμός(7) — sums (some one), suman (sometime, once)
+  ἀλλότριος(13) — belonging to another; another manʼs; of what is anotherʼs; unlike their own
+  σῶς(17) — safe and sound, alive and well; safe, whole; preserved, extant; intact
+  τηλεδαπός(8) — from a far country; far off, distant
+  δυσμενής(29) — hostile; enemies; an enemy of
+
+=== hdbscan cluster 35  (n=15, coherence=0.491) ===
+  ἐναίσιμος(12) — ominous, fateful; seasonable; favourable, boding good; righteous
+  ἐτήτυμος(12) — true; the truth; truthful; genuine, real
+  ἤπιος(24) — gentle, kind; appeased; kindly feeling; mild, less intense
+  ἀνεμώλιος(6) — windy; words of wind; like the winds; empty boasters
+  ἀναίτιος(5) — not being the fault; cause of; guiltless; guiltless of
+  ἔτυμος(6) — true; natural; the true sense; according to its origin
+  ἐτώσιος(9) — to no purpose, fruitless; fruitless; useless, unprofitable; undone
+  νήπιος(66) — infant, child; a child; infancy; infant
+  νήδυμος(12) — sweet, delightful
+  ἀνάρσιος(6) — incongruous; hostile, implacable; enemies; untoward, strange
+  μεταμώνιος(5) — vain, idle; vainly-woven; idly; to the winds
+  νηπύτιος(9) — a small amount or duration: "he accepted the little they gave him"
+  ἅλιος2(20) — fruitless, idle; in vain
+  πελώριος(19) — the mighty things; mighty ones; a harvest-festival
+  νήποινος(6) — unavenged, without compensation; without share of, unblest with
+
+=== hdbscan cluster 94  (n=15, coherence=0.625) ===
+  φέρτατος(41) — bravest, best; the best; least bad; best
+  προγενής(9) — born before, primeval; earlier in birth; older; those who have gone before …
+  χερείων(11) — meaner, inferior; the worse part; amiss; of meaner rank
+  ὁπλότερος(7) — the younger; younger; youngest; capable of bearing arms
+  χείρων(16) — meaner, inferior; worse than others; knave; worse
+  νεώτερος(7) — younger; too young; a minor; men of military age
+  κρείσσων(14) — stronger, mightier; having the upper hand, superior; prevail; better
+  βασίλειος(6) — royal; the kingʼs; of the archon; basilica
+  πλείων(36) — more; the majority; greater; further
+  ἀφαυρός(5) — feeble, powerless; dim; too weak to resist; less nutritious
+  ἐλαφρός(14) — light in weight; sit tibi terra levis’; light to bear, easy; light, …
+  πάσσων(5) — thicker, stouter
+  φίλτατος(26) — oneʼs nearest and dearest
+  παῦρος(21) — little, small; short; speedy; for a short time
+  ἔξοχος(33) — standing out, jutting; prominent above; eminent, excellent; eminentissimus
+
+=== hdbscan cluster 125  (n=15, coherence=0.564) ===
+  ὁπότε(79) — when; by what time; at any time whatever; because, since
+  ἧχι(8) — where
+  ὁπότερος(13) — which of two; whichsoever; which of; two
+  οὕνεκα(58) — on account of which, wherefore; because; that; the fact that
+  ὅπη(16) — by which; what way, in which; what direction; part
+  ὁπόσος(5) — as many, as many as; as much as; as great as; as …
+  ᾗ(19) — which way, where, whither; how, as; wherefore; in so far as
+  ὅθι(99) — where
+  ὁποῖος(5) — of what sort; quality; of what kind soever; none
+  τῇ(34) — here, there
+  τοὔνεκα(23) — for that reason, therefore; wherefore?
+  ὅθεν(13) — whence; from whom; which; from whatever source, in what manner soever
+  εἷος(18)
+  ἐπήν(39)
+  τοιγάρ(14) — therefore, accordingly, well then; for that very reason, therefore
+
+=== hdbscan cluster 136  (n=15, coherence=0.601) ===
+  μάχομαι(240) — fight; fight with; against; with thy help
+  μαχητής(6) — fighter, warrior; warrior
+  ἀλκή(67) — strength; prowess, courage; force, might; feats of strength, bold deeds
+  πολεμιστής(15) — warrior; war; charger; trapped as chargers
+  νίκη(39) — victory; victory in the games; victory over; mastery, ascendancy
+  πολεμίζω(58) — wage war, fight; with; jointly with; war
+  χάρμη(24) — joy of battle, lust of battle; battle-joys; victories; successes
+  κραταιός(13) — strong, mighty; of power; fierce; hard
+  τέχνη(9) — art, skill, cunning of hand; craft, cunning; arts, wiles; arts
+  βουλή(88) — will, determination; counsel, design; counsel, advice; ground of argument
+  τοξάζομαι(5) — shoot with a bow; shoot at
+  συμμαχέω(6) — to be an ally, to be in alliance; join; in war; help, …
+  ἀγχιμαχητής(6)
+  μηνίω(8) — cherish wrath, be wroth against; because of
+  γυμνός(11) — naked, unclad; unarmed; parts not covered by armour, exposed parts; right side
+
+=== hdbscan cluster 18  (n=14, coherence=0.616) ===
+  ἠέλιος(116)
+  ἥλιος(8) — sun; the light of life, live; East; eastern
+  ἀήρ(28) — mist, haze; lower air; air; the open air
+  ἠώς(106) — dawn; light of day; morning; at morn, early
+  ἠριγένεια(22) — early-born, child of morn; morn; morning; a day
+  ἀστήρ(13) — star; the chief star; shooting star; meteor
+  αἰθήρ(24) — ether, the heaven; upper; air; sky
+  ζόφος(11) — nether darkness; the realms of gloom; gloom, darkness; the gloom
+  σελήνη(7) — the moon; moon; a moonʼs breadth; lunar
+  κνέφας(16) — darkness; evening dusk, twilight; morning twilight; dawn
+  οὐρανός(84) — heaven; vault; firmament of heaven, sky; Heaven
+  ἕσπερος(7) — at evening; evening; of darkness; eventide
+  ἄστρον(5) — the stars; dog-days; any common star; the stars’
+  ὥρα(24) — sūra
+
+=== hdbscan cluster 83  (n=14, coherence=0.596) ===
+  αὐτίκα(165) — forthwith, at once, in a moment; on the spot; immediately; as soon …
+  αἶψα(135) — quick, forthwith, on a sudden
+  τοτέ(5) — at times, now and then; at one time.., at another
+  ἀγχοῦ(28) — near
+  τρίς(47) — thrice, three times; thrice; tris; ter
+  τάχα(77) — quickly, presently, forthwith; soon; as soon as; perhaps
+  χωρίς(6) — separately, apart; set; apart, in reserve; apart
+  ὀψέ(19) — after a long time, at length, late; late; too late; it is …
+  ἀντικρύ(29) — over against, right opposite; straight on, right on; right; outright, utterly, quite
+  ἄλλοτε(43) — at another time; at one time.. at another; now and then; sometimes
+  πολλάκις(13) — many times, often; many; mostly, for the most part; very much, altogether
+  ὑψοῦ(9) — high; out; to a great height; highly
+  θαμά(9) — often
+  ἅμα(250) — at once, at the same time; partly.. partly; no sooner.. than; as …
+
+=== hdbscan cluster 96  (n=14, coherence=0.584) ===
+  κτείνω(146) — kill, slay; seeks to kill; the slayer, murderer; put to death
+  κατακτείνω(61) — kill, slay
+  ἀποκτείνω(20) — kill, slay; condemn to death; put to death
+  φθίω(35) — kṣiṇā´ti, kṣiṇóti; Kṣīyante; ákṣitas; kṣeṣya
+  ἀποφθίνω(15) — perish utterly, die away; make to perish, waste away, destroy; had; taken
+  καταφθίω(6) — ruin, destroy; waste away, perish; would; have been consumed, spent
+  θείνω(63) — strike; dashed; slay; slain
+  κατέπεφνον(16) — kill, slay
+  κτερίζω(5)
+  θάπτω(9) — honour with funeral rites; to carry out to burial; burial expenses
+  τέτμον(9) — overtake, reach, find; partake of, have allotted one
+  σφάζω(15) — slay, slaughter; by cutting the throat; slaughter; cut
+  φθισήνωρ(5) — destroying; killing men
+  φθάνω(19) — come; do first; before; to be beforehand with, overtake, outstrip
+
+=== hdbscan cluster 120  (n=14, coherence=0.613) ===
+  οἶνος(122) — wine; cups; wines; in vino veritas
+  ποτός(9) — drunk, for drinking; that which one drinks, drink; drink; drinking water
+  μέθυ(13) — wine; mádhu; medu; medǔ
+  πίνω(83) — drink; drink of; whereof; to drink
+  νέκταρ(7) — nectar; wine; perfumed unguent
+  δέπας(56) — beaker, goblet; bowl
+  ἔλαιον(23) — olive-oil; anointing-oil; oil; any oily substance
+  λέβης(22) — kettle, cauldron; brazier; coin stamped with a cauldron; basin
+  μελίφρων(10) — sweet to the mind, delicious; whose care is honey
+  ἄλεισον(7) — cup, goblet; hip-socket
+  κρατήρ(38) — mixing vessel; bowl, in which wine was mixed with water; bowls of …
+  σῖτος(64) — grain; the corn; its; corn
+  ὕδωρ(101) — water; the waters; spring-water, drinking-water; a water
+  ἄλειφαρ(6) — unguent, anointing-oil, oil, fat; oil; pitch; resin
+
+=== hdbscan cluster 180  (n=14, coherence=0.436) ===
+  ἀλέω(6) — grind, bruise; civilized; ground; grind
+  ἀλιταίνω(7) — sin; offend against; transgress; stray from
+  ἀλέομαι(33) — avoid, shun; avoid; flee for oneʼs life
+  ἀλάλημαι(14) — wander, roam about
+  ἀπονίναμαι(6) — have the use; enjoyment of; mayest; have joy of
+  πωλέομαι(9) — go up and down; to and fro; come frequently; she goes
+  ἐπιπωλέομαι(5) — go about, go through; inspecting; reconnoitring; visit
+  ἄω3(14) — satiate; to give; his fill of; take oneʼs fill of
+  ἁμαρτάνω(24) — Acut. (Sp.); miss the mark; miss; fail of oneʼs purpose, go wrong
+  ἀλάομαι(25) — wander, roam; to be outcast, banished; wander over; wander away from, miss
+  ἐπαυρέω(11) — partake of, share; enjoys; share; have had enjoyment of
+  ἀφαμαρτάνω(13) — miss; lose, be deprived of
+  προκαλέω(6) — call forth; to be evoked; call out to fight, challenge; challenge
+  προκαλίζομαι(6) — call forth, challenge, defy; challenge
+
+=== hdbscan cluster 215  (n=14, coherence=0.613) ===
+  χόλος(56) — gall, bile; gall, bitter anger, wrath; rage; anger towards
+  τρόμος(15) — trembling, quaking, quivering; shiverings
+  φόβος(39) — panic flight; to flight; panic fear; fear, terror
+  γέλως(8) — laughter; ridiculous; joke; laugh
+  δέος(24) — fear, alarm; fear; fear of; to fear
+  κότος(7) — grudge, rancour, ill-will; vengeance
+  ἄχος(60) — pain, distress
+  νόος(99) — mind; sense, wit; prudently; senselessly
+  σκότος(16) — darkness, gloom; darkness; dizziness, vertigo; darkness, obscurity
+  κάματος(24) — a consequence of someone's efforts or of a particular set of circumstances; …
+  ἵμερος(18) — longing, yearning after; a yearning; for; impulses
+  θάμβος(6) — amazement; terrors; object of wonder
+  φόως(16) — to the light, to the light of day
+  βρότος(5) — blood that has run from a wound, gore
+
+=== hdbscan cluster 218  (n=14, coherence=0.683) ===
+  προσεῖπον(166) — speak to; address, accost; address; addressed
+  μεταφωνέω(6) — speak among; accost
+  μετάφημι(14) — speak among
+  προσφωνέω(39) — call; speak to, address; address; call by name
+  πρόσφημι(221) — speak to, address
+  μετεῖπον(64) — speak among, address
+  ἔπος(414) — vácas; word; utterance; that which is uttered in words, speech, tale
+  ἀμείβω(132) — change, exchange; changing; give in exchange; take in exchange
+  μεταυδάω(24) — speak among; address; accost, address
+  ἀντίον(47) — loom
+  ἀπαμείβομαι(115) — reply, answer
+  μῦθος(287) — word, speech; mere word; public speech; plea
+  ἐνίπτω(23) — reprove, upbraid; reproved; to attack; tell, announce
+  πέπνυμαι(77) — to be conscious, in full possession of oneʼs faculties; to be wise; …
+
+=== hdbscan cluster 229  (n=14, coherence=0.580) ===
+  δεύω2(15) — miss, want; he missed, failed; feel the want; loss of, be without
+  πειράω(69) — attempt, endeavour, try; make trial of; make an attempt on; make an …
+  μιμνήσκω(101) — remind, put in mind; recalled; to memory, made; famous
+  γεύω(5) — give a taste; taste; they had tasted, eaten of; take food
+  δέω2(13) — lack, miss, stand in need of; want; from; lacking
+  ἐπιλήθω(5) — cause to forget; laps one in forgetfulness; to be forgotten; let
+  φείδομαι(9) — spare; not destroy; spare, be merciful; use sparingly
+  ἐμπάζομαι(11) — busy oneself about, take heed of, care for
+  πειρητίζω(11) — attempt, try, prove; touched the strings; make trial of; attempt
+  ἔραμαι(7) — love; desire passionately, lust after; desire eagerly
+  ἅπτω(36) — fasten; bind to; having fastened; join
+  χράω2(17) — proclaim; proclaimed; warn; direct by oracle
+  ἐπιδευής(9) — in need; want of, lacking; lacking; in want
+  κήδω(39) — trouble, distress; to be concerned, care for; mourn for; caring for
+
+=== hdbscan cluster 1  (n=13, coherence=0.511) ===
+  ὅμοιος(22) — like, resembling; similar; more like; most like
+  ὁμῆλιξ(5) — of the same age; equal in age, comrade; of like stature
+  ὁμηγερής(10) — assembled; all assembled
+  ὁμηλικία(9) — sameness of age; those of the same age; of the same age …
+  ὁμός(9) — one and the same, common, joint; one; unite; samá
+  πίσυνος(7) — trusting on, relying on; obedient
+  ἴσος(101) — equal; like; copy; the same
+  μάρτυρος(8) — a person who attests to the genuineness of a document or signature …
+  ὁμοκλέω(21)
+  ὁμιλέω(23) — to be in company with, consort with; consortest; joining in company; throng
+  ἐπιτάρροθος(8) — helper, defender; master, lord
+  γηθόσυνος(6) — joyful, glad
+  ἶφι(15) — by force; might
+
+=== hdbscan cluster 21  (n=13, coherence=0.544) ===
+  σέλας(12) — light, brightness, flame; light; lightning, flash of lightning; meteor
+  νέφος(45) — cloud, mass of clouds; a cloud upon; a cloud of men; the …
+  φλόξ(20) — flame; flames, meteors; fire; heat
+  νεφέλη(20) — cloud, mass of clouds; mist; fog; a cloud
+  αἴγλη(5) — the light of the sun; moon; daylight; sunshine
+  πῦρ(160) — fire; funeral-fire; burn; sacrificial fire
+  φάος(37) — light; daylight; day; the light
+  πυρά(7) — watch-fires; beacon-fires; fires
+  θύελλα(20) — hurricane, squall; thunderstorms
+  νιφάς(5) — snowflake; snowstorm; snow; shower
+  αἴθω(22) — light up, kindle; burn, blaze; burnt fiercely; aestas, aestus
+  σκέπας(5) — covering, shelter; shelter; pretext, pretence
+  τρόπις(7) — shipʼs keel; ship; keels
+
+=== hdbscan cluster 32  (n=13, coherence=0.582) ===
+  βροτός(101) — mortal man; dead; mṛtás; morior
+  θνητός(41) — liable to death, mortal; mortals; mortal women; mortal creatures
+  ἄνθρωπος(172) — man; gods; the men; the ideal man, humanity
+  ἀθάνατος(185) — concerned with theory and data rather than practice; opposed to applied: "pure …
+  μέροψ(10) — dividing the voice; articulate; bee-eater, Merops apiaster
+  ἐπιχθόνιος(12) — upon the earth, earthly; earthly ones, men on earth; who haunt the …
+  ὀψίγονος(5) — after the expected or usual time; delayed: "a belated birthday card"; "I'm …
+  καταθνητός(7) — mortal
+  περικτίονες(6) — dwellers around, neighbours
+  ἀνήρ(988) — nar; ner-, nṛ; man; woman
+  μάκαρ(34) — blessed, happy; the blessed ones; gods; blest, fortunate
+  φώς(92) — man; his; mortal
+  δαιτυμών(9) — one that is entertained, guest; those who bring each his portion
+
+=== hdbscan cluster 77  (n=13, coherence=0.581) ===
+  ἀσπερχές(6) — hotly, unceasingly
+  ἀζηχής(5) — continuous; unceasing; hard, seasoned
+  ἀκλεής(6) — without fame, inglorious; ignominious
+  νωλεμές(17) — without pause, unceasingly; firmly; persevere; without pause
+  ἐμμενής(5) — abiding in; steadfastness; unceasing
+  ἀσκηθής(6) — unhurt, unscathed; sound, healthy; unblemished; safe
+  ἀσφαλής(8) — not liable to fall, immovable, steadfast; unshaken; unfailing, trusty; safe
+  ἀκηδής(8) — uncared for; unburied; without care; sorrow
+  ἀολλής(29) — all together, in throngs; crowds; all together; together
+  ἀμενηνός(6) — fleeting; fleeting, feeble; feeble, weak; faint, shadowy
+  διαμπερές(30) — through and through, right through; without break, continuously; in a piece; throughout, …
+  ἀρίζηλος(7) — conspicuous; plain
+  οὐτιδανός(6) — of no account, worthless; reckless; quid; cid
+
+=== hdbscan cluster 84  (n=13, coherence=0.543) ===
+  οἶος(151) — alone, lonely; alone; naught but; only
+  αὔτως(54) — in this very manner, even so; just as I am; in the …
+  ἀεί(217) — ever, always; until now; from of old; eternity
+  αὖθις(124) — back, back again; again, anew; encore!; in turn
+  σιγή(12) — silence; in silence; be silent now!; in an undertone, in a whisper, …
+  πάντῃ(33) — every way, on every side; on every side; in every way, altogether; …
+  ἄψ(107) — abs) backwards, back again; again, in return; yet
+  ὦκα(71) — quickly, swiftly; immediately
+  μόνος(30) — alone, solitary; bereft of; without; only
+  ἔμπας(35) — alike; in any case; anyhow, as things are; as it is
+  ἄλλως(17) — otherwise; other way; other wise; besides
+  σπουδή(11) — haste, speed; haste; I am hastening; in haste
+  ἕκηλος(16) — at rest, at oneʼs ease; at your ease; without let; hindrance
+
+=== hdbscan cluster 110  (n=13, coherence=0.663) ===
+  πῆ(19)
+  πῶς2(48) — how?; how so; how; how? at what price?
+  ποῦ(14) — where?; where; in what part of; at what point
+  τῷ(111) — therefore, in this wise, then; who?; some one
+  τῆ(5) — there!
+  τίπτε(36)
+  αἴ(13)
+  τίη(11) — why? wherefore?; why so, tell me?
+  ἠμί(86) — say; spake; said; aio, ad-agium
+  ἐχθρός(7) — hated, hateful; hateful; hating, hostile; averse from
+  ποῖος(19) — of what kind?; what manner of; what sort; every
+  ἤτοι(105)
+  πόθεν(13) — whence?; from what stock; whence? wherefore?; how can it be? impossible! nonsense!
+
+=== hdbscan cluster 113  (n=13, coherence=0.642) ===
+  δαίς2(15) — meal, banquet; duly shared; banquet; sacrificial feast
+  βρώμη(5) — any substance that can be metabolized by an organism to give energy …
+  δαίς(54) — meal, banquet; duly shared; banquet; sacrificial feast
+  βρῶσις(10) — meat; pasture; eating; taste, flavour
+  ἐδωδή(11) — food, meat, victuals; forage, fodder; bait; act of eating
+  ποτής(9) — drink
+  κοῖτος(10) — resting-place, bed; stall, fold; pen; sleep
+  δαίτη(12) — feast, banquet
+  δεῖπνον(28) — meal; noonday meal; morning meal; evening meal
+  πόσις2(27) — drinking, drink, beverage; carousal; over their cups; draught
+  δεῖπνος(7)
+  ἐδητύς(29) — meat, food
+  κνῖσα(15) — steam and odour of fat; smell; savour of a burnt sacrifice; odour …
+
+=== hdbscan cluster 205  (n=13, coherence=0.637) ===
+  ἀμφικαλύπτω(23) — enwrap, enfold; received within; love enfolded; overwhelm
+  ἀμφιέπω(11) — go about, be all round; crowns; beset, press hard; to be busy …
+  ἀμφιχέω(7) — pour around, pour; spread over; to be poured; shed around
+  ἀμφιβάλλω(6) — throw; put round; put them on; put round oneself
+  ἀμφιμάχομαι(8) — fight round; assail, besiege; fight for
+  ἀμφιπένομαι(8) — to be busied about, take charge of; tending; made; a meal of
+  ἀμφιάζω(5) — clothe; put on
+  ἀμφιβαίνω(10) — go about; around; in his course had reached; bestride
+  περιχέω(9) — pour, spread; scatter round; over; having spread
+  ἀμφινέμομαι(10) — dwell round; encompasses
+  ἀμφιέλισσα(18) — curved at both ends; on both sides); wheeling either way, handy; twisting, …
+  ἀμφιφορεύς(8) — large jar; pitcher with two handles; cinerary urn
+  προβάλλω(7) — throw; lay before, throw to; put forward; present
+
+=== hdbscan cluster 210  (n=13, coherence=0.547) ===
+  ἀρετή(33) — goodness, excellence; manly; valour; brave deeds
+  βία(96) — bodily strength, force; act of violence; against; will, in spite of
+  κακότης(21) — badness; baseness, cowardice; cowardice; wickedness, vice
+  ἠνορέη(5) — manhood, prowess; manly beauty; strength; force
+  ἰότης(11) — will, desire; by the will; will; for the sake of
+  γενεά(47) — race, family; by birth; blood; younger
+  ἀγλαία(6) — splendour, beauty; splendour, magnificence; pomp, show; vanities
+  ὑπερβασία(6) — passover; transgression, trespass
+  φιλότης(53) — friendship, love, affection; in, with, from friendship; affection; in affection
+  δύναμις(8) — power, might; bodily strength; strength, power, ability; strength
+  ἀλκί(6) — might, strength
+  δύη(5) — misery, anguish; of woe; two; Theol, Ar
+  ἀπάτη(5) — the act of deceiving
+
+=== hdbscan cluster 227  (n=13, coherence=0.574) ===
+  βοάω(27) — cry aloud, shout; men ready to shout; roar, howl; resound, echo
+  ἰάχω(36) — cry, shout; shriek; ring, resound; roar
+  γελάω(24) — laugh; laughed; a laugh being raised; laughs scornfully
+  γέγωνα(18) — shout so as to make oneself heard; can make himself heard; make …
+  στενάχω(40) — groan, sigh, wail; groaning; bewail, lament
+  κοναβέω(5) — resound, clash, ring; re-echo
+  στεναχίζω(12) — groan, sigh, wail; bewail, lament
+  βίβημι(6) — to stride
+  κυκάω(11) — stir; mix; mix for oneself; stir up
+  μηκάομαι(6) — bleat; scream, shriek; shrieking
+  τέθηπα(15) — to be astonished, astounded, amazed; amazed, astonished; wonder; be amazed at
+  ὁμαδέω(5) — make a noise; din
+  βροντάω(6) — thunder; Jupiter Tonans; it thunders; if it thunders
+
+=== hdbscan cluster 30  (n=12, coherence=0.533) ===
+  ἠλάκατα(5) — wool on the distaff
+  εἰλίπους(9) — rolling in their gait; bring round their hind legs with a circling; …
+  ἐλάτινος(5) — of the fir; made of fir; pine-wood; of the date inflorescence
+  ἠλίβατος(6) — high, steep; deep, abysmal; huge, enormous
+  ἠλακάτη(5) — distaff; the stalk; the fate; distaffshaped
+  ἤλιθα(5) — very much, exceedingly; in vain, to no purpose
+  ἠίθεος(9) — unmarried youth; unmated; ghosts of those who die unmarried
+  ἤια(7) — provisions for a journey; food; husks; chaff
+  εἰλαπίνη(5) — a ceremonial dinner party for many people
+  οὐλοχύται(7) — barley-groats; coarsely-ground barley sprinkled
+  ἕλιξ(14) — twisted, curved; twisted, crumpled horns; rolling; tangled
+  αὖος(7) — dry; a pole; stale; withered
+
+=== hdbscan cluster 36  (n=12, coherence=0.585) ===
+  Δολίος(9)
+  Δόλων(7)
+  Μενοίτιος(19)
+  Νοήμων(5)
+  Χρομίος(7)
+  Προῖτος(5)
+  Θόων(5)
+  Πολίτης(5)
+  Αἴολος(5)
+  Θόας(13)
+  Δάρδανος(16) — Dardanus; Trojan; Trojan woman; Troy
+  Ἰκάριος(17) — Icarian
+
+=== hdbscan cluster 47  (n=12, coherence=0.629) ===
+  Ἀλκιμέδων(6)
+  Αὐτομέδων(23)
+  Ἀμφιμέδων(6)
+  Λαομέδων(10)
+  Νεστορίδης(13)
+  Θρασυμήδης(10)
+  Μέδων(14)
+  Δαμαστορίδης(5)
+  Ἀντηνορίδης(7)
+  Λυκομήδης(5)
+  Πηνέλεως(8)
+  Ὑρτακίδης(5)
+
+=== hdbscan cluster 105  (n=12, coherence=0.555) ===
+  αἴσιμος(22) — appointed by the will of the gods, destined; fatal; agreeable to the …
+  μόρσιμος(5) — appointed by fate, destined; destiny, doom; foredoomed to die; of doom
+  νόστιμος(13) — belonging to a return; of return; the return; able
+  αἶσα(22) — who dispenses to every one his lot; destiny; decree, dispensation; destiny decreed
+  Αἶσα(11) — who dispenses to every one his lot; destiny; decree, dispensation; destiny decreed
+  θέσφατος(9) — spoken by God, decreed; ordained; divine decrees, oracles; wonderful, mighty
+  αἴσυλος(6) — unseemly, evil, godless
+  αἶσχος(7) — shame, disgrace; disgraceful deeds; ugliness, deformity
+  νόστος(58) — return home; chance of returning to; return; travel, journey
+  κύρμα(5) — that which one meets with; finds; booty, prey, spoil; one who gets …
+  τέκμαρ(7) — fixed mark; boundary, goal, end; goal; an end
+  ἕλωρ(8) — spoil, prey; penalty for the slaughter
+
+=== hdbscan cluster 128  (n=12, coherence=0.617) ===
+  κῆδος(46) — care about; matter; anxiety, grief; troubles
+  κτῆμα(55) — anything gotten, piece of property, possession; possessions; heirlooms; property
+  μῆδος(19) — counsels, plans, arts; prudence; cunning; plans
+  χρῆμα(13) — need; a thing that one needs; uses; goods, property
+  κέρδος(14) — gain, profit; some advantage; best; gains, profits
+  μηρία(13) — thigh-bones; thigh-bones in their fat; thighs
+  οἰκίον(20) — house, palace; abode; palaces; private houses
+  κειμήλιον(15) — anything stored up as valuable, treasure, heirloom; relic
+  μελέδημα(5) — care, anxiety; anxieties about; the care; object of care
+  ὄνειδος(8) — reproach, rebuke, censure, blame; in disgrace; reproach; with censures
+  μῆρα(6) — to kill as a sacrifice by fire
+  ἀπερείσιος(13) — countless
+
+=== hdbscan cluster 164  (n=12, coherence=0.581) ===
+  ὄρνυμι(232) — ārta; orior; stir, stir up; urge on, incite
+  ὀρούω(20) — dart, rush forward; move; rush at, strive after; to be eager
+  ἀνορούω(18) — start up, leap up; went swiftly up
+  ἐπόρνυμι(10) — stir up, arouse, excite; called up; rouse and send against; sent
+  ἐπορούω(24) — spring at; sprang to; came suddenly upon; spring upon
+  ὀρίνω(46) — stir, raise; stir, move, excite; driving; wild
+  ἐνόρνυμι(5) — arouse, stir up in; arise in; among
+  ὀροθύνω(7) — stir up, rouse, urge on; urge
+  ἀπορούω(7) — dart away; start back; spring up from
+  ὄβριμος(28) — strong, mighty; mightily; of might
+  ἐφορμάω(15) — stir up, rouse against; set; having urged; rush upon, attack
+  ἐπιάχω(5) — shout out, shout applause; shout
+
+=== hdbscan cluster 167  (n=12, coherence=0.562) ===
+  ἐσχατιά(14) — farthest part, edge, border; the edge; shore; the mouth
+  ῥηγμίν(13) — Wiener Sitzb; sea breaking on the beach, surf; broken sea; at the …
+  βῆσσα(12) — wooded combe, glen; glens; drinkingcup
+  ἐσχάρα(11) — hearth, fire-place; pan of coals, brazier; watch-fires; sacrificial hearth
+  πρύμνα(12) — stern, poop; retire, draw back; the Acropolis; the vessel
+  θίς(34) — heap; sand-banks; sandy deserts; beach, shore
+  κορυφή(27) — head, top; crown, top of the head; top, peak; summit, top
+  βένθος(11) — depth
+  δίνη(7) — whirlpool, eddy; rotating heaven; whirlwind; circular motion, rotation
+  φάτνη(7) — manger, crib; manger; haunts; socket of tooth
+  σκοπιά(13) — lookout-place; hill-top; watch-tower; peak, height
+  στάθμη(6) — carpenterʼs line; rule; level; the line rubbed with chalk
+
+=== hdbscan cluster 171  (n=12, coherence=0.597) ===
+  οἶκος(133) — house; built houses; any dwelling-place; cave
+  δῶμα(243) — house; chief room, hall; a single house; housetop
+  κῆπος(6) — garden, orchard; plantation; enclosure; garden
+  δῆμος(110) — district, country, land; the land; people, inhabitants; the commons, common people
+  δόμος(125) — domus; house; part of a house, room, chamber; a house
+  ἀγρός(28) — field; fields, lands; farm; tilled land
+  χῶρος(32) — a definite space, piece of ground, place; space; region; space, compass
+  ἄστυ(128) — town; lower town; acropolis; Athens
+  ἄλσος(9) — grove; sacred grove; any hallowed precinct; plain
+  λειμών(12) — any moist, grassy place, meadow; flowers; pudenda muliebria; any bright, flowery surface
+  κόλπος(15) — bosom, lap; bosom; lap; vagina
+  ὄρος(90) — mountain, hill; canton, parish; desert
+
+=== hdbscan cluster 172  (n=12, coherence=0.613) ===
+  θάλαμος(63) — an inner room; chamber, surrounded by other buildings; womenʼs apartment, inner part …
+  μέγαρον(262) — large room, hall; the chief room; womenʼs apartment; bedchamber
+  πρόθυρον(23) — front-door, door-way; porch, portico; space before a door; porch
+  θρόνος(47) — seat, chair; throne, chair of state; kingʼs estate; dignity
+  πρόδομος(8) — chamber entered immediately from the fore-court
+  τοῖχος(18) — wall of a house; enclosure; wall of a temple; walls
+  θρόνον(7) — flowers embroidered on cloth; herbs used as drugs and charms
+  ἄντρον(9) — cave; inner chamber, closet
+  λέχος(46) — couch, bed; bedstead; bier; marriage-bed
+  λέκτρον(7) — couch, bed; to bed; marriage-bed; the fruit of marriage, a child
+  θᾶκος(5) — seat, chair; seats; chair of office; privy
+  βόθρος(7) — hole, trench; pit dug in the ground; trough; hollow
+
+=== hdbscan cluster 178  (n=12, coherence=0.597) ===
+  ἀποπαύω(12) — stop; hinder from, make to cease from; hinder; leave off, cease from
+  ἀπολύω(7) — loose from; from; undo; set free, release, relieve from
+  ἀπέχω(17) — keep off or away from; parts; from; keep off
+  ἀποπέμπω(18) — send off; away, dispatch, dismiss; dismiss; send away from oneself
+  ἀπολήγω(12) — leave off, desist from; leave off; cease, desist; fall
+  παύω(90) — make to end; bring to an end, check; stop; silence
+  ἄπειμι(18) — sum; to be away; far from; absent
+  καταπαύω(9) — put an end to, stop; bring to a close; conclude; and proceed
+  ἀπεῖπον(12) — speak out, tell out, declare; to give; full notice; to deliver
+  ἀπέρχομαι(5) — go away, depart from; cease from; departure from; and arrival at
+  λήγω(18) — stay, abate; would stay; from; leave off, cease
+  ἀποφέρω(6) — carry off; away; to be carried from oneʼs course; exhale, evaporate
+
+=== hdbscan cluster 198  (n=12, coherence=0.665) ===
+  μάρπτω(15) — take hold of; catch by; lay hold of, seize; overtake, catch
+  κόπτω(16) — cut, strike; smite; smote; smite, slaughter
+  ῥίπτω(17) — throw, cast, hurl; throw; prostrate; lying
+  κρύπτω(11) — hide, cover; hide; cover; having cloaked his
+  τύπτω(40) — beat, strike, smite; beat; strike; beating
+  στρέφω(26) — turn about; aside; turn; wheel
+  κλέπτω(6) — clèpere; hlifan; hliftus; steal
+  κατακρύπτω(5) — hide, conceal; put away; use concealment, conceal oneself; oneʼs true nature
+  ἀποστρέφω(6) — turn back; turn to flight; turn back from flight; send home again
+  βλάπτω(26) — disable, hinder; disable; lame; entangled
+  ἐπιγράφω(5) — of accounts and tax returns; with the intent to verify
+  ῥάπτω(5) — sew together, stitch; having made himself; having got; stitched
+
+=== hdbscan cluster 212  (n=12, coherence=0.595) ===
+  πείρω(22) — pierce, run through; spitted; they stuck; ran
+  κεράννυμι(7) — mix, mingle; let us mix a cup of wine; give to drink; …
+  παλύνω(7) — strew, sprinkle; sprinkled; bestrew, besprinkle; besmear
+  κείρω(20) — kṛṇā´ti; caro; scieran; shear
+  ἀφύσσω(17) — draw; was drawn from; draw full draughts of; heap it up
+  καθαίρω(10) — cleanse; clear; purify, refine; purge, clear
+  κιρνάω(6) — mix; to mix the cup; flavour by mixing; temper
+  πάσσω(9) — sprinkle; laying; upon; sprinkle some
+  νωμάω(24) — deal out, distribute; pour; the several; direct, guide
+  λείβω(20) — pour, pour forth; make a libation of; let flow, shed; liquefy
+  δέρω(10) — skin, flay; to have oneʼs; flayed off; will make
+  αἴνυμαι(13) — take; taking hold of; seizes; enjoy, feed on
+
+=== hdbscan cluster 225  (n=12, coherence=0.620) ===
+  ἄνειμι(18) — go up; rise; I went up a hill; came up
+  κάτειμι(8) — ibo; go, come down; go down; sail down
+  ἄπειμι2(9) — ibo; go away, depart; begone; will retreat
+  εἶμι(503) — ibo; shall go, shall come; come; go, depart
+  ἔπειμι2(16) — ibo; come upon; come upon, approach; come against, attack
+  ἀνέρχομαι(9) — go up; mount the tribune; go up from; come up from
+  βλώσκω(7) — go or come; has passed
+  ἐπέρχομαι(53) — come upon; approach; come suddenly upon; come to for advice
+  πρόσειμι2(7) — ibo; go to; towards, approach; approach
+  εἰσέρχομαι(31) — go in; into, enter; invaded; come into
+  κατέρχομαι(17) — go down; go down to the grave; down; descending
+  ἐπιμίξ(5) — mixedly, confusedly, pell-mell; without; respect of persons
+
+=== hdbscan cluster 4  (n=11, coherence=0.547) ===
+  πράσσω(14) — pass through, pass over; experience certain for; tunes, fare; achieve, effect, accomplish
+  πτώσσω(8) — shrink from, shrink; flee; skulk, slink; flee cowering
+  διαπράσσω(8) — pass over; made their way over; may finish; went through
+  λεύσσω(12) — look; gaze upon, see; look, gaze; lives
+  θωρήσσω(43) — arm with a; arm; arm oneself, put oneʼs harness on; to arm …
+  κηρύσσω(8) — to be a herald, officiate as herald; to be an auctioneer; make …
+  πρᾶξις(6) — doing, transaction, business; on a trading voyage; affair; transaction
+  νύσσα(5) — turning-post; turning-point; starting; winning-post
+  πλάζω(21) — turn aside; away from; glanced off; balked, baffled
+  φυλάσσω(38) — keep watch and ward, keep guard; keep watch; watch; wait
+  ἀσθμαίνω(6) — breathe hard; panting; gasping for breath; an effort
+
+=== hdbscan cluster 10  (n=11, coherence=0.658) ===
+  Ἀθήνη(303) — Athene; casting vote
+  ʼἀθήνη(9) — Athene; casting vote
+  Ἀφροδίτη(37) — Aphrodite; sexual love, pleasure; vehement longing; desire
+  Ἥρα(127) — Hera; nine; servo; inhabitants of Heraea
+  Ἀπόλλων(149) — Apollo
+  Περσεφόνεια(11)
+  Ἡράκλειος(6) — of Heracles; Heracles himself; like Heracles; temple of Heracles
+  θεοειδής(43) — godlike
+  αἰγίοχος(50) — veho; aegis-bearing
+  ἀγελείη(6) — driver of spoil, the forager; Seven
+  Εἰλείθυια(5) — she that comes; Ilithyia; parturition; offspring
+
+=== hdbscan cluster 11  (n=11, coherence=0.656) ===
+  Ἰθάκη(72) — Ithaca; Ithacan; to Ithaca; from it
+  Λῆμνος(14) — Lemnos; from Lemnos; Lemnian
+  Θήβη(8)
+  Σάμη(6)
+  Σάμος(6) — Samos; a height
+  Φυλάκη(6)
+  Λέσβος(6) — Lesbos; from Lesbos; at Lesbos; drinking-cup
+  Τένεδος(5) — Tenedos
+  Θῆβαι(9) — Thebes; to Thebes; at Thebes; from Thebes
+  Ἀρίσβη(5)
+  Ἴδη(35)
+
+=== hdbscan cluster 13  (n=11, coherence=0.651) ===
+  Ζέφυρος(19) — westerly wind; the due West wind; northwest
+  Βορέας(25) — north wind; Boreas; the north; to the north
+  ἄνεμος(102) — wind; a gale; the wind; to the winds
+  Εὖρος(6) — the East wind; parching
+  Νότος(13)
+  ὄμβρος(15) — storm of rain, thunder-storm; heavy rain; rains; water
+  χειμών(5) — winter; in winter; in winter-time; in the course of the winter
+  θέρος(5) — summer; during the summer; in the course of it; about
+  πνέω(17) — blow; are sounding; breathe, send forth an odour; breathe out, send forth
+  πνοή(22) — blowing, blast; blast, breeze; breeze; blasts
+  χιών(7) — snow; fallen snow; falling snow; snow-water, ‘ice-coldwater
+
+=== hdbscan cluster 27  (n=11, coherence=0.632) ===
+  Θέτις(41) — Thetis
+  Ἄρτεμις(26) — Artemis
+  Λητώ(15) — Leto; born from Leto; temple of L
+  θεά(192) — goddess
+  Καλυψώ(22) — Calypso
+  Παλλάς(50) — Pallas; coin bearing the head of Pallas; maiden-priestess; five
+  Δημήτηρ(6) — Aus Lydien; Griechische Dialekte; Demeter; h.Cer
+  Μοῦσα(15) — Muse; music, song; strain; liberal arts, accomplishments
+  Φοῖβος(52)
+  Ἐρινύς(10) — the Erinys; guilt, punishment invoked; curses from; frenzy
+  Οὖτις(5)
+
+=== hdbscan cluster 45  (n=11, coherence=0.669) ===
+  παῖς(275) — child; son; daughter; adopted son
+  μήτηρ(191) — mother; dam; mother-bird; queen
+  θυγάτηρ(102) — daughter; maidservant, slave; duhitár
+  γαμβρός(15) — connexion by marriage; son-in-law; brother-in-law; sisterʼs husband
+  κασίγνητος(46) — brother; born from the same mother; sister; sisters
+  τέκνον(70) — child; my son, my child; young
+  κασιγνήτη(9) — sister
+  πατήρ(331) — pitṛṣu; father; grandfather; by the fatherʼs side
+  υἱός(588) — Vasen mit Meister-signaturen; pitṛṣu; son; a son
+  δάμαρ(5) — wife, spouse
+  αὐτοκασίγνητος(6) — own brother
+
+=== hdbscan cluster 90  (n=11, coherence=0.712) ===
+  πόλινδε(10) — into; to the city
+  Πυλόνδε(6)
+  οἴκαδε(70) — to oneʼs house, home; country, homewards; to peopleʼs houses; at home
+  Τροίανδε(7)
+  ἄστυδε(7) — into, to; towards the city
+  οἶκόνδε(19) — home; to the womenʼs chamber
+  δεῦρο(65) — hither; to [have come hither and] be here; here; sensible objects
+  φύγαδε(5) — to flight
+  ἤπειρόνδε(8)
+  δόμονδε(7) — homeward; house
+  Τροίαθεν(5)
+
+=== hdbscan cluster 130  (n=11, coherence=0.637) ===
+  στυγερός(36) — hated, abominated, loathed; hateful, abominable, loathsome; hateful; hateful, wretched
+  ἀργαλέος(55) — painful, troublous; difficult; troublesome, vexatious; hard
+  λιγυρός(7) — clear, shrill; which vent themselves in shrill wailings; clear, sweet; shrilly
+  λευγαλέος(14) — in sad; sorry plight, wretched; in ill plight; sore, baneful
+  αἰνός(102) — dread, horrible; dread, terrible; terribly; strangely, exceedingly
+  ὀλοός(39) — destructive, deadly; ill; destroyed, lost
+  λυγρός(59) — baneful, mournful; bane, misery; ruin; in banes
+  θαλερός(29) — stout, sturdy, buxom; blooming, fresh; of a youthful pair; stout, sturdy
+  κραιπνός(20) — swift, rushing; hasty, rash
+  λαιψηρός(10) — light, nimble, swift; light-footed, swift; swiftly
+  ῥωγαλέος(6) — broken, cleft; torn, ragged
+
+=== hdbscan cluster 145  (n=11, coherence=0.513) ===
+  ἀρτύνω(14) — putting; in order, dressing; prepared his; fitted
+  ὀτρύνω(126) — stir up, egg on, encourage; rouse oneself, bestir oneself, hasten; urge on, …
+  ἐντύνω(10) — equip, deck out, get ready; was harnessing; were getting; ready
+  ἀρτύω(5) — arrange, prepare, make ready; dress savoury; season; administer
+  ἐποτρύνω(46) — stir up, excite, urge on; to urge; stirs up; against
+  ἐρητύω(21) — restrain, check; parts; to keep away from; prevent
+  θαρσύνω(13) — encourage, embolden
+  ἰθύνω(25) — make straight, straighten; guide in a straight line; let us drive; straight
+  ἐφανδάνω(9) — please, be grateful to
+  πορφύρω(5) — heaves, surges, swirls; gently heaving; was; troubled
+  ἁνδάνω(26) — please, delight, gratify; pleased; with; the opinion
+
+=== hdbscan cluster 162  (n=11, coherence=0.581) ===
+  κυνέη(26) — dogʼs skin; helmet; cap; caps
+  μελία(15) — manna ash, Fraxinus Ornus; ashen spear
+  πήληξ(10) — helmet; crest
+  αἰγίς(12) — goatskin; aegis; cuirass; rushing storm, hurricane
+  βοείη(11)
+  αἰγανέη(5) — hunting-spear, javelin
+  ῥάβδος(11) — rod, wand; magic wand; divining-rod; fishing-rod
+  πήρα(6) — leathern pouch; wallet
+  μάστιξ(22) — whip, scourge; whip; scourge; the lash
+  κοτύλη(5) — anything hollow; small vessel, cup; cup; socket
+  κορώνη(9) — shearwater, Puffinus Kuhlii; P. anglorum; crow; hooded crow, Corvus cornix
+
+=== hdbscan cluster 170  (n=11, coherence=0.566) ===
+  στρατός(63) — army, host; the commons, people; band; body
+  ὅμιλος(87) — any assembled crowd, throng of people; the mass of the people, the …
+  λόχος(18) — ambush; place for lying in wait; ambuscade; an ambush
+  ἔθνος(29) — number of people living together, company, body of men; band; host; swarms, …
+  στίξ(43) — row, line, rank; file; in ranks; lines
+  πληθύς(16) — throng, crowd; majority; plebs
+  φῦλον(16) — race, tribe; class; swarm; people
+  χορός(14) — dance; chorus; choir, band of dancers and singers, h. Ven; choir, troop
+  πρόμαχος(40) — fighting before; in front; champions; champion
+  ἕδος(14) — sitting-place; seat, stool; straight-backed chair; seat, abode, dwelling-place
+  πόρος(5) — means of passing a river, ford, ferry; the ford; narrow part of …
+
+=== hdbscan cluster 187  (n=11, coherence=0.644) ===
+  ναός(14) — temple; inmost part of a temple, shrine; portable shrine
+  οὐδός(45) — threshold; threshold of a house; threshold, entrance; lintel
+  νομός(7) — place of pasturage; pasture; herbage, pasture; food
+  γουνός(5) — high ground
+  ἀσκός(8) — skin, hide; skin made into a bag; wineskin; bag
+  σηκός(5) — pen, fold; den; nests; sacred enclosure, precinct
+  νειός(7) — fallow-land; fallow; rejuvenate; ploughing and sowing
+  σταθμός(40) — standing-place; farmstead, steading; stable; lair
+  χηλός(9) — large chest, coffer; coffin
+  μυχός(19) — innermost part, nook, corner; a recess; the farthest nook; in darkness
+  ἱστός(46) — anything set upright; mast; the mast; rod, pole
+
+=== hdbscan cluster 191  (n=11, coherence=0.502) ===
+  δηιόω(23) — cut down, slay; slaying; were slaying; were being slain
+  ἱδρόω(8) — sweat, perspire; shall reek with sweat
+  χολόω(67) — anger, provoke; to anger; to be angered; provoked to anger
+  γυμνόω(8) — strip naked; strip; strip oneself; be stripped naked
+  μαιμάω(6) — to be very eager, quiver with eagerness; rages; eager for; rushed into, …
+  ὀρθόω(6) — set straight; set upright, set up; raise up; raise up, rebuild
+  ἰδνόομαι(5) — bend oneself, double oneself up
+  λοχάω(10) — lie in wait for, waylay; lie in wait, ambush; in ambush; occupy …
+  σκιάω(6) — overshadow, make shady; to be shaded; dark
+  κακόω(6) — maltreat, distress; afflict; the afflicted; to be in ill plight, be distressed
+  δηλέομαι(14) — hurt, do a mischief to; did; a mischief; slew
+
+=== hdbscan cluster 199  (n=11, coherence=0.562) ===
+  καίω(69) — kindle; they lighted them; to be lighted, burn; which blaze
+  δαίω2(9) — divide; is torn, distracted; distribute; feast
+  δαίω(20) — dunō óti; light up, kindle; she made; burn
+  κατακαίω(7) — burn completely; burn; alive; burnt
+  δεύω(17) — wet, drench; to be flooded; steeped; wets his
+  τήκω(7) — melt, melt down; bring; down in rain; dissolve
+  κατακείω(16)
+  νηέω(8) — heap, pile up; heaped; piled; pile, load
+  κείω(7) — to lie down; to bed; will lie; that they will lie
+  λάσκω(5) — ring, rattle, crash; ring; cracked, broke with a crash; crackled
+  μυκάομαι(8) — low, bellow; rang; bellowed
+
+=== hdbscan cluster 202  (n=11, coherence=0.595) ===
+  ἐκπέρθω(16) — destroy utterly, sack; take as booty from
+  διαπέρθω(12) — destroy utterly, sack, waste
+  πέρθω(21) — waste, ravage, sack; destroy, slay; get by plunder, take
+  ἐξαλαπάζω(12) — sack, storm; empty; of its inhabitants, clear; out
+  διαρραίω(10) — dash in pieces, destroy; to be destroyed, perish
+  περάω2(6) — drive right through; pass right across; through; traverse
+  ῥαίω(9) — break, shiver, shatter; wreck; cause; to suffer shipwreck
+  ἀναρπάζω(8) — snatch up; causing; to evaporate; snatch away, carry off
+  περάω(24) — drive right through; pass right across; through; traverse
+  ἀλαπάζω(10) — empty, drain, exhaust; sack, plunder; overpower, destroy
+  χραισμέω(19) — ward off; from one; keep; off
+
+=== hdbscan cluster 213  (n=11, coherence=0.626) ===
+  λούω(43) — lǎvo; *lovo; wash; wash the body
+  χρίω(17) — touch the surface of a body slightly; graze; rub, anoint with scented …
+  ἀλείφω(10) — anoint the skin with oil; anointing for gymnastic exercises; anointing; supply oil
+  ὀπτάω(16) — roast, broil; roast; broil; fry
+  σπένδω(31) — make a drink-offering; let; dedicate; by pouring an offering from
+  νίζω(25) — wash the hands; feet; to wash oneʼs hands; from
+  πλύνω(5) — Acut.(Sp; wash, clean; bathe; wash the hands
+  ἀπονίζω(7) — wash off; wash off from oneself; wash clean; was washing his feet
+  μιστύλλω(10) — cut up
+  εὕω(6) — singe; uro; eus-ō
+  ἐπιστέφω(5) — filled; to be full; covered with; pour
+
+=== hdbscan cluster 219  (n=11, coherence=0.672) ===
+  κράτος(30) — strength, might; bodily strength; strength; all oneʼs might
+  κλέος(61) — rumour, report; news; the report; the news
+  μένος(179) — might, force; strength, fierceness; spirit; force, might
+  γέρας(40) — gift of honour; the last honours; privilege, prerogative; gift, present
+  κῦδος(76) — glory, renown; glory
+  τέλος(29) — coming to pass, performance, consummation; fulfilment, execution; result; coming to pass (outbreak
+  θάρσος(12) — courage; courage to do; courage against; courage!
+  τέρας(16) — sign, wonder, marvel, portent; a sign; signs; monster
+  νεῖκος(36) — quarrel, strife, feud; quarrel; strife of words, railing, abuse; strife at law, …
+  γένος(30) — race, stock, kin; by race; race; of kin
+  πένθος(33) — grief, sorrow; for; mourning; a public mourning
+
+=== hdbscan cluster 223  (n=11, coherence=0.629) ===
+  ἐλαύνω(166) — drive, set in motion; drive; ride; row
+  ἐξερύω(12) — draw out of; snatch out of; draw out; tear out
+  ἕλκω(65) — sulcus; velkù; draw, drag; began to drag
+  ὠθέω(43) — thrust, push; he kept pushing; pushed; rush
+  ἐξελαύνω(17) — drive out; drive afield; drive out, expel from; banish
+  ἁρπάζω(15) — snatch away, carry off; to be a robber; thievish; have
+  ἀνέλκω(6) — draw up; holds; haul; up high and dry
+  ἐκπεράω(6) — go out over, pass beyond; go through; pass through, pierce; go forth
+  ἑλκέω(6) — drag about, tear asunder; did; violence to
+  ὑπάγω(5) — lead; bring under; brought; under
+  ὁρμίζω(5) — bring to a safe anchorage, bring into harbour, moor, anchor; moored; bring; …
+
+=== hdbscan cluster 226  (n=11, coherence=0.679) ===
+  ἱκνέομαι(265) — come; came; arrive at; reach, attain to
+  ἀφικνέομαι(47) — arrive at, come to, reach; came up to; came to; come up …
+  ἱκάνω(110) — come; to come to; reach, attain to; are fulfilled
+  ἵκω(39) — come; come to; are brought to; attain to, reach
+  ἐξικνέομαι(6) — reach, arrive at; come to; arrive at, reach; complete, accomplish
+  ἀφικάνω(8) — arrive at
+  ἔρχομαι(715) — ibo; start, set out; was setting out; was
+  ἀπονέομαι(17) — go away, depart
+  εἰσαφικνέομαι(10) — come into; to, arrive at; go into; arrive
+  κίω(102) — stop and wait, as if awaiting further instructions or developments: "Hold on …
+  οἴχομαι(79) — come; go, go away, go off; he has gone, departed; he had …
+
+=== hdbscan cluster 2  (n=10, coherence=0.773) ===
+  δέκατος(19) — tenth; tenth part, tithe; of the tenth; the tenth day
+  πέμπτος(7) — fifth : with four others; the fifth; a fifth; for the fifth …
+  δωδέκατος(11) — twelfth
+  τέτρατος(6) — fourth; the fourth time
+  ἑνδέκατος(6) — eleventh; eleventh day
+  τρίτατος(12) — in the third place
+  τέταρτος(16) — fourth; the fourth time; fourthly; fourfold
+  τρίτος(21) — third; the third; with two others; two drachmae and a half
+  εἰκοστός(12) — twentieth; a tax of a twentieth; vicesima manumissionum
+  εἰναετής(5) — of nine years, nine years old; nine years long
+
+=== hdbscan cluster 16  (n=10, coherence=0.538) ===
+  ὑπέρθυμος(27) — high-spirited, high-minded, daring; overweening; over-spirited; vehemently angry
+  ἀντίβιος(9) — opposing force to force; wrangling; hostile; enemy
+  ὑπέρβιος(8) — of overwhelming strength; might; overweening, lawless, wanton
+  ὑπερφίαλος(32) — overbearing, overweening, arrogant; arrogant; puissant; huge
+  ἐναντίβιος(12) — being below the horizon: "the moon is set"
+  ἀντίθεος(56) — equal to the gods, godlike; contrary to God; hostile deity; disguised as …
+  ὑπερμενής(14) — exceedingly mighty
+  ὑπερηνορέων(12) — exceedingly manly; manliness, courage), overbearing, overweening; thinking oneself more than man
+  ἔκπαγλος(25) — terrible, violent; terribly, vehemently, exceedingly; beyond all measure; marvellous, wondrous
+  ἰσόθεος(14) — equal to the gods, godlike
+
+=== hdbscan cluster 25  (n=10, coherence=0.585) ===
+  βοῶπις(14) — ox-eyed; having large, full eyes
+  γλαυκῶπις(88) — with gleaming eyes
+  πότνια(65) — mistress, queen; queen; revered, august
+  τροφός(15) — feeder, rearer; nurse; that which nourishes; nursling
+  λευκώλενος(38) — white-armed
+  δῖος(385) — heavenly; noble; noblest; excellent
+  διάκτορος(15) — minister; messenger
+  εὐρύοπα(18) — wide-eyed; vox; far-sounding; thundering
+  ποδήνεμος(10) — wind-swift
+  κυνώπης(6) — dog-eyed; shameless one
+
+=== hdbscan cluster 28  (n=10, coherence=0.650) ===
+  Κρονίων(71) — son of Cronos; Zeus
+  Κρονίδης(41) — son of Cronos; Zeus; an aged man
+  Ζεύς(650) — dyaús; divás; diví; dyávi
+  Κρόνος(23) — Cronos; Saturn; Saturday; a dotard, old fool
+  ζεύς(12) — dyaús; divás; diví; dyávi
+  Ὀλύμπιος(41) — Olympian, of Olympus, dwelling on Olympus; of Olympus
+  Ποσειδεών(77)
+  Οὐρανίωνες(11) — the heavenly ones, gods; children of Uranos
+  κρείων(63) — ruler, lord, master; queen
+  ἐριούνιος(5)
+
+=== hdbscan cluster 68  (n=10, coherence=0.630) ===
+  εἴκελος(15) — like
+  ἴκελος(17) — like, resembling; like; in the same way as
+  ἐπιείκελος(12) — like
+  εἴκω(18) — to be like, seem likely
+  εἰκός(21) — like truth; likely, probable, reasonable; likelihood, probability; likelihoods
+  ἔοικα(120) — to be like; it was opportune; will be like; to be like, …
+  θεοείκελος(5) — godlike
+  εἴκω2(16) — give way, retire; make way for; yield; shrink
+  ἐναλίγκιος(18) — like, resembling
+  εἴδομαι(50) — to be seen, appear; are visible, appear; was visible; appear
+
+=== hdbscan cluster 73  (n=10, coherence=0.593) ===
+  ἀεικής(51) — unseemly, shameful; inconvenience; meagre; strange
+  περικαλλής(51) — very beautiful
+  ἀπηνής(10) — ungentle, rough, hard; cruel; cruel thoughts; hard
+  ἀναιδής(9) — shameless; ruthless; the reckless, ruthless; greedy
+  ἀτερπής(5) — unpleasing, joyless; less attractive; without enjoyment
+  ἐνηής(5) — kind, gentle; propitious
+  ἀτειρής(13) — not to be rubbed; worn away, indestructible; stubborn, unyielding; stubborn
+  μενοεικής(15) — suited to the desires, satisfying, agreeable, to oneʼs taste; plentiful; great store …
+  ἐρικυδής(10) — very famous, glorious; a splendid
+  ἑτεραλκής(6) — giving strength to the other side; inclining to the other side; was …
+
+=== hdbscan cluster 95  (n=10, coherence=0.617) ===
+  τέμνω(48) — cut; cutting; cut, wound, maim; wound
+  τείνω(25) — stretch; pull tight; having tied; tight
+  ἐκτέμνω(12) — cut out; cut; from; out
+  τιταίνω(16) — stretch; bending; having tuned my; plays
+  πετάννυμι(22) — fly; spread out; opening his doors; flutter
+  τάπης(10) — carpet, rug
+  διατμήγω(10) — cut in twain; having cut; in twain; distinguish
+  ἀτιτάλλω(11) — rear, tend; cherish; beguile, cajole
+  κάμνω(47) — work; wrought; build; win by toil
+  παπταίνω(25) — look about one with a sharp, searching glance; looked about; look wistfully; …
+
+=== hdbscan cluster 132  (n=10, coherence=0.581) ===
+  τρητός(7) — perforated, with a hole in it; inlaid; holes; mortised
+  τραχύς(11) — jagged; prickly; rugged; rough
+  τυκτός(5) — finished, wrought out; complete; made by manʼs hand; well-made, well-wrought
+  ὀρυκτός(7) — dug, formed by digging; dug out, quarried; taken by digging
+  γναμπτός(10) — curved, bent; supple, pliant; pliable
+  βαθύς(38) — deep; high; within a high fence; the deep
+  κλειτός(16) — renowned, famous; splendid, excellent
+  λεῖος(8) — smooth; smooth, plain, not embroidered; unsculptured; unembossed
+  αἰπός(7) — high, lofty; falling sheer down
+  στρεπτός(5) — easily twisted, pliant; of chainarmour; mail; pliant
+
+=== hdbscan cluster 194  (n=10, coherence=0.626) ===
+  μόρος(16) — fate, destiny; doom; destiny; doom, death
+  γάμος(29) — wedding; a wedding; marriage, wedlock; marriage
+  τάφος(9) — funeral-rites; funeral-feast; the funeral-rites; the rites of burial
+  πόσις(66) — husband, spouse; lawful husband; potis; pátis
+  σκοπός(13) — one that watches, one that looks about; after; guardian, protector; one who …
+  μόθος(5) — battle-din; fight
+  χρόνος(26) — time; a definite time, period; chronological; dates
+  δρόμος(11) — course, race; course; speed; any quick movement
+  κλόνος(7) — confused motion, turmoil; battle-rout; throng; throngs
+  κλῆρος(18) — lot; by lots; casting of lots, drawing of lots; sortitio provinciarum
+
+=== hdbscan cluster 216  (n=10, coherence=0.650) ===
+  ὦμος(150) — the shoulder with the upper arm; the lower; arms; the shoulder
+  μηρός(34) — thigh; his thigh; beside; thigh-bone
+  βραχίων(6) — arm; the shoulder; shoulder of beasts; force of arm
+  αὐχήν(39) — neck, throat; gullet; one neck; high-spirited
+  μετάφρενον(17) — part behind the midriff; broad of the back; back
+  μέτωπον(12) — the space between the eyes; brow, forehead; front, face; face
+  σφυρόν(5) — ankle; put out; the lower part; edge, foothills
+  γένειον(7) — part covered by the beard, chin; chin; beard; mane
+  ἀγκών(8) — bend of the arm; elbow; arm; bend
+  καρπός2(11) — wrist; huerfa
+
+=== hdbscan cluster 224  (n=10, coherence=0.634) ===
+  ἐξάγω(15) — lead out, lead away; having brought; out from; bring out of
+  ἐκφέρω(17) — carry out of; carry out; cause death; carry away
+  ἐκβάλλω(11) — throw; cast out of; throw out; threw
+  κατάγω(11) — lead down; into the nether world; bring down; draw down
+  ἀνάγω(13) — lead up; lead up to the high sea, carry by sea; conduct, …
+  εἰσάγω(12) — lead in; into; into oneʼs dwelling, introduce; he led
+  ἐξαιρέω(25) — take out; take out for oneself; his; their
+  ἄγω(292) — lead, carry, fetch, bring; taking; take with one; carry off
+  ἐκπίπτω(16) — fall out of; fell from; fall out; fall down
+  ἐξάρχω(10) — begin, take the lead in, initiate; teach; dictate; hold office
+
+=== hdbscan cluster 235  (n=10, coherence=0.595) ===
+  λίσσομαι(72) — beg, pray; pray; prays; that
+  γουνάζομαι(5) — clasp; knees; implore, entreat; implore
+  γουνόομαι(8)
+  προτιόσσομαι(5) — look at; upon; forebode; I divine
+  λιλαίομαι(22) — long; desire earnestly; long to be; longing
+  ποτιπτύσσω(6)
+  ὄσσομαι(9) — oqṷ-yo; see, look; Fr.anon; see in spirit
+  ὀδύσσομαι(8) — to be wroth against, hate; hated
+  ἄγαμαι(27) — wonder; admire; for; wonder at
+  λιτανεύω(6) — pray, entreat
+
+=== hdbscan cluster 3  (n=9, coherence=0.637) ===
+  ἀγακλυτός(8)
+  ἀγακλειτός(11)
+  δουρικλειτός(17) — famed for the spear
+  περικλυτός(24) — famous, renowned; excellent, noble
+  ἀγακλεής(5) — very glorious, famous
+  ναυσικλυτός(6)
+  τηλεκλειτός(6) — far-famed
+  ἀγαυός(42) — illustrious, noble; noble; brilliant, glorious
+  μεγακήτης(5) — yawning, with mighty hollows; with mighty maw; capacious; teeming with monsters
+
+=== hdbscan cluster 5  (n=9, coherence=0.587) ===
+  φαίνω(145) — bring to light, cause to appear; make; appear; show by baring
+  λάμπω(23) — give light, shine; ring loud and clear; shine forth, be famous; conspicuous
+  παμφαίνω(8) — shine; beam brightly; white-gleaming
+  ἀπολάμπω(6) — shine; beam from; beamed from; gleams with
+  ἀναφαίνω(8) — cause to give light, make to blaze up; bring to light, produce; …
+  φαέθω(5) — shine; radiant; the sun; days
+  προφαίνω(9) — bring to light, show forth, manifest; let; be seen; display
+  ἐκφαίνω(9) — bring to light, reveal; produce; showed himself, came forth to view; came …
+  ὑφαίνω(24) — weave; weave, ply the loom; contrive, plan; the plot they laid
+
+=== hdbscan cluster 9  (n=9, coherence=0.715) ===
+  Σπάρτη(7) — Sparta; from Sparta; to Sparta; a Spartan
+  Φθία(9) — Phthia; to Phthia; at Phthia; a man of Phthia
+  Λακεδαίμων(13) — Lacedaemon; Laconia
+  Τροία(71) — Troy; ‘Troy-town’; the Troad; from Troy
+  Πύλος(33) — Pylos
+  Λυκία(19) — Lycia; from Lycia; to Lycia
+  Κύπρος(5) — Cyprus; from Cyprus; to Cyprus
+  Ἑλλάς(10) — Hellas; part of Phthiotis; Northern Greece; Greece
+  Ἦλις(10)
+
+=== hdbscan cluster 65  (n=9, coherence=0.618) ===
+  ἐρατεινός(22) — lovely; welcome, glad
+  αἰπεινός(14) — high, lofty; hasty, wicked; hard to reach
+  κραναός(6) — rocky, rugged; the people of Attica; hard; stinging
+  ἀλεγεινός(30) — causing pain, grievous; troublesome
+  ἐρεμνός(5) — murky, black, dark; dark, obscure
+  ἐρεβεννός(8) — dark, gloomy
+  ἱρός(21)
+  ἐπαινός(6) — awesome
+  ἐπηετανός(8) — abundant, ample, sufficient; always full; great store; thick, full
+
+=== hdbscan cluster 67  (n=9, coherence=0.651) ===
+  ἔργω(22) — shut in; shut out; vrajás; urgeo
+  ἔρσα(5)
+  ἔισος(24) — alike, equal; equal in height; equal; equally shared, of which each partakes …
+  ἔδω(57) — eat; eat up, devour
+  ἕδνον(12) — bride-price; wedding-gifts; portion; by those of her own household
+  ἔλδωρ(8) — wish, longing, desire
+  ἔραζε(9)
+  ἐίσκω(13) — only; make like; made; like
+  ἔρος(26) — love, desire; Eros
+
+=== hdbscan cluster 70  (n=9, coherence=0.669) ===
+  ὦ(230) — O! oh!
+  δεῦτε(5) — come hither!
+  ἀγρέω(5) — take, seize; captures; take!; take it!
+  ἆ(14) — feel envious towards; admire enviously
+  σιγάω(5) — keep silence; hush! be still!; secret, mystical; was kept
+  ἄττα(8) — father
+  ἔρρω(13) — go slowly; limping; wandering; come to oneʼs own harm
+  θαρσέω(20) — to be of good courage; to be over-bold; fear not!; with good …
+  ἄγε(170) — come on!
+
+=== hdbscan cluster 109  (n=9, coherence=0.603) ===
+  οὔπως(6) — no-how, in no wise, not at all
+  πως(75) — in any way, at all, by any means; somehow; in some; way
+  πω(118) — up to this time, yet; at all; ever
+  τί(23) — the category of nouns serving as the direct object of a verb
+  θήν(15)
+  οὔτι(31) — having or prompted by wisdom or discernment: "a wise leader"; "a wise …
+  οὐκέτι(69) — no more, no longer, no further; not now
+  οὐδείς(18) — not one; no one, none; no set; every one
+  τώς(5) — so, in this wise; as, S.Ichn
+
+=== hdbscan cluster 131  (n=9, coherence=0.627) ===
+  γλαφυρός(82) — hollow, hollowed; a deep; arched; polished
+  πρυμνός(26) — hindmost, undermost, end-most; the end of; the end; next the body
+  ξεστός(22) — hewn, shaved, planed; carved; hewn; built of hewn stone
+  πολιός(41) — grey, grizzled, grisly; grey; greyhaired men; grey hairs
+  ὑψηλός(56) — high, lofty; highland; high, lofty, stately, proud; high
+  θοός(146) — quick, nimble; swift; hasty; in haste
+  κοῖλος(55) — hollow; hold; vena cava; plate
+  ποιητός(15) — made; well made; cultivated; self-inflicted
+  χθαμαλός(5) — near the ground, on the ground, low; of humble station; sitting in …
+
+=== hdbscan cluster 134  (n=9, coherence=0.666) ===
+  ὀπάζω(46) — make to follow, send with; give as a companion; follower; bid
+  αἴρω(43) — give shape to: "form the clay into a head"
+  ἐφέπω(46) — ply, wield; apply, direct towards; against; ply, belabour, lay on to
+  ὀρέγω(34) — reach, stretch, stretch out; reach out, hold out, hand, give; extend; stretch …
+  ἀνάπτω(6) — make fast on; moor; form a close connexion; confer
+  ἐφάπτω(8) — bind on; having fixed; by making fast; had made fast
+  ἐνέπω(32) — tell; tell of; couldst tell; the tale of
+  ἀέξω(19) — augeo; vakṣáyati; increase, foster; cherish
+  ἐγγυαλίζω(13) — put into the palm of the hand, put into the hand; will …
+
+=== hdbscan cluster 138  (n=9, coherence=0.654) ===
+  ἀοιδή(20) — song; art of song; act of singing, song; thing sung, song
+  μολπή(9) — dance; rhythmic movement with song; song; the note
+  ἀοιδός(31) — singer, minstrel, bard; songstress; enchanter; tuneful, musical
+  ὀρχηθμός(5) — dance
+  φόρμιγξ(19) — lyre; bow
+  αὐλός(5) — pipe, flute, clarionet; a trumpet; the flute; pipes
+  ὀρχηστύς(6) — the dance
+  κίθαρις(5) — the act of playing a musical instrument
+  κλαυθμός(7) — the process of shedding tears (usually accompanied by sobs or other inarticulate …
+
+=== hdbscan cluster 147  (n=9, coherence=0.652) ===
+  λευκός(59) — light, bright, clear; glassy; clear, limpid; clear, distinct
+  καλός(293) — beautiful; beauteous; fair, shapely; beauty
+  λεπτός(20) — peeled, husked; threshed out; fine, small; light
+  λαμπρός(12) — bright, radiant; bright; toga candida; clear, limpid
+  θερμός(16) — hot; feverish; hot-headed, hasty; still warm, fresh
+  ποικίλος(30) — many-coloured, spotted, pied, dappled; tattooed; wrought in various colours; a broidered robe
+  χλωρός(16) — greenish-yellow, pale green; green plaster; green paint; yellow
+  πιστός2(24) — to be trusted; believed; faithful, trusty; trusted friend
+  καθαρός(8) — physically clean, spotless; cleanly; clear of admixture, clear, pure; white
+
+=== hdbscan cluster 156  (n=9, coherence=0.617) ===
+  τιμάω(29) — honour, revere, reverence; bestow honours; reward; will honour
+  ἀτιμάω(12) — dishonour, disdain
+  ἀτιμάζω(13) — hold in no honour, esteem lightly; bring dishonour upon; speakest in dishonour …
+  φιλέω(71) — love, regard with affection; sexual love; friends; to be beloved
+  τίω(51) — Erster Bericht; honour, revere; honour; honoured
+  στυγέω(10) — hate, abhor; to show hatred; hate; fear
+  τίνω(44) — pay a price; pay; acquit oneself of; render
+  ἀεικίζω(8) — treat unseemly, injure; I will do; dishonour
+  εὐφραίνω(7) — cheer, gladden; make merry, enjoy oneself; was rejoiced at; enjoy a pleasure
+
+=== hdbscan cluster 165  (n=9, coherence=0.708) ===
+  ἰαχή(10) — cry, shout; wail, shriek; a joyous sound; shouts of joy
+  οἰμωγή(6) — wailing, lamentation
+  κλαγγή(8) — any sharp sound; twang; scream; confused cries of a throng
+  ἐνοπή(8) — crying, shouting; war-cry, battle-shout; battle; cry
+  ἠχή(11) — sound, noise; cry; wail; rumour, talk
+  στοναχή(11) — groaning, wailing; groans, sighs
+  φθογγή(5) — voice
+  ἀγορά(67) — assembly; of the People; Amphictyonic Council; conventus agere
+  ἀλαλητός(8) — shout of victory; war-cry, battle-shout; loud shouting; halloo
+
+=== hdbscan cluster 168  (n=9, coherence=0.690) ===
+  ὁρμή(8) — rapid motion forwards, onrush, onset, assault; attack, invasion; impulse; rage
+  σήμερον(9) — to-day; kyo; ci-tra
+  ἀνάγκη(41) — force, constraint, necessity; perforce, of necessity; forcibly, by force; it must be …
+  φωνή(24) — sound, tone; the sound of the voice; speech, voice, utterance; cry
+  ἀρχή(11) — beginning, origin; a foundation; source; the beginning
+  ἕκαστος(220) — each; every one; every single; all and each severally
+  ἵππουρις(6) — horse-tailed, decked with a horse-tail; horse-tail; Satyrʼs tail; horse-tail, Equisetum silvaticum
+  ἄγαλμα(8) — glory, delight, honour; mere ornaments; pleasing gift; statue in honour of a …
+  λιμός(8) — Fr.anon; hunger, famine; a hungry wretch
+
+=== hdbscan cluster 176  (n=9, coherence=0.559) ===
+  δάμνημι(12) — forced, seduced
+  δαμνάω(6) — overcome, as with emotions or perceptual stimuli
+  μάρναμαι(54) — fight, do battle; with, against; together with; on his side
+  μαρμαίρω(9) — flash, sparkle, gleam; darting, quivering; sparkling
+  τείρω(43) — oppress, distress, weaken; she was; distressed
+  σκίδνημι(10) — disperse; to be spread; scattered, disperse; began to spread his light
+  δαμάζω(142) — overpower; tame, break in; work; clear
+  ἀσπαίρω(12) — pant, gasp, struggle; made a struggle, resisted
+  ἀναλύω(6) — cause to wander, unsettle
+
+=== hdbscan cluster 177  (n=9, coherence=0.602) ===
+  ἀγείρω(59) — gather together; gather, assemble; herded; collect, gather
+  ἐγείρω(49) — awaken, rouse; rouse, stir up; stir; wake up
+  ἀνεγείρω(6) — wake up, rouse; wake up, raise; rouse, encourage; stir, rouse the spirit …
+  συναγείρω(6) — gather together, assemble; collect; gather together, come together, assemble; collect for oneself
+  ἀγινέω(5) — lead, bring; lead captive; keep, observe; cause to be brought
+  ἠγερέθομαι(15) — gather together, assemble
+  συνάγω(9) — bring together, gather together; crowd; bring together; hold a club dinner
+  ἀναείρω(6) — lift up; took; carried; off
+  ἐφευρίσκω(9) — find; discover, find anywhere; discovered; discover besides
+
+=== hdbscan cluster 179  (n=9, coherence=0.597) ===
+  δίδωμι(452) — give freely; to be ready to give, offer; things offered; grant, assign
+  παρέχω(15) — hand over; furnish, supply; will provide; finds
+  ἐπιδίδωμι(5) — give besides; administer; give afterwards; give in dowry
+  ἀποδίδωμι(11) — give up; back, restore, return; render what is due, pay; give
+  πόρω(59) — break a piece from a whole: "break a branch from a tree"
+  φέρω(357) — fero; beran; bhárati; náśati
+  ἀποτίνω(25) — repay; pay for; may atone for; made atonement
+  κτάομαι(5) — procure for oneself, get, acquire; win; to get oneʼs; bring upon oneself
+  προφέρω(10) — bring before; present; cast; teeth
+
+=== hdbscan cluster 211  (n=9, coherence=0.691) ===
+  μέγεθος(8) — greatness, magnitude; stature; size; loudness
+  εἶδος(41) — that which is seen: form, shape; form; figure; appearance
+  κάλλος(15) — beauty; show; pleasure; a beauty
+  δέμας(38) — bodily frame; the living body; in stature; shoot
+  πλοῦτος(7) — wealth, riches; treasures; treasure; Plutus
+  φυή(9) — growth, stature; fine growth, noble stature; in size; growth
+  κάρτος(13) — strength, vigour; violence, force
+  σθένος(40) — strength, might; bodily strength; strength; force
+  ὄλβος(10) — happiness, bliss; worldly happiness, weal; algà; olgṷā
+
+=== hdbscan cluster 217  (n=9, coherence=0.581) ===
+  γαστήρ(27) — paunch, belly; the hollow; belly; wide part
+  χείρ(611) — the hand; closed; open, flat; a single hand
+  φρήν(318) — midriff; heart; very heart; sincere
+  καρδία(50) — heart; feelings?; freely; kindly
+  κεφαλή(132) — head; in stature; down over the head; on the head
+  χεῖλος(9) — lip; with the lips only; the lips; on the surface only
+  ψυχή(68) — life; lives; dear as life; departed spirit, ghost
+  στόμα(28) — mouth; the very jaws; the mouth as the organ of speech; mouthpiece, …
+  ἀγκάς(6) — into or in the arms
+
+=== hdbscan cluster 221  (n=9, coherence=0.691) ===
+  ἀναβαίνω(39) — go up, mount; go up to; goes up among; to trample on
+  καταβαίνω(27) — come down from; die; came down from; came down
+  ἐκβαίνω(9) — step out of; off from; disembark, dismount; debouch from
+  προσβαίνω(9) — put oneʼs foot against; approach; mount, ascend; climb up
+  ἐπιβαίνω(57) — go upon; set foot on, tread, walk upon; set foot on; placed …
+  εἰσβαίνω(10) — go on board; embark; enter; come into
+  εἰσαναβαίνω(12) — go up to; into
+  ἐξέρχομαι(15) — come out of; come out; come forth; march out, go forth
+  εἰσάντα(5) — right opposite; in the face
+
+=== hdbscan cluster 231  (n=9, coherence=0.599) ===
+  ἔχθω(5) — hate
+  ἀπεχθάνομαι(10) — to be hated, incur hatred; to be or become hateful to; incur; …
+  ἄχθομαι(5) — to be loaded; to be vexed, grieved; with; had
+  πεύθομαι(16) — lay information against; bódhati; budēti
+  ὄθομαι(5) — take heed; regard
+  ἐπιμέμφομαι(5) — cast blame upon; find fault for; because of; complain of
+  λανθάνω(85) — escape notice; escape; notice; donʼt know
+  ἀπιθέω(34) — disobeyed; fail to persuade
+  ἀτέμβω(8) — maltreat; afflict, perplex; to be bereft; cheated of
+
+=== hdbscan cluster 232  (n=9, coherence=0.610) ===
+  ὀδύρομαι(51) — lament, bewail; mourned for; mourn for, for the sake of; wail
+  ὀλοφύρομαι(37) — lament, wail, moan; lament; mourn for the ills of others; feel pity
+  χώομαι(46) — to be angry; to be angry at; about; because of
+  ἀχεύω(92) — grieving, mourning; grieving in; sorrowing for; vex, annoy
+  ἀτύζω(11)
+  σκύζομαι(7) — to be angry with; to be wroth
+  μύρω(15) — flow, trickle; trickled; melt into tears, shed tears; flow
+  ἀγαπάζω(6) — treat with affection, receive with outward signs of love; show signs of …
+  αἰδέομαι(40) — to be ashamed; from a sense of shame; stand in awe of, …
+
+=== hdbscan cluster 234  (n=9, coherence=0.654) ===
+  ἐξερεείνω(10) — inquire into; inquire after; inquire of; make inquiry
+  ἔρομαι(40) — ask, inquire; learn by inquiry; ask after; for
+  ἐρεείνω(18) — ask, inquire; ask of; question; ask about
+  ἐξέρομαι(12) — inquire into; will inquire concerning; inquire of
+  ἐρῶ(91) — verbum; word; will say; speak
+  ἐξερέω(14) — will speak; out, tell out, utter aloud
+  ἀνέρομαι(11)
+  αἰτέω(12) — ask, beg; ask for, demand; ask leave; to ask
+  εἶπον(514) — said; avocam; vac; speak, say
+
+=== hdbscan cluster 6  (n=8, coherence=0.552) ===
+  ἑκατηβόλος(6) — far-darting; shooting a hundred; hitting the mark at will
+  θυμοβόρος(5) — eating the heart
+  θυμοφθόρος(5) — destroying the soul, life-destroying; heart-breaking; troublesome, annoying
+  ἑκηβόλος(9) — attaining his aim; far-shooting
+  τελεσφόρος(5) — bringing fulfilment; fulfilment-bringing; complete; destined to be accomplished
+  θοῦρος(18) — rushing, impetuous, furious; with which one rushes to the fight
+  θοῦρις(16)
+  ἑκατόμβη(35) — an offering of a hundred oxen; sacrifice; eye-salve
+
+=== hdbscan cluster 29  (n=8, coherence=0.680) ===
+  ἐγγύθεν(41) — from nigh at hand; approach; hard by
+  ἀντίος(84) — set against; face to face, opposite; to meet them; though she faced …
+  πλησίος(26) — near, close to; near, neighbouring; neighbour; near, hard by
+  ἐναντίος(20) — opposite; on the opposite side, opposite; fronting, face to face; before
+  σχεδόν(67) — near, hard by; at close quarters; similar to; near
+  ἐναντίον(15)
+  ἄγγελος(33) — messenger, envoy; one that announces; tells; angel
+  αὐτοσχεδόν(9) — near at hand, hand to hand; near, close to; on the spot, …
+
+=== hdbscan cluster 46  (n=8, coherence=0.630) ===
+  κόρη(99) — girl; maiden; nymphs; bride
+  κόρος2(22) — boy, lad; male infant; servants; son
+  κοῦρος(22) — loppings, twigs stripped from a tree
+  χήρα(5) — widow; widowed; without sauce; widower
+  κουρίδιος(15) — wedded; lawful, wedded wife; wedded wife; lawful marriage
+  αἰδοῖος(43) — having a claim to regard, reverence; compassion; bashful, shamefaced; showing reverence
+  δέσποινα(9) — mistress, lady of the house; mistress; princess, queen; Empress
+  ταμία(21) — housekeeper, housewife
+
+=== hdbscan cluster 49  (n=8, coherence=0.630) ===
+  Πουλυδάμας(30)
+  Ἀκάμας(10)
+  Λαοδάμας(7)
+  Ἀσκάλαφος(7)
+  Σκάμανδρος(12) — Scamander; Scamandrian
+  Μελάνθιος(11)
+  Ἄδμητος(5)
+  Ξάνθος(21)
+
+=== hdbscan cluster 50  (n=8, coherence=0.639) ===
+  ἡγήτωρ(40) — leader, commander, chief; chiefs in war
+  ὄρχαμος(22) — leader, chief
+  ἀγός(22) — leader, chief
+  ἀρχός(27) — leader, chief; ruler; dux Orientis; the rectum
+  βουληφόρος(17) — counselling, advising; like a counsellor
+  κοίρανος(7) — king; ruler; leader, commander; lord, master
+  ὄρχατος(6) — row of trees; orchard, garden
+  ἐπίκουρος(33) — helper, ally; allies; mercenary troops; guards
+
+=== hdbscan cluster 53  (n=8, coherence=0.720) ===
+  ἀργύρεος(38) — of silver; silver-plated; silver coin
+  χρύσεος(120) — golden; enriched; adorned with gold; gold
+  πορφύρεος(28) — heaving, surging; gushing; onrushing; lurid
+  χάλκειος(30) — of copper; bronze, brazen; of brass; yellow fish thistle, Carlina corymbosa
+  κυάνεος(17) — dressed in black: "a black knight"; "black friars"
+  σιδήρεος(14) — made of iron; steel; grappling-iron; of arms
+  δαιδάλεος(17) — cunningly; curiously wrought; dappled, spotted; shot with light, sheeny
+  κήλεος(8) — burning; dry
+
+=== hdbscan cluster 54  (n=8, coherence=0.610) ===
+  ἱππεύς(26) — one who fights from a chariot; the driver; the hero who fights; …
+  ἵππος(457) — horse; mare; team of chariot-horses; the chariot
+  ἡνίοχος(30) — one who holds the reins, driver, charioteer; chariot-driver; rider; the helmsman
+  πεζός(30) — on foot, walking; fighters on foot; on land, going by land; infantry
+  ἀριστεύς(28) — those who excel in valour; chiefs
+  πρυλέες(5) — men-at-arms, soldiers; close, in masses
+  θεράπων(69) — periodic maintenance on a car or machine: "it was time for an …
+  ἄξων(6) — axle; axis; axis of the celestial sphere; course, path
+
+=== hdbscan cluster 57  (n=8, coherence=0.564) ===
+  αἰπόλος(10) — goatherd
+  βουκόλος(14) — tending kine; worshipper of Dionysos in bull-form; devotee; qṷel
+  ἀετός(15) — eagle; eagle as a standard; Aquila; omen
+  αἰόλος(8) — quick-moving, nimble; wriggling; glittering; changeful of hue, sheeny
+  αἰζηός(20) — in full bodily strength, vigorous; stout, lusty
+  αἰγυπιός(6) — vulture
+  τέκτων(12) — worker in wood, carpenter, joiner; craftsman; workman; a worker
+  ποιμήν(68) — herdsman; shepherd; captain, chief; master, lord
+
+=== hdbscan cluster 61  (n=8, coherence=0.614) ===
+  ἐποίχομαι(39) — go towards, approach; draw near to; approach with hostile purpose, attack; go …
+  σπέρχω(11) — set in rapid motion; to haste, be in haste; rage; in haste, …
+  ἐρέπτομαι(5) — feed on; feeding on; eat
+  νήχω(8) — swim
+  ἐπείγω(38) — press by weight; presses; to be weighed down; overpowered
+  ἐρεύγομαι(8) — belch out, disgorge; belch; discharge itself; blurt out
+  ἀγάλλω(7) — glorify, exalt; pay honour to; adorn; glory, exult in
+  δέρκομαι(13) — see clearly, see; having sight; alive, living; since she lives
+
+=== hdbscan cluster 75  (n=8, coherence=0.598) ===
+  ὀιστός(53) — arrow; arrow-head, Sagitta sagittifolia; Sagitta
+  ὀιζύς(16) — woe, misery
+  ὀιζυρός(12) — woeful, miserable; wretch!; toilsome, dreary; sorry, wretched, poor
+  ἰός(35) — arrow
+  ὀιστεύω(7) — shoot arrows; with an arrow; shoot with an arrow
+  ὀδών(11) — an ability to perform well: "he was at the top of his …
+  ὄζος(19) — bough, branch, twig; knot; eye; eyes, mere knots
+  κεραυνός(18) — thunderbolt; thunderbolts; thunder and lightning; a thunderbolt
+
+=== hdbscan cluster 76  (n=8, coherence=0.602) ===
+  τελέω(129) — fulfil, accomplish, execute, perform; did it; perform; fulfil
+  τεύχω(165) — make ready, make; produce by work; art; make, build
+  ἐκτελέω(26) — bring to an end, accomplish, achieve; fulfil; PMag. Osl; will be accomplished
+  τελέθω(11) — come into being; to be; become
+  πέλω(105) — come into existence, become, be; was; when once in being; become
+  τελευτάω(27) — bring to pass, accomplish; fulfil; bring about; end
+  πέσσω(7) — soften, ripen; change; ripen; bring to maturity
+  φύω(34) — bring forth, produce, put forth; made; grow; beget, engender
+
+=== hdbscan cluster 81  (n=8, coherence=0.628) ===
+  οὐτάζω(34)
+  βάλλω(456) — throw; throw so as to hit, hit; striking; smote upon
+  ἀκοντίζω(34) — hurl a javelin; use the javelin; hit; strike with javelin
+  οὐτάω(47) — wound, hurt, hit; wound by striking; thrusting; pierced
+  πίπτω(173) — Exc. ex libris Herodiani; fall down; cast oneself down; fall
+  κρεμάννυμι(6) — hramjan; hang up; hang them up; hang up oneʼs
+  ἱμάσσω(8) — flog; smote; smites; with lightnings
+  τυγχάνω(33) — happen to be at; she be; mayʼst; has been made
+
+=== hdbscan cluster 85  (n=8, coherence=0.582) ===
+  καταπίπτω(21) — fall, drop; fell; base, contemptible; accidents
+  καλύπτω(84) — oc-culo, celo; cover; to kill; covered, grasped
+  καταβάλλω(7) — throw down, overthrow; to bring down; confound, defy; throw
+  κάμπτω(5) — kaṁp-as; kuṁp-as; campus; bend, curve
+  ἐγχρίμπτω(7) — bring near to; strike; dash against; so as almost to touch
+  ἐπιγνάμπτω(6) — curve; bend; bow, bend to oneʼs purpose
+  λαπάρα(7) — the soft part of the body; flank; flanks; side
+  πέτομαι(50) — fly; fell suddenly; dart, rush; fly!
+
+=== hdbscan cluster 91  (n=8, coherence=0.648) ===
+  ἐγγύς(44) — near, nigh, at hand; hard by, near to; nearer to; nigh at …
+  ἄγχι(59) — near; like
+  ἄγχιστος(6) — nearest; ever nigh; most nearly; next to
+  ἄντα(41) — over against, face to face; man to man; before one; to look …
+  ἀμφίς(39) — on both sides; on either hand, to either party; from both hands; …
+  οἴκοι(6) — at home, in the house; domestic affairs; home products; oneʼs own country
+  ὀρθός(15) — straight; upright, standing; erect; standing with their walls entire
+  ἔνδοθεν(6) — from within; from inside; of oneself, by oneʼs own doing; of oneself
+
+=== hdbscan cluster 98  (n=8, coherence=0.764) ===
+  Ἀντίλοχος(61)
+  Εὐρύλοχος(10)
+  Ἱππόλοχος(10)
+  Εὐρύμαχος(27)
+  Ὀρτίλοχος(5)
+  Αὐτόλυκος(15)
+  Ἀντιφάτης(5)
+  Ἄντιφος(8)
+
+=== hdbscan cluster 104  (n=8, coherence=0.606) ===
+  ἐυκνήμις(29) — well-greaved; with goodly spokes
+  ἐυ(6)
+  εὔσελμος(28) — well-benched; decked
+  δολιχήρετμος(5) — long-oared; using long oars
+  φιλήρετμος(7) — fond of the oar
+  ἐυμμελίης(6) — armed with good ashen spear
+  πολύχαλκος(5) — disposed to venture or take risks: "audacious visions of the total conquest …
+  πολύχρυσος(5) — rich in gold
+
+=== hdbscan cluster 114  (n=8, coherence=0.597) ===
+  πένομαι(12) — toil, work; were busy; to have to work for oneʼs living; to …
+  πτωχεύω(5) — to be a beggar, go begging; to be as poor as a …
+  βάζω(16) — speak, say; address; has been spoken
+  πιέζω(6) — press tight, squeeze; compress; squeezing; to be pressed tight
+  θέρω(5) — heat, make hot; become hot; warm; warm your self
+  φέβομαι(12) — to be put to flight, flee in terror; flee from; bègti
+  βυσσοδομεύω(7) — build in the deep; brood over; in the depth of oneʼs soul, …
+  μέτειμι(16) — sum; to be among; interval; will be mine
+
+=== hdbscan cluster 137  (n=8, coherence=0.658) ===
+  φαεινός(83) — shining, radiant; bright; bright, glossy; bright as the day
+  ἀραιός(5) — thin, slender; narrow; meagre; of loose texture
+  στιβαρός(33) — strong, stout, sturdy; more massy; bulkier; more
+  κελαινός(16) — black, dark; swarthy; black with blood-stains; dark, murky
+  ἐρυθρός(9) — red; red pimples, eruption; yolk; Red Sea
+  μέλας(171) — black, dark; dark; pitched over; dark, swarthy
+  παχύς(25) — thick, stout; thick; fat; rich, fertile
+  ἁπαλός(12) — soft to the touch, tender; young; delicate; raw
+
+=== hdbscan cluster 141  (n=8, coherence=0.803) ===
+  ἐφύπερθε(9) — above, atop; from above; above
+  ἔνερθε(11) — from beneath, up from below; beneath, below; below; from below
+  ὑπένερθε(11) — underneath; under the earth, in the nether world; under, beneath
+  νέρθε(5)
+  ἑκάτερθε(17) — after a negative statement used as an intensive meaning something like "likewise" …
+  καθύπερθε(21) — from above, down from above; atop, above; atop; above
+  ἔκτοσθε(9) — outside; out of the number of; delirious
+  ὕπαιθα(6) — out under, under and away; before; under
+
+=== hdbscan cluster 142  (n=8, coherence=0.637) ===
+  λείπω(158) — leave, quit; is gone; leave behind, leave at home; leave
+  ὑπολείπω(7) — leave remaining; leave; fail; fail, fall short
+  καταλείπω(26) — leave behind; leave behind one; to be left, remain behind; left behind
+  τρέπω(62) — Studien zum griech. Perf; turn; direct; show
+  ἀποτρέπω(9) — turn away from; deter; dissuade from; Supp
+  ἐπιτρέπω(16) — to turn to; towards; inclined itself; to overturn upon
+  μεταπρέπω(14) — distinguish oneself; be distinguished among; am distinguished among
+  παραλέγω(7) — pluck out superfluous hair; you have had your eyebrows plucked; sail; coast …
+
+=== hdbscan cluster 143  (n=8, coherence=0.537) ===
+  λίς2(5) — smooth
+  λᾶας(22) — stone
+  λαῖλαψ(13) — furious storm, hurricane; whirlwind sweeping upwards
+  λαῖτμα(9) — depth; gulf
+  λάινος(9) — of stone; marble; stony-hearted
+  λίς(7) — lion
+  σίαλος(8) — fat hog; fat, grease
+  οὖλος2(9) — woolly, of thick, fleecy wool; crisp, close-curling; crisp, woolly; twisted, twined, curly, …
+
+=== hdbscan cluster 151  (n=8, coherence=0.615) ===
+  δίπλαξ(5) — in double folds; layers; twofold, double; double-folded mantle
+  πέπλος(16) — any woven cloth; sheet, carpet, curtain, veil; upper garment; mantle
+  δίφρος(88) — chariot-board; two; chariot; travelling-car
+  δίσκος(6) — quoit; quoitʼs; anything quoit-shaped; dish, trencher
+  τρίπους(27) — three-footed, of; with three feet; measuring three feet; the side of a …
+  δίπτυχος(5) — double-folded, doubled; a pair of; folding; having doubled
+  πίναξ(5) — board, plank; drawing; writing-tablet; votive tablet
+  πέδιλον(16) — sandals; any covering for the feet, shoes; boots; rhythm
+
+=== hdbscan cluster 157  (n=8, coherence=0.639) ===
+  κλονέω(20) — drive tumultuously; in confusion; harass, agitate; to be agitated
+  βουκολέω(5) — tend cattle; graze; range through the sky; graze on
+  φορέω(44) — repeated; habitual; bear to and fro, bear along; conveyed
+  ὀχέω(8) — hold fast; endure, suffer; bear; continue, keep doing
+  κομέω(7) — take care of, tend
+  δινεύω(14) — whirl, spin round; after whirling; driving; round a circle
+  πονέω(29) — work hard; to suffer toil; he did his work; were busied
+  ποθέω(22) — long for, yearn after; miss; regret; will miss
+
+=== hdbscan cluster 166  (n=8, coherence=0.637) ===
+  ῥοή(15) — river, stream; the juice; stream; streams of events, tide of affairs
+  γέφυρα(7) — dyke, dam; open space; limits; causeway
+  ὄχθη(16) — any height; rising ground; bank, dyke; raised banks of a river
+  πηγή(6) — running water; streams; water; fount, source
+  πύλη(63) — one wing of a pair of double gates; gates of a town; …
+  φάλαγξ(33) — line of battle, battle-array; the ranks of an army in battle; heavy …
+  ἔπαλξις(10) — means of defence; battlements; line of battlements, parapet; crenellations
+  κρήνη(18) — well, spring, fountain; water
+
+=== hdbscan cluster 195  (n=8, coherence=0.652) ===
+  ῥίς(14) — nose; snout; nostrils; nares, nose
+  πλευρά(5) — rib; ribs; side; both sides
+  κνήμη(16) — part between knee and ankle, leg, shank; tibia; stem between two joints; …
+  παρειά(19) — cheek; cheekpiece; earth-flush; beside the ear
+  σάρξ(6) — flesh; body; portions of meat; pieces of flesh
+  γλῶσσα(12) — tongue; larynx; of talking; frankness of speech
+  θρίξ(13) — hair; hair of the head; wool; bristles
+  δειρή(13) — neck, throat; ornaments; collar; gully, glen
+
+=== hdbscan cluster 0  (n=7, coherence=0.571) ===
+  μέσος(143) — middle, in the middle; middle; zenith; mid
+  μέσαυλος(5) — the inner court, inside the; the door between the; and the inner …
+  ἄκρος(49) — at the farthest point; end; topmost, outermost; inmost
+  ἄκρον(7) — highest; farthest point; mountain top, peak; heights
+  πάσσαλος(6) — peg; stakes; pale; a pin
+  ἐπίσωτρον(6) — metal hoop upon the felloe; tire
+  ξύλοχος(6) — the act of brushing your teeth: "the dentist recommended two brushes a …
+
+=== hdbscan cluster 7  (n=7, coherence=0.752) ===
+  Ἀΐδης(12)
+  Ἀίδης(12)
+  ᾍδης(41) — the act of killing: "he had two deaths on his conscience"
+  Ἀτρεύς(17)
+  Ἄρητος(5)
+  Ἄσιος(13)
+  Ἄδρηστος(6)
+
+=== hdbscan cluster 19  (n=7, coherence=0.672) ===
+  ἦμαρ(178) — day; by day; on that day; the day
+  ἐνιαυτός(26) — anniversary; lapse of a year; on the expiry of a year; any …
+  ἔτος(22) — year; years; annually; yearly
+  μείς(12) — month; from; the month; the lunar month
+  νύξ(129) — night; mght-season; a night; by night
+  ἡμέρα(6) — day; at daybreak; in the day; a state
+  περιτέλλομαι(5) — come round; came round; go round; rise above the horizon
+
+=== hdbscan cluster 33  (n=7, coherence=0.707) ===
+  τίκτω(123) — bring into the world, engender; beget; bring forth; parents
+  γείνομαι(28) — to be born; at oneʼs birth; beget; bring forth
+  γόνος(16) — that which is begotten, child; offspring; son; roe
+  τέκος(52) — the young
+  τόκος(5) — childbirth, parturition; the time of parturition; period of gestation; foetal stage
+  γαμέω(23) — marry; take to wife; marry a wife; take for a paramour
+  ἐκγίγνομαι(15) — to be born of; to be born to; come into being; to …
+
+=== hdbscan cluster 41  (n=7, coherence=0.578) ===
+  ὠκύπους(13)
+  ὠκύμορος(9)
+  ὠκύπορος(12)
+  ἀθλοφόρος(5) — bearing away the prize, victorious; prizegiving
+  ἱππόκομος(5)
+  ἄγραυλος(9) — dwelling in the field; a boor; rustic
+  δύσμορος(8) — ill-fated; with ill fortune
+
+=== hdbscan cluster 51  (n=7, coherence=0.709) ===
+  ἆρα(76) — anxiety; impatience; negative; affirmative
+  ὄχα(19) — far; fest
+  εἴθε(19)
+  κάλη(8)
+  οἰκτρός(7) — pitiable; to be pitied for; pitiable, lamentable; sorry
+  λίπα(8) — richly
+  ὄνομα(20) — name; by name; a name; name, fame
+
+=== hdbscan cluster 86  (n=7, coherence=0.678) ===
+  ζώω(34)
+  ζῶ(9) — gṷiē-, gṷiō; live; of living men; living
+  θνήσκω(125) — Papers of the Amer. School; die; to be dead; dead
+  ζωός(57) — alive, living
+  γηράσκω(10) — grow old; to be so; grew old; bring to old age
+  ἡβάω(15) — attain; have attained puberty; past puberty; adults
+  καταθνήσκω(21) — Nuova Silloge; die away, be dying; died; to be dead
+
+=== hdbscan cluster 106  (n=7, coherence=0.645) ===
+  ἀτρεκής(30) — strict, precise, exact; over-nice, precise; more precise details; exact, strict
+  ἀληθής(8) — unconcealed; true, real; false, apparent; truthful, honest
+  σάφα(19) — clearly, plainly, assuredly; assuredly, of a surety; clearly; with certainty
+  ἀριφραδής(5) — clear, manifest; plainly; clear to the sight, bright; very thoughtful, wise
+  ἀλήθεια(7) — truth; lie; mere appearance; a lie
+  ἀμφαδόν(7) — publicly, openly, without disguise; discovered, known
+  εὖ(202) — well; well, thoroughly, competently; cunning; morally well, kindly
+
+=== hdbscan cluster 108  (n=7, coherence=0.679) ===
+  προσαυδάω(174) — speak to, address, accost; speak; to one; speak of
+  ὀνομάζω(51) — speak of by name, call; address by name; naming; name, specify
+  τέλλω(10) — accomplish; perform; come into being; turns
+  αὐδάω(96) — utter sounds, speak; utter; speak, say; twas said
+  πάρειμι(45) — sum; to be by; present; near
+  παρεῖπον(6) — talk over, win over; by thy persuasions; give; advice
+  θαμίζω(5) — come often; plying; to haunt; to be accustomed
+
+=== hdbscan cluster 119  (n=7, coherence=0.688) ===
+  γάλα(7) — lac; glact; milk; the breast
+  μέλι(7) — honey; sweet gum; manna; milip
+  ἄλφιτον(15) — barley-groats; barley-water; poultices; hair-powder
+  κρέας(40) — flesh, meat; piece; dressed meat; carcass
+  κρῖ(6) — barley
+  σπλάγχνον(9) — inward parts; sacrificial feast; any part of the inwards; womb
+  αἷμα(113) — blood; streams of blood; anything like blood; dye
+
+=== hdbscan cluster 129  (n=7, coherence=0.631) ===
+  πεῖραρ(18) — end, limit; completion; end; achievement, execution, mode
+  τέρμα(9) — end, boundary; goal round which horses and chariots had to turn; mark …
+  ἕρμα(5) — prop, support; props; prop; stay
+  πῶμα(5) — lid, cover; that closed; operculum
+  πεῖσμα(7) — shipʼs cable; stern-cable; tie; reins
+  ὄνειαρ(21) — that which brings profit, advantage; boon; means of strengthening, refreshment; food, victuals
+  μέτρον(14) — that by which anything is measured; measure, rule; a measure; measure, divisor
+
+=== hdbscan cluster 146  (n=7, coherence=0.686) ===
+  ὀξύς2(25) — sharp, keen; sharpened; point; apex
+  ὀξύς(117) — wood sorrel, Oxalis Acetosella; great sea-rush, Juncus acutus; sorrel, Rumex acetosa
+  πικρός(18) — pointed, sharp, keen; sharp; pungent; sharp, keen
+  ἡδύς(42) — pleasant; rather; pleasures; merrily
+  μακρός(123) — long; ships of war; the longer sides; length-wise
+  γλυκύς(38) — sweet to the taste; smell; pleasant, delightful; sweet, fresh
+  ὠμός(6) — raw, crude; raw, uncooked; raw; crude
+
+=== hdbscan cluster 149  (n=7, coherence=0.602) ===
+  σανίς(12) — board, plank, timber; anything made thereof; door; folding doors
+  κονία(66) — dust; sand; ashes; pearl-ash, lye, soap-powder
+  πραπίδες(11) — midriff, diaphragm; understanding, mind; heart
+  παλάμη(21) — the activity of writing by hand: "handwriting can be slow and painful …
+  κλείς(32) — clavis, claudo; bar, bolt; catch; hook
+  ἔθειρα(5) — hair; a horseʼs mane; horsehair crest; hair of the head
+  κόνις(9) — dust; ashes; lye; cinis
+
+=== hdbscan cluster 161  (n=7, coherence=0.617) ===
+  προίημι(59) — send forth, send forward; send; forward; will allow
+  ἐπιπροίημι(6) — send forth; on board; sent; forth
+  ἀφίημι(22) — send forth, discharge; throw oneself; give oneself up; let loose
+  προλείπω(5) — forsake, abandon; abandon; leave; omit to do
+  μεθίημι(37) — set loose, let go; release; let; depart
+  προβλώσκω(7) — come forth, go out of the house
+  ἀφίστημι(13) — put away, remove, keep out of the way; hinder from; frustrate; depose
+
+=== hdbscan cluster 190  (n=7, coherence=0.684) ===
+  κατατίθημι(47) — place, put, lay down; set; down in; take down
+  τίθημι(362) — l), Alc; set, put, place; set; set for oneself
+  καταδέω(10) — bind on; to, bind fast; bind to oneself; tie up for oneself
+  παρατίθημι(27) — place beside; set before, serve up; the serving-men; meats set before one
+  δέω(57) — bind, tie, fetter; to bind; tie; bind, keep in bonds
+  ποιέω(74) — make; make, produce; made; to be made with
+  ἀνακαίω(5) — kindle, light up; light oneself; kindle; fire up
+
+=== hdbscan cluster 192  (n=7, coherence=0.616) ===
+  εἰλύω(10) — enfold, enwrap; to be wrapped, covered; crawl, wriggle along; rolled up, crouching
+  παλάσσω(16) — besprinkle, defile; he bespattered his; to be scattered abroad; was smitten
+  φύρω(5) — mix; dry with; wet; mixing so as to spoil
+  κορύσσω(26) — furnish with a helmet; fit out, equip, marshal; equip, arm oneself; headed …
+  κονίω(6) — make dusty, cover with clouds of dust; cover with dust; all dusty; …
+  ἀδέω(5) — to be sated with; should be sated with; feel loathing at; sated …
+  σείω(13) — shake, move to and fro; shake the poised; shake; there was an …
+
+=== hdbscan cluster 197  (n=7, coherence=0.690) ===
+  ὑποστρέφω(6) — turn round about; back; bringing back; roll up
+  ἀπονοστέω(6) — return, come home; when he returns from
+  ἀναχωρέω(14) — go back; walk backwards; retire, withdraw; they had retired
+  νοστέω(47) — come home, return; return safe; return; come
+  ἀποπλέω(5) — sail away, sail off
+  μεταστρέφω(11) — turn about, turn round; turn oneself about, turn about; turn round; turn …
+  ἀποστείχω(5) — go away, go home
+
+=== hdbscan cluster 208  (n=7, coherence=0.623) ===
+  ἐπιτρέχω(12) — run upon; make an assault upon; approach; run after, be eager
+  ἐπιπλέω(9) — sail upon; over; sail against, attack by sea; sail on
+  ἀνατρέχω(8) — run back; return; revert; recur
+  διέρχομαι(10) — go through, pass through; pass through, complete; went abroad, spread; shoot through
+  παρέρχομαι(6) — ibo; go by, beside; past, pass by; passed away
+  ὑπερβαίνω(7) — step over, mount, scale; cross; step over; overflow
+  πλέω(22) — sail, go by sea; sail; be at sea; swim, float
+
+=== hdbscan cluster 230  (n=7, coherence=0.619) ===
+  χάζω(34) — cause to retire; force to retire from, bereave; deprive of; give way, …
+  λάζομαι(16) — seize, grasp; take; may they bite; took
+  ἀναχάζω(14) — make to recoil, force back; draw back; giving way to; draw back …
+  βιάζω(6) — constrain; they used force; to be hard pressed; overpowered
+  λιάζομαι(13) — bend, incline; go aside, recoil, shrink; shrank; hast
+  δίζημαι(11) — seek out, look for; seek for; devising means for; seeking to win …
+  προσδέχομαι(12) — receive favourably, accept; receive hospitably; admit; admit into oneʼs presence
+
+=== hdbscan cluster 8  (n=6, coherence=0.498) ===
+  σώζω(54) — save, keep; save from death, keep alive; spare; to be saved, kept …
+  ἁλίσκομαι(16) — to be taken, conquered, fall into an enemyʼs hand; to fall into …
+  διακρίνω(15) — separate one from another; part; to be parted; part and join different
+  ἄλαλκε(12) — ward, keep off
+  κρίνω(33) — separate, put asunder, distinguish; pick out, choose; to choose; to be chosen …
+  κατέδω(11) — eat up, devour; eat up; eating
+
+=== hdbscan cluster 22  (n=6, coherence=0.654) ===
+  ποδαρκής(19) — succouring with the feet, running to the rescue; swift-footed; of swift feet; …
+  πολύτλας(35) — much-enduring
+  κορυθαίολος(39)
+  πολύμητις(74) — of many counsels
+  ποδώκης(28) — swiftfooted; swift, quick; hasty, impetuous, rash
+  φαίδιμος(68) — shining, radiant, glistening; sleek, glossy; famous, glorious
+
+=== hdbscan cluster 23  (n=6, coherence=0.660) ===
+  προρέω(7) — flow forward; forth, flow amain; pour forth
+  ῥέω(49) — flow, run, stream, gush; runs with; a full stream; derive its stream
+  πλήθω(9) — to be full; having; full of; swollen with
+  ῥεῖθρον(23) — that which flows, a river, stream; the streams, waters; streams; rivulets, brooks
+  προέχω(9) — hold before; hold before oneself; hold out before one; held
+  προβλής(6) — thrown forward, jutting out; forelands, headlands
+
+=== hdbscan cluster 26  (n=6, coherence=0.671) ===
+  Τελαμών(28)
+  Τελαμώνιος(13)
+  Σαρπηδών(41) — Sarpedon; his shrine
+  Δευκαλίων(5)
+  Πάτροκλος(145) — Patroclus
+  Ἠετίων(12)
+
+=== hdbscan cluster 37  (n=6, coherence=0.638) ===
+  ξένιος(16) — belonging to friendship and hospitality, hospitable; protector of the rights of hospitality; …
+  ξεινήιον(8) — hostʼs gift; provision made for a guest; gifts of (guest-) friendship
+  πατρώιος(22)
+  ὄλβιος(14) — happy, blest; happy, blessed; rich gifts; prosperous
+  ξενίζω(12) — receive; entertain as a guest; to present with; with
+  δήμιος(7) — belonging to the people; elected by the people; public; at the public …
+
+=== hdbscan cluster 38  (n=6, coherence=0.685) ===
+  ἄρειος(34) — devoted to Ares, warlike, martial; in real war; warrior; Campus Martius
+  δάιος(43) — hostile, destructive; burning, consuming; enemies; fighting man
+  πολεμήιος(8) — warlike; war
+  νήιος(7)
+  παρήιον(5) — cheek; jaw; cheek-ornament
+  ὁμοίιος(10) — distressing; common to all; impartial
+
+=== hdbscan cluster 43  (n=6, coherence=0.657) ===
+  Ἐννοσίγαιος(23) — Earth-shaker
+  ἀμφιγύεις(11)
+  ἀμφίγυος(9) — with a limb at each end, double-pointed; bending both ways, elastic; stout …
+  Ἐνοσίχθων(40) — Earth-shaker; earth-stirring
+  εὐρυάγυια(11) — with wide streets; public
+  γαιήοχος(15) — earth-moving, earth-carrying; protecting the country; veho; váhati
+
+=== hdbscan cluster 55  (n=6, coherence=0.688) ===
+  ἡγεμονεύω(33) — lead the way; to lead; make; lead
+  ἄρχω(124) — to be first; begin, make a beginning; to be the aggressor; to …
+  ἡγέομαι(44) — go before, lead the way; precede; to go before; might guide
+  ἡγεμών(26) — one who leads; guide; one who does a thing first, shows the …
+  βασιλεύω(10) — to be king, rule, reign; was king; reigned as queen; to have …
+  βασιλεύς(99) — king, chief; captain; judge; hereditary king
+
+=== hdbscan cluster 62  (n=6, coherence=0.693) ===
+  πάτροκλος(11) — Patroclus
+  διοτρεφής(27) — fostered, cherished by Zeus; fed by rain
+  διογενής(41) — sprung from Zeus; ordained and upheld by Zeus; divine
+  πάτηρ(46)
+  κύδιστος(20) — most honoured, noblest; greatest; profits it
+  πολυμήχανος(21) — resourceful, inventive
+
+=== hdbscan cluster 72  (n=6, coherence=0.629) ===
+  πουλυβότειρα(8)
+  πολυβότειρα(8) — much; all-nourishing
+  πτολίπορθος(15) — sacking; wasting cities
+  τολυπεύω(6) — wind off; into a clew; wind off, achieve, accomplish; work
+  βαθυδίνης(6) — deep-eddying
+  φιλοπόλεμος(10) — fond of war, warlike
+
+=== hdbscan cluster 79  (n=6, coherence=0.731) ===
+  λωίων(7) — more desirable, more agreeable, better; my good friend
+  βέλτερος(8) — better, more excellent; it is better
+  φίλτερος(6)
+  κερδίων(29) — more profitable; most cunning; crafty; most profitable
+  κύντερος(5) — more dog-like; more shameless; more horrible
+  ἀρείων(16) — better, stouter, braver; snail; slug
+
+=== hdbscan cluster 82  (n=6, coherence=0.655) ===
+  φαγεῖν(17) — eat, devour; eat of; eat up, devour, squander; bhájati
+  ἐσθίω(15) — eat; ration-strength; eat of; devour
+  τιτρώσκω(5) — wound; is wounded; inflict; kill
+  κατεσθίω(5) — eat up, devour; corrode; to be gnawed; bite
+  ἔσθω(15) — eat; eat up; feed on, devour
+  τρέφω(66) — thicken; congeal; curdle; curdle, congeal
+
+=== hdbscan cluster 87  (n=6, coherence=0.719) ===
+  ναίω2(20) — dwell, abide; dwell in, inhabit; to be inhabited; lie, be situated
+  ναίω(76) — dwell, abide; dwell in, inhabit; to be inhabited; lie, be situated
+  ναιετάω(35) — dwell; dwell in, inhabit; to be situated, lie; exist
+  οἰκέω(7) — inhabit; have, enjoy; to be inhabited; the inhabited country
+  βόσκω(21) — feed, tend; the feeder; feed, nourish; maintain, keep
+  δήω(9) — find, meet with
+
+=== hdbscan cluster 92  (n=6, coherence=0.768) ===
+  ἐντός(21) — within, inside; senses, under; control; hearts
+  ἐκτός(20) — without, outside; out of, far from; beyond; outside of, free from
+  ἔξω(9) — out; out of; outside; prominency
+  ἔνδον(42) — within; in oneʼs heart; at home; of the house
+  εἴσω(48) — to within, into; into the house; to the inside; inside, within
+  ἔσω(6)
+
+=== hdbscan cluster 97  (n=6, coherence=0.729) ===
+  Εὐρύπυλος(21)
+  Εὔρυτος(6)
+  Εὐρύαλος(8)
+  Εὔμηλος(9)
+  Ἴφιτος(5)
+  Δημόδοκος(6)
+
+=== hdbscan cluster 107  (n=6, coherence=0.689) ===
+  ἀφραδής(6) — insensate, reckless; without sense, senseless; senselessly, recklessly
+  ἐπισταμένως(14)
+  περιφραδής(6) — very thoughtful, very skilful
+  ἐνδυκέως(18) — sedulously, kindly; steadfastly; greedily, ravenously
+  καρπάλιμος(42) — swift; swiftly; eager, ravenous
+  θαρσαλέος(14) — daring; confident; confidence; of good courage
+
+=== hdbscan cluster 111  (n=6, coherence=0.654) ===
+  βροτολοιγός(13) — plague of man, bane of men
+  λοιγός(22) — ruin, havoc; destruction; pa-liegti
+  ὀρυμαγδός(16) — loud noise, din; the sound; rattling; roar
+  ἀμολγός(5) — dead; milking-time
+  κυδοιμός(7) — din of battle, uproar, hubbub; fights
+  ἀνδροκτασία(6) — slaughter of men; homicide
+
+=== hdbscan cluster 133  (n=6, coherence=0.656) ===
+  ἀρήγω(18) — aid, succour; succour in war; help, succour; to be good for
+  ὀπαδέω(8)
+  ἀνάσσω(63) — to be lord, master; to be lord, hold sway in; to be …
+  ἐνίσσω(5) — attack, reproach; maltreal
+  ἀράω2(7) — plough; arare
+  ὀπυίω(12) — marry, take to wife; marry; wedded; to be married
+
+=== hdbscan cluster 139  (n=6, coherence=0.746) ===
+  πυκινός(18) — abstaining from food
+  πυκνός(87) — close, compact; close, firm, solid; well-stuffed, firm; overgrown
+  μαλακός(29) — soft; fresh-ploughed; soft grassy; soft-fleeced
+  λιπαρός(23) — oily, shiny with oil; anointed; shiny; fatty, greasy
+  στερεός(8) — firm, solid; solid; costive; firmly, fast
+  κενός(7) — empty; pause; the void of space; cavity
+
+=== hdbscan cluster 150  (n=6, coherence=0.648) ===
+  φρονέω(90) — to be minded; have understanding, be wise, prudent; counsel; to be
+  ἀκέων(17) — softly, silently
+  εὐφρονέων(8) — with kind; prudent) mind
+  δολοφρονέων(8) — planning craft, wily-minded
+  κερτομέω(7) — taunt, sneer at; sneer
+  ἀκέομαι(9) — heal, cure; stanch, quench; mend, repair; mending
+
+=== hdbscan cluster 153  (n=6, coherence=0.632) ===
+  νεμεσίζομαι(9) — feel righteous indignation; to be angry; amazed; stand in awe of
+  νεμεσάω(36) — feel just resentment, to be wroth at undeserved good; bad fortune; to …
+  ὀνειδίζω(5) — cast in; teeth, make a reproach; make a reproach; to be made …
+  νεμεσητός(6) — causing indignation; wrath, worthy of it; it is matter for indignation; retributive
+  χαρίζομαι(33)
+  ὑβρίζω(5) — wax wanton, run riot; neigh; bray and prance about; run riot, grow …
+
+=== hdbscan cluster 154  (n=6, coherence=0.687) ===
+  ὄσσε(31) — the two eyes; oqṷ-ye
+  ὄσσα(29) — a rumour; voice; sound; din
+  ὄμμα(14) — eye; straight; look; expression
+  ὀφθαλμός(112) — eye; eyes; to the eye; sight
+  ὤψ(6) — eye, face, countenance; the face; face
+  οὖδας(27) — surface of the earth, ground; surface; the dust; on the ground
+
+=== hdbscan cluster 159  (n=6, coherence=0.695) ===
+  χλαῖνα(49) — upper-garment, cloak, wrapper; blanket; covering; like a cloak
+  φᾶρος(27) — a large piece of cloth, web; a wide cloak; mantle; shroud
+  χιτών(65) — garment worn next the skin, tunic; a manʼs tunic; coat of mail; …
+  ἐσθής(15) — clothing, raiment; the dress; dress; toga pura
+  ζώνη(6) — belt, girdle; the lower girdle worn by women; above the hips; girdle
+  ῥάκος(10) — ragged, tattered garment; rags, tatters; strip of cloth; strip
+
+=== hdbscan cluster 169  (n=6, coherence=0.796) ===
+  πολίτης(5) — people living in a large densely populated municipality: "the city voted for …
+  σίδηρος(29) — iron; hardness; stubborn force; firmness, steadfastness
+  σιωπή(28) — silence; a hush; calm; the habit of silence
+  διώκω(31) — cause to run, set in quick motion; pursue, chase; chase; follow
+  ἐργάζομαι(9) — work, labour; working; works; goes on
+  νόημα(18) — that which is perceived, perception, thought; lightning; thought, purpose, idea, design; thought, …
+
+=== hdbscan cluster 181  (n=6, coherence=0.638) ===
+  θεοπροπία(7) — prophecy, oracle
+  ἀγγελία(33) — message, tidings; a report of; concerning; a message about
+  ἀπειλή(6) — boastful promises, boasts; threats
+  εὐχωλή(12) — prayer, vow; votive offering; boast, vaunt; shout of triumph
+  πομπή(24) — conduct, escort; an escort; sending away, sending home; mission
+  ἀρά(5) — prayer; prayers; vow; curse, imprecation
+
+=== hdbscan cluster 200  (n=6, coherence=0.660) ===
+  ἐμμεμαώς(11) — in eager haste, eager
+  μέμαα(110) — an inclination to want things: "a man of many desires"
+  τρίζω(6) — utter a shrill cry; creaked; crepitates; grinds
+  θάλλω(8) — sprout, grow, thrive; luxuriant; grew; bloom
+  κλάζω(17) — make a sharp piercing sound; scream; bark, bay; clash, rattle
+  τετίημαι(14) — to be sorrowful; sorrowing; from grief; quies
+
+=== hdbscan cluster 203  (n=6, coherence=0.692) ===
+  ἐμπίμπρημι(5) — kindle, set on fire; burn; to be set on fire; to be …
+  ἐμπρήθω(8) — blow up, inflate; to be bloated; swollen; burn
+  ἐμπίπλημι(19)
+  ἀναπίμπλημι(8) — fill up; accomplish; having filled up the full measure; fill full of
+  ἔμπλεος(6) — quite full of; in full measure, complete
+  καταπρηνής(6) — down-turned; with the flat of
+
+=== hdbscan cluster 204  (n=6, coherence=0.695) ===
+  ἐφίστημι(20) — set, place upon; set over; to be appointed, instituted; bring in
+  περιβαίνω(6) — go round; bestride; those mounted on; come round
+  παρίστημι(88) — cause to stand, place beside; having brought; into view; set
+  περιίστημι(7) — place round; bring round; convert; transfer
+  ἐμβαίνω(8) — step in; go on, go quickly; advance!; embark
+  συμβάλλω(17) — throw together, dash together; bring together, unite; have; reaching
+
+=== hdbscan cluster 209  (n=6, coherence=0.749) ===
+  καταχεύω(17)
+  ἐπιχέω(11) — pour over; pour; over; heap up
+  χέω(147) — pour; pour out, let flow; snows; gush forth
+  ἐκχέω(9) — pour out; is spilt, Ev. Matt; poured forth his; pour away
+  οἰνοχοέω(6)
+  συγχέω(6) — pour together, commingle, confound; mix; in confusion; obliterate, demolish
+
+=== hdbscan cluster 233  (n=6, coherence=0.651) ===
+  λέγω(21) — lay
+  καταλέγω(57) — lay down
+  λέγω3(12) — lay ; pick up; gather, pick up; picking out stones for building; …
+  λέγω2(17) — pick up; gather, pick up; picking out stones for building; gather for …
+  διείρομαι(5)
+  ἀγορεύω(143) — speak in the assembly, harangue; address; to address the house?; counsel
+
+=== hdbscan cluster 12  (n=5, coherence=0.662) ===
+  Λυρνησσός(5)
+  Ζάκυνθος(5)
+  Καλυδών(6)
+  Ἔρεβος(6) — Erebos; the darkness; rájas; riqis
+  Πήλιον(5) — Pelion; at the foot of Pelion
+
+=== hdbscan cluster 14  (n=5, coherence=0.722) ===
+  Φαίαξ(69) — Phaeacian; conduits; sewers
+  Θρᾷξ(15) — Thracian
+  Κεφαλλήν(5) — Cephallenian; Cephallenia
+  Θεσπρωτοί(9)
+  Ἰθακήσιος(6)
+
+=== hdbscan cluster 17  (n=5, coherence=0.624) ===
+  Ἕλενος(10)
+  Πρίαμος(149) — priam; like Priam
+  Ἶλος(7)
+  Ὀρέστης(11)
+  Ναυσικάα(9)
+
+=== hdbscan cluster 20  (n=5, coherence=0.760) ===
+  Ἀνδρομάχη(5)
+  Ἑκάβη(8)
+  Ἑλένη(57)
+  Βρισηίς(10)
+  Χρυσηίς(6)
+
+=== hdbscan cluster 34  (n=5, coherence=0.751) ===
+  δμώς(22) — slave taken in war; slave
+  δμῶος(5)
+  δμωή(50) — female slave taken in war; female slave, serving-woman
+  οἰκεύς(7) — inmate of oneʼs house; menial, servant; serf
+  τοκεύς(38) — one who begets, father; begetter; parents
+
+=== hdbscan cluster 39  (n=5, coherence=0.707) ===
+  Μηριόνης(57) — pudenda muliebria
+  Αἰνείας(77) — Aeneas
+  Κεβριόνης(13)
+  Μέγης(7)
+  Ἀγχίσης(12)
+
+=== hdbscan cluster 48  (n=5, coherence=0.686) ===
+  ἀλκτήρ(5) — one who wards off, protector from
+  ἰατήρ(6) — surgeon; healer; deliverer
+  θηρατήρ(8) — a watch with a hinged metal lid to protect the crystal
+  ῥυτήρ(5) — one who draws; stretches; drawer; strap by which one holds a horse, …
+  μήστωρ(17) — adviser, counsellor; authors; skilled assistant
+
+=== hdbscan cluster 52  (n=5, coherence=0.705) ===
+  χάλκεος(66) — of copper; bronze, brazen; bronze; for a shield of brass
+  μέλινος(14) — ashen
+  δολιχόσκιος(25) — casting a long shadow; long; far-reaching
+  καμπύλος(10) — bent, curved; of varied metre
+  παλίντονος(5) — bent backward; back-stretched; caused by opposite tensions; military engines for throwing stones
+
+=== hdbscan cluster 59  (n=5, coherence=0.678) ===
+  ἐλαία(11) — olive-tree; the olives; Olea cuspidata; olive
+  ἐλάτη(6) — silver fir, Abies cephalonica; Abies pectinata; oar; made of pine-wood
+  ὄγχνη(6) — pear-tree, Pirus communis; pear
+  αἴγειρος(8) — black poplar, Populus nigra
+  ῥίζα(8) — root; roots; roots of the eye; streaks
+
+=== hdbscan cluster 60  (n=5, coherence=0.736) ===
+  φύλλον(20) — leaf; leaves; foliage; voting-papers
+  δένδρεον(13) — tree; fruit; mast-bearing trees; tall plants
+  φυτόν(8) — plant; garden plant; tree; sucker, slip
+  καρπός(13) — fruit; the fruits of the earth, corn; harvest; crops
+  ἄνθος(11) — blossom, flower; the chaplets of flowers; anything thrown out upon the surface, …
+
+=== hdbscan cluster 63  (n=5, coherence=0.634) ===
+  τερπικέραυνος(13) — delighting in thunder
+  νεφεληγερέτα(35) — cloud-gatherer
+  Ἀργειφόντης(25) — slayer of Argus; serpent-slayer
+  ὑψιβρεμέτης(6) — high-thundering
+  καλλιπάρηος(16) — beautiful-cheeked
+
+=== hdbscan cluster 64  (n=5, coherence=0.686) ===
+  ἀργός(7) — shining, glistening; swift-footed; white; Swift-foot
+  ἀργεννός(6) — white
+  ἀργιόδους(11) — white-toothed, white-tusked
+  ἀργής(8) — bright, glancing; vivid; fire; shining, white
+  ταλαεργός(5) — bearing; enduring labour; laborious
+
+=== hdbscan cluster 71  (n=5, coherence=0.702) ===
+  δαιμόνιος(20) — belonging to a; miraculous, marvellous; good sir; lady
+  ἠθεῖος(6) — trusty, honoured; trusty friends
+  μαῖα(8) — good mother; foster-mother; mother; midwife
+  πόποι(49) — make angry: "The news angered him"
+  δαήρ(6) — Aus Lydien; husbandʼs brother, brother-in-law; devár; dieveȓs
+
+=== hdbscan cluster 74  (n=5, coherence=0.703) ===
+  τανηλεγής(7) — bringing long woe
+  δυσηχής(10) — ill-sounding; giving a dull sound; bringer of great woe; of ill-repute
+  μελιηδής(21) — honey-sweet
+  θυμαλγής(12) — heart-grieving; inly grieving
+  νηλής(33) — pitiless, ruthless; ruthless; resolute; dogged
+
+=== hdbscan cluster 80  (n=5, coherence=0.658) ===
+  ἰάλλω(21) — send forth; they put forth; laid; threw
+  ἰαίνω(18) — heat; melt; relax by warmth; warm, cheer
+  ἰαύω(11) — Graffītes Grecs du Memnonion d’ Abydos; sleep, pass the night; enjoy; sleeping
+  εἴβω(9) — drop, let fall in drops; trickle down
+  ἰάομαι(5) — heal, cure; attempt to cure, treat; cure. treat; remedy
+
+=== hdbscan cluster 88  (n=5, coherence=0.667) ===
+  εὔπωλος(5) — abounding in foals; horses; their offspring
+  εὐδείελος(6) — clear, distinct; farseen; open to the sun, sunny
+  ἐυκτίμενος(31) — good to dwell in; so as to be good to dwell in; …
+  εὐρύχορος(9) — broad in scope or content: "across-the-board pay increases"; "an all-embracing definition"; "blanket …
+  εὐτείχεος(7) — well-walled
+
+=== hdbscan cluster 93  (n=5, coherence=0.717) ===
+  κράτιστος(11) — having or showing or arising from a desire to promote the welfare …
+  ἄριστος(212) — best; noblest; a chief; bravest
+  ἄριστον(6) — morning meal, breakfast; breakfast; luncheon; air
+  ἐλεγχής(6) — worthy of reproof; cowardly; reproachful
+  οἴκτιστος(5) — most pitiable, lamentable
+
+=== hdbscan cluster 99  (n=5, coherence=0.744) ===
+  αἱματόεις(19) — blood-red; of blood; suffused with blood, flushed; bloody, murderous
+  βροτόεις(9) — gory
+  θυσανόεις(5) — tasseled, fringed
+  ἀστερόεις(11) — like a star, sparkling; a half-moon
+  ὀκριόεις(5) — having many points; roughnesses, rugged, jagged
+
+=== hdbscan cluster 100  (n=5, coherence=0.780) ===
+  δινήεις(13) — whirling, eddying; rounded
+  πετρήεις(5) — rocky; haunting rocks
+  ποιήεις(8) — grassy
+  νιφόεις(5) — snowy, snowclad; snow-white
+  ὀξυόεις(11) — with beechen shaft, beechen
+
+=== hdbscan cluster 101  (n=5, coherence=0.839) ===
+  ἐκεῖθεν(11) — from that place, thence; on his part; on yon side of; thence, …
+  ἠῶθεν(12) — from morn; at dawn, at break of day; to-morrow morning; in the …
+  ἕωθεν(7) — from morn; at earliest dawn; early
+  ἐκεῖσε(18) — thither, to that place; hither and thither; to the other world; to …
+  ἐκεῖθι(13) — to or toward that place; away from the speaker: "go there around …
+
+=== hdbscan cluster 102  (n=5, coherence=0.735) ===
+  τοιόσδε(26) — such as this; such as you see; so great, so bad; such
+  τοσόσδε(13) — sufficient; so many only; so few; so very, so much
+  τοσοῦτος(6) — so large, so tall; so great; so many; of the same height
+  τοιοῦτος(47) — such as this; so good, so noble, so bad; so great a …
+  τῇδε(5) — here
+
+=== hdbscan cluster 115  (n=5, coherence=0.683) ===
+  καλλίσφυρος(5) — beautifulankled
+  καλλιπλόκαμος(6) — with beautiful locks
+  χρυσόθρονος(12) — with throne of gold
+  ῥοδοδάκτυλος(23) — rosy-fingered
+  τανύπεπλος(7) — with flowing robe
+
+=== hdbscan cluster 116  (n=5, coherence=0.802) ===
+  δώδεκα(26) — the cardinal number that is the sum of eleven and one
+  ἐννέα(16) — nine; many; novem; náva
+  ἕξ(16) — six; the six; xšvaš; sex
+  δυοκαίδεκα(12) — twelve
+  ἥμισυς(14) — half; half of; half-and-half; mid
+
+=== hdbscan cluster 117  (n=5, coherence=0.836) ===
+  δέκα(20) — ten; the Ten; Attic Orators; decemviri
+  πεντήκοντα(24) — fifty
+  τεσσαράκοντα(10) — forty; the Forty; Forty
+  ἕνδεκα(5) — eleven; the Eleven, the Police-Commissioners
+  ἑκατόν(9) — a hundred; very many; sém kṃtóm; centum
+
+=== hdbscan cluster 118  (n=5, coherence=0.654) ===
+  ἔριον(5) — wool; flocks of wool; cotton; web
+  ἔναρα(12) — arms and trappings of a slain foe, spoils; taken from; spoil, booty
+  σπεῖρον(6) — piece of cloth; cloth; wraps; cerecloth
+  κτέρεα(5) — funeral gifts; funeral honours; wrappers for the dead, shroud
+  εἶδαρ(14) — food
+
+=== hdbscan cluster 121  (n=5, coherence=0.670) ===
+  ἀσκέω(10) — work; work curiously, form by art; smoothed; elaborately
+  κοσμέω(12) — order, arrange; set; in array, marshal; marshalled
+  κινέω(22) — set in motion; move; rock; remove
+  ἐπιδινέω(6) — whirl for; swing round; turn over in oneʼs mind, resolve; wheel about
+  εὐνάω(12) — lay; place in ambush; lay asleep, lull to sleep; make oneʼs couch
+
+=== hdbscan cluster 123  (n=5, coherence=0.704) ===
+  πολυβενθής(5) — very deep
+  εὐσταθής(8) — well-based, well-built; steadfast, tranquil; sound, healthy; healthy, sound
+  Διιπετής(5) — fallen from Zeus; from heaven; fed; swollen by rain
+  πλατύς(9) — wide, broad; broad; large; spread over a wide space
+  περιμήκης(8) — very tall; long; very high; very large, huge
+
+=== hdbscan cluster 124  (n=5, coherence=0.709) ===
+  ἦμος(32) — at which time, when; while, so long as
+  εὖτε(27) — when; whenever, so often as; whenever; whenever, as often as
+  τῆμος(8) — then, thereupon; to-day
+  τόφρα(59) — up to; during that time, so long; in (the course of) that …
+  ἠύτε(36) — as, like as; even as; like; than
+
+=== hdbscan cluster 126  (n=5, coherence=0.645) ===
+  φάρμακον(24) — drug; healing remedy, medicine; medicines; a medicine for
+  ἄλγος(85) — pain; sufferings; grief; grief for
+  ἕλκος(22) — wound; festering wound, sore, ulcer; the festering bite; plague-ulcer
+  ὅρκιον(30) — oath; oaths; the offerings and other things used at a solemn oath; …
+  δαίδαλος(7) — cunningly; curiously wrought; cunning works; spotted, speckled
+
+=== hdbscan cluster 127  (n=5, coherence=0.791) ===
+  μω~νυξ(8)
+  μῶνυξ(25) — with a single; uncloven, hoof; sem
+  κρατερῶνυξ(7) — strong-hoofed, solid-hoofed; strong-clawed; with strong nails
+  ἐριαύχην(5) — with arched neck
+  καλλίθριξ(15) — with beautiful manes; with fine wool; with beautiful hair; waterwort, Asplenium trichomanes
+
+=== hdbscan cluster 135  (n=5, coherence=0.687) ===
+  ζυγόν(23) — yoke; the yoke; crossbar; thwarts
+  ζυγός(5)
+  λόφος(15) — back of the neck; withers; nape of the neck; the neck
+  πούς(278) — foot; talons; arms; feelers
+  λίθος(26) — stone; stones; stonequoit; stone, petrified
+
+=== hdbscan cluster 140  (n=5, coherence=0.789) ===
+  ἀπάνευθε(46) — afar off, far away; far from, aloof from; without; knowledge
+  κατόπισθεν(7) — behind, after; hereafter, afterwards, henceforth
+  μετόπισθε(26) — behind, in the rear; behind; in the second rank; after, afterwards
+  ἄνευθε(22) — without; away from; far away, distant; far away
+  ἀπόπροθεν(5)
+
+=== hdbscan cluster 144  (n=5, coherence=0.676) ===
+  οἶνοψ(17) — wine-coloured; wine-dark; wine-red, deep-red
+  ἦνοψ(5) — gleaming; Fr.anon; not to be looked at, dazzling
+  αἶθοψ(32) — fiery-looking; flashing; sparkling; fiery
+  νῶροψ(8) — flashing; bright
+  φοῖνιξ(8) — a document that states some contractual relationship or grants some right
+
+=== hdbscan cluster 148  (n=5, coherence=0.667) ===
+  κρόταφος(11) — side of the forehead; temples; side edge, profile; sideways, horizontally
+  ὄνυξ(5) — talons, claws; nail; hoof, X.Eq; claw
+  ἐπισφύρια(5) — leg-guards; above the ankle-joint, ankle
+  κτέαρ(14) — any area set aside for a particular purpose: "who owns this place?"
+  σκόλοψ(9) — anything pointed; pale, stake; palisade; thorn
+
+=== hdbscan cluster 152  (n=5, coherence=0.698) ===
+  ἐρύω(146) — drag, draw; drag; away, rescue; off for plunder, ransom
+  ῥύομαι(31) — discharge or settle: "pay a debt"; "pay an obligation"
+  λύω(133) — luo; re-luo, solvo; se-luo), solūtus; loosen
+  σπάω(14) — draw; having their; drawn; drew
+  εἴλω(36) — shut in; shut out; let them be shut out; ponded
+
+=== hdbscan cluster 160  (n=5, coherence=0.711) ===
+  κλισία(118) — place for lying down; reclining; hut, shed, booth; cot, cabin
+  κλισίηθεν(7) — out of; from the hut
+  κλισμός(16) — couch; inclination, slope
+  σχεδία(12) — raft, float; rafts; boat, ship; bridge of boats
+  θύρα(64) — door; double; folding doors; valve
+
+=== hdbscan cluster 163  (n=5, coherence=0.722) ===
+  νευρά(11) — string; cord of sinew; bowstring; harpstring
+  νευρή(10)
+  ὠτειλή(14) — wound; a fresh, open wound; wound inflicted hand to hand; the mark …
+  αἰχμή(33) — point of a spear; point; spear; with the spear
+  οὐλή(7) — wound scarred over, scar
+
+=== hdbscan cluster 173  (n=5, coherence=0.635) ===
+  σπέος(40) — cavern, grotto
+  ῥίον(6) — any jutting part; peak; headland; bay formed by a foreland
+  σκόπελος(9) — lookoutplace; peak, headland, promontory; watch-tower
+  δάπεδον(9) — level surface; floor of a chamber; ground, soil; ground
+  κίων(11) — pillar; pillars; the Pillars; columnar gravestone
+
+=== hdbscan cluster 174  (n=5, coherence=0.666) ===
+  ἔνειμι(11) — sum; to be in; to be among; is in
+  ἔπειμι(7) — sum; to be upon; to be upon, be set upon; to be …
+  ἐμπίπτω(17) — fall in; fell upon; meet; meeting
+  ἐνίημι(18) — send in; into; will send into the battle; implant, inspire
+  ἀρκέω(9) — ward off, keep off; would; keep off; defend
+
+=== hdbscan cluster 175  (n=5, coherence=0.669) ===
+  ἐντίθημι(14) — put in; put on board; into; inspire
+  ἐμβάλλω(37) — throw in; let; fall into; throw
+  ἐπιτίθημι(31) — lay, put; place upon; laid on; set
+  ἀνέχω(64) — hold up, lift up; held up; in fight; hold up
+  ἐμπνέω(12) — blow; breathe upon; to breathe upon; breathe into, play
+
+=== hdbscan cluster 182  (n=5, coherence=0.705) ===
+  ῥινόν(12) — hide; shield
+  ῥινός(10) — skin; hide; ox-hide; oxhide shield
+  κολεόν(10) — sheath, scabbard; sheath, wing-case
+  γναθμός(7) — jaw
+  ῥυμός(6) — pole of a chariot; car; pole; three stars
+
+=== hdbscan cluster 183  (n=5, coherence=0.674) ===
+  ὑπεκφεύγω(14) — flee away; escape; escape from
+  προφεύγω(5) — flee forwards, flee away; flee from, shun, avoid; avoid
+  φεύγω(155) — flee, take flight; ran; flee; the purpose
+  ὑπαλύσκω(5) — flee from, escape; having got quit of
+  ὑπολύω(6) — loosen beneath; below; made; give way under him
+
+=== hdbscan cluster 184  (n=5, coherence=0.679) ===
+  ὑποδέχομαι(15) — receive into oneʼs house, welcome; received; who had received him; harbour
+  ὑπείκω(10) — retire, withdraw, depart; from; retire from; for
+  ὑπόδρα(26) — from under; looking askance, grimly
+  ὑπομένω(9) — stay behind; remain alive; to be left behind, remain; to be permanent
+  ὑπότροπος(5) — turning back, returning; rallying
+
+=== hdbscan cluster 185  (n=5, coherence=0.648) ===
+  κίνυμαι(6) — go, move; marched; as it was stirred
+  στεῦμαι(8) — make as if one would.., promise; threaten that one will; declares; boasts
+  γέντο(5) — he grasped
+  δαίνυμι(50) — give a banquet; feast; to give; thou shalt be
+  ῥώομαι(9) — move with speed; violence, rush on; ran; dance
+
+=== hdbscan cluster 188  (n=5, coherence=0.687) ===
+  τροχός(6) — wheel; wheels; potterʼs wheel; wheel of a stage-machine
+  ἐρινεός(6) — wild fig-tree, Ficus Caprificus; of the wild fig-tree
+  μοχλός(8) — bar, lever, crowbar; any bar; stake; bar
+  κρημνός(6) — overhanging bank; bank; edge; beetling cliff, crag
+  κνημός(7) — projecting limb, shoulder; grove
+
+=== hdbscan cluster 189  (n=5, coherence=0.710) ===
+  ἀπόλλυμι(61) — destroy utterly, kill; demolish, lay waste; will waste; sought to destroy
+  ὄλλυμι(151) — destroy, make an end of; kill; doing away with; lose
+  ἀφαιρέω(20) — take away from; took; from; relieve
+  ἀναιρέω(15) — take up; having raised; take up and carry off, bear away; make …
+  ὀλέκω(15) — ruin, destroy, kill; prey; perish, die
+
+=== hdbscan cluster 193  (n=5, coherence=0.739) ===
+  κεδάννυμι(10) — break up, scatter; was broken up; was shed
+  κεάζω(10) — split, cleave; shiver; was cloven; pound, rub to pieces
+  πυκάζω(12) — cover closely; protection; surround; so as to protect
+  σκεδάννυμι(9) — scatter, disperse; shed; all round; will shiver
+  καίνυμαι(18)
+
+=== hdbscan cluster 196  (n=5, coherence=0.747) ===
+  καταδύω(41) — go down, sink, set; to be sunk; disabled; duck
+  ἀναδύνω(7) — come to the top of the water; emerge
+  δύω2(120) — cause to sink, sink, plunge in; get; go into; enter, make oneʼs …
+  ὑποδύομαι(5)
+  ἐκδύω(5) — take off, strip off; stripped; strip; to be stripped of
+
+=== hdbscan cluster 220  (n=5, coherence=0.673) ===
+  θαῦμα(18) — wonder, marvel; a wonder; strange; wonder
+  σῆμα(48) — sign, mark, token; sign from heaven, omen, portent; sign to do; begin …
+  πῆμα(40) — misery, calamity; pains; labours; bane, calamity
+  εἴδωλον(11) — phantom; any unsubstantial form; form; image reflected
+  ἄχθος(6) — burden, load; cumberers; plague; pests
+
+=== hdbscan cluster 222  (n=5, coherence=0.707) ===
+  ἀκούω(171) — hear; hear of, hear tell of; hear of; from
+  ἐπακούω(11) — hear; wilt; be answered; overhear
+  πυνθάνομαι(60) — learn; by hearsay; by inquiry; from
+  ἐπικεύθω(12) — conceal, hide; will; hide; from
+  κεύθω(14) — custos; hýdan; cover, hide; covered
+
+=== hdbscan cluster 236  (n=5, coherence=0.730) ===
+  φράζω(95) — point out, show; say, tell; show the way to, show where to …
+  μήδομαι(31) — to be minded, intend; resolve; counsels I should take; plan and do …
+  συμφράζομαι(5) — join in considering, take counsel with; imparted; contrive; mention at the same …
+  μαντεύομαι(13) — divine, prophesy; draw divinations from; by means of; presage, forebode, surmise
+  τεκμαίρομαι(6) — assign, ordain; appoint; am arranging; settle with oneself
+
+=== hdbscan cluster 237  (n=5, coherence=0.677) ===
+  ὄμνυμι(35) — swear; swear to; affirm; confirm by oath
+  ὑπισχνέομαι(25) — take upon oneself; undertake to do; promise; she makes promises
+  ὅρκος(33) — the object by which one swears; oath; an oath by; an oath
+  ἐπικλώθω(6) — spin upon; spin to; assign; its destiny
+  δοάσσατο(11) — it seemed; appear

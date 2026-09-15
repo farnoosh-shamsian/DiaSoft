@@ -1,0 +1,779 @@
+# UMAP+HDBSCAN: 194 clusters — label = Ancient Greek WordNet semfields shared by members (votes in parens);
+# coverage = share of members found in AGWN; member frequency in parens; members sorted by centrality
+
+cluster 178  |  33 lemmas  |  AGWN coverage 94%
+  label: Eating, drinking; using drugs (17); Life Sciences; Biology (13); Food & Drink (12)
+  Ποντόνοος(5)  ἐπάρχω(7)  κιρνάω(6)  οἰνοχόος(5)  ἐπιστέφω(5)  σπόγγος(5)  οἶνος(129)  νέκταρ(7)  κεράννυμι(9)  μελίφρων(10)  ποτός(11)  δέπας(56)  οἰνοχοέω(7)  κρατήρ(41)  ἀμφικύπελλος(15)  κάνεον(14)  κεράω(5)  κύπελλον(10)  ἀσκός(8)  ἐρυθρός(10)  ἀμφιφορεύς(9)  μέθυ(17)  ἀφύσσω(19)  σπένδω(34)  μελιηδής(22)  αἶθοψ(33)  πάννυχος(6)  σῖτος(69)  ἄλεισον(9)  τράπεζα(36)  ἡδύς(45)  νωμάω(25)  περικαλλής(54)
+
+cluster 155  |  32 lemmas  |  AGWN coverage 97%
+  label: Life Sciences; Biology (20); Plants (Botany) (15); Building & Construction (14)
+  ὄγχνη(6)  τηλεθάω(9)  ἐλαία(12)  ῥίζα(8)  φυτόν(8)  οἰοπόλος(5)  μελάνυδρος(5)  δένδρεον(14)  σηκός(6)  γάλα(7)  θέρος(5)  ῥόπαλον(6)  ὑψίκομος(6)  καρπός(13)  ἄνθος(11)  κῆπος(6)  κρήνη(18)  ἔρνος(5)  δρῦς(17)  ὄρος(93)  βῆσσα(12)  βρίθω(13)  πόα(5)  καρπός2(11)  κομιδή(7)  ἄνευ(8)  ὕλη(47)  χῶρος(33)  φυτεύω(12)  κορυφή(29)  αἰόλος(8)  ἀζηχής(5)
+
+cluster 94  |  31 lemmas  |  AGWN coverage 77%
+  label: Human figures (12); Law (9); Metrology & standardization (8)
+  φιλομμειδής(6)  Ἥρα(127)  τανύπεπλος(7)  λευκώλενος(39)  γάλοως(5)  Ἀθήνη(310)  εὔπεπλος(7)  βοῶπις(14)  Ἀνδρομάχη(5)  γλαυκῶπις(90)  ʼἀθήνη(9)  κασιγνήτη(10)  ἐριούνιος(5)  θεά(199)  Ναυσικάα(11)  διάκτορος(18)  ἀγελείη(7)  Ἑρμῆς(36)  μήτηρ(207)  Ἑκάβη(8)  Ἀργειφόντης(27)  Ἀφροδίτη(41)  πότνια(68)  Ἑλένη(59)  παῖς(296)  Βελλεροφόντης(7)  οἴγω(14)  εὔκομος(21)  Ἀλέξανδρος(43)  Παλλάς(53)  δόμος(144)
+
+cluster 160  |  30 lemmas  |  AGWN coverage 90%
+  label: Meteorology (17); Human Physiology (14); Geography & Travel (12)
+  Ζέφυρος(20)  Εὖρος(6)  χιών(7)  Βορέας(25)  νιφάς(5)  ἄχνη(7)  λάβρος(5)  ἄημι(12)  πολύφλοισβος(8)  ἰωή(5)  Νότος(14)  δυσαής(5)  χειμών(5)  κῆτος(7)  ὄμβρος(15)  κῦμα(108)  ἄνεμος(105)  ψυχρός(9)  λαῖλαψ(14)  πέλαγος(7)  ἔρσα(5)  πνοή(22)  θάλασσα(118)  κλαγγή(8)  σχεδία(14)  ῥιπή(7)  θίς(37)  στενάχω(41)  ἠύτε(36)  ποθι(22)
+
+cluster 116  |  28 lemmas  |  AGWN coverage 82%
+  label: Psychology (10); Life Sciences; Biology (10); Human figures (10)
+  Τρώς(633)  Ἕκτωρ(442)  Ἀχαιός(714)  μάχομαι(241)  βροτολοιγός(13)  πόλεμος(279)  Ἀργεῖος(218)  Ἀχιλλεύς(382)  μάχη(134)  Ἀγαμέμνων(184)  λαός(294)  Δαναοί(154)  Ἄρης(163)  Δαναός(5)  κυδιάνειρα(9)  πολύδακρυς(6)  Πηλείων(29)  ἄμοτον(9)  ἀμφιμάχομαι(8)  Πριαμίδης(33)  χαλκοχίτων(32)  κορυθαίολος(39)  κρείων(69)  Πηλεύς(68)  ἀριδείκετος(9)  μέμαα(115)  ποιμήν(68)  ἥρως(114)
+
+cluster 138  |  27 lemmas  |  AGWN coverage 70%
+  label: Human Physiology (9); Chemistry (8); Linguistics (7)
+  πετρήεις(5)  Φηραί(5)  Ὀρχομενός(5)  ἀμφινέμομαι(10)  Ἴφιτος(5)  ζάθεος(7)  Σπάρτη(7)  εὐρύχορος(10)  ποιήεις(8)  Πήδασος(8)  Ἄδρηστος(6)  Δουλίχιον(6)  ἠμαθόεις(12)  ναίω(76)  πολύπυρος(6)  αἰπεινός(14)  Ἦλις(10)  Πύλος(37)  Λακεδαίμων(15)  ναίω2(23)  νέμω(45)  οἰκίον(22)  ἀφνειός(29)  ἐρατεινός(22)  ἄρχω(126)  ἶφι(17)  Θεσπρωτοί(9)
+
+cluster 147  |  26 lemmas  |  AGWN coverage 88%
+  label: Psychology (13); Life Sciences; Biology (13); Law (12)
+  διαλέγω(5)  ἐρωτάω(5)  τοιγάρ(19)  ἀλήθεια(9)  ἀτρεκής(34)  ἐτήτυμος(14)  καταλέγω(68)  ἤ2(9)  μαντεύομαι(14)  ἐξερέω(15)  ἄγε(193)  λέγω3(15)  ἀληθής(9)  μαῖα(12)  ναί(11)  ἐνέπω(38)  θεοπροπία(7)  μάντις(17)  νημερτής(31)  ἐρῶ(100)  ἀλέγω(11)  δοκέω(27)  λέγω(24)  Κάλχας(6)  διηνεκής(9)  παρέξ(22)
+
+cluster 92  |  25 lemmas  |  AGWN coverage 96%
+  label: Music (13); Psychology (11); Human Physiology (10)
+  ὀρχηθμός(5)  γλυκερός(5)  μολπή(9)  ὀρχηστύς(6)  ἕσπερος(7)  μέλπω(5)  ἱμερόεις(10)  Δημόδοκος(9)  ἀοιδός(38)  φόρμιγξ(21)  δοιώ(7)  ἀοιδή(24)  κίθαρις(5)  μελέδημα(5)  ἀείδω(40)  τέρπω(98)  ὕπνος(103)  γλυκύς(42)  λιγύς(28)  δαήμων(5)  χορός(15)  ἀμφιχέω(7)  βλέφαρον(28)  νήδυμος(12)  ἐρίηρος(24)
+
+cluster 176  |  25 lemmas  |  AGWN coverage 84%
+  label: Building & Construction (15); Eating, drinking; using drugs (14); Psychology (14)
+  ὀβελός(14)  μιστύλλω(10)  ὀπτάω(17)  περιφραδής(6)  μῆρα(6)  σπλάγχνον(9)  δέρω(10)  πείρω(24)  πατέομαι(15)  ἐπισταμένως(14)  ξύλον(13)  ἕπω(6)  δατέομαι(31)  νηέω(9)  ἀμφιέπω(11)  ὑπέρτερος(7)  πάσσω(9)  ὠμός(7)  κεάζω(11)  θέρω(5)  κρέας(45)  ἐντύνω(11)  ἕδρα(12)  ἀμφιέλισσα(18)  ἐρύω(155)
+
+cluster 49  |  24 lemmas  |  AGWN coverage 96%
+  label: Number & quantity (17); Music (8); Animals (Zoology) (7)
+  δώδεκα(27)  ἕνδεκα(5)  δυώδεκα(8)  ἐννέωρος(5)  τεσσαράκοντα(10)  δυοκαίδεκα(14)  ἦνις(5)  ἱερεύω(30)  ἑπτά(19)  ὀκτώ(5)  τέσσαρες(20)  ἐννέα(16)  δέκα(20)  εἴκοσι(32)  πεντήκοντα(24)  τάλαντον(17)  ἱερεύς(9)  πέντε(7)  ἕξ(16)  προπάροιθε(49)  ἱερεῖον(5)  ναός(14)  ἔριον(5)  πάροιθε(26)
+
+cluster 51  |  23 lemmas  |  AGWN coverage 91%
+  label: Transportation; Ground Transportation (15); Psychology (14); Life Sciences; Biology (14)
+  εὐτείχεος(7)  ἐκπέρθω(16)  ἀπάτη(5)  ἐξαλαπάζω(12)  ἀποστείχω(5)  διαπέρθω(13)  ἀπονέομαι(17)  πόλις(225)  πέρθω(21)  ἀπάγω(7)  εὐρυάγυια(12)  ἀσπερχές(6)  στείχω(11)  ἀλαπάζω(11)  νέομαι(89)  ἄστυ(131)  μέμονα(13)  λιλαίομαι(24)  ἀνάγω(14)  μενεαίνω(38)  ἀνάγκη(42)  ἀπολήγω(12)  χραισμέω(19)
+
+cluster 85  |  23 lemmas  |  AGWN coverage 100%
+  label: Psychology (15); Economics (14); Sociology & anthropology (11)
+  μηχανάομαι(15)  ὑβρίζω(8)  λώβη(14)  ἀτάσθαλος(18)  πρᾶξις(6)  ἀτασθαλία(11)  μάψ(9)  νέμεσις(9)  αἶσχος(8)  ὑπερβασία(7)  μαψίδιος(9)  ἀλάλημαι(15)  ἀλλότριος(16)  ἀλάομαι(27)  ἀτέλεστος(7)  δόσις(5)  ἀέκητι(16)  τίνω(49)  θυμαλγής(13)  ἀποτίνω(28)  σφός(14)  αὔτως(57)  ἴσχω(36)
+
+cluster 95  |  22 lemmas  |  AGWN coverage 91%
+  label: Life Sciences; Biology (11); Animals (Zoology) (11); Psychology (11)
+  ἀπονίναμαι(7)  ὑπότροπος(5)  ἀπονοστέω(6)  πότμος(35)  τηλίκος(5)  Ἰθάκηνδε(5)  ζῶ(9)  ὀφείλω(27)  ἔλπω(63)  χρέος(11)  νοστέω(51)  ἥβη(18)  θνήσκω(138)  ἄατος(7)  δόμονδε(9)  εἴθε(21)  ὀφέλλω(30)  γῆρας(34)  σήμερον(10)  ἐφέπω(48)  οἴκαδε(74)  ἄλαλκε(13)
+
+cluster 108  |  22 lemmas  |  AGWN coverage 91%
+  label: Animals (Zoology) (9); Psychology (8); Eating, drinking; using drugs (7)
+  ὑπόδρα(26)  προσαυδάω(179)  ἀπαμείβομαι(125)  πρόσφημι(235)  πτερόεις(130)  ἔπος(443)  μειδάω(15)  προσεῖπον(189)  κηρόθι(9)  ὀχθέω(29)  κερτόμιος(6)  αἰσχρός(10)  προσφωνέω(40)  ἀγχοῦ(28)  νεικέω(42)  ἐνίπτω(23)  παράφημι(6)  ἀμείβω(168)  φωνέω(163)  ἐνίσσω(5)  πολύμητις(83)  ὀνομάζω(51)
+
+cluster 190  |  22 lemmas  |  AGWN coverage 100%
+  label: Production (8); Fashion design of clothing (8); Human anatomy, cytology & histology (7)
+  ἐπισφύρια(5)  κνημίς(8)  ἵππουρις(6)  λόφος(15)  ἔθειρα(5)  βριαρός(7)  γέντο(5)  εὔκυκλος(7)  κρόταφος(11)  κασσίτερος(10)  βόειος(7)  τελαμών(15)  εὔτυκτος(10)  χαλκεύς(6)  κνήμη(16)  τρυφάλεια(15)  ἀργύρεος(38)  ἑπταβόειος(5)  χρύσεος(125)  ὠκύμορος(9)  κράς(31)  κάμνω(47)
+
+cluster 55  |  20 lemmas  |  AGWN coverage 85%
+  label: Psychology (10); Religion (9); Institutions pertaining to relations of the sexes (9)
+  κτεατίζω(5)  καθαιρέω(7)  χατίζω(7)  τανηλεγής(8)  σπεῖρον(7)  ἀλητεύω(5)  αἰτίζω(10)  Ἀχαιίς(20)  ἀνιάω(7)  πτωχεύω(5)  ἀναιρέω(16)  ἀεικίζω(8)  ἄτερ(13)  γέρας(42)  ἀφαιρέω(20)  ἐξαιρέω(25)  μοῖρα(107)  στερεός(9)  ὀλοός(42)  πτωχός(21)
+
+cluster 119  |  20 lemmas  |  AGWN coverage 90%
+  label: Psychology (11); Economics (10); Law (10)
+  ἀκήριος(8)  ἐρωέω(11)  ἀναίτιος(5)  ὄπις(5)  δέος(24)  φθινύθω(13)  πάρημαι(13)  ἐρητύω(21)  ἔσω(6)  πάμπαν(37)  ἀναδύνω(7)  εἴκω2(16)  εἴκω(18)  θέμις(34)  κατερύκω(21)  ναύτης(12)  ἀφραδία(11)  κάθημαι(40)  ἀέξω(20)  ἐρύκω(59)
+
+cluster 179  |  20 lemmas  |  AGWN coverage 90%
+  label: Fashion design of clothing (10); Animals (Zoology) (10); Economics (8)
+  λίπα(9)  ἔλαιον(25)  χρίω(19)  ἀμφιάζω(5)  ἀλείφω(10)  καθαίρω(10)  ἀσάμινθος(11)  εἷμα(80)  ῥυπάω(5)  λούω(44)  οὖλος2(10)  χιτών(70)  ἀμβροσίη(12)  φᾶρος(29)  χλαῖνα(58)  ἕννυμι(63)  πλύνω(6)  νίζω(25)  ἀκηδής(8)  ἄμβροτος(20)
+
+cluster 75  |  19 lemmas  |  AGWN coverage 89%
+  label: Eating, drinking; using drugs (11); Psychology (10); Life Sciences; Biology (10)
+  βρώμη(5)  ἐδητύς(29)  πόσις2(27)  βρῶσις(11)  πίναξ(5)  ἔρος(26)  ποτής(10)  κοῖτος(10)  πίνω(89)  ἐσθίω(18)  τῆ(7)  φαγεῖν(24)  θυμοφθόρος(5)  ξεινήιον(9)  ἔσθω(16)  σῶμα(8)  πόσις(70)  ἵημι(182)  δείκνυμι(26)
+
+cluster 177  |  19 lemmas  |  AGWN coverage 84%
+  label: Music (8); Life Sciences; Biology (7); Chemistry (7)
+  διοιστεύω(6)  νευρά(12)  νευρή(10)  βιός(17)  ἐντανύω(16)  ὀιστεύω(7)  ταρφύς(8)  φαρέτρα(13)  παλίντονος(5)  τόξον(111)  ὀιστός(54)  εὔξοος(17)  ἰός(35)  πικρός(18)  πειρητίζω(11)  στονόεις(11)  τανύω(52)  πειράω(74)  ῥᾴδιος(32)
+
+cluster 162  |  18 lemmas  |  AGWN coverage 44%
+  label: Life Sciences; Biology (3); Human Physiology (3); Psychology (3)
+  Πελασγός(5)  Λεοντεύς(5)  Μέγης(7)  Ἱππόθοος(7)  Θόων(5)  Πολυποίτης(7)  Ἀσκάλαφος(7)  Μυσός(5)  μενεχάρμης(7)  μενεπτόλεμος(10)  Πολύδωρος(5)  Πηνέλεως(8)  Ἀμφίμαχος(6)  Φόρκυς(7)  ἀγέρωχος(8)  ὄζος(19)  Λυκάων(19)  ἀντίθεος(61)
+
+cluster 19  |  17 lemmas  |  AGWN coverage 82%
+  label: Economics (7); Psychology (6); Linguistics (6)
+  πανσυδίῃ(5)  λιγύφθογγος(5)  κηρύσσω(8)  ὑπηοῖος(5)  θωρήσσω(43)  ναῦς(995)  κομάω(33)  φιλοπόλεμος(10)  κελεύω(190)  φθισήνωρ(5)  θοός(154)  Ταλθύβιος(9)  κάρα(82)  τεῦχος(192)  Μυρμιδόνες(42)  κῆρυξ(90)  μέλας(180)
+
+cluster 82  |  17 lemmas  |  AGWN coverage 94%
+  label: Psychology (11); Animals (Zoology) (8); Medicine & Health (8)
+  ἄλαστος(6)  οἶτος(11)  ἄλγος(92)  πάσχω(118)  τολυπεύω(7)  ἀναπίμπλημι(8)  κῆδος(49)  ἄσχετος(8)  πένθος(34)  ὄλλυμι(166)  πῆμα(46)  φθίω(37)  ἄχος(60)  ἀπόλλυμι(66)  τρώς(9)  ἑλκέω(6)  ἀλεγεινός(30)
+
+cluster 98  |  17 lemmas  |  AGWN coverage 82%
+  label: Eating, drinking; using drugs (8); Life Sciences; Biology (6); Chemistry (5)
+  πολύχρυσος(5)  Ἀλκμήνη(5)  Μυκήνη(8)  ἀνάσσω(66)  Θήβη(10)  πολύχαλκος(5)  εὐστέφανος(6)  Ἡράκλειος(7)  πλοῦτος(8)  βασιλεύω(11)  Διόνυσος(5)  Φθία(9)  Ἑλλάς(10)  οἰκέω(7)  ὀλοόφρων(6)  ἐκγίγνομαι(15)  βασιλεύς(104)
+
+cluster 111  |  17 lemmas  |  AGWN coverage 88%
+  label: Geography & Travel (7); Eating, drinking; using drugs (6); Plants (Botany) (5)
+  ἐυρρεής(5)  βαθυδίνης(6)  ποταμός(113)  βαθύρροος(5)  Σιμόεις(8)  δινήεις(13)  Ὠκεανός(33)  Ξάνθος(21)  Σκάμανδρος(12)  ῥοή(16)  δίνη(7)  ῥεῖθρον(23)  κάτειμι(8)  Λυκία(19)  βαθύς(38)  ἄρουρα(44)  ἵκω(40)
+
+cluster 187  |  17 lemmas  |  AGWN coverage 88%
+  label: Animals (Zoology) (10); Eating, drinking; using drugs (9); Music (8)
+  ἔγχος(240)  δόρυ(272)  λαπάρα(7)  ἀμφίγυος(9)  βριθύς(6)  ἀκαχμένος(11)  νύσσω(26)  κενεών(5)  σπάω(15)  ξυστόν(5)  ὀξυόεις(11)  οὐτάω(47)  ἔντερον(6)  φάσγανον(25)  ὦμος(154)  λάξ(8)  ἐρωή(11)
+
+cluster 61  |  15 lemmas  |  AGWN coverage 87%
+  label: Public Administration (4); Sociology & anthropology (4); Astronomy (3)
+  πόθι(6)  ἀπόπροθι(6)  τηλεδαπός(8)  τηλόθι(14)  πάτρα(7)  ἀπόπροθεν(7)  πόλινδε(11)  ἀγρός(29)  ἀλλοδαπός(12)  τόθι(5)  τηλόθεν(16)  αὐτόθι(34)  πόθεν(14)  πάτρη(11)  ἄστυδε(7)
+
+cluster 62  |  15 lemmas  |  AGWN coverage 100%
+  label: Life Sciences; Biology (9); Psychology (9); Animals (Zoology) (8)
+  κύρμα(6)  ἕλωρ(9)  ἀνάρσιος(6)  λίνον(6)  δυσμενής(32)  χέρσος(16)  ἰχθύς(18)  χάρμα(8)  δηλέομαι(16)  ἕρμα(5)  φώκη(7)  ἐμμενής(5)  οἰωνός(28)  κύων(116)  ἀμέγαρτος(5)
+
+cluster 71  |  15 lemmas  |  AGWN coverage 80%
+  label: Eating, drinking; using drugs (8); Athletic & Outdoor Sports & Games (8); Production (8)
+  ἐνδύω(5)  ὀμόργνυμι(5)  ἀπομόργνυμι(6)  δύω(5)  ὀρθόω(6)  πέδιλον(17)  λιπαρός(23)  δακρύω(15)  κρήδεμνον(14)  παρειά(19)  ἐκδύω(5)  ἔργνυμι(9)  δέω(57)  δακρυόεις(18)  μίγνυμι(81)
+
+cluster 109  |  15 lemmas  |  AGWN coverage 93%
+  label: Economics (6); Transportation; Ground Transportation (6); Arts & Recreation (6)
+  εὐφρονέων(8)  μετεῖπον(65)  ἀγοράομαι(27)  ἀπεῖπον(12)  παρεῖπον(6)  μετάφημι(14)  παραπείθω(8)  δολοφρονέων(8)  ὁμηγερής(10)  βάζω(18)  φρονέω(95)  ἀγορά(71)  ὀψέ(19)  σπουδή(12)  πείθω(204)
+
+cluster 125  |  15 lemmas  |  AGWN coverage 87%
+  label: Human Physiology (9); Psychology (9); Medicine & Health (5)
+  ἀνεμώλιος(6)  αἴσυλος(6)  ὀπαδέω(9)  Ἰθακήσιος(11)  ψεῦδος(11)  αἴτιος(17)  ὑπερηνορέων(14)  σχέτλιος(31)  τελέθω(12)  κερδαλέος(5)  λίαν(42)  μέλω(63)  ἑκών(18)  νέος(106)  ἀρετή(37)
+
+cluster 135  |  15 lemmas  |  AGWN coverage 100%
+  label: Economics (10); Psychology (9); Animals (Zoology) (9)
+  γουνάζομαι(6)  ἐμπάζομαι(11)  ἅζομαι(8)  συμφράζομαι(5)  σκύζομαι(7)  τοξάζομαι(7)  παρέζομαι(5)  καθέζομαι(24)  ἐφέζομαι(7)  ἕζομαι(95)  λιάζομαι(13)  ἐργάζομαι(9)  λάζομαι(16)  ἀπηνής(11)  ἄγαμαι(27)
+
+cluster 9  |  14 lemmas  |  AGWN coverage 71%
+  label: Human figures (4); Water, Air & Space Transportation (4); Religion (4)
+  ἑκηβόλος(9)  Χρυσηίς(6)  Χρύσης(5)  ἑκατηβόλος(7)  ἄποινα(26)  ἀπερείσιος(13)  Ἀπόλλων(157)  κλυτότοξος(5)  καλλιπάρηος(16)  Φοῖβος(52)  Βρισηίς(10)  ἀργυρότοξος(14)  ἀπολύω(8)  δέσποινα(10)
+
+cluster 40  |  14 lemmas  |  AGWN coverage 93%
+  label: Psychology (6); Human Physiology (6); Production (6)
+  πολύκμητος(6)  κάλλιμος(6)  χρυσός(73)  περιχέω(9)  ἐσθής(15)  κόμη(13)  πάσσων(5)  παίζω(5)  ἄργυρος(13)  ἅλις(29)  ἄγαλμα(8)  κάλλος(16)  δαίζω(21)  ἄμφω(61)
+
+cluster 68  |  14 lemmas  |  AGWN coverage 100%
+  label: Psychology (13); Economics (11); Law (9)
+  ἐπικραίνω(6)  κραίνω(13)  ἀλιταίνω(7)  ἔλδωρ(10)  χαλεπαίνω(18)  εὐφραίνω(8)  ἐναργής(5)  ἰαίνω(20)  ἐφετμή(10)  ἐπιλήθω(6)  ἐριδαίνω(8)  ἐπακούω(12)  ὀνίνημι(16)  χαλεπός(54)
+
+cluster 88  |  14 lemmas  |  AGWN coverage 100%
+  label: Psychology (11); Human Physiology (8); Economics (8)
+  γέλως(8)  ἐνόρνυμι(5)  πολύφρων(10)  ἄσβεστος(14)  τέχνη(9)  εὐφροσύνη(5)  ἄναλκις(19)  μάκαρ(38)  φύζα(7)  Ἥφαιστος(60)  ἄλλως(17)  ἐνηής(5)  πέλω(109)  λεύσσω(13)
+
+cluster 90  |  14 lemmas  |  AGWN coverage 100%
+  label: Human Physiology (10); Psychology (8); Human anatomy, cytology & histology (8)
+  ἀγητός(5)  ἔλεγχος(6)  εἶδος(44)  φυή(10)  ἦδος(5)  ἐπιχθόνιος(14)  μέγεθος(10)  χερείων(16)  δέμας(42)  ἐλεγχής(6)  ὅμοιος(24)  μῆδος(19)  αἰδώς(25)  πέπων(18)
+
+cluster 63  |  13 lemmas  |  AGWN coverage 92%
+  label: Athletic & Outdoor Sports & Games (6); Linguistics (6); Number & quantity (5)
+  δέκατος(19)  ἔτος(22)  ἑνδέκατος(6)  περιτέλλομαι(5)  ἐνιαυτός(27)  δωδέκατος(11)  ἡμέρα(6)  τέτρατος(6)  εἰκοστός(12)  μείς(15)  τελεσφόρος(5)  ἐννῆμαρ(12)  ὥρα(27)
+
+cluster 76  |  13 lemmas  |  AGWN coverage 92%
+  label: Human Physiology (6); Psychology (5); Economics (3)
+  ὑψιβρεμέτης(6)  ἑτεραλκής(6)  μητίομαι(7)  μητίετα(19)  νίκη(39)  κῦδος(78)  βούλομαι(37)  μέρμερος(6)  αἴρω(43)  πάγχυ(26)  τοσόσδε(13)  ζεύς(12)  τοιόσδε(28)
+
+cluster 105  |  13 lemmas  |  AGWN coverage 100%
+  label: Economics (9); Psychology (8); Music (7)
+  ἐπικλώθω(8)  ἀρίγνωτος(7)  ὄλβος(10)  μόρος(16)  ὄλβιος(15)  ἆ(14)  ὀχέω(8)  γόνος(16)  Οὐρανίωνες(11)  οὐλόμενος(14)  δειλός(37)  ἐλαφρός(14)  ῥεῖα(37)
+
+cluster 150  |  13 lemmas  |  AGWN coverage 54%
+  label: Psychology (3); Human figures (3); Sociology & anthropology (3)
+  Λαοδάμας(7)  Ἀντήνωρ(17)  Ἀγήνωρ(13)  ῥηξήνωρ(5)  Ἀκάμας(10)  ἀγαπήνωρ(6)  αὐτοκασίγνητος(6)  Πουλυδάμας(30)  Πόλυβος(13)  πύξ(8)  ἀγαυός(48)  κασίγνητος(47)  ἀγήνωρ(41)
+
+cluster 167  |  13 lemmas  |  AGWN coverage 100%
+  label: Meteorology (3); Arts & Recreation (3); Chemistry (3)
+  θυσανόεις(5)  βροντάω(6)  στεφανόω(5)  αἴγλη(5)  αἰγίς(12)  ἄστρον(5)  ἀχλύς(10)  κτυπέω(8)  νέφος(45)  αἰθήρ(25)  ὑψόθεν(8)  θεσπέσιος(36)  ἀήρ(28)
+
+cluster 17  |  12 lemmas  |  AGWN coverage 83%
+  label: Stage Presentations (10); Life Sciences; Biology (10); Music (10)
+  τίθημι(376)  φέρω(372)  δίδωμι(483)  παρατίθημι(28)  κατατίθημι(50)  ἐπιτίθημι(32)  ἄγω(308)  ἀείρω(67)  δῶρον(126)  ἐντίθημι(14)  ἐκφέρω(17)  τεύχω(170)
+
+cluster 74  |  12 lemmas  |  AGWN coverage 92%
+  label: Law (5); Psychology (5); Public Administration (4)
+  νεώτερος(7)  φίλτερος(6)  βέλτερος(8)  φείδομαι(10)  κύντερος(5)  μεθίημι(39)  ἁλίσκομαι(18)  ὕστερος(31)  μέδομαι(15)  ἔλδομαι(19)  ὤψ(6)  εἴδομαι(50)
+
+cluster 121  |  12 lemmas  |  AGWN coverage 100%
+  label: Economics (7); Card games (6); Institutions pertaining to relations of the sexes (6)
+  ὄθομαι(5)  ὄσσομαι(9)  ὀδύσσομαι(9)  πεύθομαι(16)  δειδίσσομαι(8)  νίσσομαι(8)  προτιόσσομαι(5)  ἄχθομαι(5)  λίσσομαι(74)  ἐπιπείθομαι(26)  μήδομαι(34)  χώομαι(46)
+
+cluster 130  |  12 lemmas  |  AGWN coverage 92%
+  label: Animals (Zoology) (7); Law (7); Psychology (7)
+  ἠλάκατα(5)  ὁμαδέω(5)  εὐνάζω(6)  ἀδέω(5)  στρωφάω(7)  ἐσχάρα(11)  πλησίος(26)  εὐνάω(13)  ἧμαι(130)  καταδέω(10)  θαυμάζω(24)  ἴχνιον(8)
+
+cluster 132  |  12 lemmas  |  AGWN coverage 50%
+  label: Community planning and development (3); Geography & Travel (3); Human figures (2)
+  Ὀρτίλοχος(5)  Ἀλφειός(7)  Ἀξιός(6)  Μίνως(7)  Καλυδών(6)  Κρήτη(17)  Πρωτεσίλαος(6)  Πύλιος(14)  πολίτης(5)  Ἠετίων(12)  Ἐπειός(22)  ναιετάω(36)
+
+cluster 137  |  12 lemmas  |  AGWN coverage 100%
+  label: Mathematics (9); Political Science (9); Psychology (8)
+  ἀκούω(182)  συντίθημι(13)  εἶπον(560)  συνίημι(17)  μῦθος(300)  εἶδον(439)  ἐπικεύθω(13)  ὄψ(26)  ἐνίημι(18)  ὁράω(105)  ὀφθαλμός(118)  ἀνίημι(36)
+
+cluster 168  |  12 lemmas  |  AGWN coverage 75%
+  label: Law (8); Eating, drinking; using drugs (7); Psychology (7)
+  ἀλεγύνω(5)  δαίς2(15)  δαίνυμι(57)  δαίτη(17)  εἰλαπίνη(5)  δέω2(14)  ἔισος(25)  πένομαι(16)  ἕκηλος(19)  δήω(9)  γάμος(35)  κτῆμα(61)
+
+cluster 175  |  12 lemmas  |  AGWN coverage 100%
+  label: Economics (7); Eating, drinking; using drugs (6); Psychology (6)
+  κρημνός(6)  γυμνός(11)  λάσκω(5)  ἀμφοτέρωθεν(17)  πλευρά(5)  ἐρεμνός(5)  γυμνόω(8)  στένω(6)  πρυμνός(27)  δεινός(96)  χάσκω(8)  ἕλκω(65)
+
+cluster 28  |  11 lemmas  |  AGWN coverage 91%
+  label: Music (3); Law (3); Eating, drinking; using drugs (3)
+  γαιήοχος(17)  κυανοχαίτης(8)  Ἑκάεργος(11)  ʽἑκάεργος(6)  Ποσειδεών(79)  κότος(7)  Ἐνοσίχθων(40)  μεγαίρω(8)  Ἐννοσίγαιος(24)  ἱλάσκομαι(7)  συγχέω(7)
+
+cluster 34  |  11 lemmas  |  AGWN coverage 100%
+  label: Economics (8); Psychology (7); Athletic & Outdoor Sports & Games (7)
+  ἀνανεύω(5)  νεύω(19)  κατανεύω(19)  λιτανεύω(6)  ὑπέχω(5)  γεύω(5)  ἀποσεύω(5)  ἡγεμονεύω(34)  ἀπέχω(19)  ὑπισχνέομαι(25)  σεύω(51)
+
+cluster 50  |  11 lemmas  |  AGWN coverage 100%
+  label: Human Physiology (5); Law (4); Psychology (4)
+  νοῦσος(5)  Ἄρτεμις(27)  ἁγνός(5)  ἰοχέαιρα(12)  ἀγανός(16)  κατέπεφνον(18)  χρυσόθρονος(15)  εὔθρονος(6)  Ἐρινύς(12)  στυγερός(43)  ἆθλος(42)
+
+cluster 64  |  11 lemmas  |  AGWN coverage 100%
+  label: Psychology (10); Economics (9); Astronomy (7)
+  πατρίς(129)  ἱκνέομαι(290)  ἀφικνέομαι(52)  ἀφικάνω(8)  γαῖα(294)  ἐξικνέομαι(6)  εἰσαφικνέομαι(10)  ἱκάνω(117)  αἶα(28)  θέσφατος(10)  τυτθός(32)
+
+cluster 81  |  11 lemmas  |  AGWN coverage 91%
+  label: Building & Construction (7); Psychology (6); Human Physiology (5)
+  τέγος(7)  πύκα(15)  ποιητός(15)  φηγός(8)  Σκαιαί(12)  ὀχεύς(13)  πύλη(63)  ἄψορρος(12)  σταθμός(41)  ἄντα(41)  ῥίον(6)
+
+cluster 123  |  11 lemmas  |  AGWN coverage 91%
+  label: Law (7); Athletic & Outdoor Sports & Games (6); Animals (Zoology) (6)
+  ἵππος(459)  ἡνία(27)  κρατερῶνυξ(7)  μαστίζω(11)  καλλίθριξ(16)  μάστιξ(22)  μεθέπω(6)  μῶνυξ(26)  ἡνίοχος(30)  δίφρος(89)  ὠκύπους(13)
+
+cluster 128  |  11 lemmas  |  AGWN coverage 82%
+  label: Human Physiology (6); Life Sciences; Biology (4); Sociology & anthropology (4)
+  ὁποῖος(6)  ἀλήτης(12)  ψεύδω(8)  ποῖος(23)  Οὖτις(6)  αἰδοῖος(46)  τέκνον(77)  Προῖτος(5)  τοῖος(96)  πολλάκις(14)  νήπιος(71)
+
+cluster 133  |  11 lemmas  |  AGWN coverage 100%
+  label: Economics (9); Psychology (8); Human Physiology (8)
+  πᾶς(1080)  πολύς(869)  ἀνήρ(1038)  μάλα(530)  μέγας(728)  ὅσος(266)  ἐθέλω(293)  ἀεί(237)  ἕκαστος(228)  ἅπας(114)  ὦκα(76)
+
+cluster 152  |  11 lemmas  |  AGWN coverage 100%
+  label: Psychology (7); Medicine & Health (7); Animals (Zoology) (7)
+  πῦρ(166)  ἀκάματος(10)  ἐμπρήθω(8)  ἐμπίμπρημι(5)  ἀνακαίω(6)  θεσπιδαής(8)  αἴθω(22)  ἐμπίπτω(17)  κάματος(26)  καπνός(20)  πύματος(17)
+
+cluster 164  |  11 lemmas  |  AGWN coverage 100%
+  label: Life Sciences; Biology (5); Plants (Botany) (5); Building & Construction (5)
+  ἐλάτινος(5)  ἔντοσθεν(6)  σειρά(5)  ἔντοσθε(19)  κίων(12)  πλεκτός(5)  ἐλάτη(6)  ἔκτοσθε(10)  ὑψόσε(23)  πυκάζω(12)  ἄκρον(7)
+
+cluster 0  |  10 lemmas  |  AGWN coverage 100%
+  label: Psychology (9); Athletic & Outdoor Sports & Games (9); Geography & Travel (9)
+  ὑπέρχομαι(5)  ἀπέρχομαι(5)  ἐπέρχομαι(58)  ἀνέρχομαι(9)  διέρχομαι(10)  ἐξέρχομαι(18)  παρέρχομαι(8)  κατέρχομαι(20)  μετέρχομαι(17)  εἰσέρχομαι(31)
+
+cluster 4  |  10 lemmas  |  AGWN coverage 90%
+  label: Athletic & Outdoor Sports & Games (5); Economics (5); Law (4)
+  αἰγανέη(5)  δίσκος(6)  δάπεδον(10)  τυκτός(5)  ἀφίημι(22)  ἐφίημι(35)  πλήθω(9)  αἰζηός(20)  ἐφίζω(8)  ἀναιδής(12)
+
+cluster 16  |  10 lemmas  |  AGWN coverage 60%
+  label: Mathematics (3); Transportation; Ground Transportation (3); Music (3)
+  διίστημι(7)  ἐφίστημι(20)  περιίστημι(7)  ὑφίστημι(19)  ἀφίστημι(13)  ῥύομαι(31)  δύο(154)  τρίτατος(12)  ὑποδύομαι(7)  εἷς(80)
+
+cluster 27  |  10 lemmas  |  AGWN coverage 20%
+  label: Games Of Chance (2); Mathematics (2); Arts & Recreation (2)
+  ἄπειμι2(11)  ἔπειμι2(16)  ἔξειμι2(5)  ἔπειμι(7)  ἄπειμι(20)  πρόσειμι2(7)  σύνειμι2(9)  ἔνειμι(11)  μέτειμι(16)  ἄνειμι(20)
+
+cluster 31  |  10 lemmas  |  AGWN coverage 70%
+  label: Law (4); Games Of Chance (3); Psychology (3)
+  ὑποδείδω(13)  ἐπιάχω(5)  ὁμοκλή(7)  ἐπιέννυμι(9)  δείδω(105)  ὁμοκλέω(21)  περιδείδω(8)  λήγω(18)  ὑπομένω(9)  τρομέω(9)
+
+cluster 36  |  10 lemmas  |  AGWN coverage 90%
+  label: Psychology (7); Athletic & Outdoor Sports & Games (7); Economics (7)
+  οὔπως(6)  λοιγός(22)  μόθος(5)  ἀπωθέω(22)  δύναμαι(117)  ἀμύνω(95)  πως(81)  ἐφορμάω(17)  ὁρμάω(38)  Μέντωρ(20)
+
+cluster 37  |  10 lemmas  |  AGWN coverage 80%
+  label: Human Physiology (3); Chemistry (2); Psychology (2)
+  ναυσικλυτός(6)  δολιχήρετμος(6)  φιλήρετμος(8)  Φαίαξ(74)  ἐπήρετμος(6)  Τάφιοι(6)  ἀγακλυτός(9)  περικλυτός(24)  κλυτός(74)  πατρώιος(24)
+
+cluster 38  |  10 lemmas  |  AGWN coverage 100%
+  label: Psychology (8); Transportation; Ground Transportation (7); Athletic & Outdoor Sports & Games (7)
+  δηθύνω(5)  θύνω(13)  ὀροθύνω(7)  κλονέω(20)  κιχάνω(61)  φθάνω(20)  φάλαγξ(34)  τυγχάνω(35)  πρόμαχος(40)  λαγχάνω(29)
+
+cluster 41  |  10 lemmas  |  AGWN coverage 90%
+  label: Law (7); Mathematics (7); Psychology (7)
+  διαπρύσιος(7)  διαπράσσω(8)  γέγωνα(18)  αὔω2(47)  ἐπιμίξ(5)  διακρίνω(18)  βοάω(27)  κέλευθος(38)  ἀλεείνω(26)  κρίνω(35)
+
+cluster 42  |  10 lemmas  |  AGWN coverage 90%
+  label: Psychology (5); Human Physiology (4); Athletic & Outdoor Sports & Games (3)
+  μεταμώνιος(6)  κάμμορος(5)  δύσμορος(8)  ξένιος(21)  ἐκτελέω(30)  Λαέρτης(30)  δμῶος(6)  ἀρέσκω(10)  δύστηνος(22)  τελέω(135)
+
+cluster 54  |  10 lemmas  |  AGWN coverage 80%
+  label: Life Sciences; Biology (5); Psychology (4); Ball games (4)
+  ὄλεθρος(81)  τῇδε(6)  ἀρκέω(10)  θάνατος(137)  αἶσα(24)  λυγρός(61)  κήρ(77)  Αἶσα(11)  αἰπύς(53)  ἀπαυράω(37)
+
+cluster 70  |  10 lemmas  |  AGWN coverage 100%
+  label: Eating, drinking; using drugs (6); Athletic & Outdoor Sports & Games (6); Psychology (6)
+  κατακείω(16)  κατακλάω(9)  κατακαίω(7)  κατακρύπτω(6)  κείω(7)  οἶκόνδε(20)  ἄνδιχα(5)  ὑπολείπω(7)  κρύπτω(12)  ἦτορ(94)
+
+cluster 72  |  10 lemmas  |  AGWN coverage 80%
+  label: Music (5); Chemistry (4); Animals (Zoology) (4)
+  Τρωικός(5)  κατεσθίω(5)  γέφυρα(7)  οἰμωγή(6)  στοναχή(13)  Τρωιός(18)  πτώσσω(9)  κτύπος(11)  πεδίον(114)  ἐλεεινός(12)
+
+cluster 73  |  10 lemmas  |  AGWN coverage 80%
+  label: Music (3); Life Sciences; Biology (2); Psychology (2)
+  αὐδήεις(7)  καλλιπλόκαμος(6)  εὐπλόκαμος(27)  φιλέω(82)  τιμήεις(9)  ἕδνον(14)  τίω(56)  Ἀντιφάτης(6)  Κίρκη(46)  πόρω(68)
+
+cluster 87  |  10 lemmas  |  AGWN coverage 100%
+  label: Psychology (7); Human Physiology (6); Sociology & anthropology (4)
+  ἄγχιστος(6)  σέβας(6)  οἴκτιστος(7)  ἄπιστος(6)  κράτιστος(11)  ἔοικα(134)  κλέπτω(6)  πρώτιστος(21)  εἰσοράω(72)  λάθρῃ(14)
+
+cluster 113  |  10 lemmas  |  AGWN coverage 100%
+  label: Life Sciences; Biology (7); Eating, drinking; using drugs (6); Animals (Zoology) (6)
+  δάκρυον(102)  εἴβω(9)  λείβω(20)  φύρω(6)  χέω(152)  ὀφρύς(20)  θαλερός(33)  κατείβω(6)  θερμός(16)  πορφύρω(5)
+
+cluster 126  |  10 lemmas  |  AGWN coverage 100%
+  label: Human Physiology (5); Psychology (4); Sociology & anthropology (4)
+  ὑβριστής(5)  θεουδής(6)  θαρσαλέος(16)  δίκαιος(16)  μῶλος(7)  θαρσέω(23)  πολεμιστής(15)  νόος(102)  ἄγριος(32)  ὧδε(135)
+
+cluster 136  |  10 lemmas  |  AGWN coverage 80%
+  label: Psychology (4); Plants (Botany) (4); Building & Construction (4)
+  Ζάκυνθος(5)  Σάμη(6)  Σάμος(6)  κραναός(6)  Ἰθάκη(78)  κοιρανέω(12)  ὑλήεις(16)  τραχύς(11)  δῆμος(116)  φῆμις(7)
+
+cluster 141  |  10 lemmas  |  AGWN coverage 60%
+  label: Religion (4); Psychology (2); Human Physiology (2)
+  Μενέλαος(190)  Καπανεύς(6)  ἀγαθός(124)  βοή(67)  Ἀτρεύς(17)  υἱός(613)  ἄρειος(34)  Σθένελος(10)  Ἀτρείδης(209)  ξανθός(42)
+
+cluster 144  |  10 lemmas  |  AGWN coverage 90%
+  label: Psychology (9); Athletic & Outdoor Sports & Games (7); Transportation; Ground Transportation (7)
+  ἐκπεράω(6)  ἀνατρέχω(8)  λαῖτμα(9)  νήχω(9)  τρέχω(9)  περάω(25)  μηκάομαι(7)  διατμήγω(10)  ἐπιτρέχω(13)  προεῖδον(6)
+
+cluster 151  |  10 lemmas  |  AGWN coverage 90%
+  label: Eating, drinking; using drugs (8); Economics (7); Psychology (7)
+  προβλής(6)  ἠλίβατος(6)  ἀτραπός(5)  ἀραιός(5)  προέχω(9)  ὁδός(10)  αὖος(7)  ἀκτή(23)  πέτρα(60)  ὁδός2(77)
+
+cluster 153  |  10 lemmas  |  AGWN coverage 100%
+  label: Life Sciences; Biology (7); Plants (Botany) (5); Geography & Travel (4)
+  ἐρινεός(6)  χθαμαλός(5)  θάμνος(9)  φύλλον(20)  αἴγειρος(8)  Διιπετής(5)  σκόπελος(9)  λεῖος(8)  φύω(35)  ἔργω(22)
+
+cluster 159  |  10 lemmas  |  AGWN coverage 100%
+  label: Athletic & Outdoor Sports & Games (5); Political Science (5); Law (4)
+  εἶλαρ(5)  ὀρυκτός(7)  τεῖχος(114)  σκόλοψ(9)  δέμω(14)  τάφρος(38)  ἔπαλξις(10)  ὑψηλός(58)  πύργος(44)  ἐκτός(20)
+
+cluster 174  |  10 lemmas  |  AGWN coverage 100%
+  label: Transportation; Ground Transportation (4); Music (4); Time (3)
+  ἠριγένεια(28)  ῥοδοδάκτυλος(27)  ἦμος(36)  ὁρμίζω(5)  ἠώς(113)  τῆμος(8)  πρυμνήσιος(13)  πάμπρωτος(9)  εὐνή(80)  δινεύω(15)
+
+cluster 180  |  10 lemmas  |  AGWN coverage 100%
+  label: Law (7); Building & Construction (7); Linguistics (7)
+  ἀνοίγνυμι(5)  κλείω(7)  θύρα(71)  συφεός(5)  κλείς(33)  διέκ(12)  αὐλή(45)  θύραζε(34)  πρόθυρον(24)  καθίζω(37)
+
+cluster 2  |  9 lemmas  |  AGWN coverage 100%
+  label: Psychology (8); Human Physiology (6); Physics (5)
+  πίσυνος(7)  ἠνορέη(6)  βλεμεαίνω(6)  σθένος(41)  ἀλαπαδνός(7)  κάρτος(13)  ἴσος(101)  ταχύπωλος(11)  γηθόσυνος(7)
+
+cluster 3  |  9 lemmas  |  AGWN coverage 33%
+  label: Psychology (2); Human Physiology (2); Life Sciences; Biology (2)
+  Θηβαῖος(7)  ἐπαινός(6)  Τειρεσίης(15)  ᾍδης(43)  Περσεφόνεια(13)  Ἀΐδης(12)  Ἀίδης(12)  ψυχή(80)  χράω2(18)
+
+cluster 5  |  9 lemmas  |  AGWN coverage 78%
+  label: Psychology (5); Geography & Travel (5); Economics (5)
+  ἀριθμέω(6)  θαμίζω(5)  ἐπίσκοπος(5)  πιστός2(24)  ὅρκιον(30)  κομέω(9)  κομίζω(32)  κέρδος(15)  θαμά(9)
+
+cluster 18  |  9 lemmas  |  AGWN coverage 100%
+  label: Psychology (8); Transportation; Ground Transportation (7); Life Sciences; Biology (7)
+  ἐπιπωλέομαι(5)  πωλέομαι(10)  πεζός(32)  πελάζω(36)  μάρναμαι(56)  ἀλέομαι(36)  ἀποπλάζω(7)  στίξ(43)  πλάζω(22)
+
+cluster 20  |  9 lemmas  |  AGWN coverage 89%
+  label: Psychology (6); Internal Commerce (Domestic Trade) (4); Sound & related vibrations (4)
+  σημάντωρ(5)  ἀκήν(21)  βλώσκω(7)  προβλώσκω(9)  σιγή(13)  πα~ς(5)  σιωπή(28)  πάρειμι(51)  φοβέω(39)
+
+cluster 23  |  9 lemmas  |  AGWN coverage 100%
+  label: Athletic & Outdoor Sports & Games (9); Psychology (9); Transportation; Ground Transportation (9)
+  ἐφάπτω(10)  ῥάπτω(6)  ἀνάπτω(6)  δάπτω(6)  θάπτω(9)  καθάπτω(13)  βλάπτω(26)  ἐπιγνάμπτω(6)  πεῖραρ(21)
+
+cluster 43  |  9 lemmas  |  AGWN coverage 100%
+  label: Psychology (5); Number & quantity (4); Human Physiology (4)
+  ὁπότερος(13)  ὁπλότερος(7)  ἀγρότερος(8)  ἕτερος(66)  πρότερος(124)  ἀμφότερος(116)  ὕστερον(6)  εὖχος(19)  ὀρέγω(35)
+
+cluster 57  |  9 lemmas  |  AGWN coverage 100%
+  label: Psychology (3); Athletic & Outdoor Sports & Games (2)
+  ἔνδοθεν(7)  ποθεν(13)  οἴκοθεν(5)  ἄλλοθεν(21)  ὅθεν(15)  ἔνθεν(45)  ἠῶθεν(12)  ἕωθεν(10)  ἔνδοθι(13)
+
+cluster 60  |  9 lemmas  |  AGWN coverage 89%
+  label: Law (3); Human Physiology (3); Food & Drink (3)
+  κυνώπης(6)  μινυνθάδιος(8)  ἰότης(12)  ἀποδίδωμι(11)  αἰών(12)  τοκεύς(38)  τῆλε(28)  χωλός(5)  ἕνεκα(92)
+
+cluster 65  |  9 lemmas  |  AGWN coverage 56%
+  label: Geography & Travel (4); Transportation; Ground Transportation (3)
+  ἀποπλέω(5)  πλέω(28)  ἐπιπλέω(9)  ποντοπόρος(6)  ἐπιπροίημι(6)  Ἑλλήσποντος(11)  ἀγυιά(10)  προίημι(63)  ἀπείρων2(14)
+
+cluster 69  |  9 lemmas  |  AGWN coverage 89%
+  label: Linguistics (5); Psychology (5); Athletic & Outdoor Sports & Games (5)
+  θυμοβόρος(5)  ἄπρακτος(5)  ἔρις(54)  ὁμοίιος(11)  ἐνιπή(6)  φύλοπις(22)  νεῖκος(38)  κῆρ(80)  πῶς2(50)
+
+cluster 79  |  9 lemmas  |  AGWN coverage 100%
+  label: Time (6); Human Physiology (5); Athletic & Outdoor Sports & Games (4)
+  κατόπισθεν(7)  τέρμα(9)  ἐγχρίμπτω(7)  νύσσα(5)  μετόπισθε(28)  ὄπισθεν(62)  πρόσθεν(89)  διαμπερές(32)  ἦκα(9)
+
+cluster 101  |  9 lemmas  |  AGWN coverage 89%
+  label: Music (6); Psychology (6); Economics (6)
+  ὠμοθετέω(5)  δίπτυχος(5)  ἐκτέμνω(12)  καλύπτω(86)  τέμνω(51)  κνῖσα(16)  ποιέω(78)  τέρην(10)  ἀμφικαλύπτω(24)
+
+cluster 122  |  9 lemmas  |  AGWN coverage 100%
+  label: Athletic & Outdoor Sports & Games (5); Life Sciences; Biology (5); Psychology (4)
+  ὑπάγω(5)  ζυγός(5)  ταλαεργός(5)  ζυγόν(23)  εὔτροχος(8)  ζεύγνυμι(22)  φάτνη(7)  ἡμίονος(40)  ἅρμα(68)
+
+cluster 134  |  9 lemmas  |  AGWN coverage 100%
+  label: Psychology (6); Religion (6); Medicine & Health (6)
+  θεός(767)  πατήρ(360)  κακός(437)  φίλος(676)  ἄνθρωπος(190)  ποτέ(227)  πού(161)  ἐσθλός(154)  ἔργον(233)
+
+cluster 145  |  9 lemmas  |  AGWN coverage 33%
+  label: (no shared semfield)
+  Τελαμών(29)  Αἴας(198)  Τελαμωνιάδης(12)  Τελαμώνιος(13)  Τεῦκρος(28)  Ὀιλεύς(14)  κλισίηθεν(7)  Νηληιάδης(6)  κλισία(119)
+
+cluster 157  |  9 lemmas  |  AGWN coverage 100%
+  label: Metrology & standardization (3); Sociology & anthropology (3); Mathematics (2)
+  ἐφύπερθε(9)  νέρθε(5)  ἔνερθε(11)  ὑπένερθε(11)  καθύπερθε(21)  ἑκάτερθε(17)  ἑανός(9)  τινάσσω(15)  στόμα(28)
+
+cluster 173  |  9 lemmas  |  AGWN coverage 78%
+  label: Psychology (3); Physics (3); Building & Construction (3)
+  ἠέλιος(124)  σκιάω(6)  κνέφας(16)  πρόπας(11)  καταδύω(43)  ἥλιος(8)  φάος(40)  δύω2(123)  εὔσελμος(29)
+
+cluster 181  |  9 lemmas  |  AGWN coverage 100%
+  label: Transportation; Ground Transportation (6); Geography & Travel (5); Psychology (5)
+  βραχίων(6)  μαιμάω(6)  διασεύομαι(6)  ἀγκών(8)  ἐξερύω(13)  πιέζω(7)  ὄβριμος(28)  τρίς(47)  πρόσω(18)
+
+cluster 182  |  9 lemmas  |  AGWN coverage 100%
+  label: Music (6); Political Science (5); Building & Construction (5)
+  τρητός(7)  πρόδομος(8)  εὔπηκτος(6)  εἰσάγω(12)  λέχος(48)  ξεστός(22)  μυχός(19)  ἵζω(69)  ἑξῆς(26)
+
+cluster 184  |  9 lemmas  |  AGWN coverage 89%
+  label: Athletic & Outdoor Sports & Games (5); Games Of Chance (5); Ball games (5)
+  ἄξων(6)  ἵππειος(7)  ἐπίσωτρον(6)  ἐύτμητος(5)  ἄντυξ(13)  ἱμάς(21)  εὐποίητος(5)  κύκλος(9)  σιδήρεος(16)
+
+cluster 185  |  9 lemmas  |  AGWN coverage 100%
+  label: Ball games (6); Transportation; Ground Transportation (6); Fashion design of clothing (6)
+  γύαλον(6)  θώραξ(35)  ζωστήρ(17)  παναίολος(6)  γαστήρ(30)  ἄκων(21)  ἀλκτήρ(5)  ἐπιγράφω(5)  ῥήγνυμι(49)
+
+cluster 7  |  8 lemmas  |  AGWN coverage 88%
+  label: Medicine & Health (7); Chemistry (5); Economics (4)
+  ἰατρός(5)  ἰατήρ(6)  ἕλκος(22)  φάρμακον(25)  ἀκέομαι(9)  ὀδύνη(25)  ἤπιος(25)  Μαχάων(11)
+
+cluster 12  |  8 lemmas  |  AGWN coverage 100%
+  label: Economics (6); Law (4); Athletic & Outdoor Sports & Games (4)
+  ἀναχωρέω(15)  χωρέω(12)  ἀναπνέω(14)  πληθύς(17)  τρέω(16)  ἐμπνέω(12)  ἄψ(110)  τόφρα(64)
+
+cluster 29  |  8 lemmas  |  AGWN coverage 62%
+  label: Life Sciences; Biology (3); Human figures (3); Animals (Zoology) (2)
+  τροφός(17)  Εὐρύκλεια(24)  Εὐρυνόμη(13)  ὀτρηρός(7)  ταμία(22)  Ἀρήτη(13)  γραῦς(23)  φθέγγομαι(17)
+
+cluster 53  |  8 lemmas  |  AGWN coverage 100%
+  label: Law (5); Athletic & Outdoor Sports & Games (5); Psychology (5)
+  ἀρτύω(6)  ἀρή(8)  ἀρωγός(6)  ἀρήγω(18)  ἀρτύνω(14)  θωρηκτής(5)  ὁμιλέω(24)  γνωτός(8)
+
+cluster 58  |  8 lemmas  |  AGWN coverage 88%
+  label: Psychology (3); Production (3); Geography & Travel (3)
+  ἀριστεύς(30)  Μηκιστεύς(5)  ἀριστεύω(13)  ἕκτωρ(8)  Παναχαιοί(12)  ἰσόθεος(14)  ἀριστερός(24)  φώς(93)
+
+cluster 83  |  8 lemmas  |  AGWN coverage 75%
+  label: Religion (4); Psychology (4); Mathematics (3)
+  κτέρεα(5)  ἀριφραδής(8)  κτερίζω(5)  καταφθίω(6)  καταθνήσκω(25)  κατέχω(18)  σῆμα(53)  ἀφραδής(6)
+
+cluster 86  |  8 lemmas  |  AGWN coverage 100%
+  label: Psychology (7); Institutions pertaining to relations of the sexes (7); Building & Construction (6)
+  κτάομαι(5)  ἰάομαι(5)  αἰτιάομαι(7)  δηριάομαι(7)  εὐχετάομαι(18)  θεάομαι(23)  ἀράομαι(37)  χαίρω(105)
+
+cluster 91  |  8 lemmas  |  AGWN coverage 100%
+  label: Psychology (5); Institutions pertaining to relations of the sexes (4); Eating, drinking; using drugs (4)
+  γόος(51)  κλαυθμός(7)  δορπέω(5)  ἵμερος(18)  ἐξάρχω(10)  γοάω(25)  μύρω(15)  κλαίω(82)
+
+cluster 103  |  8 lemmas  |  AGWN coverage 100%
+  label: Institutions pertaining to relations of the sexes (7); Life Sciences; Biology (7); Animals (Zoology) (6)
+  μετοίχομαι(5)  μεταφωνέω(7)  μετακιάθω(6)  μεταυδάω(25)  μεταπρέπω(14)  ἐποίχομαι(40)  ἀποίχομαι(12)  ἡγέομαι(46)
+
+cluster 143  |  8 lemmas  |  AGWN coverage 100%
+  label: Animals (Zoology) (7); Human figures (6); Life Sciences; Biology (6)
+  πετεινός(10)  ὄνυξ(5)  ἀετός(16)  αἰγυπιός(6)  χήν(9)  ὄρνις(32)  δεξιός(32)  δράκων(9)
+
+cluster 146  |  8 lemmas  |  AGWN coverage 100%
+  label: Psychology (4); Arts & Recreation (4); Law (3)
+  σίνομαι(5)  ὄνομαι(14)  τεκμαίρομαι(6)  ἀναίνομαι(16)  διείρομαι(5)  μαίνομαι(23)  ὄνομα(22)  μυθέομαι(60)
+
+cluster 154  |  8 lemmas  |  AGWN coverage 88%
+  label: Chemistry (4); Eating, drinking; using drugs (4); Psychology (4)
+  ἐαρινός(6)  ἤια(8)  ἁλμυρός(8)  ἄγγος(6)  κυκάω(11)  ὕδωρ(102)  ἠμύω(5)  μυῖα(6)
+
+cluster 158  |  8 lemmas  |  AGWN coverage 88%
+  label: Human anatomy, cytology & histology (5); Life Sciences; Biology (3); Linguistics (3)
+  ὀδών(11)  σάρξ(6)  Παρνασός(6)  ὀδούς(26)  οὐλή(8)  γναθμός(7)  ὀστέον(46)  Αὐτόλυκος(17)
+
+cluster 165  |  8 lemmas  |  AGWN coverage 88%
+  label: Building & Construction (5); Architecture (4); Water, Air & Space Transportation (4)
+  τοῖχος(18)  εὐσταθής(9)  λάινος(9)  εὔδμητος(11)  ὑπερβαίνω(7)  οὐδός(46)  πυθμήν(5)  βωμός(20)
+
+cluster 171  |  8 lemmas  |  AGWN coverage 100%
+  label: Classical mechanics; solid mechanics (8); Life Sciences; Biology (8); Production (8)
+  ἀναβαίνω(44)  βαίνω(405)  ἐκβαίνω(9)  προσβαίνω(9)  ἐμβαίνω(8)  καταβαίνω(27)  ἀποβαίνω(39)  εἰσαναβαίνω(13)
+
+cluster 183  |  8 lemmas  |  AGWN coverage 100%
+  label: Animals (Zoology) (4); Physics (4); Fashion design of clothing (3)
+  ῥῆγος(15)  στορέννυμι(13)  στόρνυμι(6)  κῶας(13)  δέμνιον(13)  σιγαλόεις(23)  ἐμβάλλω(39)  μαλακός(33)
+
+cluster 188  |  8 lemmas  |  AGWN coverage 100%
+  label: Eating, drinking; using drugs (4); Psychology (4); Life Sciences; Biology (3)
+  βομβέω(5)  ἀγοστός(5)  ὕπτιος(16)  χαμαί(24)  χαμάδις(14)  ἐγκέφαλος(10)  κονία(66)  οἰμώζω(23)
+
+cluster 189  |  8 lemmas  |  AGWN coverage 100%
+  label: Ball games (6); Music (6); Eating, drinking; using drugs (5)
+  ἐκπίπτω(16)  ἰδνόομαι(5)  καταπρηνής(6)  πρηνής(19)  καταπίπτω(21)  πίπτω(177)  δουπέω(24)  ῥίπτω(17)
+
+cluster 191  |  8 lemmas  |  AGWN coverage 88%
+  label: Animals (Zoology) (4); Human anatomy, cytology & histology (4); Human figures (4)
+  φάλος(7)  κόρυς(46)  ἱπποδάσεια(9)  ὀμφαλόεις(13)  μέτωπον(12)  ἱππόκομος(5)  ἀσπίς(96)  χάλκειος(30)
+
+cluster 192  |  8 lemmas  |  AGWN coverage 100%
+  label: Geology, Hydrology & Meteorology (3); Human Physiology (3); Plants (Botany) (3)
+  στεφάνη(5)  ὀκριόεις(5)  ἄορ(23)  παχύς(27)  τανυήκης(6)  χερμάδιον(16)  στέρνον(19)  στιβαρός(34)
+
+cluster 193  |  8 lemmas  |  AGWN coverage 88%
+  label: Human anatomy, cytology & histology (5); Law (4); Eating, drinking; using drugs (4)
+  τένων(9)  σφυρόν(5)  ἀποκόπτω(6)  αὐχήν(40)  κόπτω(18)  ἀντικρύ(29)  κοτύλη(5)  ἀκωκή(15)
+
+cluster 6  |  7 lemmas  |  AGWN coverage 100%
+  label: Law (5); Games Of Chance (5); Psychology (5)
+  προσδέχομαι(15)  ὁρμή(9)  ἀποφθίνω(15)  ὑποδέχομαι(18)  δέχομαι(78)  ποινή(11)  δηρός(37)
+
+cluster 13  |  7 lemmas  |  AGWN coverage 100%
+  label: Law (6); Economics (6); Medicine & Health (6)
+  κυμαίνω(6)  πημαίνω(5)  σημαίνω(15)  ἀσθμαίνω(6)  ὁρμαίνω(29)  ὀνομαίνω(13)  πεδάω(12)
+
+cluster 15  |  7 lemmas  |  AGWN coverage 71%
+  label: Law (3); Chemistry (3); Fashion design of clothing (3)
+  Κουρῆτες(5)  ἐναρίζω(13)  εἰναετής(5)  Μελέαγρος(5)  νωλεμές(17)  ἐξεναρίζω(36)  ἀλλήλων(176)
+
+cluster 21  |  7 lemmas  |  AGWN coverage 100%
+  label: Life Sciences; Biology (6); Athletic & Outdoor Sports & Games (6); Classical mechanics; solid mechanics (6)
+  ἀπορούω(7)  ἐπορούω(25)  περιβαίνω(6)  ἀνορούω(18)  ὀρούω(20)  ἀμφιβαίνω(10)  ἐπιβαίνω(58)
+
+cluster 24  |  7 lemmas  |  AGWN coverage 71%
+  label: Economics (4); Chemistry (4); Public Administration (4)
+  Τροίαθεν(7)  Τροίανδε(7)  πομπεύς(5)  πομπός(12)  Τροία(72)  πομπή(26)  κοῖλος(57)
+
+cluster 25  |  7 lemmas  |  AGWN coverage 86%
+  label: Human Physiology (3); Law (2); Life Sciences; Biology (2)
+  Γερήνιος(35)  οὖρος2(6)  Νέστωρ(114)  ἱππότης(37)  οὖρος(24)  ἀπήμων(19)  μάλιστα(85)
+
+cluster 26  |  7 lemmas  |  AGWN coverage 100%
+  label: Law (6); Eating, drinking; using drugs (6); Psychology (5)
+  ὄμνυμι(38)  ἀπόμνυμι(5)  ὅρκος(35)  Στύξ(6)  καρτερός(28)  ἀγρέω(6)  ἀλέξω(20)
+
+cluster 30  |  7 lemmas  |  AGWN coverage 86%
+  label: Psychology (5); Building & Construction (4); Life Sciences; Biology (4)
+  συνελαύνω(5)  παρελαύνω(6)  ἐπελαύνω(9)  ἐξελαύνω(17)  ἐλαύνω(170)  τιτρώσκω(5)  συνάγω(9)
+
+cluster 44  |  7 lemmas  |  AGWN coverage 86%
+  label: Sociology & anthropology (3); Business enterprises and their structure (3); Human Physiology (2)
+  πόνος(56)  ἀνδροφόνος(17)  ἀνδροκτασία(6)  στόνος(7)  φόνος(46)  ὀιζύς(18)  μίνυνθα(14)
+
+cluster 46  |  7 lemmas  |  AGWN coverage 100%
+  label: Music (5); Psychology (4); Geography & Travel (4)
+  ποδήνεμος(10)  ὠκύς(120)  Ἶρις(40)  βάσκω(6)  ταχύς(136)  πούς(287)  ἄγγελος(34)
+
+cluster 47  |  7 lemmas  |  AGWN coverage 100%
+  label: Law (4); Eating, drinking; using drugs (4); Religion (4)
+  ὑποστρέφω(7)  ἀποστρέφω(7)  στρέφω(26)  μεταστρέφω(11)  ὀλέκω(15)  αὖθις(128)  τρέπω(63)
+
+cluster 48  |  7 lemmas  |  AGWN coverage 86%
+  label: (no shared semfield)
+  ἀπομηνίω(5)  μηνίω(8)  ἀπειλή(6)  ποντόπορος(13)  ἀπειλέω2(22)  κορωνίς(17)  ὠκύπορος(12)
+
+cluster 52  |  7 lemmas  |  AGWN coverage 86%
+  label: Law (2); Athletic & Outdoor Sports & Games (2); Life Sciences; Biology (2)
+  ὑπεκφεύγω(15)  ὑπαλύσκω(6)  ἐκφεύγω(17)  ἀλύσκω(27)  προφεύγω(6)  φεύγω(162)  μόγις(5)
+
+cluster 59  |  7 lemmas  |  AGWN coverage 86%
+  label: Transportation; Ground Transportation (5); Law (4); Eating, drinking; using drugs (4)
+  ἐλύω(10)  λύω(142)  ὑπολύω(6)  ἀλύω(5)  γυῖον(52)  γόνυ(122)  κάμπτω(5)
+
+cluster 77  |  7 lemmas  |  AGWN coverage 86%
+  label: Linguistics (4); Economics (4); Time (3)
+  δολιχόσκιος(26)  ἀναπάλλω(14)  ῥέα(10)  πάλλω(25)  Θράκιος(5)  δολιχός(14)  ἐπίσταμαι(27)
+
+cluster 80  |  7 lemmas  |  AGWN coverage 100%
+  label: Psychology (3); Transportation; Ground Transportation (3); Chemistry (2)
+  ἀργυρόηλος(19)  ἀργυρόπεζα(11)  δαιδάλεος(17)  ἄφθιτος(9)  ἔντεα(32)  μαρμαίρω(9)  θρῆνυς(11)
+
+cluster 96  |  7 lemmas  |  AGWN coverage 86%
+  label: Life Sciences; Biology (2); Psychology (2); Human Physiology (2)
+  Πηνελόπεια(83)  περίφρων(56)  ἐχέφρων(9)  βασίλεια(16)  οἰκεύς(7)  Ἰκάριος(19)  ξένος2(6)
+
+cluster 99  |  7 lemmas  |  AGWN coverage 100%
+  label: Human figures (4); Animals (Zoology) (4); Psychology (3)
+  πρέσβυς(8)  πρέσβα(6)  παράκοιτις(17)  θυγάτηρ(108)  ἀτιτάλλω(11)  γαμβρός(16)  τρέφω(69)
+
+cluster 102  |  7 lemmas  |  AGWN coverage 86%
+  label: Psychology (4); Internal Commerce (Domestic Trade) (4); Agriculture (2)
+  προκαλέω(7)  ἀντίβιος(9)  ἐναντίβιος(12)  δηιοτής(30)  στεῦμαι(8)  τλάω(82)  καλέω(112)
+
+cluster 107  |  7 lemmas  |  AGWN coverage 100%
+  label: Psychology (4); Medicine & Health (3); Institutions pertaining to relations of the sexes (3)
+  νεμεσητός(8)  νεμεσίζομαι(9)  προκαλίζομαι(6)  νεμεσάω(41)  ὑπείκω(10)  χολόω(73)  ἐναίρω(18)
+
+cluster 114  |  7 lemmas  |  AGWN coverage 86%
+  label: Economics (4); Human Physiology (4); Time (3)
+  ἔπειτα(496)  ἔνθα(501)  πρῶτος(237)  αὐτίκα(190)  ἵστημι(454)  ἔχω(750)  αἶψα(145)
+
+cluster 117  |  7 lemmas  |  AGWN coverage 100%
+  label: Eating, drinking; using drugs (4); Athletic & Outdoor Sports & Games (3); Human figures (3)
+  ἀγχιμαχητής(6)  θοῦρις(16)  ἀλκή(69)  Δάρδανος(16)  θοῦρος(18)  μαχητής(6)  μιμνήσκω(110)
+
+cluster 120  |  7 lemmas  |  AGWN coverage 57%
+  label: Psychology (2); Stage Presentations (2); Philosophy & Psychology (2)
+  Πάτροκλος(145)  Πατροκλῆς(6)  Μενοιτιάδης(20)  πάτροκλος(11)  ὑσμίνη(48)  χωρίς(7)  κρατερός(164)
+
+cluster 124  |  7 lemmas  |  AGWN coverage 86%
+  label: Public Administration (3); Transportation; Ground Transportation (3); Geography & Travel (3)
+  σανίς(13)  ῥυμός(6)  κολλητός(10)  εὔξεστος(21)  ἀτύζω(11)  ἀπήνη(15)  ᾗ(19)
+
+cluster 127  |  7 lemmas  |  AGWN coverage 100%
+  label: Life Sciences; Biology (3); Animals (Zoology) (3); News Media, Journalism & Publishing (3)
+  μεθάλλομαι(6)  ἐφάλλομαι(12)  αὐτοσχεδόν(9)  ἅλλομαι(28)  οὐτάζω(34)  χαμᾶζε(29)  σχεδόν(70)
+
+cluster 139  |  7 lemmas  |  AGWN coverage 86%
+  label: Geography & Travel (2)
+  ἠγάθεος(11)  Τένεδος(5)  Λῆμνος(14)  λίμνη(11)  ἐυκτίμενος(32)  πτολίεθρον(31)  βένθος(11)
+
+cluster 149  |  7 lemmas  |  AGWN coverage 57%
+  label: Psychology (2)
+  Λύκιος(5)  ἀγός(22)  Λύκιοι(44)  Γλαῦκος(21)  Σαρπηδών(41)  Κρής(15)  Πανθοίδης(8)
+
+cluster 156  |  7 lemmas  |  AGWN coverage 86%
+  label: Public Administration (4); Geography & Travel (4); Psychology (4)
+  ἤπειρόνδε(10)  πολυβενθής(5)  λιμήν(34)  ἤπειρος(21)  χώρα(9)  πολιός(41)  ἀγάλλω(7)
+
+cluster 163  |  7 lemmas  |  AGWN coverage 0%
+  label: (no shared semfield)
+  Δαμαστορίδης(5)  Χρομίος(7)  Πείσανδρος(9)  Ἀγέλαος(8)  Ἄντιφος(8)  Ἀστεροπαῖος(9)  Θρασυμήδης(10)
+
+cluster 169  |  7 lemmas  |  AGWN coverage 86%
+  label: Human figures (5); Human Physiology (4); Life Sciences; Biology (4)
+  πῶυ(11)  ἀγέλη(12)  νομεύς(13)  ὄις(55)  ἄρσην(11)  μῆλον(69)  κόπρος(8)
+
+cluster 172  |  7 lemmas  |  AGWN coverage 86%
+  label: Eating, drinking; using drugs (4); Human Physiology (4); Food & Drink (4)
+  ἐπηετανός(8)  λιαρός(8)  λαρός(5)  δεῖπνος(7)  δεῖπνον(30)  παρέχω(16)  παντοῖος(30)
+
+cluster 1  |  6 lemmas  |  AGWN coverage 100%
+  label: Psychology (3); Economics (3); Animals (Zoology) (3)
+  μένω(182)  ἀσχαλάω(7)  αὖθι(57)  αὐτοῦ(93)  ἔμπεδος(53)  καγχαλάω(5)
+
+cluster 8  |  6 lemmas  |  AGWN coverage 100%
+  label: Psychology (2); Human Physiology (2)
+  ἄσμενος(5)  ἴκμενος(5)  ἀπονόσφι(8)  προτέρω(22)  νόσφι(46)  ἐσσύμενος(16)
+
+cluster 10  |  6 lemmas  |  AGWN coverage 83%
+  label: Psychology (5); Linguistics (5); Economics (4)
+  ὄνειαρ(21)  ἑτοῖμος(18)  ὄνειδος(11)  Πυλόνδε(7)  ὄνειρος(23)  οἴχομαι(90)
+
+cluster 11  |  6 lemmas  |  AGWN coverage 100%
+  label: Eating, drinking; using drugs (5); Athletic & Outdoor Sports & Games (5); Games Of Chance (5)
+  ἰάλλω(25)  πρόκειμαι(14)  πῶμα(6)  δεσμός(31)  μάρπτω(16)  ἐκβάλλω(12)
+
+cluster 14  |  6 lemmas  |  AGWN coverage 83%
+  label: Stage Presentations (4); Linguistics (4); Animals (Zoology) (4)
+  γένειον(7)  ἅπτω(39)  τέθηπα(15)  ἰθύς(21)  αἰσχύνω(12)  ἰθύς2(30)
+
+cluster 22  |  6 lemmas  |  AGWN coverage 67%
+  label: Human figures (3); Chemistry (2); Time (2)
+  γέρων(217)  ἅλιος(22)  ἱππηλάτης(11)  Φοῖνιξ(20)  φοῖνιξ(8)  ἅλιος2(20)
+
+cluster 32  |  6 lemmas  |  AGWN coverage 83%
+  label: Medicine & Health (5); Athletic & Outdoor Sports & Games (4); Music (4)
+  ῥάβδος(12)  ἐκπίνω(5)  ὄμμα(14)  θέλγω(23)  πλήσσω(46)  περιμήκης(8)
+
+cluster 33  |  6 lemmas  |  AGWN coverage 83%
+  label: Religion (2); Sociology & anthropology (2); Number & quantity (2)
+  ἑκατόμβη(36)  ἑκατόν(9)  τελήεις(7)  ἱερόν(14)  ἱερός(78)  ἐρέτης(8)
+
+cluster 35  |  6 lemmas  |  AGWN coverage 100%
+  label: Eating, drinking; using drugs (5); Psychology (5); Athletic & Outdoor Sports & Games (5)
+  κτείνω(155)  στείνω(5)  κατακτείνω(63)  τείνω(25)  ἀποκτείνω(21)  θείνω(66)
+
+cluster 39  |  6 lemmas  |  AGWN coverage 83%
+  label: Metrology & standardization (3); History & Geography (3); Law (2)
+  Διοτρεφής(21)  ἡγήτωρ(41)  μέδων(25)  διοτρεφής(33)  ἐκεῖσε(19)  πλείων(38)
+
+cluster 45  |  6 lemmas  |  AGWN coverage 100%
+  label: Time (4); Geography & Travel (3); Literature (3)
+  χάζω(35)  ἐξοπίσω(9)  ἀναχάζω(15)  ἔθνος(29)  στεῖνος(5)  ὀπίσω(54)
+
+cluster 56  |  6 lemmas  |  AGWN coverage 67%
+  label: Human Physiology (3); Psychology (2); Human figures (2)
+  πολυμήχανος(23)  ἀμήχανος(10)  Λαερτιάδης(38)  διογενής(44)  κοίρανος(8)  πῆ(19)
+
+cluster 66  |  6 lemmas  |  AGWN coverage 83%
+  label: Athletic & Outdoor Sports & Games (5); Transportation; Ground Transportation (5); Law (4)
+  ἀράσσω(9)  ταράσσω(6)  φράσσω(5)  πράσσω(18)  κυβερνήτης(9)  ἰθύνω(25)
+
+cluster 67  |  6 lemmas  |  AGWN coverage 83%
+  label: Human figures (4); Religion (3); Law (2)
+  μεδέων(5)  κύδιστος(20)  πάτηρ(54)  Κρονίδης(44)  Κρονίων(73)  ἐφοράω(15)
+
+cluster 78  |  6 lemmas  |  AGWN coverage 100%
+  label: Music (6); Psychology (5); Human anatomy, cytology & histology (4)
+  μέλος(24)  πῆχυς(8)  θρίξ(14)  βέλος(89)  γναμπτός(11)  ἀνέλκω(6)
+
+cluster 84  |  6 lemmas  |  AGWN coverage 83%
+  label: Life Sciences; Biology (4); Eating, drinking; using drugs (3); Animals (Zoology) (3)
+  νήποινος(8)  κατέδω(12)  βίοτος(40)  γύψ(7)  ἔδω(64)  λωίων(7)
+
+cluster 89  |  6 lemmas  |  AGWN coverage 100%
+  label: Number & quantity (3)
+  πέμπτος(7)  Αἰγύπτιος(9)  τέταρτος(16)  τρίτος(21)  πλεῖστος(28)  Κεφαλλήν(6)
+
+cluster 93  |  6 lemmas  |  AGWN coverage 100%
+  label: Eating, drinking; using drugs (4); Law (3); Ball games (3)
+  δόρπος(7)  δόρπον(33)  ἐφοπλίζω(11)  ὁπλίζω(21)  φυλακή(7)  στρατός(63)
+
+cluster 97  |  6 lemmas  |  AGWN coverage 100%
+  label: Human figures (6); Religion (5); Sociology & anthropology (5)
+  μέγαρον(299)  μνηστήρ(232)  οἶκος(153)  ξένος(207)  δῶμα(271)  γυνή(262)
+
+cluster 100  |  6 lemmas  |  AGWN coverage 100%
+  label: Life Sciences; Biology (5); Economics (4); Psychology (4)
+  τόκος(5)  Εἰλείθυια(5)  γενέθλη(5)  περικτίονες(6)  γενεά(49)  φόως(16)
+
+cluster 104  |  6 lemmas  |  AGWN coverage 67%
+  label: Law (2); Hunting (2); Managemennt of personal and family living; grooming (2)
+  κίνυμαι(6)  ἀπαίνυμαι(7)  καίνυμαι(19)  ἄρνυμαι(5)  σπέρχω(11)  ἀυτή(29)
+
+cluster 106  |  6 lemmas  |  AGWN coverage 100%
+  label: Transportation; Ground Transportation (6); Psychology (5); Internal Commerce (Domestic Trade) (5)
+  ἀγνοέω(7)  ἐποτρύνω(51)  ἐρεθίζω(9)  θαρσύνω(13)  νοέω(138)  παλαιός(18)
+
+cluster 110  |  6 lemmas  |  AGWN coverage 100%
+  label: Psychology (3); Geography & Travel (3); Ball games (3)
+  βουκολέω(5)  πηγή(6)  ἀνθεμόεις(6)  μισθός(9)  δοιοί(19)  ὄχθη(16)
+
+cluster 112  |  6 lemmas  |  AGWN coverage 100%
+  label: Plants (Botany) (3); Life Sciences; Biology (2); Sociology & anthropology (2)
+  ἀστήρ(13)  ἀμολγός(5)  λαμπρός(12)  ἀρίζηλος(7)  νύξ(134)  ὑπερέχω(10)
+
+cluster 115  |  6 lemmas  |  AGWN coverage 83%
+  label: Agriculture (3); Ball games (3); Plants (Botany) (3)
+  χείρ(635)  αἱρέω(415)  βάλλω(469)  λαμβάνω(131)  δεξιτερός(20)  μέσος(145)
+
+cluster 118  |  6 lemmas  |  AGWN coverage 100%
+  label: Geography & Travel (4); Institutions pertaining to relations of the sexes (3); Transportation; Ground Transportation (3)
+  εὐήρης(6)  ἐρέσσω(5)  ἐρετμόν(27)  στήλη(7)  ὁδίτης(6)  πέσσω(7)
+
+cluster 129  |  6 lemmas  |  AGWN coverage 67%
+  label: Life Sciences; Biology (3); Animals (Zoology) (3); Stage Presentations (2)
+  αἰπόλιον(7)  αἰπόλος(11)  αἴξ(50)  πλατύς(9)  Μελάνθιος(12)  τόσος(124)
+
+cluster 131  |  6 lemmas  |  AGWN coverage 67%
+  label: Psychology (3); Chemistry (2); Astronomy (2)
+  πολύτλας(35)  δῖος(398)  Ὀδυσσεύς(712)  ʼὀδυσσεύς(7)  ἀναείρω(6)  γηθέω(40)
+
+cluster 140  |  6 lemmas  |  AGWN coverage 100%
+  label: Psychology (2); Human Physiology (2)
+  ἀγακλειτός(11)  κλειτός(16)  τηλεκλειτός(7)  δουρικλειτός(18)  ἐπίκουρος(33)  ἀγακλεής(5)
+
+cluster 142  |  6 lemmas  |  AGWN coverage 100%
+  label: Life Sciences; Biology (5); Human figures (4); Building & Construction (4)
+  λέων(56)  ξύλοχος(6)  ἔλαφος(18)  θηρατήρ(8)  νεβρός(10)  λύκος(10)
+
+cluster 148  |  6 lemmas  |  AGWN coverage 83%
+  label: Law (4); Eating, drinking; using drugs (4); Psychology (4)
+  ἀνέρομαι(13)  μεταλλάω(26)  ἐξέρομαι(13)  ἔρομαι(47)  ἐρεείνω(18)  ἐξερεείνω(10)
+
+cluster 161  |  6 lemmas  |  AGWN coverage 83%
+  label: Human Physiology (4); Eating, drinking; using drugs (3); Psychology (3)
+  ἐρεύγομαι(8)  ἠιών(12)  ἔξω(9)  ἅλς(123)  ἀτρύγετος(17)  κικλήσκω(15)
+
+cluster 166  |  6 lemmas  |  AGWN coverage 100%
+  label: Music (6); Psychology (5); Internal Commerce (Domestic Trade) (5)
+  ὅμαδος(13)  ἐνοπή(8)  δοῦπος(13)  ἠχή(11)  ἰαχή(10)  παπταίνω(26)
+
+cluster 170  |  6 lemmas  |  AGWN coverage 100%
+  label: Life Sciences; Biology (5); Animals (Zoology) (5); Eating, drinking; using drugs (4)
+  εἰλίπους(9)  ἕλιξ(14)  βοῦς(170)  ἴφιος(13)  ταῦρος(23)  ἀρνειός(12)
+
+cluster 186  |  6 lemmas  |  AGWN coverage 100%
+  label: Life Sciences; Biology (5); Chemistry (3); Water, Air & Space Transportation (3)
+  χέρνιψ(8)  πρόχοος(8)  ἐπιχέω(11)  λέβης(24)  ἀπολάμπω(6)  καλός(309)
+

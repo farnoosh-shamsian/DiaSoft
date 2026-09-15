@@ -1,0 +1,2990 @@
+# Ward cut at K=25: 25 clusters — names are c-TF-IDF terms from members' own glosses (emergent, not predefined)
+# members sorted by centrality; format: lemma (frequency): gloss
+
+cluster 22  |  342 lemmas  |  ask, pray, inquire, care
+  εὐχετάομαι (18): pray; boast, profess; brag; to glory
+  μήδομαι (34): to be minded, intend; resolve; counsels I should take; plan and do cunningly
+  πείθω (204): persuade; obey; trust; prevail upon, persuade
+  προσδέχομαι (15): receive favourably, accept; receive hospitably; admit; admit into oneʼs presence
+  φρονέω (95): to be minded; have understanding, be wise, prudent; counsel; to be
+  μῆτις (37): wisdom, skill, craft; for craft; craft; counsel, plan, undertaking
+  μῆδος (19): counsels, plans, arts; prudence; cunning; plans
+  πρόφρων (34): with forward mind; of oneʼs free will; fain; kindly, gracious, willing
+  κέλομαι (97): urge, exhort, command; commands; advise; constrained
+  εἰσοράω (72): look into, look upon, behold; to discern; to behold; seest)
+  ἀλέγω (11): have a care, mind, heed; have; care; with good heed
+  ἀρέσκω (10): make good, make amends; make full; appease, conciliate; sated their
+  ἐπιπείθομαι (26): to be persuaded; trust; to, put faith in; comply with, obey
+  φάσκω (17): say, affirm, assert; saying; would; think, deem, expect
+  ἐπιφράζω (9): say besides; think of; take into oneʼs head to; devise, contrive
+  ἀμέρδω (6): deprive, bereave; to be bereft of; bereave of natural rights; blinded
+  κήδω (43): trouble, distress; to be concerned, care for; mourn for; caring for
+  εὐχωλή (12): prayer, vow; votive offering; boast, vaunt; shout of triumph
+  ἀλεγύνω (5): heed, care for; find; prepare; for guests
+  παράφημι (6): speak gently to, advise; persuade, appease; speak deceitfully; insincerely
+  ἀναγιγνώσκω (8): know well, know certainly; perceive; know again, recognize; acknowledge, own
+  κομίζω (32): take care of, provide for; receive, treat; attended to; attend, give heed to
+  στεῦμαι (8): make as if one would.., promise; threaten that one will; declares; boasts
+  ἐπαμύνω (11): come to aid, succour; apologetic; to prove; ward off
+  πιστός2 (24): to be trusted; believed; faithful, trusty; trusted friend
+  εὔχομαι (154): pray; to utter; in prayer; pray that
+  φημί (810): say, affirm, assert; shall we say of; speak; think, deem, suppose
+  εἶδον (439): see; to be seen; seem; know
+  εἴδω (43): see; to be seen; seem; know
+  μητιάω (11): meditate, deliberate; consider among you; plan, devise
+  προεῖδον (6): look forward; see beforehand, catch sight of; foresee, portend; take thought for
+  ἐφετμή (10): command, behest; behests; demands, prayers
+  ἀρά (5): prayer; prayers; vow; curse, imprecation
+  δοκέω (27): expect; think, suppose, imagine; thought; methought
+  ἀλεγίζω (6): trouble oneself about; care for, mind, heed
+  ἐμπάζομαι (11): busy oneself about, take heed of, care for
+  πέπνυμαι (81): to be conscious, in full possession of oneʼs faculties; to be wise; experts; understand
+  ἐπεύχομαι (29): pray; make a vow to; give thanks to; pray to
+  ἱκετεύω (6): approach as a suppliant; supplicate, beseech; beg of
+  λίσσομαι (74): beg, pray; pray; prays; that
+  αἰτίζω (10): ask, beg; ask; beg of; beg
+  κτάομαι (5): procure for oneself, get, acquire; win; to get oneʼs; bring upon oneself
+  ἀίω (21): perceive; hear; see; listen to, give ear to
+  κελεύω (190): urge, drive on; exhort, bid; order; bade
+  ὀνίνημι (16): profit, benefit, help; gratify, delight; benefit; will
+  ἀναφαίνω (9): cause to give light, make to blaze up; bring to light, produce; show forth, make known, di
+  ἀθρέω (5): gaze at, observe; inspect; look earnestly, gaze; observe, watch
+  ἐπιμαίομαι (14): strive after, seek to obtain, aim at; make for; steer for; strive after
+  ἕκηλος (19): at rest, at oneʼs ease; at your ease; without let; hindrance
+  ἐτεός (21): true, genuine; true; in truth, verily; rightly
+  παρεῖπον (6): talk over, win over; by thy persuasions; give; advice
+  τίνω (49): pay a price; pay; acquit oneself of; render
+  νεμεσίζομαι (9): feel righteous indignation; to be angry; amazed; stand in awe of
+  μέλω (63): to be an object of care; thought; care for, take an interest in; am I in
+  ἀράομαι (37): pray to; invoke; pray; prayed
+  ἄνωγα (144): command, order; advise, urge; bade; bids, prompts
+  γηθέω (40): rejoice; will rejoice; rejoice in doing; impune
+  βουλεύω (33): take counsel, deliberate; determine; resolve after deliberation; in council
+  νοέω (138): Excerpta e libris Herodiani; perceive by the eyes, observe; perceive by the mind, apprehen
+  λεύσσω (13): look; gaze upon, see; look, gaze; lives
+  πίσυνος (7): trusting on, relying on; obedient
+  αἰδέομαι (42): to be ashamed; from a sense of shame; stand in awe of, fear; show a sense of regard
+  τεκμαίρομαι (6): assign, ordain; appoint; am arranging; settle with oneself
+  γιγνώσκω (125): come to know, perceive; know; know by reflection; know by observation
+  ἀλήθεια (9): truth; lie; mere appearance; a lie
+  δάω (22): learn; teach; know; wilt learn
+  ἀπειλή (6): boastful promises, boasts; threats
+  κτεατίζω (5): gain, win; get for oneself, acquire
+  ὄμνυμι (38): swear; swear to; affirm; confirm by oath
+  θαμβέω (16): to be astounded; to be astonished at; alarm; PMag. Leid.W
+  αἰτέω (14): ask, beg; ask for, demand; ask leave; to ask
+  βουλή (92): will, determination; counsel, design; counsel, advice; ground of argument
+  ὁρμαίνω (29): turn over; revolve anxiously in the mind, debate, ponder; ponder over, meditate; think, mu
+  ἀλίαστος (7): not to be turned aside, unabating; undaunted
+  ἄρνυμαι (5): win, gain; striving; maintaining; trying to win, striving to secure
+  ἄλαστος (6): not to be forgotten. insufferable; inconsolably; thou whom I will never forget nor forgive
+  εὖχος (19): thing prayed for, object of prayer; boast, vaunt; vow, votive offering
+  νημερτής (31): unerring, infallible; sure; that will infallibly be put in force; sure truths
+  ἀμφιέπω (11): go about, be all round; crowns; beset, press hard; to be busy about, look after
+  ἐξάρχω (10): begin, take the lead in, initiate; teach; dictate; hold office
+  ἀπατάω (6): cheat, deceive; cheat; hopes; to be deceptive
+  ἀπειλέω2 (22): hold out; promise; threat; boast
+  ἄμοτον (9): insatiably, incessantly; insatiate; continually; implacably
+  δίδωμι (483): give freely; to be ready to give, offer; things offered; grant, assign
+  ἔρομαι (47): ask, inquire; learn by inquiry; ask after; for
+  προφαίνω (9): bring to light, show forth, manifest; let; be seen; display
+  ἰάομαι (5): heal, cure; attempt to cure, treat; cure. treat; remedy
+  ὑπισχνέομαι (25): take upon oneself; undertake to do; promise; she makes promises
+  ἀληθής (9): unconcealed; true, real; false, apparent; truthful, honest
+  μέμονα (13): to be furiously; very eager; would fain; rage
+  ἔθω (10): to be accustomed, to be wont; after his wont
+  ἄπιστος (6): not to be trusted; not trusty, faithless; mistrusted; untrustworthy, groundless
+  δείκνυμι (26): bring to light, show forth; portray, represent; cause; render
+  ἐρίηρος (24): faithful, trusty; loyal
+  ἔλπω (63): cause to hope; feeds; with hope; cause to expect
+  ἀγγέλλω (27): bear a message; may bring; word; announce, report
+  ἐτήτυμος (14): true; the truth; truthful; genuine, real
+  ἔπειμι (7): sum; to be upon; to be upon, be set upon; to be attached
+  κτῆσις (11): acquisition; success in; possession; your having
+  ἐπίσταμαι (27): know; be able; capable; can
+  ἀρνέομαι (10): deny, disown; negative; refuse; decline, renounce
+  κατανεύω (19): nod assent; grant, promise; consent to; make a signbynoddingthehead
+  δίζημαι (13): seek out, look for; seek for; devising means for; seeking to win her
+  τίθημι (376): l), Alc; set, put, place; set; set for oneself
+  ὀπάζω (52): make to follow, send with; give as a companion; follower; bid
+  θεάομαι (23): gaze at, behold; wonder; reconnoitred; do you see?
+  ἀάω (19): hurt, damage; mislead, infatuate; to be infatuated, act foolishly
+  ἐνίπτω (23): reprove, upbraid; reproved; to attack; tell, announce
+  παραπείθω (8): win by persuasive arts, prevail upon; beguile, cajole; may cajole; to be beguiled
+  θαμίζω (5): come often; plying; to haunt; to be accustomed
+  ἀποτίνω (28): repay; pay for; may atone for; made atonement
+  ἀλύω (5): to be deeply stirred, excited; to be distraught, beside oneself; in mad passion; to be at 
+  σῆμα (53): sign, mark, token; sign from heaven, omen, portent; sign to do; begin something
+  ναίω (76): dwell, abide; dwell in, inhabit; to be inhabited; lie, be situated
+  ναίω2 (23): dwell, abide; dwell in, inhabit; to be inhabited; lie, be situated
+  ἐπικρατέω (7): rule over; have; hold power; prevail in battle, be victorious
+  ὄθομαι (5): take heed; regard
+  ἄατος (7): insatiate
+  ἐφοράω (15): oversee, observe; watch over, visit; visit; attend
+  δέχομαι (78): take, accept, receive; receive; at the hand of; accept
+  ἐπιδίδωμι (5): give besides; administer; give afterwards; give in dowry
+  ψεύδω (8): cheat by lies, beguile; to be cheated, deceived; I am; deceived
+  ἄρχω (126): to be first; begin, make a beginning; to be the aggressor; to begin oneʼs
+  εὐφρονέων (8): with kind; prudent) mind
+  ἐπαινέω (16): approve, applaud, commend; agree with, side with; assent, agree; assent
+  δαμνάω (6): overcome, as with emotions or perceptual stimuli
+  δεύω2 (17): miss, want; he missed, failed; feel the want; loss of, be without
+  ὀφθαλμός (118): eye; eyes; to the eye; sight
+  δάμνημι (12): forced, seduced
+  ὄσσομαι (9): oqṷ-yo; see, look; Fr.anon; see in spirit
+  ἄτη (25): bewilderment, infatuation; blindness; delusion; the goddess of mischief
+  ναιετάω (36): dwell; dwell in, inhabit; to be situated, lie; exist
+  συμμαχέω (6): to be an ally, to be in alliance; join; in war; help, succour
+  λιτανεύω (6): pray, entreat
+  δόλος (42): bait; any cunning contrivance for deceiving; catching; trap
+  ἀρήγω (18): aid, succour; succour in war; help, succour; to be good for
+  ἀναπνέω (14): take breath; enjoy a respite, recover from; recovered; revive
+  ἅζομαι (8): stand in awe of, esp. gods and oneʼs parents; respects; I fear; reverently, in holy fear
+  μεταλλάω (26): search carefully, inquire diligently; inquire of, question; sought; out
+  φαίνω (157): bring to light, cause to appear; make; appear; show by baring
+  ἔρρω (13): go slowly; limping; wandering; come to oneʼs own harm
+  ὁρμάω (38): set in motion, urge on, cheer on; tear; inspired; urged on
+  ἐρεείνω (18): ask, inquire; ask of; question; ask about
+  μητίετα (19): counsellor; all-wise
+  ἀποδίδωμι (11): give up; back, restore, return; render what is due, pay; give
+  ἡβάω (16): attain; have attained puberty; past puberty; adults
+  διδάσκω (11): instruct; teach; taught; taught how
+  γνωτός (8): perceived, understood, known; well-known
+  χαίρω (105): rejoice, be glad; to rejoice; rejoice at, take pleasure in; express oneʼs joy
+  ἐπιμίξ (5): mixedly, confusedly, pell-mell; without; respect of persons
+  μνάομαι (24): to be mindful of; when I remember him; turn oneʼs mind; woo for oneʼs bride, court
+  μερμηρίζω (41): to be anxious; thoughtful, to be in doubt; was debating; debated anxiously
+  παπταίνω (26): look about one with a sharp, searching glance; looked about; look wistfully; look round fo
+  ἡγεμών (26): one who leads; guide; one who does a thing first, shows the way; leaders, Mnemos
+  ἀριστεύω (13): to be best; bravest; gain the prize for valour; gain the highest distinction
+  ἀνανεύω (5): throw the head back; make signs of refusal; deny, refuse; rejected
+  ἠπεροπεύω (7): cheat, cajole; seduction
+  ἀναίνομαι (16): refuse; reject with contempt, spurn; do I turn my back; refused, declined to do
+  ἀφαμαρτάνω (13): miss; lose, be deprived of
+  ἐπιλήθω (6): cause to forget; laps one in forgetfulness; to be forgotten; let
+  ψεῦδος (11): falsehood, lie; lie; deceit; false conclusion, fallacy
+  νόημα (23): that which is perceived, perception, thought; lightning; thought, purpose, idea, design; t
+  τέρας (19): sign, wonder, marvel, portent; a sign; signs; monster
+  οὔτι (32): having or prompted by wisdom or discernment: "a wise leader"; "a wise and perceptive comme
+  καγχαλάω (5): rejoice, exult; rejoice
+  εἴδομαι (50): to be seen, appear; are visible, appear; was visible; appear
+  ἀμείβω (168): change, exchange; changing; give in exchange; take in exchange
+  ἱκέτης (15): one who comes to seek aid; protection, suppliant; one who comes to seek for purification a
+  μελέδημα (5): care, anxiety; anxieties about; the care; object of care
+  μητίομαι (7): devise, contrive
+  πιφαύσκω (20): make manifest, tell of; proclaim; showing forth; exhibiting
+  δοκεύω (6): keep an eye upon, watch narrowly; watches; having watched for; lie in wait for
+  Ἶρος (12): Irus; an Irus; a beggar
+  ἀγνοέω (7): not to perceive; recognize; he perceived; knew well
+  τρήρων (7): timorous, shy; trembler
+  ἀδέω (5): to be sated with; should be sated with; feel loathing at; sated with
+  σάφα (21): clearly, plainly, assuredly; assuredly, of a surety; clearly; with certainty
+  κῆδος (49): care about; matter; anxiety, grief; troubles
+  πτωχεύω (5): to be a beggar, go begging; to be as poor as a beggar; to be badly off for; beg
+  αἴσιμος (22): appointed by the will of the gods, destined; fatal; agreeable to the decree of fate, meet,
+  δικάζω (8): Bis Acc; judge, sit in judgement; sit as a juror; give judgement on, decide, determine
+  ἀπιθέω (34): disobeyed; fail to persuade
+  νίκη (39): victory; victory in the games; victory over; mastery, ascendancy
+  οἴομαι (127): forebode, presage; expect; suspect; fear
+  πύκα (15): taking care or paying attention: "they watched carefully"
+  ἐκφαίνω (9): bring to light, reveal; produce; showed himself, came forth to view; came up from out
+  ἐρωτάω (5): ask; to be asked; ask about; to ask
+  χρέος (11): that which one needs must pay, obligation, debt; the obligation to restore or pay for ‘lif
+  καλέω (112): call, summon; they had been summoned; demand, require; call to oneself
+  διάκτορος (18): minister; messenger
+  ἐφίστημι (20): set, place upon; set over; to be appointed, instituted; bring in
+  ὄμμα (14): eye; straight; look; expression
+  πειράω (74): attempt, endeavour, try; make trial of; make an attempt on; make an attempt
+  κῆρυξ (90): herald, pursuivant; public messenger, envoy; messengers between nations at war; crier
+  μόνος (37): alone, solitary; bereft of; without; only
+  ἀπάτη (5): the act of deceiving
+  ἠθεῖος (6): trusty, honoured; trusty friends
+  μείρομαι (8): receive as oneʼs portion; oneʼs due; take; as thy due
+  πειρητίζω (11): attempt, try, prove; touched the strings; make trial of; attempt
+  αἰτιάομαι (7): accuse, censure; to accuse; accuse; bring a charge
+  συμφράζομαι (5): join in considering, take counsel with; imparted; contrive; mention at the same time
+  πτωχός (21): beggar; beggar-woman; beggarly; beggared of, poor in
+  δαήμων (5): knowing, experienced in; knowing best how to
+  τέθηπα (15): to be astonished, astounded, amazed; amazed, astonished; wonder; be amazed at
+  μέλλω (88): to be destined; likely to; belike; doubtless
+  πολύμητις (83): of many counsels
+  εὑρίσκω (80): find; find that; found; find means, be able
+  φράζω (110): point out, show; say, tell; show the way to, show where to find; showed
+  ἐπίσκοπος (5): one who watches over, overseer, guardian; watchers; over; tutor
+  ὄνειαρ (21): that which brings profit, advantage; boon; means of strengthening, refreshment; food, vict
+  δηριάομαι (7): contend; wrangle; contend with; contest a prize
+  ἔτυμος (6): true; natural; the true sense; according to its origin
+  πάρειμι (51): sum; to be by; present; near
+  ποινή (11): bloodmoney, were-gild, fine; price paid, satisfaction, requital, penalty; in return for; s
+  κερδαλέος (5): crafty, cunning; the wily one, the fox; profitable; to oneʼs advantage
+  πινυτός (6): prudent, discreet
+  ἐξέρομαι (13): inquire into; will inquire concerning; inquire of
+  ἁμαρτάνω (25): Acut. (Sp.); miss the mark; miss; fail of oneʼs purpose, go wrong
+  φάρμακον (25): drug; healing remedy, medicine; medicines; a medicine for
+  ἀποπλάζω (7): lead away from; stray away from; glancing off; wander
+  ἐξερεείνω (10): inquire into; inquire after; inquire of; make inquiry
+  ὅρκιον (30): oath; oaths; the offerings and other things used at a solemn oath; treaty
+  ἀγαπητός (5): that wherewith one must be content; to be acquiesced in; one must be content; desirable
+  Διομήδης (81): Jove-counselled
+  κίνυμαι (6): go, move; marched; as it was stirred
+  ἀκέομαι (9): heal, cure; stanch, quench; mend, repair; mending
+  ἐφίζω (8): set upon; set; ashore; having set
+  θαρσύνω (13): encourage, embolden
+  ἀγγελία (36): message, tidings; a report of; concerning; a message about
+  βουληφόρος (17): counselling, advising; like a counsellor
+  ἆ (14): feel envious towards; admire enviously
+  ἄποινα (26): ransom; price paid; to recover oneʼs freedom; to save oneʼs life
+  οἶος (154): alone, lonely; alone; naught but; only
+  ἐπιτέλλω (55): enjoin, prescribe, command; spake; command; enjoined, prescribed
+  θέμις (34): that which is laid down; established, law; as established by custom; meet and right
+  ἀπόμνυμι (5): take an oath away from; swear that one will not do; deny on oath; swear to
+  ἔνειμι (11): sum; to be in; to be among; is in
+  κερδίων (32): more profitable; most cunning; crafty; most profitable
+  οἰοπόλος (5): lonely; solitary, unaccompanied; tending sheep
+  ἆρα (77): anxiety; impatience; negative; affirmative
+  ἆθλος (42): contest; contest for a prize; a task; toil
+  φυλάσσω (40): keep watch and ward, keep guard; keep watch; watch; wait
+  ἄγγελος (34): messenger, envoy; one that announces; tells; angel
+  μιμνήσκω (110): remind, put in mind; recalled; to memory, made; famous
+  γέντο (5): he grasped
+  ποθέω (23): long for, yearn after; miss; regret; will miss
+  ἠμί (87): say; spake; said; aio, ad-agium
+  ζυγόν (23): yoke; the yoke; crossbar; thwarts
+  ὄσσε (31): the two eyes; oqṷ-ye
+  κέρδος (15): gain, profit; some advantage; best; gains, profits
+  ἀναίσσω (23): start up; he rose to speak; gush forth; springing fresh
+  ἄτερ (13): without, apart from; without; sine; aloof, apart from
+  δόσις (5): giving; licence, permission; ramming; gift
+  λιμός (8): Fr.anon; hunger, famine; a hungry wretch
+  ἀπονέομαι (17): go away, depart
+  λανθάνω (91): escape notice; escape; notice; donʼt know
+  σημαίνω (15): show by a sign, indicate, point out; after indicating; you have; shown you
+  πλάζω (22): turn aside; away from; glanced off; balked, baffled
+  ἑλίσσω (17): Acut.(Sp; turn round; about; turning
+  λαοσσόος (6): rousing; stirring the nations; to which the people flock
+  μέτρον (14): that by which anything is measured; measure, rule; a measure; measure, divisor
+  τυγχάνω (35): happen to be at; she be; mayʼst; has been made
+  ἀρνός (24): the case expressing ownership
+  σκοπός (14): one that watches, one that looks about; after; guardian, protector; one who watches
+  πρώτιστος (21): the very first; principal, primal; first of all; now that
+  ὅρκος (35): the object by which one swears; oath; an oath by; an oath
+  λαγχάνω (29): obtain by lot; obtain as oneʼs portion; had; for my portion
+  πρόμαχος (40): fighting before; in front; champions; champion
+  ἐκλανθάνω (6): escape notice utterly; forget utterly; forgettest; entirely
+  θεουδής (6): fearing God
+  μέτειμι (16): sum; to be among; interval; will be mine
+  δίχα (10): in two, asunder; divided; divided against itself; apart, aloof
+  βλέφαρον (28): eyelids; eyes
+  ἀλλότριος (16): belonging to another; another manʼs; of what is anotherʼs; unlike their own
+  κάματος (26): a consequence of someone's efforts or of a particular set of circumstances; "skill is the 
+  ἐφευρίσκω (9): find; discover, find anywhere; discovered; discover besides
+  ἀθλοφόρος (5): bearing away the prize, victorious; prizegiving
+  ἐχέφρων (9): sensible, prudent
+  δήμιος (7): belonging to the people; elected by the people; public; at the public cost
+  μήστωρ (17): adviser, counsellor; authors; skilled assistant
+  ἀγκυλομήτης (7): crooked of counsel
+  κικλήσκω (15): call, summon; invite; invoke, implore; accost, address
+  φυλακή (7): watching; guarding; watch and ward; to watch
+  πολύκμητος (6): requiring or showing effort: "heavy breathing"; "the subject made for labored reading"
+  ὑποδέχομαι (18): receive into oneʼs house, welcome; received; who had received him; harbour
+  ἑκάτερθε (17): after a negative statement used as an intensive meaning something like "likewise" or "also
+  ἀπαγγέλλω (10): bring tidings, report; bring back tidings, report in answer; he was reported; was reported
+  ἑλκέω (6): drag about, tear asunder; did; violence to
+  Διοτρεφής (21): minor or subordinate: "by" is often used in combination; "a side interest"; "a by (or bye)
+  κομέω (9): take care of, tend
+  κηρύσσω (8): to be a herald, officiate as herald; to be an auctioneer; make proclamation as a herald; b
+  σφός (14): their, their own, belonging to them; his; her, his own; her own
+  εἶπον (560): said; avocam; vac; speak, say
+  νόσφι (46): aloof, apart, aside; aside; aloof from; besides, except
+  βοῶπις (14): ox-eyed; having large, full eyes
+  ἄνδιχα (5): asunder, in twain; far away; apart from; to be divided in opinion
+  νικάω (44): conquer, prevail; conqueror; conquered; won the first prize
+  ἀριθμέω (6): number, count, reckon up; counted; after numbering; stopped to count
+  ὑποκρίνομαι (6): reply or respond to: "She didn't want to answer"; "answer the question"; "We answered that
+  φοῖνιξ (8): a document that states some contractual relationship or grants some right
+  ὀφείλω (27): owe, have to pay; account for; do I owe?; to be debtor
+  νύσσα (5): turning-post; turning-point; starting; winning-post
+  ὑπερβασία (7): passover; transgression, trespass
+  ἄλοχος (109): partner of oneʼs bed, wife; leman, concubine; unwedded
+  εἰκός (21): like truth; likely, probable, reasonable; likelihood, probability; likelihoods
+  τολμάω (10): Bodl. Quarterly Record; undertake, take heart; to do; bear
+  ἀρχή (11): beginning, origin; a foundation; source; the beginning
+  ὀψίγονος (5): after the expected or usual time; delayed: "a belated birthday card"; "I'm late for the pl
+  ῥίζα (8): root; roots; roots of the eye; streaks
+  δοάσσατο (11): it seemed; appear
+  ἱλάσκομαι (7): fix firmly: "He ensconced himself in the chair"
+  πεύθομαι (16): lay information against; bódhati; budēti
+  εὐρύχορος (10): broad in scope or content: "across-the-board pay increases"; "an all-embracing definition"
+  δῆμος (116): district, country, land; the land; people, inhabitants; the commons, common people
+  Κύκλωψ (32): Cyclops; Round-eyed; round-eyed; Polyphemus
+  κίω (107): stop and wait, as if awaiting further instructions or developments: "Hold on a moment!"; "
+  κατερύκω (21): observe correctly: "keep time, keep count, keep track of"
+  ὑποδείδω (13): shrink in fear under, cower before; cower beneath; fear
+  μνηστός (6): wooed and won, wedded; memorable, to be remembered
+  ἱερόν (14): a job in an organization or hierarchy: "he ocupied a post in the treasury"
+  ἀποστείχω (5): go away, go home
+  παλάμη (22): the activity of writing by hand: "handwriting can be slow and painful for one with arthrit
+  ῥύομαι (31): discharge or settle: "pay a debt"; "pay an obligation"
+  πάμπρωτος (9): the very first, first of all
+  ἐξαπίνης (11): happening or coming quickly and without warning: "a sudden unexpected development"
+  δοιώ (7): a set of two similar things considered as a unit
+  ἆθλον (31): prize of contest; prizes; as the prize; contest
+  ὦνος (8): price paid; for; purchase; articles of traffic
+  ὀφρύς (20): the arch of hair above each eye
+  εἰκοστός (12): twentieth; a tax of a twentieth; vicesima manumissionum
+  ξύλοχος (6): the act of brushing your teeth: "the dentist recommended two brushes a day"
+  εὐρυάγυια (12): with wide streets; public
+  βίοτος (40): a set containing all and only the members of two or more given sets: "let C be the union o
+  ἁμός (7): sums (some one), suman (sometime, once)
+  κτέαρ (14): any area set aside for a particular purpose: "who owns this place?"
+  ἐπιγράφω (5): of accounts and tax returns; with the intent to verify
+  κτύπος (11): the price charged for some article or service: "the admission charge"
+  θηρατήρ (8): a watch with a hinged metal lid to protect the crystal
+  ἀθάνατος (197): concerned with theory and data rather than practice; opposed to applied: "pure science"
+  ἔξειμι2 (5): sum; issue
+  πολίτης (5): people living in a large densely populated municipality: "the city voted for Republicans i
+  πτολίεθρον (31): an incorporated administrative district established by state charter: "the city raised the
+
+cluster 9  |  291 lemmas  |  spear, bronze, breast, arrow
+  πούς (287): foot; talons; arms; feelers
+  κάρα (82): head; the face; peak, top; edge, brim
+  αὐχήν (40): neck, throat; gullet; one neck; high-spirited
+  ξυστόν (5): shaved; shaft, pole; shaft; spear
+  δειρή (13): neck, throat; ornaments; collar; gully, glen
+  λαιμός (5): throat, gullet; neck
+  γύαλον (6): hollow; breast; back-piece; front-piece
+  ἔντεα (32): fighting gear, arms, armour; coat of mail, corslet; furniture, appliances, tackle; rigging
+  καυλός (5): stem; spear-shaft; sword-hilt; quill part
+  γουνάζομαι (6): clasp; knees; implore, entreat; implore
+  ὄνυξ (5): talons, claws; nail; hoof, X.Eq; claw
+  ξίφος (65): sword; power of life and death; jus gladii; sword-shaped bone
+  αἰχμητής (28): spearman, warrior; pointed; spear-wielding; warlike
+  τόξον (111): bow; the bow; by guess; bowmanship, archery
+  κράς (31): head; top, peak; the head; far end
+  ἱστίον (25): web, cloth, sheet; hangings; piece; sail
+  νῶτον (31): back; chine; the back; rear
+  λόφος (15): back of the neck; withers; nape of the neck; the neck
+  κολεόν (11): sheath, scabbard; sheath, wing-case
+  καλλίθριξ (16): with beautiful manes; with fine wool; with beautiful hair; waterwort, Asplenium trichomane
+  κνημίς (8): greave, legging; leggings; spoke of a wheel
+  βραχίων (6): arm; the shoulder; shoulder of beasts; force of arm
+  θώραξ (35): corslet; jerkin; coat of mail, scale armour; slough
+  στεφάνη (5): anything that surrounds; encircles; brim; helmet
+  ἔγχος (240): spear, lance; weapon; sword; weapons
+  σκόλοψ (9): anything pointed; pale, stake; palisade; thorn
+  γυμνός (11): naked, unclad; unarmed; parts not covered by armour, exposed parts; right side
+  παρειά (19): cheek; cheekpiece; earth-flush; beside the ear
+  ἀτιτάλλω (11): rear, tend; cherish; beguile, cajole
+  κορύσσω (26): furnish with a helmet; fit out, equip, marshal; equip, arm oneself; headed with
+  ἄορ (23): hanger; sword hung in a belt; women; any weapon
+  κοῖλος (57): hollow; hold; vena cava; plate
+  χαλκοκορυστής (9): bronze-armed, equipped with bronze
+  ὄζος (19): bough, branch, twig; knot; eye; eyes, mere knots
+  ἵππειος (7): of a horse; horses; horse-hair
+  γένειον (7): part covered by the beard, chin; chin; beard; mane
+  λεπτός (20): peeled, husked; threshed out; fine, small; light
+  πήληξ (10): helmet; crest
+  φῦσα (5): pair of bellows; smithies; bladder; Gloss
+  κόλπος (16): bosom, lap; bosom; lap; vagina
+  γαστήρ (30): paunch, belly; the hollow; belly; wide part
+  ἀργιόδους (11): white-toothed, white-tusked
+  χαλκήρης (25): furnished; fitted with bronze; tipped; armed with bronze
+  ἀργυρότοξος (14): with silver bow; bearer of the silver bow
+  ἱστός (47): anything set upright; mast; the mast; rod, pole
+  σπεῖρον (7): piece of cloth; cloth; wraps; cerecloth
+  θρίξ (14): hair; hair of the head; wool; bristles
+  γόνυ (122): knee; clasping the knees; on my knees; the knee
+  κορυφή (29): head, top; crown, top of the head; top, peak; summit, top
+  χαλκοχίτων (32): bronze-clad
+  τανύπεπλος (7): with flowing robe
+  ἀορτήρ (5): strap to hang; to, sword-belt; knapsack-strap
+  κρόταφος (11): side of the forehead; temples; side edge, profile; sideways, horizontally
+  τεῦχος (192): tool, implement; implements of war, armour, arms; whole armour, harness; the gear
+  λαπάρα (7): the soft part of the body; flank; flanks; side
+  ἀλέω (7): grind, bruise; civilized; ground; grind
+  αἰγανέη (5): hunting-spear, javelin
+  παρήιον (5): cheek; jaw; cheek-ornament
+  ἀργυρόπεζα (11): silver-footed; sandalled
+  κόρυς (46): helmet; scalp
+  ὀιστός (54): arrow; arrow-head, Sagitta sagittifolia; Sagitta
+  ἕννυμι (63): ves; vestis; váste; put clothes on
+  ὤψ (6): eye, face, countenance; the face; face
+  μέλος (24): limb; bodily frame; limb by limb; dismember
+  κρατερῶνυξ (7): strong-hoofed, solid-hoofed; strong-clawed; with strong nails
+  κυνέη (26): dogʼs skin; helmet; cap; caps
+  λίνον (6): anything made of flax; cord, fishingline; thread; ligature
+  εἶδος (44): that which is seen: form, shape; form; figure; appearance
+  ὅπλον (19): tool, implement; tackle, tackling; ropes, halyards; rope
+  πέπλος (16): any woven cloth; sheet, carpet, curtain, veil; upper garment; mantle
+  ἑανός (9): fine; beaten out fine; fine robe; sail
+  πτώσσω (9): shrink from, shrink; flee; skulk, slink; flee cowering
+  ἱμάσθλη (5): thong; whip; rudder; any thong
+  χρώς (110): skin; flesh; oneʼs body, frame; close to the skin
+  σκηπτοῦχος (8): bearing a staff, baton; sceptre; sceptred; wand-bearer
+  στέρνον (19): breast, chest; breast; heart; breastbone
+  σκῆπτρον (36): staff; stick; staffs; supports
+  πάσσαλος (6): peg; stakes; pale; a pin
+  σειρά (5): cord, rope; cord; trace; line with a noose, lasso
+  δεσμός (31): band, bond, anything for tying and fastening; halter; mooring-cable; door-latch
+  νευρά (12): string; cord of sinew; bowstring; harpstring
+  ποικίλος (30): many-coloured, spotted, pied, dappled; tattooed; wrought in various colours; a broidered r
+  ἱπποδάσεια (9): bushy with horsehair
+  γυῖον (52): limb; the feet; womb; hands
+  μοχλός (8): bar, lever, crowbar; any bar; stake; bar
+  χρύσεος (125): golden; enriched; adorned with gold; gold
+  πρόσωπον (10): face, countenance; in front, facing; facing, fronting; in person
+  φόρμιγξ (21): lyre; bow
+  διατρίβω (7): rub hard; wear away, consume; to fritter away; perish
+  ἀνθεμόεις (6): flowery; adorned with flowers; embroidered
+  κατεσθίω (5): eat up, devour; corrode; to be gnawed; bite
+  ἄλεισον (9): cup, goblet; hip-socket
+  ἀραβέω (10): rattle, ring; gnash; gnash, grind
+  στῆθος (190): breast; chest; breasts; the breast as the seat of feeling and thought
+  μηρός (36): thigh; his thigh; beside; thigh-bone
+  πῆχυς (8): forearm; arm; ulna; centrepiece, which joined the two horns of the bow
+  πέδιλον (17): sandals; any covering for the feet, shoes; boots; rhythm
+  τρυφάλεια (15): helmet; ‘three’
+  ζώνη (6): belt, girdle; the lower girdle worn by women; above the hips; girdle
+  ἐγχείη (23): spear, lance; in the spear
+  πέλεκυς (19): axe; battle-axe; sacrificial axe; executionerʼs axe
+  κοτύλη (5): anything hollow; small vessel, cup; cup; socket
+  δέμας (42): bodily frame; the living body; in stature; shoot
+  κεφαλή (137): head; in stature; down over the head; on the head
+  Ἀτρυτώνη (7): the Unwearied
+  ἐυμμελίης (6): armed with good ashen spear
+  μέτωπον (12): the space between the eyes; brow, forehead; front, face; face
+  ὀδούς (26): tooth; incisors; molars; anything pointed
+  χαλκοβαρής (7): heavy; loaded with bronze
+  κυανοχαίτης (8): dark-haired; dark blue; dark-maned
+  κόμη (13): hair of the head; the hair; hair, wig; unkempt
+  ἐπήρετμος (6): at the oar; equipped with oars
+  ξέω (5): shave; plane; carve; shape by carving
+  ἀτειρής (13): not to be rubbed; worn away, indestructible; stubborn, unyielding; stubborn
+  φάσγανον (25): sword; corn-flag, Gladiolus segetum
+  χαίτη (17): loose, flowing hair; back hair; mane; crest
+  ἀργυρόηλος (19): silver-studded
+  ἀγλαία (7): splendour, beauty; splendour, magnificence; pomp, show; vanities
+  μηρία (16): thigh-bones; thigh-bones in their fat; thighs
+  ὅρμος (6): cord, chain; necklace, collar; anything strung like a necklace, wreath, chaplet; a string
+  σιδήρεος (16): made of iron; steel; grappling-iron; of arms
+  κεράω (5): make horned; take post on the wing; flank
+  Φοῖνιξ (20): Phoenician; Carthaginian; purple; crimson
+  μετάφρενον (17): part behind the midriff; broad of the back; back
+  δέρμα (14): skin, hide; skin; skins prepared for bags, bottles; a manʼs skin
+  ῥάβδος (12): rod, wand; magic wand; divining-rod; fishing-rod
+  ἰός (35): arrow
+  κενεών (5): hollow between ribs and hip, flank; hollows; hollow; vacant space
+  μελία (16): manna ash, Fraxinus Ornus; ashen spear
+  ὀμφαλός (8): navel; umbilical cord; anything; like a navel
+  ἀράω2 (7): plough; arare
+  ἱέραξ (8): hawk, falcon; fish; bandage
+  πλευρά (5): rib; ribs; side; both sides
+  ἰοχέαιρα (12): arrow-pourer, shooter of arrows; poison-shedding
+  ὀμφαλόεις (13): having a navel; boss; with a central boss; with a knob on the top
+  ὦμος (154): the shoulder with the upper arm; the lower; arms; the shoulder
+  κρήδεμνον (14): womanʼs head-dress; veil; mantilla; battlements
+  χιτών (70): garment worn next the skin, tunic; a manʼs tunic; coat of mail; coats
+  κώπη (7): handle; handle of an oar; the oar; oars
+  λάινος (9): of stone; marble; stony-hearted
+  κάρηνον (23): head; peaks
+  ἀκωκή (15): point; sting; fangs
+  ἱμάς (21): leathern strap; thong; traces; reins
+  εὔκομος (21): lovely-haired; well-fleeced; with goodly foliage
+  ἀσκός (8): skin, hide; skin made into a bag; wineskin; bag
+  αἰχμή (33): point of a spear; point; spear; with the spear
+  ἔθειρα (5): hair; a horseʼs mane; horsehair crest; hair of the head
+  ἐπισφύρια (5): leg-guards; above the ankle-joint, ankle
+  ἄκων (21): javelin, dart
+  στήλη (7): block of stone; prop; buttress; block
+  βέλος (89): missile; arrow, dart; hurled; thrown
+  Λακεδαίμων (15): Lacedaemon; Laconia
+  κνημός (7): projecting limb, shoulder; grove
+  λευκώλενος (39): white-armed
+  κερτομέω (8): taunt, sneer at; sneer
+  ῥῆγος (15): rug, blanket
+  ἔντερον (6): piece of the guts; intestines; gut; guts, bowels
+  θάμνος (9): bush, shrub; copse; bushy
+  δέρω (10): skin, flay; to have oneʼs; flayed off; will make
+  ἄργυρος (13): white metal; silver; silver plate; quicksilver
+  ζώννυμι (11): gird; gird round the loins; hug; gird oneself
+  ὀχεύς (13): anything used for holding; fastening; band; strap for fastening the helmet
+  αἰγυπιός (6): vulture
+  γύψ (7): vulture
+  κλείς (33): clavis, claudo; bar, bolt; catch; hook
+  νομεύς (13): herdsman; dealer out, distributor; ribs
+  προφέρω (10): bring before; present; cast; teeth
+  κῶας (13): fleece; Golden Fleece
+  ζωστήρ (17): a warriorʼs belt; belt; a womanʼs girdle; anything that goes round like a girdle
+  ἐσθής (15): clothing, raiment; the dress; dress; toga pura
+  γλαφυρός (84): hollow, hollowed; a deep; arched; polished
+  θεῖον (5): brimstone; suffire
+  εὔπεπλος (7): with beautiful peplos, beautifully robed
+  δάπτω (6): devour; rend; tear; corrode
+  κνήμη (16): part between knee and ankle, leg, shank; tibia; stem between two joints; spoke
+  κύπελλον (10): big-bellied drinking-vessel, beaker, goblet; milk-vessel; fragments of bread left on table
+  τάπης (11): carpet, rug
+  ἔριον (5): wool; flocks of wool; cotton; web
+  σφυρόν (5): ankle; put out; the lower part; edge, foothills
+  γναθμός (7): jaw
+  φᾶρος (29): a large piece of cloth, web; a wide cloak; mantle; shroud
+  λίθος (27): stone; stones; stonequoit; stone, petrified
+  εἷμα (80): garment; over-garment; rug, carpet
+  γάλα (7): lac; glact; milk; the breast
+  λᾶας (23): stone
+  ὀβελός (14): spit; pointed square pillar, obelisk; horizontal line
+  πολιός (41): grey, grizzled, grisly; grey; greyhaired men; grey hairs
+  βιός (17): bow; jiyā´; gijà
+  χρυσός (73): gold; golden; anything dear; precious
+  πάλλω (25): poise, sway; sway, brandish; toss; drove
+  πηδάλιον (5): steering-paddle, rudder; the oars; the long hind legs
+  δίσκος (6): quoit; quoitʼs; anything quoit-shaped; dish, trencher
+  χλαῖνα (58): upper-garment, cloak, wrapper; blanket; covering; like a cloak
+  χαλκός (197): copper; bronze; anything made of metal; the spear of bronze
+  ἀργεννός (6): white
+  χρυσόθρονος (15): with throne of gold
+  ὀξυόεις (11): with beechen shaft, beechen
+  λάσιος (5): shaggy, woolly; hairiness; bushy, overgrown; overgrown with
+  ἠλάκατα (5): wool on the distaff
+  λίπα (9): richly
+  αἰπόλος (11): goatherd
+  συβώτης (70): swineherd
+  συφορβός (8): swineherd
+  κασσίτερος (10): tin; plates of tin; kassi-tira; kastīram
+  κάνεον (14): basket of reed; cane; bread-basket
+  ἄαπτος (14): not to be touched, resistless, invincible
+  θρῆνυς (11): footstool; bench; helmsmanʼs bench; bridge
+  αἴρω (43): give shape to: "form the clay into a head"
+  φάτνη (7): manger, crib; manger; haunts; socket of tooth
+  παντοῖος (30): of all sorts; kinds, manifold; all possible shapes; tries every shift
+  βροτόεις (9): gory
+  πεῖσμα (7): shipʼs cable; stern-cable; tie; reins
+  ἐυκνήμις (30): well-greaved; with goodly spokes
+  Ἀργεῖος (218): from Argos, Argive; the Greeks; Argolis; womenʼs shoes
+  ἀργύρεος (38): of silver; silver-plated; silver coin
+  χαλκεύς (6): coppersmith; worker in metal; goldsmith; worker in iron
+  φιλήρετμος (8): fond of the oar
+  φαρέτρα (13): quiver; quiver-full of
+  Ἀχιλλεύς (382): Achilles; ‘Achilles and the Tortoise’
+  ἀσπερχές (6): hotly, unceasingly
+  ἐρέτης (8): rowers; oars; era; aritár
+  πήρα (6): leathern pouch; wallet
+  χάλκεος (67): of copper; bronze, brazen; bronze; for a shield of brass
+  χάλκειος (30): of copper; bronze, brazen; of brass; yellow fish thistle, Carlina corymbosa
+  γνύξ (6): with bent knee; on the knee
+  ξεστός (22): hewn, shaved, planed; carved; hewn; built of hewn stone
+  τοξάζομαι (7): shoot with a bow; shoot at
+  θέλγω (23): enchant, be witch; spell-bound; cheat, cozen; charm, beguile
+  ἐναργής (5): visible, palpable, in bodily shape; most clearly relating to; in visible form; very
+  ἐρετμόν (27): oar
+  Μηριόνης (57): pudenda muliebria
+  ἐπιεικτός (5): yielding; unyielding, dauntless; ceaseless; tolerable
+  δέπας (56): beaker, goblet; bowl
+  χλωρός (16): greenish-yellow, pale green; green plaster; green paint; yellow
+  λάξ (8): with the foot; under foot
+  ἀκοντίζω (35): hurl a javelin; use the javelin; hit; strike with javelin
+  μέλινος (14): ashen
+  ἀπαμείβομαι (125): reply, answer
+  θωρήσσω (43): arm with a; arm; arm oneself, put oneʼs harness on; to arm yourselves withal
+  τρητός (7): perforated, with a hole in it; inlaid; holes; mortised
+  εὔσελμος (29): well-benched; decked
+  ὀιστεύω (7): shoot arrows; with an arrow; shoot with an arrow
+  δολιχήρετμος (6): long-oared; using long oars
+  δουρικλειτός (18): famed for the spear
+  ὀνειδίζω (5): cast in; teeth, make a reproach; make a reproach; to be made a reproach
+  κυνέω (21): kiss; bill
+  καλλιπλόκαμος (6): with beautiful locks
+  ἄγγος (6): vessel; vat; pitcher; bucket, pail
+  κρύπτω (12): hide, cover; hide; cover; having cloaked his
+  Σκάμανδρος (12): Scamander; Scamandrian
+  ξανθός (42): yellow; brown, auburn; fair, golden; golden
+  ἄγε (193): come on!
+  ἐρέσσω (5): row; speed by rowing; ply; the measured
+  ὀδάξ (9): by biting with the teeth; biting the lips; tooth; bite
+  ἑκατόμβη (36): an offering of a hundred oxen; sacrifice; eye-salve
+  χεῖλος (10): lip; with the lips only; the lips; on the surface only
+  χαλκοβατής (6): standing on bronze, with brazen base; with floor of bronze
+  πρυμνήσιος (13): of a stern; stern-cables
+  Ὑπερίων (8): Hyperion
+  αἴγειρος (8): black poplar, Populus nigra
+  Λυκία (19): Lycia; from Lycia; to Lycia
+  ἀμολγός (5): dead; milking-time
+  ἐπιβρίθω (5): of coins
+  πολυκλήις (11): with many benches
+  πολύχρυσος (5): rich in gold
+  μηκάς (5): bleating one
+  μνηστήρ (232): wooer, suitor
+  χαλκοῦς (22): copper coin; money
+  βλεμεαίνω (6): exult
+  ἀγορητής (7): speaker; public auctioneer
+  ἄμφω (61): both
+  κλυτότοξος (5): famous for the bow, renowned archer
+  ἀμφιφορεύς (9): large jar; pitcher with two handles; cinerary urn
+  τυρός (7): cheese; the cheese-market
+  διοιστεύω (6): shoot an arrow between; reach it with an arrow
+  μαστός (17): the manʼs breast; the womanʼs; breast; a womanʼs breast
+  κερτόμιος (6): mocking, taunting
+  ταῦρος (23): bull; priest of Poseidon Taureios; the bull as a sign of the Zodiac; the pudenda muliebria
+  θρόνον (7): flowers embroidered on cloth; herbs used as drugs and charms
+  Μυκήνη (8): Mycene, Mycenae; Mycenaean; a Mycenaean; from Mycene
+  λέβης (24): kettle, cauldron; brazier; coin stamped with a cauldron; basin
+  τῇδε (6): here
+  Λύκιος (5): Lycian; the Lycians; history of Lycia
+  τῆ (7): there!
+  πρηνής (19): a position on a basketball team
+  οἶδα (303): know; knew; Stadtrecht von Gortyn; Koische Forschungen
+  ἐπαινός (6): awesome
+  ἔχθω (5): hate
+  μάρτυρος (8): a person who attests to the genuineness of a document or signature by adding their own sig
+  εἴδωλον (13): phantom; any unsubstantial form; form; image reflected
+  ὀδών (11): an ability to perform well: "he was at the top of his form"; "the team was off form last n
+
+cluster 21  |  242 lemmas  |  wound, destroy, slay, cut
+  οὖλος3 (8): destructive, baneful, cruel; cruel; death-cry
+  ἀπηνής (11): ungentle, rough, hard; cruel; cruel thoughts; hard
+  ὀλέκω (15): ruin, destroy, kill; prey; perish, die
+  οὐλόμενος (14): accursed; ruined, lost; unhappy, wretched
+  ἐναίσιμος (14): ominous, fateful; seasonable; favourable, boding good; righteous
+  ὀλοός (42): destructive, deadly; ill; destroyed, lost
+  ἀκηδής (8): uncared for; unburied; without care; sorrow
+  κακότης (25): badness; baseness, cowardice; cowardice; wickedness, vice
+  μέρμερος (6): baneful; mischief; warlike deeds; ills
+  ἐναίρω (18): slay; to kill; to make away with, destroy; destroy, disfigure
+  τετίημαι (15): to be sorrowful; sorrowing; from grief; quies
+  νηλής (38): pitiless, ruthless; ruthless; resolute; dogged
+  ἀπήμων (19): unharmed, unhurt; without sorrow; care; doing no harm
+  θυμοφθόρος (5): destroying the soul, life-destroying; heart-breaking; troublesome, annoying
+  αἰσχρός (10): causing shame, dishonouring, reproachful; ugly, ill-favoured; deformed; with an ugly
+  πημαίνω (5): plunge into ruin, undo; grieve, distress; damage; do harm
+  ἀνία (5): grief, sorrow, distress, trouble; a mischief; the killjoy; bane
+  ἀναιδής (12): shameless; ruthless; the reckless, ruthless; greedy
+  αἶσχος (8): shame, disgrace; disgraceful deeds; ugliness, deformity
+  ὀιζυρός (14): woeful, miserable; wretch!; toilsome, dreary; sorry, wretched, poor
+  σχέτλιος (31): able to hold out, unwearying, unflinching; flinching from no cruelty; wickedness, merciles
+  ἀτασθαλία (11): presumptuous sin, recklessness, wickedness
+  ἀνάρσιος (6): incongruous; hostile, implacable; enemies; untoward, strange
+  πῆμα (46): misery, calamity; pains; labours; bane, calamity
+  χαλεπός (54): difficult; hard to bear, painful, grievous; severity; hardships
+  δειλός (37): cowardly; vile, worthless; lowborn, mean; afraid of
+  ὄλλυμι (166): destroy, make an end of; kill; doing away with; lose
+  ὄλεθρος (81): ruin, destruction, death; of death; plague take thee!; destruction
+  ἄφθιτος (9): not liable to perish, undecaying, imperishable; immortal; unceasing; unchanging, unchangea
+  ἀποκτείνω (21): kill, slay; condemn to death; put to death
+  ἀχεύω (109): grieving, mourning; grieving in; sorrowing for; vex, annoy
+  δύστηνος (22): wretched, unhappy, unfortunate, disastrous; unhappy are they; wretched
+  δεινός (96): fearful, terrible; fearful; awful; danger, suffering, horror
+  στυγερός (43): hated, abominated, loathed; hateful, abominable, loathsome; hateful; hateful, wretched
+  ἀτάσθαλος (18): reckless, presumptuous, wicked
+  μῆνις (16): wrath; revengeful temper
+  τιτρώσκω (5): wound; is wounded; inflict; kill
+  λυγρός (61): baneful, mournful; bane, misery; ruin; in banes
+  ἔκπαγλος (25): terrible, violent; terribly, vehemently, exceedingly; beyond all measure; marvellous, wond
+  ἀμέγαρτος (5): unenviable; sad, melancholy; undesirable; unhappy, miserable
+  ἐχθρός (7): hated, hateful; hateful; hating, hostile; averse from
+  ἄλγος (92): pain; sufferings; grief; grief for
+  μέλεος (5): idle, useless; unearned; in vain; unhappy, miserable
+  πέρθω (21): waste, ravage, sack; destroy, slay; get by plunder, take
+  ἐχθαίρω (10): hate, detest; bear; hatred; to be hateful
+  ἀφραδής (6): insensate, reckless; without sense, senseless; senselessly, recklessly
+  ἐλεεινός (12): finding pity, pitied; moving pity, piteous; piteous; having received mercy
+  φόνος (46): murder, slaughter; killing; murder; slaughter
+  ἀκάματος (10): without sense of toil; untiring, unresting; that never rests; inexhaustible
+  ἀπομηνίω (5): to be very wroth, persevere in wrath; having departed from wrath; PBodl.ined; cease from w
+  ἀνιάω (7): grieve, distress; to be grieved, distressed; is vexed; have
+  αἰσχύνω (12): make ugly, disfigure; give; a bad form; dishonour, tarnish
+  στυγέω (10): hate, abhor; to show hatred; hate; fear
+  ἀσκηθής (8): unhurt, unscathed; sound, healthy; unblemished; safe
+  δακρυόεις (18): tearful; through tears; causing tears
+  κτείνω (155): kill, slay; seeks to kill; the slayer, murderer; put to death
+  ἀποφθίνω (15): perish utterly, die away; make to perish, waste away, destroy; had; taken
+  νεμεσητός (8): causing indignation; wrath, worthy of it; it is matter for indignation; retributive
+  ἐάω (158): suffer, permit; leave; alone; should be given up
+  ἀργαλέος (60): painful, troublous; difficult; troublesome, vexatious; hard
+  φθονέω (9): bear ill-will; malice, grudge, be envious; jealous; envy
+  φθισήνωρ (5): destroying; killing men
+  μαψίδιος (9): vain, false; useless, worthless; thoughtlessly, at random; without reason
+  ἄφρων (15): senseless; crazed, frantic; silly, foolish; senselessly
+  αἰνός (103): dread, horrible; dread, terrible; terribly; strangely, exceedingly
+  ἀνδροφόνος (17): man-slaying; homicide; murderous; slaughter in battle
+  λευγαλέος (15): in sad; sorry plight, wretched; in ill plight; sore, baneful
+  φείδομαι (10): spare; not destroy; spare, be merciful; use sparingly
+  πάσχω (118): have; done to one, suffer; to be treated; suffer
+  σίνομαι (5): harm, hurt, do; harm; mischief; used to plunder
+  ἀμήχανος (10): without means; resources, helpless; incapable, awkward; awkward at
+  ἀίδηλος (10): making unseen, annihilating, destructive; unseen, unknown, obscure; unforeseen; formless
+  ἀκόρητος (6): insatiate, unsated; undisturbed by bugs; unswept
+  σμερδαλέος (36): terrible to look on, fearful; dire-gleaming; terrible to hear; márdati
+  ῥαίω (9): break, shiver, shatter; wreck; cause; to suffer shipwreck
+  ἄσπετος (34): unspeakable, unutterable; unspeakably great; countless; unspeakably
+  κακόω (8): maltreat, distress; afflict; the afflicted; to be in ill plight, be distressed
+  δηιόω (23): cut down, slay; slaying; were slaying; were being slain
+  ἀσφαλής (8): not liable to fall, immovable, steadfast; unshaken; unfailing, trusty; safe
+  ἐτώσιος (9): to no purpose, fruitless; fruitless; useless, unprofitable; undone
+  ὁμοίιος (11): distressing; common to all; impartial
+  μογέω (33): toil, suffer; suffers; tired; with pain
+  ἐνδυκέως (20): sedulously, kindly; steadfastly; greedily, ravenously
+  οἰκτρός (7): pitiable; to be pitied for; pitiable, lamentable; sorry
+  ἀλιταίνω (7): sin; offend against; transgress; stray from
+  καταφθίω (6): ruin, destroy; waste away, perish; would; have been consumed, spent
+  τλάω (82): suffer, undergo; hold out, endure, be patient, submit; I submitted; bore up under
+  πόνος (56): work; hard work, toil; the toil of war; toil
+  θείνω (66): strike; dashed; slay; slain
+  μάψ (9): in vain, without result; without aim or object; vainly, falsely; thoughtlessly, recklessly
+  ἀλγίων (7): more; most painful, grievous; distressing; so much the worse
+  ὀδύσσομαι (9): to be wroth against, hate; hated
+  δηλέομαι (16): hurt, do a mischief to; did; a mischief; slew
+  πότμος (35): that which befalls one, lot, destiny; evil destiny; death; gifts
+  χωλός (5): lame; halting, limping; defective; one-sided
+  διαπέρθω (13): destroy utterly, sack, waste
+  ἀεικίζω (8): treat unseemly, injure; I will do; dishonour
+  ὄνομαι (14): blame, find fault with, treat scornfully; do ye think it a light thing; is it to your prof
+  ἄχος (60): pain, distress
+  λοιγός (22): ruin, havoc; destruction; pa-liegti
+  ἤλιθα (5): very much, exceedingly; in vain, to no purpose
+  ἀπόλλυμι (66): destroy utterly, kill; demolish, lay waste; will waste; sought to destroy
+  ἀσχαλάω (7): to be distressed, grieved; is vexed because of
+  ἀπεχθάνομαι (10): to be hated, incur hatred; to be or become hateful to; incur; hate
+  ἀνιάζω (7): grieve, distress; to be grieved; distressed; grieving
+  ἐξεναρίζω (36): strip; spoil; strip off; kill, slay
+  μόγις (5): with toil and pain; hardly, scarcely
+  ἄρρηκτος (10): unbroken, not to be broken; invulnerable; unploughed; with unbroken courage
+  λώβη (14): outrage, dishonour; outrage; an outrage; ruin
+  γόος (51): weeping, wailing; louder signs of grief; grief for; for
+  ὀχθέω (29): to be sorely angered, vexed in spirit
+  δύη (5): misery, anguish; of woe; two; Theol, Ar
+  νόος (102): mind; sense, wit; prudently; senselessly
+  ἀτέμβω (8): maltreat; afflict, perplex; to be bereft; cheated of
+  ὀιζύς (18): woe, misery
+  ἄπρακτος (5): unavailing, unprofitable; when no business is done, holidays; restful; of inaction
+  Ἐρινύς (12): the Erinys; guilt, punishment invoked; curses from; frenzy
+  ῥήγνυμι (49): break asunder, rend, shatter; rend; make grievous; break for oneself, get broken
+  νεμεσάω (41): feel just resentment, to be wroth at undeserved good; bad fortune; to be wroth with; grudg
+  ἕλκος (22): wound; festering wound, sore, ulcer; the festering bite; plague-ulcer
+  σφάζω (15): slay, slaughter; by cutting the throat; slaughter; cut
+  ἀμενηνός (6): fleeting; fleeting, feeble; feeble, weak; faint, shadowy
+  τείρω (43): oppress, distress, weaken; she was; distressed
+  αἴσυλος (6): unseemly, evil, godless
+  ὑπόδρα (26): from under; looking askance, grimly
+  κεραίζω (8): ravage, plunder; sink, disable; slaughter; carry off as plunder
+  ἀπείρων2 (14): boundless, endless; countless; seeming endless; profound
+  ἐλεγχής (6): worthy of reproof; cowardly; reproachful
+  ἔρδω (49): to do; harm; let; practise
+  ἀλαπάζω (11): empty, drain, exhaust; sack, plunder; overpower, destroy
+  ἀέκων (44): involuntary, constrained; invito Jove; unwillingly; involuntary
+  ὄνειδος (11): reproach, rebuke, censure, blame; in disgrace; reproach; with censures
+  ἀκήριος (8): unharmed by the; unharmed; free from power of the Fates; having no
+  ταλαεργός (5): bearing; enduring labour; laborious
+  ἱερεύω (30): sacrifice; offer sacrifice; slaughter; to slaughter for themselves
+  μεγαίρω (8): regard as too great; grudge; as too great; complain
+  ὕβρις (17): wanton violence; insolence; in wantonness; lust, lewdness
+  κάμμορος (5): subject to destiny; ill-fated
+  ἔναρα (12): arms and trappings of a slain foe, spoils; taken from; spoil, booty
+  κοτέω (21): bear; a grudge, be angry at; angry at; angry
+  κάμνω (47): work; wrought; build; win by toil
+  ἐμμενής (5): abiding in; steadfastness; unceasing
+  ἐλεέω (36): to have pity on, show mercy to; feel pity
+  πένθος (34): grief, sorrow; for; mourning; a public mourning
+  ἀναίτιος (5): not being the fault; cause of; guiltless; guiltless of
+  ἀτιμάω (15): dishonour, disdain
+  ἀγήραος (9): ageless, undecaying
+  κατακτείνω (63): kill, slay
+  κατέπεφνον (18): kill, slay
+  δακρύω (15): weep, shed tears; with tears; to flood; to be in tears
+  ἔλεγχος (6): reproach, disgrace, dishonour; reproaches
+  ἀφραδία (11): folly, thoughtlessness
+  μόρος (16): fate, destiny; doom; destiny; doom, death
+  ἀνεκτός (7): bearable, sufferable, tolerable; that can be endured; tolerable; more tolerable
+  ἐκπέρθω (16): destroy utterly, sack; take as booty from
+  αἱματόεις (19): blood-red; of blood; suffused with blood, flushed; bloody, murderous
+  ἀτερπής (5): unpleasing, joyless; less attractive; without enjoyment
+  δύσμορος (8): ill-fated; with ill fortune
+  ὑβριστής (5): violent, wanton, licentious, insolent man; sarcastic; lustful, lewd; insolent
+  μηνίω (8): cherish wrath, be wroth against; because of
+  φθινύθω (13): waste; cause; to pine away; waste away, decay, perish
+  κακός (437): bad; ugly; ill-born, mean; craven, base
+  μῆρα (6): to kill as a sacrifice by fire
+  ὀνείδειος (8): reproachful; of reproach; dishonourable
+  διαρραίω (10): dash in pieces, destroy; to be destroyed, perish
+  πλήσσω (46): struck with terror; amazement; strike, smite; strike
+  θύω (5): offer by burning; made an offering; sacrifice, slay; the flesh of the victim
+  τέμνω (51): cut; cutting; cut, wound, maim; wound
+  ἄχθομαι (5): to be loaded; to be vexed, grieved; with; had
+  θυμοραιστής (5): life-destroying
+  ἀεικής (57): unseemly, shameful; inconvenience; meagre; strange
+  ἀκλεής (6): without fame, inglorious; ignominious
+  θάμβος (6): amazement; terrors; object of wonder
+  ἀθέσφατος (8): beyond even a godʼs power to express, unutterable; not according to a godʼs utterance, unb
+  ὄπις (5): the vengeance; visitation; divine vengeance; the care
+  οὐτάω (47): wound, hurt, hit; wound by striking; thrusting; pierced
+  διηνεκής (9): continuous, unbroken; cut the whole length; regularity; perpetual
+  μόρσιμος (7): appointed by fate, destined; destiny, doom; foredoomed to die; of doom
+  ἄγνυμι (26): break, shiver; broke; crashed through; to be broken, shivered
+  ἀνδροκτασία (6): slaughter of men; homicide
+  στυφελίζω (14): strike hard; drives away; thrust; treat roughly, maltreat
+  ἐνίσσω (5): attack, reproach; maltreal
+  αἴτιος (17): culpable, responsible; the most guilty; the accused, the culprit; they who have sinned aga
+  ἄκριτος (10): undistinguishable, confused; common undistinguished; confused; continual, unceasing
+  βλάπτω (26): disable, hinder; disable; lame; entangled
+  πονέω (30): work hard; to suffer toil; he did his work; were busied
+  ἐναρίζω (13): strip a slain foe of his arms; slay in fight; slay; when dying
+  ἄσχετος (8): not to be checked, ungovernable; resistless; ungovernable, unmanageable; not held together
+  ἀτιμάζω (17): hold in no honour, esteem lightly; bring dishonour upon; speakest in dishonour of; suffer 
+  οἴκτιστος (7): most pitiable, lamentable
+  ἅλιος2 (20): fruitless, idle; in vain
+  δάκρυον (102): tear; that which drops like tears, gum, sap
+  οἶτος (11): fate, doom; lot; ibo
+  ῥωγαλέος (6): broken, cleft; torn, ragged
+  πένομαι (16): toil, work; were busy; to have to work for oneʼs living; to be poor
+  οὐτιδανός (6): of no account, worthless; reckless; quid; cid
+  κατακλάω (9): break short, snap off; bowed; down; ogle
+  κόπτω (18): cut, strike; smite; smote; smite, slaughter
+  ἀρή (8): bane, ruin
+  βροτολοιγός (13): plague of man, bane of men
+  ἑκών (18): váśmi; readily; wittingly, purposely; as far as depends on oneʼs will, as far as concerns 
+  νωλεμές (17): without pause, unceasingly; firmly; persevere; without pause
+  ποιπνύω (7): bustle about; make haste and; labouring
+  κότος (7): grudge, rancour, ill-will; vengeance
+  ἐργάζομαι (9): work, labour; working; works; goes on
+  ἄσβεστος (14): unquenchable, inextinguishable; not quenched; ceaseless; unslaked lime
+  πτολίπορθος (16): sacking; wasting cities
+  συλάω (22): strip off; strip off from; strip; to be stripped, robbed, deprived of
+  ταλαπείριος (5): one who has suffered much, much-suffering; vagrant, vagabond
+  πολύχαλκος (5): disposed to venture or take risks: "audacious visions of the total conquest of space"; "an
+  τύπτω (40): beat, strike, smite; beat; strike; beating
+  πολύδακρυς (6): the process of shedding tears (usually accompanied by sobs or other inarticulate sounds); 
+  κλαυθμός (7): the process of shedding tears (usually accompanied by sobs or other inarticulate sounds); 
+  γυμνόω (8): strip naked; strip; strip oneself; be stripped naked
+  Αἶσα (11): who dispenses to every one his lot; destiny; decree, dispensation; destiny decreed
+  ἐκτέμνω (12): cut out; cut; from; out
+  διαμπερές (32): through and through, right through; without break, continuously; in a piece; throughout, f
+  ἐλεγχείη (5): reproach, disgrace
+  μυρίος (32): numberless, countless, infinite; measureless, immense, in finite; boundless; all kinds of
+  κήρ (77): the act of killing: "he had two deaths on his conscience"
+  ᾍδης (43): the act of killing: "he had two deaths on his conscience"
+  δρηστήρ (5): labourer, working man; workwoman; runaway
+  νήποινος (8): unavenged, without compensation; without share of, unblest with
+  ἐλεαίρω (25): take pity on
+  ἀζηχής (5): continuous; unceasing; hard, seasoned
+  ὠτειλή (14): wound; a fresh, open wound; wound inflicted hand to hand; the mark of a wound, scar
+  ἀλεγεινός (30): causing pain, grievous; troublesome
+  οὐλή (8): wound scarred over, scar
+  ἐπιμέμφομαι (5): cast blame upon; find fault for; because of; complain of
+  ὀδύνη (25): a bothersome annoying person: "that kid is a terrible pain"
+  ἱερεῖον (5): victim, animal for sacrifice; offering for the dead; cattle slaughtered for food
+  ἀποκόπτω (6): cut off, hew off; amputate; cut loose; will be cut off
+  ἐκδύω (5): take off, strip off; stripped; strip; to be stripped of
+  ἀλήτης (12): wanderer, vagabond; one who has wandered; vagrant, roving
+  ἐπικλώθω (8): spin upon; spin to; assign; its destiny
+  μῶλος (7): toil and moil; struggle between
+  νοῦσος (5): an impairment of health or a condition of abnormal functioning
+  τάλαντον (17): a person who possesses unusual innate ability in some field or activity
+  βρότος (5): blood that has run from a wound, gore
+  μιστύλλω (10): cut up
+  διατμήγω (10): cut in twain; having cut; in twain; distinguish
+  αἷμα (116): blood; streams of blood; anything like blood; dye
+
+cluster 20  |  225 lemmas  |  noble, strength, swift, little
+  αἰζηός (20): in full bodily strength, vigorous; stout, lusty
+  μέγεθος (10): greatness, magnitude; stature; size; loudness
+  κραταιός (13): strong, mighty; of power; fierce; hard
+  κεδνός (16): careful, diligent, trusty; noble; cared for, cherished, dear; true
+  στιβαρός (34): strong, stout, sturdy; more massy; bulkier; more
+  κρατερός (164): strong, stout, mighty; stern, harsh; mighty, fierce; hard
+  εὖ (209): well; well, thoroughly, competently; cunning; morally well, kindly
+  ἐσθλός (154): good; brave, stout; noble; wellbred
+  ἴφθιμος (44): stout, strong; comely, stately; strong, powerful
+  εὐήρης (6): well-fitted; well-poised, easy to handle; of the well-poised oars; well-knit
+  ἀλκή (69): strength; prowess, courage; force, might; feats of strength, bold deeds
+  περίφρων (56): very thoughtful, very careful; artful, crafty; haughty, overweening; despising
+  θρασύς (22): bold; full of confidence; over-bold, rash; audacious, arrogant, insolent
+  ὑπέρβιος (10): of overwhelming strength; might; overweening, lawless, wanton
+  ὄβριμος (28): strong, mighty; mightily; of might
+  ἀφαυρός (5): feeble, powerless; dim; too weak to resist; less nutritious
+  ῥίμφα (20): lightly, swiftly
+  παχύς (27): thick, stout; thick; fat; rich, fertile
+  λάβρος (5): furious, boisterous; huge, mighty; boisterous, turbulent; hasty
+  ὀτρηρός (7): quick, nimble, busy, ready; sharp, cutting
+  εὐσταθής (9): well-based, well-built; steadfast, tranquil; sound, healthy; healthy, sound
+  ἀγαθός (124): good; well-born, gentle; aristocrats; brave, valiant
+  βαρύς (36): heavy in weight; strength and force; bushy; heavy with age, infirmity
+  αἰπεινός (14): high, lofty; hasty, wicked; hard to reach
+  δαμάζω (149): overpower; tame, break in; work; clear
+  ἐύς (36): good, brave, noble; good things, good fortune; thy
+  ἀμείνων (49): better; stouter, stronger, braver; the better sort; ʼtis better
+  δῖος (398): heavenly; noble; noblest; excellent
+  εὐεργής (19): well-wrought, well-made; wrought; well-done; benefits, services
+  ὠκύς (120): quick, swift, fleet; quickness, sharpness; shrill
+  πίων (49): fat; rich; wealthy, abounding; plenteous
+  ἀγήνωρ (41): manly, heroic; headstrong, arrogant; stately, magnificent; lavish
+  θαρσαλέος (16): daring; confident; confidence; of good courage
+  πολυδαίδαλος (10): highly, richly wrought; working with great art; skill, very skilful
+  ἠλίβατος (6): high, steep; deep, abysmal; huge, enormous
+  ἀγέρωχος (8): high-minded, lordly; noble; lordly; high-spirited
+  ἀγαυός (48): illustrious, noble; noble; brilliant, glorious
+  μέγας (728): big; full-grown; elder; vast, high
+  ἐπηετανός (8): abundant, ample, sufficient; always full; great store; thick, full
+  κρείσσων (17): stronger, mightier; having the upper hand, superior; prevail; better
+  μένος (183): might, force; strength, fierceness; spirit; force, might
+  ἠνορέη (6): manhood, prowess; manly beauty; strength; force
+  πολύς (869): many; often; frequent; much, mighty
+  μάλα (530): very, exceedingly; very; every one; together
+  δύναμαι (117): to be able, strong enough; canst; powerful, mighty; multum valet
+  ἀγλαός (72): splendid, shining, bright; splendid, beautiful; noble, glorious; beautiful
+  τέχνη (9): art, skill, cunning of hand; craft, cunning; arts, wiles; arts
+  ἔξοχος (36): standing out, jutting; prominent above; eminent, excellent; eminentissimus
+  τραχύς (11): jagged; prickly; rugged; rough
+  ἀρετή (37): goodness, excellence; manly; valour; brave deeds
+  ἀφνειός (29): rich, wealthy; abundant
+  ὑπερφίαλος (36): overbearing, overweening, arrogant; arrogant; puissant; huge
+  δαίφρων (58): warlike, fiery; wise, prudent; craftsman; dasrás
+  ῥεῖα (37): easily, lightly; at ease; lightly, pleasantly; easily, deftly
+  καρτερός (28): strong, staunch; the strongest; possessed of, in control of, master of; steadfast, patient
+  ὀξύς2 (25): sharp, keen; sharpened; point; apex
+  ἐσσύμενος (16): hurrying, eager, impetuous; eager, yearning for; furiously, eagerly
+  καρπάλιμος (45): swift; swiftly; eager, ravenous
+  δύναμις (11): power, might; bodily strength; strength, power, ability; strength
+  εὐποίητος (5): well-made, well-wrought
+  ἀγητός (5): admirable, wonderful; wonderful
+  λίαν (42): very, exceedingly; very much, overmuch; exceedingly; surely, aye surely
+  πρόπας (11): all; long; together; utterly
+  στερεός (9): firm, solid; solid; costive; firmly, fast
+  ὀκριόεις (5): having many points; roughnesses, rugged, jagged
+  ὑπερηνορέων (14): exceedingly manly; manliness, courage), overbearing, overweening; thinking oneself more th
+  πάσσων (5): thicker, stouter
+  ἐυκτίμενος (32): good to dwell in; so as to be good to dwell in; well-made; well-wrought
+  εὔτυκτος (10): well-made, well-wrought; ready for eating
+  ἄλκιμος (48): stout, brave; fortifying; giving succour
+  ἄναλκις (19): without strength, impotent, feeble
+  δαιδάλεος (17): cunningly; curiously wrought; dappled, spotted; shot with light, sheeny
+  ἀτρεκής (34): strict, precise, exact; over-nice, precise; more precise details; exact, strict
+  ποῖος (23): of what kind?; what manner of; what sort; every
+  σίδηρος (31): iron; hardness; stubborn force; firmness, steadfastness
+  σπεύδω (21): set going, urge on, hasten; procure quickly, get ready; seek eagerly, strive after; promot
+  θαρσέω (23): to be of good courage; to be over-bold; fear not!; with good courage
+  εὔπηκτος (6): well put together, well-built; well-moulded, compact; firm; easily congealed
+  πυκνός (90): close, compact; close, firm, solid; well-stuffed, firm; overgrown
+  θαλερός (33): stout, sturdy, buxom; blooming, fresh; of a youthful pair; stout, sturdy
+  εὔζωνος (7): well-girdled; girt up for exercise, active; well-equipped; well-girded
+  ὑπέρθυμος (27): high-spirited, high-minded, daring; overweening; over-spirited; vehemently angry
+  ἀριπρεπής (9): very distinguished; very bright; conspicuous; famous
+  θοός (154): quick, nimble; swift; hasty; in haste
+  ἄριστος (223): best; noblest; a chief; bravest
+  ταρφύς (8): thick, close; ofttimes, often
+  δαίδαλος (7): cunningly; curiously wrought; cunning works; spotted, speckled
+  βριαρός (7): strong
+  παῦρος (21): little, small; short; speedy; for a short time
+  κάρτος (13): strength, vigour; violence, force
+  φυή (10): growth, stature; fine growth, noble stature; in size; growth
+  ὁποῖος (6): of what sort; quality; of what kind soever; none
+  ὀλίγος (39): little, small; small, low; not copious; slight
+  ῥέα (10): easily, lightly
+  ὑψηλός (58): high, lofty; highland; high, lofty, stately, proud; high
+  σθένος (41): strength, might; bodily strength; strength; force
+  ὄλβιος (15): happy, blest; happy, blessed; rich gifts; prosperous
+  αἰπύς (53): high and steep; on high; hanging high; sheer, utter
+  ῥᾴδιος (32): easy, ready; easy to make; easy to understand and follow; easy
+  πικρός (18): pointed, sharp, keen; sharp; pungent; sharp, keen
+  λαιψηρός (10): light, nimble, swift; light-footed, swift; swiftly
+  κυδάλιμος (32): glorious, renowned; noble
+  δίκαιος (16): observant of custom; rule; of social rule, well-ordered, civilized; good
+  ἀρίζηλος (7): conspicuous; plain
+  τρέφω (69): thicken; congeal; curdle; curdle, congeal
+  ὦκα (76): quickly, swiftly; immediately
+  ἔμπεδος (53): in the ground, firm-set; steadfast; sure and certain; cleaving
+  εὔξεστος (21): well-planed, well-polished
+  κράτος (31): strength, might; bodily strength; strength; all oneʼs might
+  ὑπερμενής (14): exceedingly mighty
+  θάρσος (12): courage; courage to do; courage against; courage!
+  βρίθω (13): to be heavy; weighed down with; to be laden with; full of
+  ἀλαπαδνός (7): easily exhausted; powerless, feeble
+  μενοεικής (15): suited to the desires, satisfying, agreeable, to oneʼs taste; plentiful; great store of
+  ἔμπλεος (7): quite full of; in full measure, complete
+  ἀμύμων (116): blameless, noble, excellent; a physician
+  ἀκαχμένος (11): sharp-edged; armed
+  ταχύς (136): swift, fleet; quick; quick, hasty; speed, haste
+  πολύτλας (35): much-enduring
+  τοσόσδε (13): sufficient; so many only; so few; so very, so much
+  περικλυτός (24): famous, renowned; excellent, noble
+  ὀλοόφρων (6): meaning mischief, baleful; crafty, sagacious
+  μαιμάω (6): to be very eager, quiver with eagerness; rages; eager for; rushed into, were suddenly chan
+  ποδώκης (29): swiftfooted; swift, quick; hasty, impetuous, rash
+  ἀριδείκετος (9): famous, glorious; clear, distinct; decus
+  πολεμήιος (8): warlike; war
+  βία (103): bodily strength, force; act of violence; against; will, in spite of
+  περιφραδής (6): very thoughtful, very skilful
+  λωίων (7): more desirable, more agreeable, better; my good friend
+  ἦκα (9): slightly, a little; a little; softly, gently; softly, low
+  ὑψοῦ (9): high; out; to a great height; highly
+  τυκτός (5): finished, wrought out; complete; made by manʼs hand; well-made, well-wrought
+  ἐμμεμαώς (12): in eager haste, eager
+  χείρων (17): meaner, inferior; worse than others; knave; worse
+  κλειτός (16): renowned, famous; splendid, excellent
+  ἐναλίγκιος (20): like, resembling
+  ποιητός (15): made; well made; cultivated; self-inflicted
+  μενεπτόλεμος (10): staunch in battle, steadfast
+  τελήεις (7): perfect, complete; of full tale; number; of full-grown beasts
+  τοσοῦτος (7): so large, so tall; so great; so many; of the same height
+  παιπαλόεις (14): rugged
+  ἀγαπήνωρ (6): loving manliness, manly
+  μάκαρ (38): blessed, happy; the blessed ones; gods; blest, fortunate
+  ἀρείων (18): better, stouter, braver; snail; slug
+  μαλακός (33): soft; fresh-ploughed; soft grassy; soft-fleeced
+  εὔδμητος (11): well-built
+  λεῖος (8): smooth; smooth, plain, not embroidered; unsculptured; unembossed
+  ἀργός (7): shining, glistening; swift-footed; white; Swift-foot
+  ἀτρέμας (9): without trembling, without motion; still!; quiet; gently, softly
+  πλοῦτος (8): wealth, riches; treasures; treasure; Plutus
+  βριθύς (6): heavy
+  αἰπός (7): high, lofty; falling sheer down
+  φέρτατος (43): bravest, best; the best; least bad; best
+  εὐτείχεος (7): well-walled
+  κλυτός (74): renowned, glorious; glorious; by which one is called; noble, splendid
+  ἀλκί (6): might, strength
+  χερείων (16): meaner, inferior; the worse part; amiss; of meaner rank
+  μενοινάω (24): desire eagerly; were eager to see; eager; design
+  οὖλος2 (10): woolly, of thick, fleecy wool; crisp, close-curling; crisp, woolly; twisted, twined, curly
+  σπουδή (12): haste, speed; haste; I am hastening; in haste
+  ἐρικυδής (11): very famous, glorious; a splendid
+  τοῖος (96): such, such-like; such as; fit; able
+  ἠβαιός (10): small; the least; a few; in the least
+  ἀραιός (5): thin, slender; narrow; meagre; of loose texture
+  ἐλαφρός (14): light in weight; sit tibi terra levis’; light to bear, easy; light, easy
+  τάχα (91): quickly, presently, forthwith; soon; as soon as; perhaps
+  λίς2 (5): smooth
+  παγχάλκεος (5): all-brazen
+  ἐπισεύω (39): put in motion; against, set on; hurry; hasten to
+  φιλοπόλεμος (10): fond of war, warlike
+  ἀκήν (21): softly, silently
+  ἀκέων (18): softly, silently
+  ἄξιος (14): counterbalancing; weighing as much, of like value, worth as much as; worth; worthy, goodly
+  σπέρχω (11): set in rapid motion; to haste, be in haste; rage; in haste, hurriedly
+  κραιπνός (20): swift, rushing; hasty, rash
+  ἴκελος (17): like, resembling; like; in the same way as
+  ὅμοιος (24): like, resembling; similar; more like; most like
+  ἔμπας (38): alike; in any case; anyhow, as things are; as it is
+  ἅλις (29): in crowds, in plenty; sufficiently, enough; just enough, in moderation; in abundance
+  βαρύνω (6): weigh down, oppress, depress; he is heavy; weary; disabled
+  πάγχυ (26): wholly, entirely; fully
+  θεοείκελος (5): godlike
+  θεοειδής (44): godlike
+  ἅπας (114): quite all, the whole; all together; in all things; all
+  ἔοικα (134): to be like; it was opportune; will be like; to be like, look like
+  σύμπας (8): all together, all at once; the whole; as a whole; general
+  πλείων (38): more; the majority; greater; further
+  πάμπαν (37): wholly, altogether; not at all, by no means
+  ποικιλομήτης (7): full of various wiles
+  οἷος (169): such as, of what sort; what a man; what; like as
+  ὁπόσος (5): as many, as many as; as much as; as great as; as far as
+  περιμήκης (8): very tall; long; very high; very large, huge
+  βιάζω (7): constrain; they used force; to be hard pressed; overpowered
+  τυτθός (32): little, small, young; a little one; a little, a bit; little
+  ἀνάγκη (42): force, constraint, necessity; perforce, of necessity; forcibly, by force; it must be that.
+  τοιόσδε (28): such as this; such as you see; so great, so bad; such
+  ἀρίγνωτος (7): easy to be known; infamous
+  μᾶλλον (65): comparative of much; to a greater degree or extent: "he works more now"; "they eat more th
+  πολλάκις (14): many times, often; many; mostly, for the most part; very much, altogether
+  εἴκω (18): to be like, seem likely
+  πελώριος (21): the mighty things; mighty ones; a harvest-festival
+  ἶφι (17): by force; might
+  βάσκω (6): speed thee! away!; come!
+  ὅσος (266): as great as, how great; as much as, how much; as far as, how far; as long as, how long
+  ἀσκέω (10): work; work curiously, form by art; smoothed; elaborately
+  ἀναγκαῖος (6): of, with; by force; constraining, applying force; of force
+  τηλεκλειτός (7): far-famed
+  ἠύτε (36): as, like as; even as; like; than
+  βέλτερος (8): better, more excellent; it is better
+  πᾶς (1080): all; the whole; every; all the
+  ἕκαστος (228): each; every one; every single; all and each severally
+  ἐπιείκελος (12): like
+  εἴκελος (16): like
+  ἐπείγω (39): press by weight; presses; to be weighed down; overpowered
+  ἀγακλεής (5): very glorious, famous
+  βιάω (12): constrain; to be forcibly driven; will; yield to force
+  πλεῖστος (28): most, greatest, largest; most in vogue; the greatest number; the greatest part
+  ποδαρκής (19): succouring with the feet, running to the rescue; swift-footed; of swift feet; swift
+  εὔξοος (17): of polished metal; haft; easy to polish
+  μάλιστα (85): used to form the superlative: "the king cobra is the most dangerous snake"
+  δίκη (16): custom, usage; way; the way; like
+  παννύχιος (16): completely given to or absorbed by: "became all attention"
+  ἀπερείσιος (13): countless
+  θαμά (9): often
+  νηπύτιος (9): a small amount or duration: "he accepted the little they gave him"
+
+cluster 1  |  136 lemmas  |  troy, athens, trojan, phthia
+  Ἀθηναῖος (6): Athenian
+  Διόνυσος (5): Dionysus
+  Πελασγός (5): Pelasgian; Greeks
+  Τυδεύς (41): Tydeus
+  Ἐφύρα (7): Ephyra
+  Νηλεύς (18): Neleus
+  Αἰνείας (78): Aeneas
+  Παρνασός (6): Parnassus; Parnassian
+  Κρής (15): Cretan
+  Λῆμνος (14): Lemnos; from Lemnos; Lemnian
+  Ὠγυγία (5): Ogygia; Egypt; Attica; Boeotia
+  ὀκτώ (5): eight; aṣṭấ, aṣṭáu; octo; ahtau
+  Γερήνιος (35): from Gerena; Gerenon
+  αἶα (28): avia
+  Ἥφαιστος (60): Hephaestus; Volcanus; Plah; nine
+  Ἔρεβος (7): Erebos; the darkness; rájas; riqis
+  Αἰγύπτιος (9): Egyptian; in Egyptian style
+  Ἀχαιός (714): Achaean; the Achaeans; Greeks; Achaia
+  δέκα (20): ten; the Ten; Attic Orators; decemviri
+  Θέτις (41): Thetis
+  Κεφαλλήν (6): Cephallenian; Cephallenia
+  Πάτροκλος (145): Patroclus
+  Θρᾷξ (15): Thracian
+  Θράκιος (5): Thracian
+  ἑπτά (19): seven; Seven; septemviri epulones; septṃ
+  Ἀτρείδης (209): son of Atreus
+  Ἑλλάς (10): Hellas; part of Phthiotis; Northern Greece; Greece
+  ἀέξω (20): augeo; vakṣáyati; increase, foster; cherish
+  Ὀιλεύς (14): Oïleus
+  Ὀδυσσεύς (712): Odysseus; games in honour of Odysseus; temple of Odysseus
+  Παναχαιοί (12): all the Achaeans; all Achaea
+  ὥρα (27): sūra
+  εὕω (6): singe; uro; eus-ō
+  Νέστωρ (114): Nestor
+  Πήλιον (5): Pelion; at the foot of Pelion
+  Ἰκάριος (19): Icarian
+  Πηλεύς (68): Peleus; son of Peleus; to Peleus’ son
+  κείρω (21): kṛṇā´ti; caro; scieran; shear
+  Ὀρχομενός (5): side with the Orchomenians; BMus.Cat.Coins Central Greece
+  Μίνως (7): Minos
+  Κρήτη (17): Crete; from Crete; to Crete
+  βουκόλος (15): tending kine; worshipper of Dionysos in bull-form; devotee; qṷel
+  Ἑκάεργος (11): nine
+  σήμερον (10): to-day; kyo; ci-tra
+  Μυσός (5): Mysian; a prey to all
+  ἀρνειός (12): ram, wether; Aries
+  Τρώς (633): Tros; Trojans; Trojan men
+  Ἥρα (127): Hera; nine; servo; inhabitants of Heraea
+  Τένεδος (5): Tenedos
+  φώκη (7): seal; Phoca monachus
+  Σκύλλα (12): Scylla
+  εἴκοσι (32): twenty; vīginti; viṃśatis
+  Σπάρτη (7): Sparta; from Sparta; to Sparta; a Spartan
+  ὄλβος (10): happiness, bliss; worldly happiness, weal; algà; olgṷā
+  ἐννέα (16): nine; many; novem; náva
+  δωδέκατος (11): twelfth
+  Πηνελόπεια (83): Penelope
+  Ἀχαιικός (7): for the Achaians, Achaian
+  καρπός2 (11): wrist; huerfa
+  Κίρκη (46): Circe
+  ἵημι (182): Ja-c-io; sēmen; véti; vyánti
+  Ἀθῆναι (8): the city of Athens; to Athens; from Athens; at Athens
+  ἔριφος (7): kid; Haedi
+  Πύλος (37): Pylos
+  πέντε (7): five; penqṷe; páñca; penki
+  Δάρδανος (16): Dardanus; Trojan; Trojan woman; Troy
+  Ἀθήνη (310): Athene; casting vote
+  φθίω (37): kṣiṇā´ti, kṣiṇóti; Kṣīyante; ákṣitas; kṣeṣya
+  Ἰδαῖος (24): of Ida
+  Ἀγαμέμνων (184): Agamemnon; Agamemnonʼs son
+  ἕπομαι (195): sacate; sequor; sèkti; saśc(a)-)
+  ῥοδοδάκτυλος (27): rosy-fingered
+  Ζεύς (696): dyaús; divás; diví; dyávi
+  ἑκατόν (9): a hundred; very many; sém kṃtóm; centum
+  ἄστυ (131): town; lower town; acropolis; Athens
+  ἕπω (6): to be about, busy oneself with; sapati; saparyati; sepelio
+  δυώδεκα (8): twelve
+  δυοκαίδεκα (14): twelve
+  ζῶ (9): gṷiē-, gṷiō; live; of living men; living
+  Σιμόεις (8): Simois
+  Ἴλιος (116): Ilios; Ilium, the city of Ilus, Troy; from Troy; before Troy
+  ἕξ (16): six; the six; xšvaš; sex
+  φέρω (372): fero; beran; bhárati; náśati
+  ἰαύω (13): Graffītes Grecs du Memnonion d’ Abydos; sleep, pass the night; enjoy; sleeping
+  Καλυψώ (24): Calypso
+  οὖρος2 (6): watcher, guardian; sorwos; pasu(š)-haurva; haurvaiti
+  Τροία (72): Troy; ‘Troy-town’; the Troad; from Troy
+  ἠμαθόεις (12): sandy
+  τεσσαράκοντα (10): forty; the Forty; Forty
+  οὖς (28): Cultes Egyptiens; ear; the ear; ears
+  ῥόπαλον (6): club, cudgel; club; war-club; mace
+  Πρίαμος (150): priam; like Priam
+  πόσις (70): husband, spouse; lawful husband; potis; pátis
+  ἔργον (233): weorc; varəza; work; tasks
+  ἔχω (750): check; seĝh; sáhate; sigis
+  μῶνυξ (26): with a single; uncloven, hoof; sem
+  Φόρκυς (7): Phorcys
+  κρεμάννυμι (6): hramjan; hang up; hang them up; hang up oneʼs
+  Δαναοί (154): the Danaäns; the Greeks; the sons; descendants of Danaus
+  Θῆβαι (9): Thebes; to Thebes; at Thebes; from Thebes
+  Λέσβος (6): Lesbos; from Lesbos; at Lesbos; drinking-cup
+  Σάμος (6): Samos; a height
+  Ἀχαιίς (20): the Achaian land; Achaian woman
+  ἡνία (27): reins; bit; ṇsiyo; nāsyam
+  δέμω (14): build; built him; construct, prepare; munire viam
+  δαήρ (6): Aus Lydien; husbandʼs brother, brother-in-law; devár; dieveȓs
+  Τρωικός (5): Trojan; times of Troy; Trojan war
+  ὕστερος (31): latter, last; úttaras, uttamás; latter; coming after, behind
+  Φθία (9): Phthia; to Phthia; at Phthia; a man of Phthia
+  ἑνδέκατος (6): eleventh; eleventh day
+  πεντήκοντα (24): fifty
+  καταρρέζω (8): pat, stroke, caress
+  Δημήτηρ (6): Aus Lydien; Griechische Dialekte; Demeter; h.Cer
+  θυσανόεις (5): tasseled, fringed
+  Κύπρος (5): Cyprus; from Cyprus; to Cyprus
+  τῆμος (8): then, thereupon; to-day
+  Κάλχας (6): Calchas
+  ὄνειρος (23): Les graffites grecs du Memnonion dʼAbydos; dream; a dream; faint and shadowy traces
+  Ἰθάκη (78): Ithaca; Ithacan; to Ithaca; from it
+  ἤπειρος (21): terra firma, land; the sea; land; the mainland of Western Greece
+  εἷς (80): sem; one, one; single man; single
+  ἀριστεύς (30): those who excel in valour; chiefs
+  ἠλακάτη (5): distaff; the stalk; the fate; distaffshaped
+  ἕνδεκα (5): eleven; the Eleven, the Police-Commissioners
+  θέω (83): dhávate; run; running; run and
+  Αἴγυπτος (10): the river Nile; King Aegyptus; Egypt; to Egypt
+  ὑβρίζω (8): wax wanton, run riot; neigh; bray and prance about; run riot, grow rank and luxuriant
+  ὄχα (20): far; fest
+  δέκατος (19): tenth; tenth part, tithe; of the tenth; the tenth day
+  ὁράω (105): Inscr. des tombeaux des rois; I know; a)ware; see, look
+  δάος (5): firebrand, torch
+  τρέπω (63): Studien zum griech. Perf; turn; direct; show
+  Ἑλλήσποντος (11): Hellespont; sea of Helle; the Dardanelles; the adjacent country
+  Αἴας (198): Ajax
+  ἱππηλάτης (11): the smallest whole number or a numeral representing this number: "he has the one but will 
+  δώδεκα (27): the cardinal number that is the sum of eleven and one
+
+cluster 16  |  121 lemmas  |  come, return, hither, arrive
+  εἶθαρ (9): at once, forthwith
+  κατόπισθεν (7): behind, after; hereafter, afterwards, henceforth
+  ἐξοπίσω (9): backwards, back again; behind; hereafter
+  αὐτίκα (190): forthwith, at once, in a moment; on the spot; immediately; as soon as
+  εἰσαφικνέομαι (10): come into; to, arrive at; go into; arrive
+  τοτέ (5): at times, now and then; at one time.., at another
+  ἄλλοτε (43): at another time; at one time.. at another; now and then; sometimes
+  δεύτερος (34): second; next; comes in second; hereafter
+  ἔνθα (501): there; thither; hither; in one place.. in another
+  θύραζε (34): to the door; out of doors; out; out of
+  ἄλλῃ (17): elsewhere; in one part of; in another; here
+  ἄφαρ (34): straightway, forthwith; thereupon, after that; suddenly, quickly; very
+  ᾗ (19): which way, where, whither; how, as; wherefore; in so far as
+  αἶψα (145): quick, forthwith, on a sudden
+  ἄψορρος (12): going back, backwards; backward, back again
+  αὖθι (57): on the spot, here, there; there, as he is; forthwith, straightway
+  ἔξω (9): out; out of; outside; prominency
+  εἰσέρχομαι (31): go in; into, enter; invaded; come into
+  ἐξαῦτις (14): once more, anew; back again, backwards
+  ἅμα (256): at once, at the same time; partly.. partly; no sooner.. than; as soon as
+  ἔντοσθε (19): from within
+  νέομαι (89): come; go back; return; násate
+  νοστέω (51): come home, return; return safe; return; come
+  ἤδη (150): already, by this time; already; forthwith, immediately; now at length
+  προβλώσκω (9): come forth, go out of the house
+  πάντοσε (29): every way, in all directions
+  ἄστυδε (7): into, to; towards the city
+  ἔπειτα (496): thereupon, thereafter, then; thereafter, afterwards; hereafter; just then, at the time
+  τότε (281): at that time, then; in that case; then, next; formerly
+  ἵκω (40): come; come to; are brought to; attain to, reach
+  ἐξέρχομαι (18): come out of; come out; come forth; march out, go forth
+  ἀφικάνω (8): arrive at
+  ἐξικνέομαι (6): reach, arrive at; come to; arrive at, reach; complete, accomplish
+  αὖθις (128): back, back again; again, anew; encore!; in turn
+  τόθι (5): there, in that place; where
+  εἴσω (52): to within, into; into the house; to the inside; inside, within
+  ὀπίσω (54): backwards; hinder parts; back; back, back again
+  ἱκάνω (117): come; to come to; reach, attain to; are fulfilled
+  ἱκνέομαι (290): come; came; arrive at; reach, attain to
+  ἔνδοθι (13): within, at home
+  πόλινδε (11): into; to the city
+  πάλιν (57): back, backwards; back, restore; back; back from
+  δεῦρο (74): hither; to [have come hither and] be here; here; sensible objects
+  τρίχα (5): in three parts; ways; in the third watch
+  διέκ (12): out through
+  τρίτατος (12): in the third place
+  ἄψ (110): abs) backwards, back again; again, in return; yet
+  ὑπέρχομαι (5): come under, get under; come within; enter; come upon, steal over
+  τρεῖς (32): three; thrice; utterly; by threes
+  ἀπονοστέω (6): return, come home; when he returns from
+  κλισίηθεν (7): out of; from the hut
+  ἔνδον (54): within; in oneʼs heart; at home; of the house
+  ἐκεῖσε (19): thither, to that place; hither and thither; to the other world; to the other
+  πάντῃ (34): every way, on every side; on every side; in every way, altogether; quite
+  πέλω (109): come into existence, become, be; was; when once in being; become
+  τέτρατος (6): fourth; the fourth time
+  εἰσαναβαίνω (13): go up to; into
+  νόστος (67): return home; chance of returning to; return; travel, journey
+  τέταρτος (16): fourth; the fourth time; fourthly; fourfold
+  ἀγκάς (6): into or in the arms
+  πω (124): up to this time, yet; at all; ever
+  ἐνίημι (18): send in; into; will send into the battle; implant, inspire
+  οὐκέτι (75): no more, no longer, no further; not now
+  τελέθω (12): come into being; to be; become
+  ποτέ (227): at all times; all the time and on every occasion: "I will always be there to help you"; "a
+  μετέπειτα (5): afterwards, thereafter
+  πη (23): somewhere, anywhere; where
+  ἄλλυδις (13): elsewhither; hither; thither; now one way, now another
+  ἀφικνέομαι (52): arrive at, come to, reach; came up to; came to; come up to
+  ἐνθάδε (123): thither, hither; here; there; in this world
+  τοὔνεκα (25): for that reason, therefore; wherefore?
+  ἔνδοθεν (7): from within; from inside; of oneself, by oneʼs own doing; of oneself
+  αὐτοῦ (93): just there; just here; there!; here in
+  ἔκτοσθε (10): outside; out of the number of; delirious
+  πόθι (6): where?; whither?; anywhere, somewhere; ever
+  τρίς (47): thrice, three times; thrice; tris; ter
+  νόστιμος (14): belonging to a return; of return; the return; able
+  ἐγγυαλίζω (14): put into the palm of the hand, put into the hand; will put; into; hands
+  ὅπη (24): by which; what way, in which; what direction; part
+  πως (81): in any way, at all, by any means; somehow; in some; way
+  ἐντίθημι (14): put in; put on board; into; inspire
+  δύο (154): two; two and two
+  μηκέτι (23): no more, no longer, no further
+  ὅθεν (15): whence; from whom; which; from whatever source, in what manner soever
+  τοιγάρ (19): therefore, accordingly, well then; for that very reason, therefore
+  ναί (11): yea, verily; yea; yea by; yes
+  δόμονδε (9): homeward; house
+  γείνομαι (32): to be born; at oneʼs birth; beget; bring forth
+  ἐπασσύτερος (7): one upon another, one after another; one after another; upon; frequent, repeated
+  αὔτως (57): in this very manner, even so; just as I am; in the self-same way, likewise; just so
+  ἕτερος (66): one; the other of two; left; one of the
+  οἴκοθεν (5): from oneʼs house, from home; from home; domestic affairs; at home, within
+  γίγνομαι (317): come into a new state of being; come into being; to be born; born
+  ἀμφότερος (116): either; both of two; each one; partaking of both
+  ἑξῆς (26): one after another, in order, in a row; continued; successive; in order
+  ἄλλως (17): otherwise; other way; other wise; besides
+  τώς (5): so, in this wise; as, S.Ichn
+  ὧδε (135): in this wise, thus; so very, so exceedingly; as it is; just as thou art
+  οὔπως (6): no-how, in no wise, not at all
+  ἕνεκα (92): on account of; for; wherefore; for the sake of
+  οἴκαδε (74): to oneʼs house, home; country, homewards; to peopleʼs houses; at home
+  πάντοθεν (9): from all quarters, from every side
+  ποῦ (14): where?; where; in what part of; at what point
+  οὕνεκα (65): on account of which, wherefore; because; that; the fact that
+  αὐτόθι (34): on the spot
+  ὅθι (102): where
+  ἧχι (9): where
+  ἐκγίγνομαι (15): to be born of; to be born to; come into being; to be gone away
+  πόθεν (14): whence?; from what stock; whence? wherefore?; how can it be? impossible! nonsense!
+  δεῦτε (8): come hither!
+  ἀνατρέχω (8): run back; return; revert; recur
+  πέμπτος (7): fifth : with four others; the fifth; a fifth; for the fifth time
+  τρίτος (21): third; the third; with two others; two drachmae and a half
+  δοιοί (19): two, both; in two ways, in two points; twofold, double
+  ὁπότερος (13): which of two; whichsoever; which of; two
+  ὑπότροπος (5): turning back, returning; rallying
+  τίη (12): why? wherefore?; why so, tell me?
+  ἀμφικύπελλος (15): double cup; two-handled
+  οἴκοι (7): at home, in the house; domestic affairs; home products; oneʼs own country
+  δίπτυχος (5): double-folded, doubled; a pair of; folding; having doubled
+  πῶς2 (50): how?; how so; how; how? at what price?
+
+cluster 13  |  120 lemmas  |  pour, wash, oil, breathe
+  ῥυπάω (5): to be filthy, slovenly; to be filled with wax
+  ὑγρός (20): wet, moist, fluid; raw; liquid; moist
+  μύρω (15): flow, trickle; trickled; melt into tears, shed tears; flow
+  πορφύρεος (28): heaving, surging; gushing; onrushing; lurid
+  ἀμφιχέω (7): pour around, pour; spread over; to be poured; shed around
+  λείβω (20): pour, pour forth; make a libation of; let flow, shed; liquefy
+  τήκω (7): melt, melt down; bring; down in rain; dissolve
+  φύρω (6): mix; dry with; wet; mixing so as to spoil
+  συγχέω (7): pour together, commingle, confound; mix; in confusion; obliterate, demolish
+  πνέω (17): blow; are sounding; breathe, send forth an odour; breathe out, send forth
+  χέω (152): pour; pour out, let flow; snows; gush forth
+  πάσσω (9): sprinkle; laying; upon; sprinkle some
+  περιχέω (9): pour, spread; scatter round; over; having spread
+  ἐπιστέφω (5): filled; to be full; covered with; pour
+  καθαίρω (10): cleanse; clear; purify, refine; purge, clear
+  ἐμπρήθω (8): blow up, inflate; to be bloated; swollen; burn
+  πλύνω (6): Acut.(Sp; wash, clean; bathe; wash the hands
+  κυμαίνω (6): rise in waves, swell; billowy; boil; undulate
+  σκεδάννυμι (9): scatter, disperse; shed; all round; will shiver
+  στόρνυμι (6): spread; make up; make a bed; spread, strew
+  κόπρος (8): excrement, ordure; dung, manure; filth, dirt; dunghill, byre
+  κατείβω (6): let flow down, shed; flow apace; downward flowing; was flowing, passing away
+  ἐπιχέω (11): pour over; pour; over; heap up
+  πλήθω (9): to be full; having; full of; swollen with
+  τέρσομαι (6): to be; become dry, dry up; dried up; is baked
+  δυσαής (5): ill-blowing, stormy; excessive; ill-smelling
+  μαστίζω (11): whip, flog; whipped; stimulate
+  ἐκπίνω (5): drink out; off, quaff; drain; dry
+  ἀτρύγετος (17): unharvested, barren; never worn out, unresting
+  ἴκμενος (5): a fair; moist
+  ἐξαλαπάζω (12): sack, storm; empty; of its inhabitants, clear; out
+  πλέως (14): full, filled; infected with; full; full, complete
+  κεάζω (11): split, cleave; shiver; was cloven; pound, rub to pieces
+  ἀγοστός (5): flat of the hand; arm; dirt, filth; haástas
+  ἀλοιφή (10): anything with which one can smear; anoint; hogʼs-lard, grease; unguent
+  πίμπλημι (36): fill; fill full of; filled; full
+  λούω (44): lǎvo; *lovo; wash; wash the body
+  πορφύρω (5): heaves, surges, swirls; gently heaving; was; troubled
+  καθαρός (9): physically clean, spotless; cleanly; clear of admixture, clear, pure; white
+  κονία (66): dust; sand; ashes; pearl-ash, lye, soap-powder
+  μιαίνω (6): stain, dye; stain, sully; taint, defile; dishonour
+  ἄχνη (7): anything that comes off the surface; foam, froth; exudation; froth
+  παλύνω (7): strew, sprinkle; sprinkled; bestrew, besprinkle; besmear
+  προρέω (7): flow forward; forth, flow amain; pour forth
+  καπνός (20): smoke; spray; trifles; on the smoking embers
+  ῥιγέω (20): shudder; bristle; shudder to do, shrink from doing; cool
+  σβέννυμι (8): quench, put out; dry up; quench, quell, check; cooling
+  μεταμώνιος (6): vain, idle; vainly-woven; idly; to the winds
+  κόνις (9): dust; ashes; lye; cinis
+  χρίω (19): touch the surface of a body slightly; graze; rub, anoint with scented unguents; oil
+  βαθύρροος (5): deep-flowing; deherb
+  κνῖσα (16): steam and odour of fat; smell; savour of a burnt sacrifice; odour of savoury meat
+  σπόγγος (5): sponge; any spongy substance; glands; tonsils
+  ὀμόργνυμι (5): wipe; were drying their; mrjáti
+  ἅλμη (6): sea-water, brine; spray that has dried on the skin; salt incrustation; brine
+  ῥάκος (11): ragged, tattered garment; rags, tatters; strip of cloth; strip
+  ἱδρόω (8): sweat, perspire; shall reek with sweat
+  ἄχθος (6): burden, load; cumberers; plague; pests
+  ἄλειφαρ (6): unguent, anointing-oil, oil, fat; oil; pitch; resin
+  ἐκχέω (9): pour out; is spilt, Ev. Matt; poured forth his; pour away
+  μάστιξ (22): whip, scourge; whip; scourge; the lash
+  ἄημι (12): vā´ti; vējas; breathe hard; blow
+  ἀήρ (28): mist, haze; lower air; air; the open air
+  νίζω (25): wash the hands; feet; to wash oneʼs hands; from
+  ἐμπνέω (12): blow; breathe upon; to breathe upon; breathe into, play
+  ἄω3 (14): satiate; to give; his fill of; take oneʼs fill of
+  νωμάω (25): deal out, distribute; pour; the several; direct, guide
+  ἱδρώς (19): sweat; exudation; gum, resin; anything earned by the sweat of oneʼs brow
+  ἔλαιον (25): olive-oil; anointing-oil; oil; any oily substance
+  ἀπονίζω (7): wash off; wash off from oneself; wash clean; was washing his feet
+  ἀμέλγω (5): milk; you drain; of all they have; such up
+  δημός (14): fat; with fat; and fat
+  κονίω (6): make dusty, cover with clouds of dust; cover with dust; all dusty; in haste
+  τρύχω (7): wear out, waste, consume; to eat; out of house and home; get the better of, cure
+  αὖος (7): dry; a pole; stale; withered
+  ψυχρός (9): cold; in the cold; ineffectual, vain; a cold business
+  ἀσθμαίνω (6): breathe hard; panting; gasping for breath; an effort
+  λουτρόν (8): bath, bathing-place; bath; washing; bathing-establishment
+  ὀστέον (46): d)Fr; bone; the bleached bones of the dead; of bones
+  σκίδνημι (10): disperse; to be spread; scattered, disperse; began to spread his light
+  χάσκω (8): yawn, gape; may; yawn; opening the mouth wide
+  ἁλμυρός (8): salt, briny; salt sea; salt; Acut.(Sp.)
+  χέρνιψ (8): water for washing the hands; purifications with holy water; the use of holy water; therein
+  ἀναπίμπλημι (8): fill up; accomplish; having filled up the full measure; fill full of
+  ἀλείφω (10): anoint the skin with oil; anointing for gymnastic exercises; anointing; supply oil
+  ἠερόεις (9): cloudy, murky; the murky; livid
+  ἀχλύς (10): mist; a mist over the eyes; Sorrow
+  μεγακήτης (5): yawning, with mighty hollows; with mighty maw; capacious; teeming with monsters
+  ἐυρρεής (5): fair-flowing
+  ἀπομόργνυμι (6): wipe off; away from; wipe off from oneself; wiped away his
+  ὀπτάω (17): roast, broil; roast; broil; fry
+  ῥίς (15): nose; snout; nostrils; nares, nose
+  κῦμα (108): anything swollen; pregnant; wave, billow; swell
+  σάρξ (6): flesh; body; portions of meat; pieces of flesh
+  Φαίαξ (74): Phaeacian; conduits; sewers
+  ἐρυθρός (10): red; red pimples, eruption; yolk; Red Sea
+  κορέννυμι (21): satiate, fill; with; satisfy oneself; might satisfy their
+  ὠμός (7): raw, crude; raw, uncooked; raw; crude
+  σίαλος (9): fat hog; fat, grease
+  ἠεροειδής (17): misty, cloudy, dark; in the far distance, dimly
+  κρέας (45): flesh, meat; piece; dressed meat; carcass
+  πολυβότειρα (8): much; all-nourishing
+  παλάσσω (16): besprinkle, defile; he bespattered his; to be scattered abroad; was smitten
+  κομάω (33): let the hair grow long; plume oneself, give oneself airs; aimed at; do you plume yourself
+  εἴβω (9): drop, let fall in drops; trickle down
+  παραλέγω (7): pluck out superfluous hair; you have had your eyebrows plucked; sail; coast along
+  ἅλς (123): salt; rock-salt; brine; sugar
+  ἀσάμινθος (11): bathing-tub; as large as a bath
+  ὠμοθετέω (5): place the raw pieces; sacrifice; raw; shoulder
+  τέσσαρες (20): four; the fourth; the four simple bodies; the four kinds of quality
+  συφεός (5): hog-sty; to the sty
+  δυσηχής (10): ill-sounding; giving a dull sound; bringer of great woe; of ill-repute
+  κεδάννυμι (10): break up, scatter; was broken up; was shed
+  ἴς (26): sinew, tendon; sinews; the fibrous vessels in the muscles; fibrine
+  νέμω (45): deal out, dispense; distribute; leave; pay
+  σταφυλή (5): bunch of grapes; uvula when swollen at the end so as to resemble a grape; uvula; inflammat
+  τένων (9): sinew, tendon; foot; ridge
+  ἴφιος (13): fat, goodly
+  πιέζω (7): press tight, squeeze; compress; squeezing; to be pressed tight
+  βρώμη (5): any substance that can be metabolized by an organism to give energy and build tissue
+
+cluster 17  |  119 lemmas  |  pass, lead, come, throw
+  τελευτάω (29): bring to pass, accomplish; fulfil; bring about; end
+  ἐμβαίνω (8): step in; go on, go quickly; advance!; embark
+  διέρχομαι (10): go through, pass through; pass through, complete; went abroad, spread; shoot through
+  στείχω (11): walk, march, go; come; towards; go to, approach
+  ἐπικραίνω (6): bring to pass, accomplish; may; fulfil; fulfilled
+  ἐποίχομαι (40): go towards, approach; draw near to; approach with hostile purpose, attack; go over, traver
+  κιχάνω (61): reach, hit; light upon, meet with; reach, overtake; shall reach
+  φθάνω (20): come; do first; before; to be beforehand with, overtake, outstrip
+  σεύω (51): put in quick motion, drive; hunt, chase; drive away; set on, let loose at
+  ἐκπεράω (6): go out over, pass beyond; go through; pass through, pierce; go forth
+  πράσσω (18): pass through, pass over; experience certain for; tunes, fare; achieve, effect, accomplish
+  δίω (14): put to flight; drive; pursuing; give chase, hunt
+  ῥέζω (100): do, act, deal; do, accomplish, make; if once done; wronged
+  τέλλω (10): accomplish; perform; come into being; turns
+  κάτειμι (8): ibo; go, come down; go down; sail down
+  ὁδός (10): way, road; course, channel; to truth; further on the way, forwards
+  ὁδός2 (77): way, road; course, channel; to truth; further on the way, forwards
+  κραίνω (13): accomplish, fulfil; accomplish; give true; come true
+  διώκω (33): cause to run, set in quick motion; pursue, chase; chase; follow
+  τρέχω (9): run; run and; move quickly; trippingly
+  μετακιάθω (6): follow after; chase; visit; go to seek
+  ἡγέομαι (46): go before, lead the way; precede; to go before; might guide
+  ἐπιπροίημι (6): send forth; on board; sent; forth
+  μεθέπω (6): pursue, follow after; pursuing; go in search of; drove in search of
+  πρόσειμι2 (7): ibo; go to; towards, approach; approach
+  διαπράσσω (8): pass over; made their way over; may finish; went through
+  κέλλω (5): drive on; run; to land, put; to shore
+  καταπαύω (10): put an end to, stop; bring to a close; conclude; and proceed
+  ἐπελαύνω (9): drive upon; upon; drive to; lay
+  ἀγινέω (6): lead, bring; lead captive; keep, observe; cause to be brought
+  ἰάλλω (25): send forth; they put forth; laid; threw
+  εἰσβαίνω (10): go on board; embark; enter; come into
+  ὑπάγω (5): lead; bring under; brought; under
+  προβάλλω (7): throw; lay before, throw to; put forward; present
+  μετοίχομαι (5): go after, go in quest of; rush upon, pursue; go among; through
+  ἄγω (308): lead, carry, fetch, bring; taking; take with one; carry off
+  εἶμι (530): ibo; shall go, shall come; come; go, depart
+  ἐπιτρέχω (13): run upon; make an assault upon; approach; run after, be eager
+  ἡγεμονεύω (34): lead the way; to lead; make; lead
+  παρέρχομαι (8): ibo; go by, beside; past, pass by; passed away
+  τέτμον (9): overtake, reach, find; partake of, have allotted one
+  προτέρω (22): further, forwards; further; further away?; more
+  τελέω (135): fulfil, accomplish, execute, perform; did it; perform; fulfil
+  ἄπειμι2 (11): ibo; go away, depart; begone; will retreat
+  ἐκπέμπω (6): send out; forth from; bring out by calling, call; fetch out
+  καταβάλλω (7): throw down, overthrow; to bring down; confound, defy; throw
+  τελεσφόρος (5): bringing fulfilment; fulfilment-bringing; complete; destined to be accomplished
+  ἐπιβαίνω (58): go upon; set foot on, tread, walk upon; set foot on; placed upon
+  πρόσω (18): forwards, onwards; further; far off; at a distance
+  προίημι (63): send forth, send forward; send; forward; will allow
+  ἐμβάλλω (39): throw in; let; fall into; throw
+  ἔπειμι2 (16): ibo; come upon; come upon, approach; come against, attack
+  δύω (5): cause to sink, sink, plunge in; get; go into; enter, make oneʼs way into
+  δύω2 (123): cause to sink, sink, plunge in; get; go into; enter, make oneʼs way into
+  ἐρείπω (36): throw; dash down, tear down; casts; down
+  λοχάω (10): lie in wait for, waylay; lie in wait, ambush; in ambush; occupy with an ambuscade
+  περάω2 (8): drive right through; pass right across; through; traverse
+  περάω (25): drive right through; pass right across; through; traverse
+  ἐξάγω (17): lead out, lead away; having brought; out from; bring out of
+  μεθάλλομαι (6): leap, rush upon; rush after; leap from; to another
+  βλώσκω (7): go or come; has passed
+  ῥώομαι (9): move with speed; violence, rush on; ran; dance
+  ἐρωέω (11): rush, rush forth; started back; escape harm; draw back
+  πεῖραρ (21): end, limit; completion; end; achievement, execution, mode
+  ἠμύω (5): bow down, sink; totter, fall; fall, perish; cause to fall, ruin
+  παύω (95): make to end; bring to an end, check; stop; silence
+  βαίνω (405): walk, step; on foot; on ground; he went to
+  νίσσομαι (8): go, come; coming down; ni-ns
+  ἀμφιβαίνω (10): go about; around; in his course had reached; bestride
+  ἐπαίσσω (30): rush at; upon; rush upon; assail, assault
+  παρελαύνω (6): drive by; past; drive; drive past, overtake
+  τέλος (32): coming to pass, performance, consummation; fulfilment, execution; result; coming to pass (
+  πέμπω (93): send; over; send for; send to
+  ἀνάγω (14): lead up; lead up to the high sea, carry by sea; conduct, carry to; put
+  ἀντιάω (16): go for the purpose of meeting; receiving; go in quest of; hit
+  πελάζω (36): approach, draw near; draws to; come near; will
+  βάλλω (469): throw; throw so as to hit, hit; striking; smote upon
+  ἐπέρχομαι (58): come upon; approach; come suddenly upon; come to for advice
+  δρόμος (11): course, race; course; speed; any quick movement
+  ἀτραπός (5): short cut; path; walk of life
+  ἐκτελέω (30): bring to an end, accomplish, achieve; fulfil; PMag. Osl; will be accomplished
+  εἰσάγω (12): lead in; into; into oneʼs dwelling, introduce; he led
+  ἀποστρέφω (7): turn back; turn to flight; turn back from flight; send home again
+  ἀνορούω (18): start up, leap up; went swiftly up
+  βίβημι (6): to stride
+  μετέρχομαι (17): come; go among; if he came among them; having gone between
+  φύγαδε (5): to flight
+  σύνειμι2 (9): ibo; come together, assemble; meet in battle; engage in war
+  λόχος (18): ambush; place for lying in wait; ambuscade; an ambush
+  κέλευθος (38): road, path; the streets; paths, orbits; path
+  ἀπάγω (7): lead away, carry off; hold far off; remove; stop
+  κλείω (7): shut, close, bar; barred; shot; shut up, close, block up
+  θοῦρος (18): rushing, impetuous, furious; with which one rushes to the fight
+  κατέρχομαι (20): go down; go down to the grave; down; descending
+  ἀνύω (5): effect, accomplish; did; good; to forward the work
+  καταβαίνω (27): come down from; die; came down from; came down
+  τέκμαρ (7): fixed mark; boundary, goal, end; goal; an end
+  ῥίπτω (17): throw, cast, hurl; throw; prostrate; lying
+  τέρμα (9): end, boundary; goal round which horses and chariots had to turn; mark set to show how far 
+  καταδύω (43): go down, sink, set; to be sunk; disabled; duck
+  ἕζομαι (95): seat oneself, sit; sank; crouch; sink
+  καταπίπτω (21): fall, drop; fell; base, contemptible; accidents
+  ἴχνιον (8): track, footprint; track; step; trace, remnant
+  ἐκβάλλω (12): throw; cast out of; throw out; threw
+  ἔργω (22): shut in; shut out; vrajás; urgeo
+  ἐλαύνω (170): drive, set in motion; drive; ride; row
+  ἐφίημι (35): send to; sent; set on, incite; throw
+  ἐπιπωλέομαι (5): go about, go through; inspecting; reconnoitring; visit
+  φύζα (7): headlong flight, rout
+  τελευτή (5): completion, accomplishment; event, issue; termination, end; the end of life, death
+  εἴλω (37): shut in; shut out; let them be shut out; ponded
+  πίπτω (177): Exc. ex libris Herodiani; fall down; cast oneself down; fall
+  ἐκπίπτω (16): fall out of; fell from; fall out; fall down
+  ἔρχομαι (770): ibo; start, set out; was setting out; was
+  οἴγω (14): open; opened the door; opened; véga
+  τανυήκης (6): with long point; edge; tapering
+  ἄξων (6): axle; axis; axis of the celestial sphere; course, path
+  ἀνοίγνυμι (5): open; they tried to put back; so as to open; took off
+  ἀτέλεστος (7): without end, issue; effect, unaccomplished; not deserving of accomplishment; truncated
+
+cluster 10  |  118 lemmas  |  eat, tree, heracles, meal
+  βρῶσις (11): meat; pasture; eating; taste, flavour
+  βόσκω (22): feed, tend; the feeder; feed, nourish; maintain, keep
+  ἀγελαῖος (6): belonging to a herd; in herds; shoals, gregarious; gregarious animals
+  ἐδωδή (12): food, meat, victuals; forage, fodder; bait; act of eating
+  νομός (8): place of pasturage; pasture; herbage, pasture; food
+  θάλλω (8): sprout, grow, thrive; luxuriant; grew; bloom
+  ἵππουρις (6): horse-tailed, decked with a horse-tail; horse-tail; Satyrʼs tail; horse-tail, Equisetum si
+  κάπρος (12): boar; wild boar; sow; sea-fish, Capros aper
+  ὗς (73): the wild swine; boar; sow; sus foeta
+  ὄις (55): sheep; ram; ewe; avis
+  ἐσθίω (18): eat; ration-strength; eat of; devour
+  δένδρεον (14): tree; fruit; mast-bearing trees; tall plants
+  ἱππόβοτος (15): grazed by horses
+  μῆλον (69): sheep; goat; rams, wethers; goats
+  βοῦς (170): bullock, bull, ox; cow; cattle; buffalo
+  τροφός (17): feeder, rearer; nurse; that which nourishes; nursling
+  ἔσθω (16): eat; eat up; feed on, devour
+  καρπός (13): fruit; the fruits of the earth, corn; harvest; crops
+  ἡμίονος (40): half-ass; mule; a team of racing-mules; wild ass, onager
+  κορώνη (9): shearwater, Puffinus Kuhlii; P. anglorum; crow; hooded crow, Corvus cornix
+  ληίς (12): booty, spoil; booty; cattle, stock
+  μῆλον2 (11): apple; treefruit; crab, Pyrus acerba; apricot, Prunus armeniaca
+  ἔλαφος (18): deer, Cervus elaphus; hart; stag; hind
+  Βοιωτός (7): a Boeotian; Boeotia; cattle-pastures; Boeotian
+  ὀξύς (119): wood sorrel, Oxalis Acetosella; great sea-rush, Juncus acutus; sorrel, Rumex acetosa
+  θήρ (16): beast of prey; beasts; living creature; vermin
+  ὑφορβός (21): a herder or swine
+  πόα (5): grass; herb; herbaceous plants; herbs
+  φαγεῖν (24): eat, devour; eat of; eat up, devour, squander; bhájati
+  οἰωνός (28): a large bird, bird of prey; birds; a bird of omen; augury
+  πατέομαι (15): eat; drink; eat of, partake of; eat, taste food
+  φυτόν (8): plant; garden plant; tree; sucker, slip
+  πτερόν (10): feathers; feather; quill; plumage
+  λειμών (14): any moist, grassy place, meadow; flowers; pudenda muliebria; any bright, flowery surface
+  λωτός (8): clover, trefoil, Trifolium fragiferum; fellbloom, Lotus corniculatus; fenugreek, Trigonell
+  εὔπωλος (5): abounding in foals; horses; their offspring
+  ἔρνος (5): young sprout, shoot; a young plant; wreaths; scion, offspring
+  λέων (56): lion; lionʼs skin; crab; serpent
+  κεραός (5): horned; made of horn; cervus
+  ἐρέπτομαι (6): feed on; feeding on; eat
+  κέρας (16): the horn of an animal; horns; tusks; antennae
+  βουκολέω (5): tend cattle; graze; range through the sky; graze on
+  αἰπόλιον (7): herd of goats; goat-pasture
+  αἴξ (50): goat; ibex; the star Capella; goose
+  ἐδητύς (29): meat, food
+  ὕλη (47): forest, woodland; forest; forest-trees; copse, brushwood, undergrowth
+  ἄλφιτον (15): barley-groats; barley-water; poultices; hair-powder
+  χήν (9): wild goose, Anser cinereus; tame goose; haṃsás; gans
+  πετεινός (10): able to fly, full-fledged; able to fly, winged; winged fowl; a bird
+  εἶδαρ (14): food
+  ξύλον (13): Abh. Berl. Akad; wood; firewood, timber; timber
+  ὄρνις (32): ara; arins; bird; bird of omen
+  κῆπος (6): garden, orchard; plantation; enclosure; garden
+  ἔδω (64): eat; eat up, devour
+  κατέδω (12): eat up, devour; eat up; eating
+  δρῦς (17): tree; Quercus Aegilops; Quercus Ilex; of oak leaves
+  ποιήεις (8): grassy
+  ἀγέλη (12): herd; any herd; company; shoal
+  πτερόεις (130): feathered, winged; fluttering; winged
+  φύλλον (20): leaf; leaves; foliage; voting-papers
+  ἐλαία (12): olive-tree; the olives; Olea cuspidata; olive
+  τηλεθάω (9): luxuriant, flourishing; blooming; luxuriant; blooming with
+  μυῖα (6): fly; carrion-fly, bluebottle; gall-insect; a fly
+  λύκος (10): wolf; grisly; jackals; a wolf
+  ἐριβῶλαξ (20): with large clods; very fertile
+  σῖτος (69): grain; the corn; its; corn
+  πέλεια (9): dove; pigeon; wild rock-pigeon, Columba livia; prophetic priestesses
+  ἐλάτη (6): silver fir, Abies cephalonica; Abies pectinata; oar; made of pine-wood
+  κρῖ (6): barley
+  κύων (116): dog, bitch; shepherds’ dogs; watch-dogs; hounds
+  ἄνθος (11): blossom, flower; the chaplets of flowers; anything thrown out upon the surface, eruption; 
+  δόρπον (33): evening meal; meal, food
+  φηγός (8): Valonia oak, Quercus Aegilops; the oak; acorn of the same tree; fāgus
+  ἱππόδαμος (49): tamer of horses; Hippodamia
+  πέσσω (7): soften, ripen; change; ripen; bring to maturity
+  ἀλωή (21): threshing-floor; any prepared ground; garden, orchard, vineyard; halo
+  οὐλοχύται (7): barley-groats; coarsely-ground barley sprinkled
+  ὄρχατος (6): row of trees; orchard, garden
+  πέπων (18): cooked by the sun, ripe; mellow; ripe, ready to suppurate; gourd
+  βόειος (7): of an ox; oxen; of ox-hide; bull
+  εὐστέφανος (6): well-girdled; graced with beauteous garlands; crowned with flowers; crowned, circled with 
+  ἑπταβόειος (5): of seven bullsʼ-hides
+  ἀετός (16): eagle; eagle as a standard; Aquila; omen
+  ἐλέφας (10): elephant; elephantʼs tusk, ivory; precious stone; cup
+  λίς (7): lion
+  ἐρινεός (6): wild fig-tree, Ficus Caprificus; of the wild fig-tree
+  ἄριστον (6): morning meal, breakfast; breakfast; luncheon; air
+  Ἡρακλέης (8): Heracles; like Heracles
+  κοῦρος (23): loppings, twigs stripped from a tree
+  ὀρεύς (5): mule
+  δεῖπνον (30): meal; noonday meal; morning meal; evening meal
+  νεβρός (10): young of the deer, fawn; fawn
+  ἕλωρ (9): spoil, prey; penalty for the slaughter
+  ὑλήεις (16): woody, wooded; through the wood; dense growth; dwelling in the woods
+  κῆτος (7): any sea-monster; huge fish; cetacea
+  δράκων (9): dragon, serpent; water-snake; Draco; the great weever
+  ἀείδω (40): Il.Parv; sing; crow; hoot
+  Αἰθίοψ (7): Burnt-face; Ethiopian, negro; a fish; Ethiopian
+  αἰών (12): aevum; period of existence; lifetime, life; the Aeacidae
+  κύρμα (6): that which one meets with; finds; booty, prey, spoil; one who gets booty, swindler
+  φάλος (7): horn; boss; ornament
+  Ἀργειφόντης (27): slayer of Argus; serpent-slayer
+  πυρός (11): wheat, Triticum vulgare; a grain of wheat; pūraĩ
+  πολύπυρος (6): rich in corn
+  ὄγχνη (6): pear-tree, Pirus communis; pear
+  ἰχθυόεις (16): full of fish, fishy; fish-like; consisting of fish
+  Στύξ (6): the Styx; the Hateful; a well of fatal coldness in Arcadia; monster, reptile
+  ἀγελείη (7): driver of spoil, the forager; Seven
+  γεύω (5): give a taste; taste; they had tasted, eaten of; take food
+  κυνώπης (6): dog-eyed; shameless one
+  τέκτων (12): worker in wood, carpenter, joiner; craftsman; workman; a worker
+  ἐλάτινος (5): of the fir; made of fir; pine-wood; of the date inflorescence
+  γῆρας (34): old age; cast skin, slough of a serpent
+  κύντερος (5): more dog-like; more shameless; more horrible
+  ἰχθύς (18): any of various mostly cold-blooded aquatic vertebrates usually having scales and breathing
+  πόρω (68): break a piece from a whole: "break a branch from a tree"
+  Ἡράκλειος (7): of Heracles; Heracles himself; like Heracles; temple of Heracles
+  πυκινός (21): abstaining from food
+
+cluster 7  |  117 lemmas  |  round, stretch, straight, turn
+  ὑποστρέφω (7): turn round about; back; bringing back; roll up
+  ἀμφιέλισσα (18): curved at both ends; on both sides); wheeling either way, handy; twisting, doubling
+  στρέφω (26): turn about; aside; turn; wheel
+  λιάζομαι (13): bend, incline; go aside, recoil, shrink; shrank; hast
+  καταπρηνής (6): down-turned; with the flat of
+  ὀρθόω (6): set straight; set upright, set up; raise up; raise up, rebuild
+  ἐλύω (10): roll round; rolled; rolled up, crouching; coiled
+  ἀμφιβάλλω (6): throw; put round; put them on; put round oneself
+  ἑτεραλκής (6): giving strength to the other side; inclining to the other side; was changing sides; inclin
+  ἀγκών (8): bend of the arm; elbow; arm; bend
+  ἐπιτρέπω (17): to turn to; towards; inclined itself; to overturn upon
+  ἐφέπω (48): ply, wield; apply, direct towards; against; ply, belabour, lay on to
+  ἐπιδινέω (6): whirl for; swing round; turn over in oneʼs mind, resolve; wheel about
+  ἐπιγνάμπτω (6): curve; bend; bow, bend to oneʼs purpose
+  ἀμφίς (41): on both sides; on either hand, to either party; from both hands; round about
+  ἐντανύω (16): stretch tight; stretch; tight; bend
+  ἕλιξ (14): twisted, curved; twisted, crumpled horns; rolling; tangled
+  μεταστρέφω (11): turn about, turn round; turn oneself about, turn about; turn round; turn about
+  προσβαίνω (9): put oneʼs foot against; approach; mount, ascend; climb up
+  ὀρθός (16): straight; upright, standing; erect; standing with their walls entire
+  ἰθύνω (25): make straight, straighten; guide in a straight line; let us drive; straight
+  ἐριαύχην (5): with arched neck
+  ἰθύω (13): go straight, press right on; set straight; dashed straight at; to be eager, strive
+  ἐυστρεφής (7): well-twisted; shapely
+  ἰδνόομαι (5): bend oneself, double oneself up
+  τιταίνω (16): stretch; bending; having tuned my; plays
+  ἀνέλκω (6): draw up; holds; haul; up high and dry
+  ὀρθόκραιρος (5): with straight; upright horns
+  ἀναβαίνω (44): go up, mount; go up to; goes up among; to trample on
+  ὀρέγω (35): reach, stretch, stretch out; reach out, hold out, hand, give; extend; stretch oneself out,
+  ἀντικρύ (29): over against, right opposite; straight on, right on; right; outright, utterly, quite
+  νεύω (19): incline in any direction; nod, beckon; beckon; nod
+  εὔκυκλος (7): well-rounded, round; well-wheeled; in horizontal circles, orbicular; moving in a circle, c
+  ἑτέρωσε (11): to the other side; on one side; on the other side; elsewhither, aside
+  στεφανόω (5): to be put round in a circle; as a rim; border; to be put round
+  ἀείρω (67): attach; lift, raise up; brailing them up; hoist
+  πλεκτός (5): plaited, twisted; wicker; any plaited; twisted
+  ἀμφοτέρωθεν (17): from; on both sides; from both ends
+  εἰλύω (10): enfold, enwrap; to be wrapped, covered; crawl, wriggle along; rolled up, crouching
+  δινεύω (15): whirl, spin round; after whirling; driving; round a circle
+  περιτέλλομαι (5): come round; came round; go round; rise above the horizon
+  τανύω (52): stretch, strain; string; having strung his; pull
+  ἄντυξ (13): edge; rim of anything round; curved; rim
+  εἰλίπους (9): rolling in their gait; bring round their hind legs with a circling; rolling motion; oxen
+  ἰθύς (21): straight; straightway, forthwith; straight on; outright, openly
+  ἰθύς2 (30): against; straight upwards; enterprise; mood, designs
+  τείνω (25): stretch; pull tight; having tied; tight
+  ἀμφίγυος (9): with a limb at each end, double-pointed; bending both ways, elastic; stout rivals
+  κλίνω (42): śráyati; clinare, clivus; cause to lean, make to slope; slant
+  γναμπτός (11): curved, bent; supple, pliant; pliable
+  κυλίνδω (22): roll; trundle; rolls; revolve
+  κατάγω (11): lead down; into the nether world; bring down; draw down
+  φρίσσω (8): to be rough; uneven on the surface, bristle; bristle up, stand on end; having set up his b
+  ἀναχάζω (15): make to recoil, force back; draw back; giving way to; draw back from
+  στρεπτός (5): easily twisted, pliant; of chainarmour; mail; pliant
+  φοιτάω (19): go to and fro, backwards and forwards; stalk; keep going; on the wing
+  τρωπάω (5): turn, change; turn oneself, turn about
+  ἐναντίος (20): opposite; on the opposite side, opposite; fronting, face to face; before
+  ἀνακλίνω (10): lean; upon; having laid; cause to recline
+  πήγνυμι (35): stick; fix in; fix in the earth, plant; pitch
+  ἐρείδω (33): cause to lean, prop; piling; against; fix firmly, plant
+  περιίστημι (7): place round; bring round; convert; transfer
+  στρωφάω (7): turn constantly; keep turning; steer; turn oneself about, keep turning
+  κορωνίς (17): crook-beaked; curved; with crumpled horns; anything curved
+  ἀμφαφάω (7): touch; feel all round; by feeling; handle
+  χείρ (635): the hand; closed; open, flat; a single hand
+  περιβαίνω (6): go round; bestride; those mounted on; come round
+  εὐρύς (161): wide, broad; loose; far-reaching, far-spread; várīyān
+  ἵστημι (454): make to stand; stand; sthā; á-sthā-t
+  ἀμφινέμομαι (10): dwell round; encompasses
+  νύσσω (26): touch with a sharp point, prick, stab, pierce; dinting; having nudged; prick
+  παλίντονος (5): bent backward; back-stretched; caused by opposite tensions; military engines for throwing 
+  δαίζω (21): cleave asunder; slay; pierced through; torn
+  καμπύλος (10): bent, curved; of varied metre
+  πωλέομαι (10): go up and down; to and fro; come frequently; she goes
+  ὑπερβαίνω (7): step over, mount, scale; cross; step over; overflow
+  ἄντα (41): over against, face to face; man to man; before one; to look at
+  τίλλω (5): pluck; pull out; pluck out oneʼs; from which
+  σπάω (15): draw; having their; drawn; drew
+  νηέω (9): heap, pile up; heaped; piled; pile, load
+  ἔγκατα (6): inwards, entrails
+  ἄνειμι (20): go up; rise; I went up a hill; came up
+  ἔνθεν (45): thence; on the one side; on this side; on that
+  ἀφύσσω (19): draw; was drawn from; draw full draughts of; heap it up
+  ἀνέρχομαι (9): go up; mount the tribune; go up from; come up from
+  ἀριστερός (24): left, on the left; the left; left hand; the left hand
+  διαπρύσιος (7): going through, piercing; piercing into, running out into; piercing, thrilling; piercing
+  παρίστημι (90): cause to stand, place beside; having brought; into view; set
+  ἑτέρωθεν (33): from the other side; on the other side, opposite; from another quarter, from outside
+  ἀπόπροθι (6): far away; extending far and wide
+  δεξιτερός (20): right-hand of two; the right hand
+  εἰσάντα (5): right opposite; in the face
+  κάμπτω (5): kaṁp-as; kuṁp-as; campus; bend, curve
+  πλατύς (9): wide, broad; broad; large; spread over a wide space
+  ἄντην (20): against, over against; confront; openly against; straightforwards
+  ἀνίστημι (82): make to stand up, raise up; raised; raisefrom sleep, wake up; raise from the dead
+  ἐρύω (155): drag, draw; drag; away, rescue; off for plunder, ransom
+  ἐξερύω (13): draw out of; snatch out of; draw out; tear out
+  κλῆρος (18): lot; by lots; casting of lots, drawing of lots; sortitio provinciarum
+  δεξιός (32): on the right hand; side; the right; fortunate
+  ὀφέλλω (30): increase, enlarge, strengthen; raises high; multiply; add to
+  ἐπίσωτρον (6): metal hoop upon the felloe; tire
+  εὐρυμέτωπος (7): broad-fronted
+  ἕλκω (65): sulcus; velkù; draw, drag; began to drag
+  κλισμός (16): couch; inclination, slope
+  πείρω (24): pierce, run through; spitted; they stuck; ran
+  στάθμη (6): carpenterʼs line; rule; level; the line rubbed with chalk
+  ἀμφικαλύπτω (24): enwrap, enfold; received within; love enfolded; overwhelm
+  τελαμών (15): broad strap; band for bearing; supporting; leathern strap
+  αἰγίοχος (54): veho; aegis-bearing
+  κύκλος (9): ring, circle; circle; circles; in a circle
+  ἀέκητι (16): against oneʼs will
+  Ἶρις (40): Iris; rainbow; bright-coloured circle; the
+  ἐκεῖθεν (11): from that place, thence; on his part; on yon side of; thence, from that fact
+  τρίπους (29): three-footed, of; with three feet; measuring three feet; the side of a square three feet i
+  χερμάδιον (16): large stone, boulder; of the shape; size of a; for arm-exercises
+  κλέπτω (6): clèpere; hlifan; hliftus; steal
+
+cluster 12  |  114 lemmas  |  funeral, long, day, time
+  κνέφας (16): darkness; evening dusk, twilight; morning twilight; dawn
+  ἕσπερος (7): at evening; evening; of darkness; eventide
+  ἠώς (113): dawn; light of day; morning; at morn, early
+  αὔριον (10): to-morrow; tomorrow; on the morrow; till morning
+  γῆ (11): earth; heaven; land; sea
+  πῦρ (166): fire; funeral-fire; burn; sacrificial fire
+  ψυχή (80): life; lives; dear as life; departed spirit, ghost
+  σῶμα (8): body; dead body, corpse; living body; life
+  κατακαίω (7): burn completely; burn; alive; burnt
+  ἦμαρ (188): day; by day; on that day; the day
+  αἰθήρ (25): ether, the heaven; upper; air; sky
+  ἠῶθεν (12): from morn; at dawn, at break of day; to-morrow morning; in the morning
+  φλόξ (20): flame; flames, meteors; fire; heat
+  νύξ (134): night; mght-season; a night; by night
+  νεκρός (65): corpse; dying person; the dead; dead
+  σέλας (13): light, brightness, flame; light; lightning, flash of lightning; meteor
+  τόφρα (64): up to; during that time, so long; in (the course of) that time, so long; meanwhile
+  θνήσκω (138): Papers of the Amer. School; die; to be dead; dead
+  ὑπηοῖος (5): towards dawn, early; early; morning
+  αἴθω (22): light up, kindle; burn, blaze; burnt fiercely; aestas, aestus
+  γαῖα (294): land, country; land; earth; the earth
+  νῦν (742): now; present moment; present time; of our day
+  Ὄλυμπος (97): Olympus; sky; to, towards Olympus; from O
+  τέως (11): so long, in the meantime; until then, during that time; for that number of days; for a tim
+  νέκυς (78): corpse; dead person; spirits of the dead; dead
+  οὐρανός (91): heaven; vault; firmament of heaven, sky; Heaven
+  ἕωθεν (10): from morn; at earliest dawn; early
+  χρόνος (29): time; a definite time, period; chronological; dates
+  θνητός (44): liable to death, mortal; mortals; mortal women; mortal creatures
+  πάννυχος (6): lasting all the night; the livelong night
+  ἑσπέριος (9): towards evening; at eventide; at even; western
+  οὐρανόθεν (20): from heaven, down from heaven
+  ἡμέρα (6): day; at daybreak; in the day; a state
+  καταθνητός (10): mortal
+  φώς (93): man; his; mortal
+  δηρός (37): long, too long; all too long; lingering
+  πυρά (7): watch-fires; beacon-fires; fires
+  ἐσχάρα (11): hearth, fire-place; pan of coals, brazier; watch-fires; sacrificial hearth
+  μίνυνθα (14): a short time; short-lived
+  σώζω (57): save, keep; save from death, keep alive; spare; to be saved, kept alive, preserved
+  χειμών (5): winter; in winter; in winter-time; in the course of the winter
+  κήλεος (8): burning; dry
+  πανημέριος (12): all day long; in a whole dayʼs sail; of the whole day
+  μακρός (126): long; ships of war; the longer sides; length-wise
+  βροτός (116): mortal man; dead; mṛtás; morior
+  ἦμος (36): at which time, when; while, so long as
+  ἐπιχθόνιος (14): upon the earth, earthly; earthly ones, men on earth; who haunt the earth; natives
+  σελήνη (7): the moon; moon; a moonʼs breadth; lunar
+  κενός (7): empty; pause; the void of space; cavity
+  θέρος (5): summer; during the summer; in the course of it; about
+  ἄνθρωπος (190): man; gods; the men; the ideal man, humanity
+  ζωός (60): alive, living
+  μέσος (145): middle, in the middle; middle; zenith; mid
+  νεφέλη (21): cloud, mass of clouds; mist; fog; a cloud
+  ἐναντίβιος (12): being below the horizon: "the moon is set"
+  καταθνήσκω (25): Nuova Silloge; die away, be dying; died; to be dead
+  πυρκαιά (9): funeral pyre; the burning pyre; conflagration; arson
+  γαιήοχος (17): earth-moving, earth-carrying; protecting the country; veho; váhati
+  Ἄρτεμις (27): Artemis
+  χιών (7): snow; fallen snow; falling snow; snow-water, ‘ice-coldwater
+  Ἀπόλλων (157): Apollo
+  νιφάς (5): snowflake; snowstorm; snow; shower
+  Ἄρης (163): Ares; the god of destruction; of Ares; Mars
+  εἰναετής (5): of nine years, nine years old; nine years long
+  χθιζός (10): of yesterday; yesterdayʼs; yesterday; yesterday!
+  δέρκομαι (13): see clearly, see; having sight; alive, living; since she lives
+  ἠριγένεια (28): early-born, child of morn; morn; morning; a day
+  χῶρος (33): a definite space, piece of ground, place; space; region; space, compass
+  ὀψέ (19): after a long time, at length, late; late; too late; it is not long
+  τάφος (9): funeral-rites; funeral-feast; the funeral-rites; the rites of burial
+  ἀνδρόμεος (8): human; of manʼs flesh; of men; máya
+  παναίολος (6): shot with many colours, glancing; star-spangled; manifold
+  ἤ2 (9): when, after; after; from the time of
+  σῶς (18): safe and sound, alive and well; safe, whole; preserved, extant; intact
+  θάνατος (137): death; the death threatened; to death; death-penalty
+  πυρή (23): wood heaped for burning a dead body as a funeral rite
+  μεσηγύ (25): in the middle, between; in mid-voyage; between; meanwhile
+  ἀστήρ (13): star; the chief star; shooting star; meteor
+  δαίω (20): dunō óti; light up, kindle; she made; burn
+  πάρος (102): aforetime, formerly; up to now, hitherto; before; not until
+  νέφος (45): cloud, mass of clouds; a cloud upon; a cloud of men; the cloud
+  δολιχός (14): long; dīrghas
+  νιφόεις (5): snowy, snowclad; snow-white
+  ἄστρον (5): the stars; dog-days; any common star; the stars’
+  ἀνήρ (1038): nar; ner-, nṛ; man; woman
+  μείς (15): month; from; the month; the lunar month
+  δηθά (20): for a long time; long
+  ἐαρινός (6): of spring; springtime; apricots; in spring-time
+  δολιχόσκιος (26): casting a long shadow; long; far-reaching
+  ἀνακαίω (6): kindle, light up; light oneself; kindle; fire up
+  ἄρσην (11): male; the male; the male sex; masculine
+  Ὀλύμπιος (43): Olympian, of Olympus, dwelling on Olympus; of Olympus
+  καίω (73): kindle; they lighted them; to be lighted, burn; which blaze
+  ἀρηίφιλος (26): dear to Ares
+  θάπτω (9): honour with funeral rites; to carry out to burial; burial expenses
+  μυχός (19): innermost part, nook, corner; a recess; the farthest nook; in darkness
+  ἐννῆμαρ (12): for nine days
+  ἐμπίμπρημι (5): kindle, set on fire; burn; to be set on fire; to be inflamed
+  ἐνιαυτός (27): anniversary; lapse of a year; on the expiry of a year; any long period of time, cycle, per
+  θῆλυς (22): female; she; the female; woman
+  μινυνθάδιος (8): short-lived; small
+  κτέρεα (5): funeral gifts; funeral honours; wrappers for the dead, shroud
+  ἀστερόεις (12): like a star, sparkling; a half-moon
+  τανηλεγής (8): bringing long woe
+  ἱμάσσω (8): flog; smote; smites; with lightnings
+  Ὠρίων (7): Orion; constellation
+  ἔτος (22): year; years; annually; yearly
+  κεραυνός (18): thunderbolt; thunderbolts; thunder and lightning; a thunderbolt
+  χώρα (9): space; room in which a thing is; partly occupied space; country
+  ἐσχατιά (15): farthest part, edge, border; the edge; shore; the mouth
+  παρέξ (22): the region that is outside of something
+  Λητώ (15): Leto; born from Leto; temple of L
+  ἐννέωρος (5): in the ninth season; at nine years old; after nine years; every ninth year
+  νεφεληγερέτα (36): cloud-gatherer
+
+cluster 8  |  101 lemmas  |  meet, bind, ready, gather
+  ἠγερέθομαι (15): gather together, assemble
+  συναγείρω (6): gather together, assemble; collect; gather together, come together, assemble; collect for 
+  ἀγείρω (62): gather together; gather, assemble; herded; collect, gather
+  συντίθημι (13): place; put together; fold; together
+  ἀραρίσκω (70): join, fit together; join together, fasten; knitted; pack up
+  ἄμυδις (15): together, at the same time; all together; together
+  ἀντιβολέω (24): meet; to be present at; partake of, have oneʼs share of; fall to oneʼs lot
+  συμβάλλω (18): throw together, dash together; bring together, unite; have; reaching
+  συνίημι (17): bring; set together; shot; together
+  ἀολλής (30): all together, in throngs; crowds; all together; together
+  δαίω2 (9): divide; is torn, distracted; distribute; feast
+  μηχανάομαι (15): make by art, construct, build; prepare; prepare, make ready; contrive, devise
+  ἀγών (29): gathering, assembly; assembly met to see games; place of contest, lists, course; lists
+  ὁμοῦ (21): at the same place, together; together, at once; likewise; both
+  ὁμηγερής (10): assembled; all assembled
+  ὁπλίζω (21): make; get ready; make oneself; ready
+  λέγω3 (15): lay ; pick up; gather, pick up; picking out stones for building; gather for oneself
+  χωρίς (7): separately, apart; set; apart, in reserve; apart
+  καθάπτω (13): fasten; fix on, put upon; having made; fast
+  ἅπτω (39): fasten; bind to; having fastened; join
+  ἐφοπλίζω (11): get ready; we will get ready our; fit out, equip, make ready; arm against
+  λέγω2 (17): pick up; gather, pick up; picking out stones for building; gather for oneself
+  συνάντομαι (7): fall in with, meet; meet; that accompanies; approach
+  ἀρτύω (6): arrange, prepare, make ready; dress savoury; season; administer
+  ἀγοράομαι (27): meet in assembly, sit in debate; speak in the assembly, harangue; speak, utter; speak, tal
+  δατέομαι (31): divide among themselves; they share; are alike filled with; tear
+  τεύχω (170): make ready, make; produce by work; art; make, build
+  ἑτοῖμος (18): at hand, ready, prepared; in hand; in ready money; ready
+  συνελαύνω (5): drive together; drove; together; hammer together
+  παρέχω (16): hand over; furnish, supply; will provide; finds
+  ἀρτύνω (14): putting; in order, dressing; prepared his; fitted
+  πτύσσω (5): fold, double up; fold up; fold; fold, close
+  κυκάω (11): stir; mix; mix for oneself; stir up
+  κεράννυμι (9): mix, mingle; let us mix a cup of wine; give to drink; mix their
+  ὁμός (10): one and the same, common, joint; one; unite; samá
+  ὑφαίνω (24): weave; weave, ply the loom; contrive, plan; the plot they laid
+  τιτύσκομαι (17): make, make ready, prepare; he put; try to hit; aim, shoot
+  διακρίνω (18): separate one from another; part; to be parted; part and join different
+  δήω (9): find, meet with
+  ἐπιεικής (10): fitting, meet, suitable; meet; a fair; reasonable
+  ῥάπτω (6): sew together, stitch; having made himself; having got; stitched
+  ἐμπίπτω (17): fall in; fell upon; meet; meeting
+  στέλλω (10): make ready; rig; fit; out
+  ἀντιάζω (13): meet face to face; encounter; shall answer to; approach as suppliants
+  ποιέω (78): make; make, produce; made; to be made with
+  ἀντάω (11): come opposite to, meet face to face, meet with; meet; she reached, went up to; meet with, 
+  καταδέω (10): bind on; to, bind fast; bind to oneself; tie up for oneself
+  ἀνάπτω (6): make fast on; moor; form a close connexion; confer
+  ἀθρόος (23): in crowds, heaps; masses, crowded together; in close order; in column
+  ὁμῶς (28): equally, likewise, alike; in equal parts; both; alike
+  ταράσσω (6): stir, trouble; troubling; mix; to wag
+  ἐντύνω (11): equip, deck out, get ready; was harnessing; were getting; ready
+  δέω (57): bind, tie, fetter; to bind; tie; bind, keep in bonds
+  κολλητός (10): glued together, closely joined; with figures welded
+  ἔθνος (29): number of people living together, company, body of men; band; host; swarms, flocks
+  ἄντομαι (8): meet; opposed; stopped; meet with favour, greet
+  κρίνω (35): separate, put asunder, distinguish; pick out, choose; to choose; to be chosen out, disting
+  ἀγχιστῖνος (5): close, crowded, in heaps
+  μοῖρα (107): part; portion; division; party
+  ἐφάπτω (10): bind on; having fixed; by making fast; had made fast
+  πῶυ (11): flock
+  ἀγορά (71): assembly; of the People; Amphictyonic Council; conventus agere
+  ἐπιέννυμι (9): put on besides; over; threw; clad in
+  ἔισος (25): alike, equal; equal in height; equal; equally shared, of which each partakes alike
+  στηρίζω (5): make fast, prop, fix; sets; set; fast
+  ἀλλήλων (176): of one another, to one another, one another; mutually, reciprocally; one another; reciproc
+  δολοφρονέων (8): planning craft, wily-minded
+  ζεύγνυμι (22): yoke, put to; put to oneʼs; harness, saddle and bridle; put to, get ready
+  τράπεζα (36): table; dining-table, eating-table; board; a table
+  κοσμέω (12): order, arrange; set; in array, marshal; marshalled
+  ἐνδύω (5): go into; put on; wear; assume
+  βυσσοδομεύω (7): build in the deep; brood over; in the depth of oneʼs soul, ponder deeply; secret designs
+  ἀμφιάζω (5): clothe; put on
+  ἴσος (101): equal; like; copy; the same
+  φῦλον (20): race, tribe; class; swarm; people
+  πτύξ (7): layer, plate; plates; fold; folded piece
+  εὔτροχος (8): well-wheeled; smoothlyrunning; running easily; ready, glib
+  κιρνάω (6): mix; to mix the cup; flavour by mixing; temper
+  ἐίσκω (15): only; make like; made; like
+  ὅμιλος (90): any assembled crowd, throng of people; the mass of the people, the crowd; crowd; mob
+  ἀντίον (49): loom
+  ἴκρια (11): halfdeck; platform, stage; scaffolding; benches
+  κόσμος (18): order; order, duly; shamefully; in order
+  πεδάω (12): bind with fetters; bind, make fast; shackle, trammel; constrained
+  μεταπρέπω (14): distinguish oneself; be distinguished among; am distinguished among
+  πολυμήχανος (23): resourceful, inventive
+  πληθύς (17): throng, crowd; majority; plebs
+  ἀτάλαντος (28): equal in weight, equivalent to, like; equal to; like; in equipoise
+  τροχός (7): wheel; wheels; potterʼs wheel; wheel of a stage-machine
+  πίναξ (5): board, plank; drawing; writing-tablet; votive tablet
+  ἥμισυς (15): half; half of; half-and-half; mid
+  πολύφρων (10): ingenious, inventive; embodying much thought
+  διίστημι (7): set apart, separate; set; at variance with; divide
+  ἄμαξα (16): frame-work, ‘châssis’; wagon; wagons; draught
+  θαμέες (15): crowded, close-set; frequent
+  ἀντίος (84): set against; face to face, opposite; to meet them; though she faced him
+  διαλέγω (5): pick out; glean; select, separate; examine, check
+  σανίς (13): board, plank, timber; anything made thereof; door; folding doors
+  ἀγορεύω (165): speak in the assembly, harangue; address; to address the house?; counsel
+  δίπλαξ (5): in double folds; layers; twofold, double; double-folded mantle
+  θεράπων (69): periodic maintenance on a car or machine: "it was time for an overhaul on the tractor"
+
+cluster 18  |  97 lemmas  |  flee, fear, away, hold
+  ἀφίστημι (13): put away, remove, keep out of the way; hinder from; frustrate; depose
+  ἀποτρέπω (9): turn away from; deter; dissuade from; Supp
+  μεθίημι (39): set loose, let go; release; let; depart
+  ἀναιρέω (16): take up; having raised; take up and carry off, bear away; make away with, destroy
+  ἴσχω (36): keep back, restrain; keep; back; to keep
+  λήγω (18): stay, abate; would stay; from; leave off, cease
+  ἀποπέμπω (24): send off; away, dispatch, dismiss; dismiss; send away from oneself
+  ἰσχανάω (9): hold back, stay; hold back, wait; to be stayed; cling to
+  ὑπεκφεύγω (15): flee away; escape; escape from
+  ἀπολήγω (12): leave off, desist from; leave off; cease, desist; fall
+  προφεύγω (6): flee forwards, flee away; flee from, shun, avoid; avoid
+  ἐρύκω (59): keep in, curb, restrain; keep; back; kept
+  ἀπέρχομαι (5): go away, depart from; cease from; departure from; and arrival at
+  ἀπαμύνω (6): keep off, ward off; for; from; repulse
+  χραισμέω (19): ward off; from one; keep; off
+  ἐκφεύγω (17): flee out; away, escape; to be acquitted; escape out of
+  μίμνω (50): stay, stand fast; tarry; remain; remain, be left
+  ἀναρπάζω (8): snatch up; causing; to evaporate; snatch away, carry off
+  ἀφίημι (22): send forth, discharge; throw oneself; give oneself up; let loose
+  ὑπαλύσκω (6): flee from, escape; having got quit of
+  φεύγω (162): flee, take flight; ran; flee; the purpose
+  κατέχω (18): hold fast; hold back, withhold; check, restrain, bridle; put
+  λείπω (165): leave, quit; is gone; leave behind, leave at home; leave
+  αἴνυμαι (14): take; taking hold of; seizes; enjoy, feed on
+  ἀποφέρω (6): carry off; away; to be carried from oneʼs course; exhale, evaporate
+  ἐκφέρω (17): carry out of; carry out; cause death; carry away
+  τρέω (16): flee from fear, flee away; fleeing; fear; runaway, coward
+  λαμβάνω (131): take; receive; take hold of, grasp, seize; caught
+  ἀποπαύω (12): stop; hinder from, make to cease from; hinder; leave off, cease from
+  ἀποίχομαι (12): to be gone away, to be far from, keep aloof from; hast forsaken; to be gone, to have depar
+  ἐπιμένω (6): stay on, tarry; wait; remain in; remain in place, continue as they are
+  ἐπικεύθω (13): conceal, hide; will; hide; from
+  ἀλέομαι (36): avoid, shun; avoid; flee for oneʼs life
+  προλείπω (6): forsake, abandon; abandon; leave; omit to do
+  ἀπέχω (19): keep off or away from; parts; from; keep off
+  φέβομαι (12): to be put to flight, flee in terror; flee from; bègti
+  ἀποσεύω (5): chase away; run away, flee; haemorrhage
+  ἀμύνω (95): keep off, ward off; to be kept off; for; from whom
+  ἁρπάζω (15): snatch away, carry off; to be a robber; thievish; have
+  ἀνερείπομαι (5): snatch up and carry off; take upon oneself
+  ἀφαιρέω (20): take away from; took; from; relieve
+  ἀρκέω (10): ward off, keep off; would; keep off; defend
+  ὀχέω (8): hold fast; endure, suffer; bear; continue, keep doing
+  ὑπολείπω (7): leave remaining; leave; fail; fail, fall short
+  ἀποβαίνω (39): step off from; alight, disembark from; disembark; dismount
+  χωρέω (12): make room for another, give way, withdraw; gave way; put back, retire; begone!
+  ἐξελαύνω (17): drive out; drive afield; drive out, expel from; banish
+  αἱρέω (415): take with the hand, grasp, seize; to take; having taken up; take away
+  οἴχομαι (90): come; go, go away, go off; he has gone, departed; he had gone
+  ἐκβαίνω (9): step out of; off from; disembark, dismount; debouch from
+  κατακρύπτω (6): hide, conceal; put away; use concealment, conceal oneself; oneʼs true nature
+  καθαιρέω (7): take down; take; down; take down oneʼs
+  ἐρητύω (21): restrain, check; parts; to keep away from; prevent
+  ἀπολύω (8): loose from; from; undo; set free, release, relieve from
+  ὑπείκω (10): retire, withdraw, depart; from; retire from; for
+  ἀγρέω (6): take, seize; captures; take!; take it!
+  ἀλεείνω (26): avoid, shun; evaded; shrink
+  φοβέω (39): put to flight; terrify, alarm; to frighten; by terror
+  ἐξαιρέω (25): take out; take out for oneself; his; their
+  ἀλάομαι (27): wander, roam; to be outcast, banished; wander over; wander away from, miss
+  δειδίσσομαι (8): frighten, alarm; to scare; away; fear
+  ἀνίημι (36): send up; forth; spew up, vomit; make
+  λάζομαι (16): seize, grasp; take; may they bite; took
+  μάρπτω (16): take hold of; catch by; lay hold of, seize; overtake, catch
+  ἁλίσκομαι (18): to be taken, conquered, fall into an enemyʼs hand; to fall into the hands of; to be caught
+  ἀναείρω (6): lift up; took; carried; off
+  ἀναλύω (6): cause to wander, unsettle
+  σιγάω (6): keep silence; hush! be still!; secret, mystical; was kept
+  χάζω (35): cause to retire; force to retire from, bereave; deprive of; give way, draw
+  μένω (182): stay, wait; stand fast; stay at home, stay where one is; lodge, stay
+  ὑπερέχω (10): hold over; held; over; holding
+  ἀλύσκω (27): flee from, shun; escape; he escaped; wander restlessly
+  ἀλέξω (20): raákṣati; ward off, turn aside; will ward; off from
+  προέχω (9): hold before; hold before oneself; hold out before one; held
+  ἀναχωρέω (15): go back; walk backwards; retire, withdraw; they had retired
+  εἴκω2 (16): give way, retire; make way for; yield; shrink
+  ἐπέχω (14): have; hold upon; hold; for
+  ἀλητεύω (5): wander, roam
+  φόβος (39): panic flight; to flight; panic fear; fear, terror
+  δέος (24): fear, alarm; fear; fear of; to fear
+  ἐρεύγομαι (8): belch out, disgorge; belch; discharge itself; blurt out
+  σιγή (13): silence; in silence; be silent now!; in an undertone, in a whisper, secretly
+  δείδω (105): fear; to be alarmed, anxious; fear to do; fear, dread
+  λάθρῃ (14): secretly, by stealth; treacherously; imperceptibly; unknown to
+  σιωπή (28): silence; a hush; calm; the habit of silence
+  ἀλάλημαι (15): wander, roam about
+  φορέω (45): repeated; habitual; bear to and fro, bear along; conveyed
+  δηθύνω (5): tarry, delay; to be prolonged; to be slow
+  κινέω (22): set in motion; move; rock; remove
+  χανδάνω (10): take in, hold, contain; could; contain; could hold
+  ταρβέω (23): to be frightened, alarmed; feels fear; a state of fear; from fear
+  λύω (142): luo; re-luo, solvo; se-luo), solūtus; loosen
+  ἀλκτήρ (5): one who wards off, protector from
+  ἄλαλκε (13): ward, keep off
+  ἄνεω (8): without a sound, in silence
+  ὁμαδέω (5): make a noise; din
+  ἀμφαδόν (7): publicly, openly, without disguise; discovered, known
+
+cluster 4  |  96 lemmas  |  chariot, lord, guest, master
+  κοίρανος (8): king; ruler; leader, commander; lord, master
+  κοιρανέω (12): to be lord; master, rule, command; to be lord of; lead, arrange
+  ποιμήν (68): herdsman; shepherd; captain, chief; master, lord
+  ὄχος (61): carriage; chariot; bearers; anything which holds
+  ἐπιτάρροθος (8): helper, defender; master, lord
+  πομπή (26): conduct, escort; an escort; sending away, sending home; mission
+  κρείων (69): ruler, lord, master; queen
+  πομπός (12): conductor, escort, guide; attendants, guards; conductress; conveyor, carrier of
+  ἀρχός (28): leader, chief; ruler; dux Orientis; the rectum
+  σημάντωρ (5): one who gives a signal, leader, commander; driver; herdsman; subordinate officers
+  ἀμφίπολος (72): busied about, busy; handmaid, waiting-woman; handmaid of gods, priestess; attendant, follo
+  ἱππότης (37): driver; rider of horses, horseman, knight; horseback; the horse
+  ἐπίκουρος (33): helper, ally; allies; mercenary troops; guards
+  λαός (294): men; foot and horse; foot; a land army
+  ἄναξ (232): lord, master; sons; brothers of kings; lord
+  ἑταῖρος (434): comrade, companion; comrades-in-arms; messmate; fellowslave
+  βασιλεύς (104): king, chief; captain; judge; hereditary king
+  ὀπάων (6): comrade; esquire; follower, attendant; following
+  ἀνάσσω (66): to be lord, master; to be lord, hold sway in; to be lord of; to be master of
+  ἡνίοχος (30): one who holds the reins, driver, charioteer; chariot-driver; rider; the helmsman
+  δαίτη (17): feast, banquet
+  ἀγός (22): leader, chief
+  ὄρχαμος (26): leader, chief
+  θυγάτηρ (108): daughter; maidservant, slave; duhitár
+  πρυλέες (5): men-at-arms, soldiers; close, in masses
+  ἅρμα (68): chariot; war-chariot; racing-chariot; travelling-chariot
+  φύλαξ (8): watcher, guard, sentinel; garrison; guards; of reserve
+  ἰατήρ (6): surgeon; healer; deliverer
+  ἀμφιπολεύω (5): serve as an attendant, tend, care for; serve, have the care of; hold the; office of
+  πομπεύς (5): one who attends; escorts, conductor, guide; one who takes part in a procession
+  ἵππος (459): horse; mare; team of chariot-horses; the chariot
+  δαίς2 (15): meal, banquet; duly shared; banquet; sacrificial feast
+  ἱπποσύνη (6): the art of driving the war-chariot; driving, horsemanship; horse, cavalry
+  ἡγήτωρ (41): leader, commander, chief; chiefs in war
+  μέδων (25): a person who rules or commands
+  ἀσπιστής (11): one armed with a shield, warrior; shield
+  πρόμος (8): foremost man; opposed to; in the front rank; chief
+  οἰνοχόος (5): the attendant (usually an officer of a nobleman's household) whose duty is to fill and ser
+  πολεμιστής (15): warrior; war; charger; trapped as chargers
+  κρατέω (13): to be strong, powerful; rule, hold sway; sway; the ruler
+  ἀσπίς (96): shield; body of men-at-arms; deep; in file
+  δίφρος (89): chariot-board; two; chariot; travelling-car
+  ἀρωγός (6): aiding, succouring, propitious; beneficial; serviceable, useful towards; serviceable
+  δαίνυμι (57): give a banquet; feast; to give; thou shalt be
+  γυνή (262): woman; man; mistress, lady; the lasses
+  φάλαγξ (34): line of battle, battle-array; the ranks of an army in battle; heavy infantry; in battle-or
+  ξενίζω (12): receive; entertain as a guest; to present with; with
+  ἀμφιπένομαι (8): to be busied about, take charge of; tending; made; a meal of
+  ἀμύντωρ (7): defender, helper; repeller; avenger
+  ἐπάρχω (7): rule over; to be governor, commandant of; rule besides; pour the first drops
+  δαιτυμών (9): one that is entertained, guest; those who bring each his portion
+  δμώς (29): slave taken in war; slave
+  πεζός (32): on foot, walking; fighters on foot; on land, going by land; infantry
+  μαχητής (6): fighter, warrior; warrior
+  κυβερνήτης (9): steersman, pilot; skipper; guide, governor
+  ἔπαλξις (10): means of defence; battlements; line of battlements, parapet; crenellations
+  ἀπήνη (15): four-wheeled wagon; racing-car; car; chariot
+  ἀοσσητήρ (5): assistant, helper, aider
+  κομιδή (7): attendance, care; care bestowed on horses; care bestowed on men; care bestowed on
+  ὁμιλέω (24): to be in company with, consort with; consortest; joining in company; throng
+  βασίλεια (16): queen, princess
+  δειπνέω (11): make a meal; take the chief meal, dine; make; serve as dinner
+  ξένιος (21): belonging to friendship and hospitality, hospitable; protector of the rights of hospitalit
+  ὁδίτης (6): wayfarer, traveller
+  κῦδος (78): glory, renown; glory
+  δμωή (57): female slave taken in war; female slave, serving-woman
+  πρᾶξις (6): doing, transaction, business; on a trading voyage; affair; transaction
+  δέσποινα (10): mistress, lady of the house; mistress; princess, queen; Empress
+  ῥηξήνωρ (5): breaking armed ranks
+  ἱπποκορυστής (5): marshaller, arranger of chariots
+  θωρηκτής (5): armed with; cuirass
+  δαιμόνιος (22): belonging to a; miraculous, marvellous; good sir; lady
+  ξένος (207): guest-friend; guest; visitor; guests
+  ξένος2 (6): guest-friend; guest; visitor; guests
+  ἰατρός (5): one who heals, physician; surgeon; midwife
+  παρατίθημι (28): place beside; set before, serve up; the serving-men; meats set before one
+  ἤια (8): provisions for a journey; food; husks; chaff
+  κυδιάνειρα (9): bringing men glory; renown; glorified by men, famous for men
+  ταμία (22): housekeeper, housewife
+  βασιλεύω (11): to be king, rule, reign; was king; reigned as queen; to have become king
+  Μενέλαος (190): Abiding-men
+  ῥυμός (6): pole of a chariot; car; pole; three stars
+  οἰκεύς (7): inmate of oneʼs house; menial, servant; serf
+  ἱππεύς (26): one who fights from a chariot; the driver; the hero who fights; one who drives in a chario
+  συνάγω (9): bring together, gather together; crowd; bring together; hold a club dinner
+  πότνια (68): mistress, queen; queen; revered, august
+  μισθός (9): hire; wages; of our hired service; for hire
+  εἰλαπίνη (5): a ceremonial dinner party for many people
+  σάκος (79): shield; shield, defence; tvác
+  δορπέω (5): take supper
+  ῥινός (10): skin; hide; ox-hide; oxhide shield
+  ῥινόν (12): hide; shield
+  στιχάομαι (9): march in rows; ranks; marching; stand in rows
+  ῥυτήρ (5): one who draws; stretches; drawer; strap by which one holds a horse, rein
+  ξεινήιον (9): hostʼs gift; provision made for a guest; gifts of (guest-) friendship
+  στίξ (43): row, line, rank; file; in ranks; lines
+
+cluster 23  |  94 lemmas  |  rouse, stir, anger, fight
+  ὀτρύνω (135): stir up, egg on, encourage; rouse oneself, bestir oneself, hasten; urge on, cheer on; urge
+  ὀρίνω (48): stir, raise; stir, move, excite; driving; wild
+  κλόνος (7): confused motion, turmoil; battle-rout; throng; throngs
+  ἐφορμάω (17): stir up, rouse against; set; having urged; rush upon, attack
+  ἀμφιμάχομαι (8): fight round; assail, besiege; fight for
+  μάχομαι (241): fight; fight with; against; with thy help
+  ἐριδαίνω (8): wrangle, quarrel; strive; compete in
+  ἐπόρνυμι (11): stir up, arouse, excite; called up; rouse and send against; sent
+  ἐρίζω (27): strive, wrangle, quarrel; contend; sophistical disputations; discord
+  ἐποτρύνω (51): stir up, excite, urge on; to urge; stirs up; against
+  πόλεμος (279): war; battle, fight; single combat; War, Battle
+  ἔρις (54): strife, quarrel, contention; battle-strife; quarrel, strife; discord
+  ὑσμίνη (48): fight, battle, combat; of the fight; the fight; yúdh
+  ὁρμή (9): rapid motion forwards, onrush, onset, assault; attack, invasion; impulse; rage
+  ὀροθύνω (7): stir up, rouse, urge on; urge
+  δάιος (43): hostile, destructive; burning, consuming; enemies; fighting man
+  μαίνομαι (23): rage, be furious; rage with anger; the madman; to be mad
+  θρῴσκω (25): leap, spring; tossed; leap upon, assault; attack
+  χαλεπαίνω (18): to be severe, sore, grievous; to be violent, angry; display; portray anger
+  μόθος (5): battle-din; fight
+  προκαλέω (7): call forth; to be evoked; call out to fight, challenge; challenge
+  ἀναπάλλω (14): swing to and fro; dance; urged; agitate
+  χολόω (73): anger, provoke; to anger; to be angered; provoked to anger
+  ἀνέχω (65): hold up, lift up; held up; in fight; hold up
+  θύνω (13): rush, dart along; flitted; flits; raged
+  ἀνεγείρω (6): wake up, rouse; wake up, raise; rouse, encourage; stir, rouse the spirit of
+  νεῖκος (38): quarrel, strife, feud; quarrel; strife of words, railing, abuse; strife at law, dispute be
+  ἐρωή (11): quick motion, rush, force; throw; the force; swing
+  ἐρεθίζω (9): rouse to anger, rouse to fight; challenge to; provoke to curiosity; excite, chafe
+  ὁμοκλή (7): threat, reproof, rebuke; reproaches; threatening shouts; shouts
+  ὀρούω (20): dart, rush forward; move; rush at, strive after; to be eager
+  κλονέω (20): drive tumultuously; in confusion; harass, agitate; to be agitated
+  ἀντίβιος (9): opposing force to force; wrangling; hostile; enemy
+  πελεμίζω (11): shake, cause to quiver; tremble; struggle at; to be shaken, tremble, quake
+  μάρναμαι (56): fight, do battle; with, against; together with; on his side
+  θύω2 (14): rage, seethe; seething; seethed; storm, rage
+  τρομέω (9): tremble, quake, quiver; fear; quiver; tremble before
+  ὄρνυμι (239): ārta; orior; stir, stir up; urge on, incite
+  ἐγείρω (51): awaken, rouse; rouse, stir up; stir; wake up
+  ὅμαδος (13): noise, din; noisy throng; mob of warriors; din of battle
+  δηιοτής (30): battle-strife, the battle; mortal struggle, death
+  Ἐνυάλιος (9): the Warlike; temple of; battle; battle-cry
+  χόλος (57): gall, bile; gall, bitter anger, wrath; rage; anger towards
+  φύλοπις (22): battle-cry, din of battle
+  πύξ (8): with the fist; at boxing; by boxing; clenched
+  πέτομαι (51): fly; fell suddenly; dart, rush; fly!
+  τρόμος (15): trembling, quaking, quivering; shiverings
+  ὠθέω (43): thrust, push; he kept pushing; pushed; rush
+  σκύζομαι (7): to be angry with; to be wroth
+  δυσμενής (32): hostile; enemies; an enemy of
+  νεικέω (42): quarrel, wrangle with; quarrel; with; strove with him
+  ἀίσσω (61): shoot, dart, glance; darting upon; rapid flight; gliding about
+  χώομαι (46): to be angry; to be angry at; about; because of
+  ἐνόρνυμι (5): arouse, stir up in; arise in; among
+  ἐνιπή (6): rebuke, reproof; abuse, contumely; angry threats; reproach
+  ἐφάλλομαι (12): spring upon; attack; having leaped upon
+  μολπή (9): dance; rhythmic movement with song; song; the note
+  ῥιπή (7): swing; force with which anything is thrown; flight; the sweep
+  μυκάομαι (8): low, bellow; rang; bellowed
+  πολεμίζω (59): wage war, fight; with; jointly with; war
+  τινάσσω (15): shake; brandish; shook; upset
+  μάχη (134): an energetic attempt to achieve something: "getting through the crowd was a real struggle"
+  κυδοιμός (7): din of battle, uproar, hubbub; fights
+  ἀσπαίρω (12): pant, gasp, struggle; made a struggle, resisted
+  σείω (13): shake, move to and fro; shake the poised; shake; there was an earthquake
+  πετάννυμι (22): fly; spread out; opening his doors; flutter
+  ὀρχηθμός (5): dance
+  ἅλλομαι (28): sal; sal-io; spring, leap; leap upon
+  ἀπωθέω (22): thrust away, push back; pushed; off; thrust away from oneself
+  ἀπορούω (7): dart away; start back; spring up from
+  χορός (15): dance; chorus; choir, band of dancers and singers, h. Ven; choir, troop
+  Ἐνοσίχθων (40): Earth-shaker; earth-stirring
+  παίζω (5): play like a child, sport; dance; play; dance and sing
+  ὀρχηστύς (6): the dance
+  προκαλίζομαι (6): call forth, challenge, defy; challenge
+  εὔσκοπος (5): keen-sighted, watchful; far-seen; commanding a wide view; shooting well, of unerring aim
+  ἑκηβόλος (9): attaining his aim; far-shooting
+  ἕκτωρ (8): holding fast; hair-net; Hector, the prop; stay
+  νέμεσις (9): distribution of what is due; retribution; righteous anger; cause for anger
+  ἑκατηβόλος (7): far-darting; shooting a hundred; hitting the mark at will
+  μέλπω (5): celebrate with song and dance; sing; let; sound
+  ἀοιδή (24): song; art of song; act of singing, song; thing sung, song
+  διασεύομαι (6): dart through
+  ἐπορούω (25): spring at; sprang to; came suddenly upon; spring upon
+  ἕρμα (5): prop, support; props; prop; stay
+  ἀοιδός (38): singer, minstrel, bard; songstress; enchanter; tuneful, musical
+  στρατός (63): army, host; the commons, people; band; body
+  κίθαρις (5): the act of playing a musical instrument
+  ψάμαθος (20): (informal) fortitude; "he didn't have the guts to try it"
+  πόποι (51): make angry: "The news angered him"
+  Μοῦσα (16): Muse; music, song; strain; liberal arts, accomplishments
+  αὐλός (5): pipe, flute, clarionet; a trumpet; the flute; pipes
+  Ἐννοσίγαιος (24): Earth-shaker
+  πρῶτος (237): (music) highest in pitch or chief among parts or voices or instruments or orchestra sectio
+
+cluster 19  |  89 lemmas  |  desire, wish, love, want
+  καρδία (56): heart; feelings?; freely; kindly
+  ἔραμαι (7): love; desire passionately, lust after; desire eagerly
+  κάλλος (16): beauty; show; pleasure; a beauty
+  ἱμερόεις (10): exciting desire, lovely, charming
+  ἀγαπάζω (6): treat with affection, receive with outward signs of love; show signs of love, caress; welc
+  ἁνδάνω (27): please, delight, gratify; pleased; with; the opinion
+  ἡδύς (45): pleasant; rather; pleasures; merrily
+  ἤπιος (25): gentle, kind; appeased; kindly feeling; mild, less intense
+  φιλέω (82): love, regard with affection; sexual love; friends; to be beloved
+  Ἀφροδίτη (41): Aphrodite; sexual love, pleasure; vehement longing; desire
+  ἐνηής (5): kind, gentle; propitious
+  μενεαίνω (38): desire earnestly; eagerly; long for; purpose
+  τέρπω (98): delight, gladden, cheer; will give; pleasure; give delight
+  ἱμείρω (6): long for, desire; long; wish
+  ἔλδωρ (10): wish, longing, desire
+  ἔρος (26): love, desire; Eros
+  ἦτορ (94): heart; my heart; the seat of life, life; the seat of feeling, passion, desire
+  ἀπονίναμαι (7): have the use; enjoyment of; mayest; have joy of
+  λιλαίομαι (24): long; desire earnestly; long to be; longing
+  γλυκύς (42): sweet to the taste; smell; pleasant, delightful; sweet, fresh
+  λαρός (5): pleasant to the taste, dainty, sweet; sweet; pleasant to the smell; pleasant to the eye, l
+  χάρμα (8): source of joy, delight; source of malignant joy; joy, delight
+  τέρην (10): soft, delicate; tender; that causes tender feelings; tereno
+  ἵμερος (18): longing, yearning after; a yearning; for; impulses
+  ἔλδομαι (19): wish, long; long for; eager to reach; desire
+  καλός (309): beautiful; beauteous; fair, shapely; beauty
+  χάρμη (24): joy of battle, lust of battle; battle-joys; victories; successes
+  εὐφραίνω (8): cheer, gladden; make merry, enjoy oneself; was rejoiced at; enjoy a pleasure
+  χατίζω (7): have need of, crave; in want; in want, needy; lack, be without
+  ἄσμενος (5): well-pleased, glad; glad to; glad; gladly, readily
+  φιλότης (56): friendship, love, affection; in, with, from friendship; affection; in affection
+  φρήν (340): midriff; heart; very heart; sincere
+  θυμός (755): soul, spirit; the principle of life, feeling and thought; of strong feeling and passion; b
+  νήδυμος (12): sweet, delightful
+  κῆρ (80): heart; with all the heart, heartily; exceedingly; throughout
+  ἰότης (12): will, desire; by the will; will; for the sake of
+  εὐφροσύνη (5): mirth, merriment; good cheer, festivily; with glad thoughts; festivities
+  ἰαίνω (20): heat; melt; relax by warmth; warm, cheer
+  χαρίεις (20): graceful, beautiful; gracious; acceptable; elegant, accomplished
+  ποθή (12): longing, desire for; from longing after; want
+  ἦδος (5): delight, pleasure; delight; vinegar
+  ἀυτμή (14): breath; the fiery breath; heat; scent, fragrance
+  θυμαλγής (13): heart-grieving; inly grieving
+  ἐθέλω (293): to be willing; wish; wish to; wish that
+  ἀσπάσιος (21): welcome, gladly welcomed; well-pleased, glad; to his joy; gladly
+  ἀγανός (16): mild, gentle; bringing an easy death
+  φίλος (676): beloved, dear; dear; friend; friends, kith and kin
+  ἁπαλός (12): soft to the touch, tender; young; delicate; raw
+  ἐπήρατος (7): lovely, delightsome
+  μεγάθυμος (76): great-hearted
+  μειλίχιος (27): gentle, soothing; with gentle words; mild, gracious; of those who invoked him with propiti
+  ἐπαυρέω (12): partake of, share; enjoys; share; have had enjoyment of
+  χατέω (6): crave, need; want, have need of
+  μέμαα (115): an inclination to want things: "a man of many desires"
+  ταλασίφρων (13): patient of mind, stout-hearted
+  λιαρός (8): warm, lukewarm; warm, soft; gentle, balmy
+  θερμός (16): hot; feverish; hot-headed, hasty; still warm, fresh
+  μελίφρων (10): sweet to the mind, delicious; whose care is honey
+  θέρω (5): heat, make hot; become hot; warm; warm your self
+  κρατερόφρων (5): stout-hearted, dauntless
+  βούλομαι (37): will, wish, be willing; wish is will; willed; that supports
+  κηρόθι (9): with all the heart, heartily
+  μεγαλήτωρ (66): greathearted
+  γηθόσυνος (7): joyful, glad
+  χάρις (24): grace; outward grace; fauour, beauty; graces
+  ἐντός (21): within, inside; senses, under; control; hearts
+  χρεώ (26): want, need; need; necessity; need of
+  Κύπρις (5): Cypris; Aphrodite; a Venus; love, passion
+  ἐπιδευής (9): in need; want of, lacking; lacking; in want
+  καλλίσφυρος (5): beautifulankled
+  δέω2 (14): lack, miss, stand in need of; want; from; lacking
+  μελιηδής (22): honey-sweet
+  κράτιστος (11): having or showing or arising from a desire to promote the welfare or happiness of others: 
+  καλλιπάρηος (16): beautiful-cheeked
+  πραπίδες (11): midriff, diaphragm; understanding, mind; heart
+  ὀσμή (6): smell, odour; foul smells; fragrant odours; scent, perfume
+  θυμοβόρος (5): eating the heart
+  ἐγκέφαλος (10): within the head; brain; the heart; cabbage
+  ἀσπαστός (7): welcome; to be welcomed
+  κάλλιμος (6): beautiful
+  πού (161): with certainty: "it's undoubtedly very beautiful"
+  Σειρήν (8): Siren; Sirens; Siren, deceitful woman; the Siren charm
+  χρῆμα (14): need; a thing that one needs; uses; goods, property
+  περικαλλής (54): very beautiful
+  γλυκερός (5): pleasing to the senses: "the sweet song of the lark"; "the sweet face of a child"
+  ἐφανδάνω (9): please, be grateful to
+  μέλι (7): honey; sweet gum; manna; milip
+  ἐρατεινός (22): lovely; welcome, glad
+  χρή (54): sum; it is necessary; it must needs, one must; ought
+
+cluster 6  |  83 lemmas  |  chamber, house, ground, inner
+  οἶκος (153): house; built houses; any dwelling-place; cave
+  ἕρκος (35): fence, enclosure; the place enclosed, court-yard; enclosure; wall for defence
+  τέγος (7): roof; roof!; covered hall; chamber
+  βόθρος (7): hole, trench; pit dug in the ground; trough; hollow
+  σταθμός (41): standing-place; farmstead, steading; stable; lair
+  σηκός (6): pen, fold; den; nests; sacred enclosure, precinct
+  σκοπιά (13): lookout-place; hill-top; watch-tower; peak, height
+  πρόθυρον (24): front-door, door-way; porch, portico; space before a door; porch
+  μέλαθρον (8): roof-tree, ridgepole; beam; roof; house
+  ἀγρός (29): field; fields, lands; farm; tilled land
+  εἶλαρ (5): covering, shelter, defence; shelter for; fence against
+  πυθμήν (5): bottom; base, foundation; foot; bottom, depth
+  βαθύς (38): deep; high; within a high fence; the deep
+  τοῖχος (18): wall of a house; enclosure; wall of a temple; walls
+  τεῖχος (114): wall; city-wall; embankment; earthworks
+  δάπεδον (10): level surface; floor of a chamber; ground, soil; ground
+  χαμαί (24): on the ground; underground; earth; to earth
+  κλισία (119): place for lying down; reclining; hut, shed, booth; cot, cabin
+  οἰκίον (22): house, palace; abode; palaces; private houses
+  ἄρουρα (44): tilled; arable land; corn-lands, fields; earth, ground
+  τάφρος (38): ditch, trench; trench; trenches; irrigation-ditch
+  σκέπας (5): covering, shelter; shelter; pretext, pretence
+  πύργος (44): tower; city walls; ramparts with their towers; movable tower
+  ἄντρον (12): cave; inner chamber, closet
+  πέτρα (60): rock; cliffs, ledges; rocks; rocky peak
+  σκόπελος (9): lookoutplace; peak, headland, promontory; watch-tower
+  φράσσω (5): fence in, hedge round; secure, fortify; having fenced; fenced
+  θίς (37): heap; sand-banks; sandy deserts; beach, shore
+  δῶμα (271): house; chief room, hall; a single house; housetop
+  δόμος (144): domus; house; part of a house, room, chamber; a house
+  γέφυρα (7): dyke, dam; open space; limits; causeway
+  αὐλή (45): open court; courtyard; steading; court
+  ἄκρις (6): hill-top, mountain peak; mountain tops; hill-country
+  ἄγραυλος (9): dwelling in the field; a boor; rustic
+  ἀκτή (23): headland, foreland, promontory; rugged banks; strand; tract of land running out into the s
+  ὑψερεφής (13): high-roofed, high-vaulted
+  μέσαυλος (5): the inner court, inside the; the door between the; and the inner part of the house; mesaul
+  σπέος (41): cavern, grotto
+  ὄχθη (16): any height; rising ground; bank, dyke; raised banks of a river
+  ὑψόροφος (9): high-roofed, high-ceiled
+  βένθος (11): depth
+  νειός (7): fallow-land; fallow; rejuvenate; ploughing and sowing
+  μέγαρον (299): large room, hall; the chief room; womenʼs apartment; bedchamber
+  οὐδός (46): threshold; threshold of a house; threshold, entrance; lintel
+  αἴθουσα (19): portico, verandah, to catch the sun; loggia
+  χαμᾶζε (29): to the ground, on the ground; to the ground
+  χέρσος (16): dry land; by land; barren soils; dry, firm
+  ὀρύσσω (6): dig; trench; dig up; had
+  λαῖτμα (9): depth; gulf
+  ἄλσος (9): grove; sacred grove; any hallowed precinct; plain
+  ἠιών (12): shore, beach; banks; lower part of the face
+  ἄκρον (7): highest; farthest point; mountain top, peak; heights
+  χαμάδις (14): to the ground, on the ground
+  ῥίον (6): any jutting part; peak; headland; bay formed by a foreland
+  δόρυ (272): stem, tree; plank; beam; mast
+  χθών (78): earth; the surface of it; soil; the earth
+  πεδίον (114): plain; a fertile plain; Campus; the plain of Attica
+  ἄγκος (5): bend, hollow; mountain glen; áñcati; ancus, uncus
+  γουνός (6): high ground
+  κεύθω (17): custos; hýdan; cover, hide; covered
+  ἄγριος (32): living in the fields, wild, savage; wild; living in a wild state; wild, uncultivated
+  κραναός (6): rocky, rugged; the people of Attica; hard; stinging
+  οὖδας (28): surface of the earth, ground; surface; the dust; on the ground
+  οἶκόνδε (20): home; to the womenʼs chamber
+  πυκάζω (12): cover closely; protection; surround; so as to protect
+  κρημνός (6): overhanging bank; bank; edge; beetling cliff, crag
+  θύρα (71): door; double; folding doors; valve
+  ἄκρα (9): highest; farthest point; headland, cape; hill-top, height
+  προβλής (6): thrown forward, jutting out; forelands, headlands
+  ὑπερῷον (21): the upper part of the house; from her chamber; upper chamber; story
+  τέμενος (13): a piece of land cut off and assigned as an official domain; a piece of land marked off fro
+  περικτίονες (6): dwellers around, neighbours
+  ὀρυκτός (7): dug, formed by digging; dug out, quarried; taken by digging
+  ὄρος (93): mountain, hill; canton, parish; desert
+  πολυβενθής (5): very deep
+  πῶμα (6): lid, cover; that closed; operculum
+  βῆσσα (12): wooded combe, glen; glens; drinkingcup
+  πύλη (63): one wing of a pair of double gates; gates of a town; gates; the gates
+  ἀγρότερος (8): wild; countrymen; fond of the chase, huntress; the huntress
+  πετρήεις (5): rocky; haunting rocks
+  καλύπτω (86): oc-culo, celo; cover; to kill; covered, grasped
+  θάλαμος (67): an inner room; chamber, surrounded by other buildings; womenʼs apartment, inner part of th
+  πρόδομος (8): chamber entered immediately from the fore-court
+
+cluster 14  |  72 lemmas  |  wind, sea, stream, water
+  ῥοή (16): river, stream; the juice; stream; streams of events, tide of affairs
+  ἄνεμος (105): wind; a gale; the wind; to the winds
+  πλέω (28): sail, go by sea; sail; be at sea; swim, float
+  οὖρος (24): fair wind; rough breeze; storm; the wind
+  ποταμός (113): river, stream; rivers; rivers of fire; lava
+  ἅλιος (22): of the sea; sea
+  πόντος (133): sea; open sea; wide waters; the sea
+  σχεδία (14): raft, float; rafts; boat, ship; bridge of boats
+  ῥεῖθρον (23): that which flows, a river, stream; the streams, waters; streams; rivulets, brooks
+  ῥόος (27): stream, flow of water, current; their own bed; stream; current
+  ὄμβρος (15): storm of rain, thunder-storm; heavy rain; rains; water
+  ὕδωρ (102): water; the waters; spring-water, drinking-water; a water
+  πέλαγος (7): the sea; high sea, open sea; sea; flooded plain
+  ἄελλα (14): stormy wind, whirlwind; whirling motion
+  ἠνεμόεις (13): windy, airy; rapid, rushing; high-soaring, airy; stirred, waved by the wind
+  πηγή (6): running water; streams; water; fount, source
+  ἀνεμώλιος (6): windy; words of wind; like the winds; empty boasters
+  ποντοπόρος (6): seafaring
+  ἀμφίαλος (5): of two seas; living amid seas
+  γαλήνη (5): stillness of the sea, calm; calm sea; stillness; calmness, serenity
+  Βορέας (25): north wind; Boreas; the north; to the north
+  δεύω (17): wet, drench; to be flooded; steeped; wets his
+  Εὖρος (6): the East wind; parching
+  Ὠκεανός (33): Oceanus; great River; the great Outward Sea; oceans
+  ἀναδύνω (7): come to the top of the water; emerge
+  θάλασσα (118): sea; salt lake; maritime affairs; a sea
+  κρήνη (18): well, spring, fountain; water
+  χειμέριος (5): wintry, stormy; wintry; stormy; most wintry
+  τολυπεύω (7): wind off; into a clew; wind off, achieve, accomplish; work
+  στεῖνος (5): narrow, close; confined space; straits, distress; by suffering, Eu
+  πνοή (22): blowing, blast; blast, breeze; breeze; blasts
+  ναῦς (995): ship; the ships; ships; naús
+  ποδήνεμος (10): wind-swift
+  ῥέω (49): flow, run, stream, gush; runs with; a full stream; derive its stream
+  ἐπιπλέω (9): sail upon; over; sail against, attack by sea; sail on
+  Ζέφυρος (20): westerly wind; the due West wind; northwest
+  θύελλα (20): hurricane, squall; thunderstorms
+  λαῖλαψ (14): furious storm, hurricane; whirlwind sweeping upwards
+  πληγή (9): blow, stroke; blow; stroke by lightning; strokes
+  ἀποπλέω (5): sail away, sail off
+  νήχω (9): swim
+  πόσις2 (27): drinking, drink, beverage; carousal; over their cups; draught
+  ῥηγμίν (15): Wiener Sitzb; sea breaking on the beach, surf; broken sea; at the seaʼs edge
+  δίνη (7): whirlpool, eddy; rotating heaven; whirlwind; circular motion, rotation
+  ποτός (11): drunk, for drinking; that which one drinks, drink; drink; drinking water
+  πόρος (5): means of passing a river, ford, ferry; the ford; narrow part of the sea, strait; passage-w
+  Ναιάς (6): Naiad, river-nymph, spring-nymph
+  πίνω (89): drink; drink of; whereof; to drink
+  ποντόπορος (13): relating to or characteristic of or occurring on the sea or ships: "sea stories"; "sea sme
+  ἄκρατος (5): unmixed, neat; of pure wine; strong; without water
+  πρόχοος (8): vessel for pouring out, jug; ewer for pouring water upon the hands; wine-jug
+  μέθυ (17): wine; mádhu; medu; medǔ
+  ναύτης (12): seaman, sailor; by sea; passenger by sea; mates
+  πολυπῖδαξ (8): with many springs, many-fountained
+  στείνω (5): make strait, straiten, confine, crowd; to become strait, be narrowed; to be straitened for
+  νῆσος (73): island; the islands; land flooded; alluvial land
+  αἰγίς (12): goatskin; aegis; cuirass; rushing storm, hurricane
+  τρόπις (7): shipʼs keel; ship; keels
+  οἶνοψ (18): wine-coloured; wine-dark; wine-red, deep-red
+  λίμνη (11): pool of standing water; marshy lake, mere; artificial pool; basin
+  Χάρυβδις (9): Charybdis; whirlpool, gulf
+  βροντάω (6): thunder; Jupiter Tonans; it thunders; if it thunders
+  νέκταρ (7): nectar; wine; perfumed unguent
+  ποτής (10): drink
+  λιμήν (34): harbour; havens of refuge from; haven, retreat, refuge; a haven of
+  ὁρμίζω (5): bring to a safe anchorage, bring into harbour, moor, anchor; moored; bring; safe
+  δινήεις (13): whirling, eddying; rounded
+  σπένδω (34): make a drink-offering; let; dedicate; by pouring an offering from
+  κρατήρ (41): mixing vessel; bowl, in which wine was mixed with water; bowls of wine; a bowl of wine
+  οἶνος (129): wine; cups; wines; in vino veritas
+  ἐλελίζω (15): whirl round; move in coils; spires; cause
+  βαθυδίνης (6): deep-eddying
+
+cluster 2  |  71 lemmas  |  old, mother, son, wife
+  κασίγνητος (47): brother; born from the same mother; sister; sisters
+  τέκνον (77): child; my son, my child; young
+  ἀδελφός (20): son of the same mother; brother; brother and sister; kinsman
+  γενεά (49): race, family; by birth; blood; younger
+  νύμφη (41): young wife, bride; marriageable maiden; daughter-in-law; young girl
+  παῖς (296): child; son; daughter; adopted son
+  κόρος2 (25): boy, lad; male infant; servants; son
+  νόθος (11): bastard, baseborn; child of a citizen father and an alien mother; temple-attendants; cross
+  τοκεύς (38): one who begets, father; begetter; parents
+  ἔκγονος (5): born of, sprung from; child; son; daughter
+  γαμβρός (16): connexion by marriage; son-in-law; brother-in-law; sisterʼs husband
+  μαῖα (12): good mother; foster-mother; mother; midwife
+  γραῦς (23): old woman; old wives; an old man; scum
+  πάτρα (7): fatherland, native land; fatherhood, descent from a common father; hereditary descent; bod
+  ἄττα (8): father
+  φυτεύω (12): of the thing planted, plant; plant for oneself; beget, engender; father
+  πρέσβυς (8): old man; the elder; elders; elder
+  νήπιος (71): infant, child; a child; infancy; infant
+  γόνος (16): that which is begotten, child; offspring; son; roe
+  Εἰλείθυια (5): she that comes; Ilithyia; parturition; offspring
+  τίκτω (127): bring into the world, engender; beget; bring forth; parents
+  ἥβη (18): youthful prime, youth; manhood; strength and vigour of youth; the time before manhood
+  γηράσκω (10): grow old; to be so; grew old; bring to old age
+  ἔτης (9): clansmen; kinsmen and dependents of a great house; citizen; a private citizen
+  κόρη (111): girl; maiden; nymphs; bride
+  γενέθλη (5): race, stock, family; race; by birth; origin
+  πατήρ (360): pitṛṣu; father; grandfather; by the fatherʼs side
+  τηλύγετος (8): a darling son, petted child; only; of oneʼs old age; the only
+  μήτηρ (207): mother; dam; mother-bird; queen
+  πατρίς (129): of oneʼs fathers; oneʼs fatherland, country; of oneʼs sires; the nether world
+  ὁπλότερος (7): the younger; younger; youngest; capable of bearing arms
+  παρθένος (7): maiden, girl; girls; virgin; the Virgin Goddess
+  ὁμῆλιξ (5): of the same age; equal in age, comrade; of like stature
+  δάμαρ (5): wife, spouse
+  ὕστερον (6): the afterbirth
+  ὀπυίω (12): marry, take to wife; marry; wedded; to be married
+  γεραιός (34): old; reverend sire; the elders, senators; eldest
+  κουρίδιος (18): wedded; lawful, wedded wife; wedded wife; lawful marriage
+  νέος (106): young, youthful; youths; youth upwards; youth
+  γαμέω (30): marry; take to wife; marry a wife; take for a paramour
+  γέρων (217): old man; Elders, Chiefs; Senators; old
+  προγενής (9): born before, primeval; earlier in birth; older; those who have gone before us, our predece
+  ἀλλοδαπός (12): aliud; long-inquus) belonging to another people; land, foreign; in foreign parts
+  ἧπαρ (9): liver; pregnant; fruitful land; yēqṷṛt
+  παλαιός (18): old in years; aged; a dotard; of old date, ancient
+  γένος (35): race, stock, kin; by race; race; of kin
+  τέκος (57): the young
+  γάμος (35): wedding; a wedding; marriage, wedlock; marriage
+  ἠίθεος (9): unmarried youth; unmated; ghosts of those who die unmarried
+  νεώτερος (7): younger; too young; a minor; men of military age
+  ζείδωρος (12): zea-giving; life-giving; mamma
+  χήρα (5): widow; widowed; without sauce; widower
+  παράκοιτις (17): wife
+  ὁμηλικία (10): sameness of age; those of the same age; of the same age with
+  υἱός (613): Vasen mit Meister-signaturen; pitṛṣu; son; a son
+  πάλαι (18): long ago; once upon a time; long; of old
+  τηλίκος (5): of such an age, so old; so young; so great
+  ἀεί (237): ever, always; until now; from of old; eternity
+  γάλοως (5): husbandʼs sister; brotherʼs wife, sister-in-law; glōs
+  κασιγνήτη (10): sister
+  φύω (35): bring forth, produce, put forth; made; grow; beget, engender
+  σπλάγχνον (9): inward parts; sacrificial feast; any part of the inwards; womb
+  δήν (40): for a long while; long-lived; long ago; dudum
+  αὐτοκασίγνητος (6): own brother
+  τόκος (5): childbirth, parturition; the time of parturition; period of gestation; foetal stage
+  ἀνεψιός (5): first cousin; cousin; nepos
+  ἕδνον (14): bride-price; wedding-gifts; portion; by those of her own household
+  πρέσβα (6): august, honoured; aged
+  οἰκέω (7): inhabit; have, enjoy; to be inhabited; the inhabited country
+  μινύθω (9): be born, used chiefly of lambs: "The lambs fell in the afternoon"
+  Κρόνος (23): Cronos; Saturn; Saturday; a dotard, old fool
+
+cluster 3  |  61 lemmas  |  divine, honour, zeus, wonder
+  σέβας (6): reverential awe; awe; wonder; reverence, worship, honour
+  ἀμβρόσιος (25): immortal, divine; belonging to gods; divine; divinely excellent
+  ἱερός (78): filled with; manifesting divine power, supernatural; great; holy
+  τιμή (37): worship, esteem, honour; honours; due regard; paid to them by
+  ἄγαλμα (8): glory, delight, honour; mere ornaments; pleasing gift; statue in honour of a god
+  ἄμβροτος (20): immortal, divine; belonging to the gods; five
+  δαίμων (60): god, goddess; the Divine power; the Deity; chance
+  ζάθεος (7): very divine, sacred
+  κυδαίνω (8): give; do honour to; glorified; delight
+  τιμάω (29): honour, revere, reverence; bestow honours; reward; will honour
+  θαυμάζω (24): wonder, marvel; marvel at; wonder; honour, admire, worship
+  θεῖος (71): from the gods, divine; divine; appointed of God; given by God
+  διογενής (44): sprung from Zeus; ordained and upheld by Zeus; divine
+  θέσφατος (10): spoken by God, decreed; ordained; divine decrees, oracles; wonderful, mighty
+  ἱερεύς (9): priest, sacrificer, diviner; pontifex; pont. maximus; a minister
+  αἰδώς (25): reverence, awe, respect; shame, self-respect; sense of honour; shame
+  ἀγάλλω (7): glorify, exalt; pay honour to; adorn; glory, exult in
+  ἰσόθεος (14): equal to the gods, godlike
+  τιμήεις (9): honoured, esteemed; prized, costly
+  θεός (767): God, the Deity; against his will; bless you! good heavens! for heavenʼs sake!; weather
+  ἥρως (114): hero; the Fourth Age of men; heroes, as objects of worship; local deities
+  μαντεύομαι (14): divine, prophesy; draw divinations from; by means of; presage, forebode, surmise
+  θεσπέσιος (36): divinely sounding, divinely sweet; divinely uttered; decreed; oracular
+  θεσπιδαής (8): kindled by a god; portentous
+  μεδέων (5): guardian, ruler; ruling; ruler; guardian goddess
+  Οὐρανίωνες (11): the heavenly ones, gods; children of Uranos
+  αἰδοῖος (46): having a claim to regard, reverence; compassion; bashful, shamefaced; showing reverence
+  ἁγνός (5): pure, chaste, holy; hallowed; holy; lawful
+  θεά (199): goddess
+  μάντις (17): diviner, seer, prophet; prophet; presager, foreboder; prophetic
+  ἀντίθεος (61): equal to the gods, godlike; contrary to God; hostile deity; disguised as a god
+  γέρας (42): gift of honour; the last honours; privilege, prerogative; gift, present
+  κίων (12): pillar; pillars; the Pillars; columnar gravestone
+  προτιόσσομαι (5): look at; upon; forebode; I divine
+  αἰνέω (10): tell, speak of; reports of; praise, approve; glorify
+  Διιπετής (5): fallen from Zeus; from heaven; fed; swollen by rain
+  Κρονίων (73): son of Cronos; Zeus
+  αἰειγενέτης (7): any supernatural being worshipped as controlling some part of the world or some aspect of 
+  Σαρπηδών (41): Sarpedon; his shrine
+  διοτρεφής (33): fostered, cherished by Zeus; fed by rain
+  τίω (56): Erster Bericht; honour, revere; honour; honoured
+  δῶρον (126): gift, present, gift of honour; votive gift; offering; the gifts of
+  Παλλάς (53): Pallas; coin bearing the head of Pallas; maiden-priestess; five
+  Κρονίδης (44): son of Cronos; Zeus; an aged man
+  ἄγαμαι (27): wonder; admire; for; wonder at
+  κειμήλιον (18): anything stored up as valuable, treasure, heirloom; relic
+  Ἑρμῆς (36): Hermes; pillar surmounted by bust; Dritter Bericht; Mercury
+  κύδιστος (20): most honoured, noblest; greatest; profits it
+  θεοπροπία (7): prophecy, oracle
+  χράω2 (18): proclaim; proclaimed; warn; direct by oracle
+  ναός (14): temple; inmost part of a temple, shrine; portable shrine
+  βασίλειος (7): royal; the kingʼs; of the archon; basilica
+  βωμός (20): raised platform, stand; base; altar with a base; tomb, cairn
+  κτῆμα (61): anything gotten, piece of property, possession; possessions; heirlooms; property
+  ἠγάθεος (11): most holy
+  πρύμνα (12): stern, poop; retire, draw back; the Acropolis; the vessel
+  χηλός (9): large chest, coffer; coffin
+  θαῦμα (18): wonder, marvel; a wonder; strange; wonder
+  Πρωτεσίλαος (6): First of the people; first; his monument; his festival
+  πόλις (225): city; the citadel; the city of; oneʼs city
+  τύμβος (19): sepulchral mound, cairn, barrow; tomb, grave; grave; tombstone
+
+cluster 15  |  56 lemmas  |  near, nigh, far, hand
+  ὑπέκ (8): out from under, from beneath, away from
+  ὕπαιθα (6): out under, under and away; before; under
+  ἔνερθε (11): from beneath, up from below; beneath, below; below; from below
+  καθύπερθε (21): from above, down from above; atop, above; atop; above
+  τηλόθι (14): afar, at a distance
+  ἑκάς (21): afar, far off; far from, far away from; farther; farthest
+  τῆλε (28): at a distance, far off; to a distance, afar; far from
+  ὑψόθεν (8): from on high, from above; aloft, on high; above, over
+  ἐγγύς (45): near, nigh, at hand; hard by, near to; nearer to; nigh at hand
+  ὕπερθεν (29): from above; above; above, in the upper parts; from heaven above
+  ἐφύπερθε (9): above, atop; from above; above
+  ἆσσον (27): nearer
+  ἀγχίμολος (15): coming near; near, close at hand; close
+  ἄνευθε (24): without; away from; far away, distant; far away
+  αὐτοσχεδόν (9): near at hand, hand to hand; near, close to; on the spot, at once
+  ἄγχιστος (6): nearest; ever nigh; most nearly; next to
+  προπάροιθε (49): before, in front of; before; feet; along
+  ἀπάνευθε (46): afar off, far away; far from, aloof from; without; knowledge
+  πρόσθεν (89): before; outside; in front of; head
+  ὑπέρτερος (7): over; above, upper; from the outer parts of a victim, outside; higher
+  ἄκρος (49): at the farthest point; end; topmost, outermost; inmost
+  ἐκτός (20): without, outside; out of, far from; beyond; outside of, free from
+  σχεδόν (70): near, hard by; at close quarters; similar to; near
+  τηλόθεν (16): from after; far from
+  τηλεδαπός (8): from a far country; far off, distant
+  μετόπισθε (28): behind, in the rear; behind; in the second rank; after, afterwards
+  πλησίος (26): near, close to; near, neighbouring; neighbour; near, hard by
+  ἀπονόσφι (8): far apart, aloof; far away from
+  ὕψι (9): on high, aloft; high on; out at sea
+  ἔσχατος (6): farthest, uttermost, extreme; hindmost; at the end of the lines; farthest part of
+  σχεδόθεν (8): from nigh at hand; nigh at hand, near
+  ὑπένερθε (11): underneath; under the earth, in the nether world; under, beneath
+  φίλτατος (27): oneʼs nearest and dearest
+  ἐγχρίμπτω (7): bring near to; strike; dash against; so as almost to touch
+  πρότερος (124): before, in front; fore; in front; former, earlier
+  ὑποτίθημι (10): place under; puts; under; putting
+  ἄνευ (8): without; without reference to; away from, far from; except, besides
+  ὕπατος (12): highest, uppermost; above; the very top; lowest
+  καταλείπω (29): leave behind; leave behind one; to be left, remain behind; left behind
+  πάροιθε (26): before; in the presence of; before, in front; formerly
+  ὑπέχω (5): hold under; put; under; holding out
+  ὑπολύω (6): loosen beneath; below; made; give way under him
+  πρυμνός (27): hindmost, undermost, end-most; the end of; the end; next the body
+  ὄπισθεν (62): behind, at the back; back; those who are left behind; those who are in the rear
+  τηλοῦ (10): afar, far away, in a far country; in a far-away corner; long ago, of old; olden times
+  ἐγγύθι (11): hard by, near; nigh at hand
+  ἄλλοθεν (21): from another place; from one place; from another; from abroad
+  ἀγχοῦ (28): near
+  ὑφίστημι (19): place; set under; having set; under
+  ἄγχι (61): near; like
+  ἄπειμι (20): sum; to be away; far from; absent
+  νέατος (15): uttermost, lowest; the lowest part of; extreme, outermost; lowest
+  ὑπομένω (9): stay behind; remain alive; to be left behind, remain; to be permanent
+  πύματος (17): hindmost, last; outmost; the root of; nethermost
+  ὑψόσε (23): aloft, on high; high
+  ἐγγύθεν (42): from nigh at hand; approach; hard by
+
+cluster 24  |  50 lemmas  |  shout, lament, wail, loud
+  ἰάχω (37): cry, shout; shriek; ring, resound; roar
+  ἰωή (5): any loud sound: shout; cry; sound; the roaring blast
+  ἰαχή (10): cry, shout; wail, shriek; a joyous sound; shouts of joy
+  ἀυτή (29): cry, shout; battle-shout, war-cry; blast; creaking
+  κλαγγή (8): any sharp sound; twang; scream; confused cries of a throng
+  βραχεῖν (9): rattle, clash, ring; roar; creak; shriek
+  βοή (67): loud cry, shout; battle-cry; of war; cry
+  βοάω (27): cry aloud, shout; men ready to shout; roar, howl; resound, echo
+  βρυχάομαι (5): roar, bellow; death-cry; wail; the roaring of waves
+  ἐνοπή (8): crying, shouting; war-cry, battle-shout; battle; cry
+  κλαίω (82): cry, wail, lament; crying; crying, howling; well beaten
+  ὀρυμαγδός (16): loud noise, din; the sound; rattling; roar
+  μηκάομαι (7): bleat; scream, shriek; shrieking
+  ἀλαλητός (8): shout of victory; war-cry, battle-shout; loud shouting; halloo
+  στονόεις (11): causing groans; sighs; full of moaning; moaning
+  στένω (6): moan, sigh, groan; groaning aloud; moan; sigh for
+  τρίζω (6): utter a shrill cry; creaked; crepitates; grinds
+  στενάχω (41): groan, sigh, wail; groaning; bewail, lament
+  βομβέω (5): make a booming noise; fell with a loud noise; flew humming; roar
+  κωκύω (11): shriek, wail; lament; shriek over; káuti
+  ὀλοφύρομαι (38): lament, wail, moan; lament; mourn for the ills of others; feel pity
+  οἰμωγή (6): wailing, lamentation
+  ἁδινός (10): close, thick; crowded, thronging; vehement, loud; loud-voiced
+  πολύφλοισβος (8): loud-roaring; confused
+  ἐρίγδουπος (11): loud-sounding, thundering
+  κλάζω (17): make a sharp piercing sound; scream; bark, bay; clash, rattle
+  αὔω2 (47): cry out, shout, call aloud; utter; call upon; ring
+  οἰμώζω (23): wail aloud, lament; plague take you !; pity, bewail; bewailed
+  γέγωνα (18): shout so as to make oneself heard; can make himself heard; make oneʼs voice carry; cry out
+  ὀδύρομαι (56): lament, bewail; mourned for; mourn for, for the sake of; wail
+  στεναχίζω (13): groan, sigh, wail; bewail, lament
+  στοναχή (13): groaning, wailing; groans, sighs
+  τόσος (124): so great, so vast; so long; so many; so loud
+  γοάω (25): groan, weep; bewail
+  εὐρύοπα (22): wide-eyed; vox; far-sounding; thundering
+  κτυπέω (8): crash; ring, resound; rang; stamp loudly
+  γελάω (25): laugh; laughed; a laugh being raised; laughs scornfully
+  ἐπιάχω (5): shout out, shout applause; shout
+  δουπέω (24): sound heavy; dead; the heavy thud of a corpse; falls with heavy sound
+  κοναβέω (5): resound, clash, ring; re-echo
+  στόνος (7): sighing; groaning
+  δοῦπος (13): any dead, heavy sound, thud; din; sound; the measured tread
+  ἐρίδουπος (10): resounding
+  ὑψιβρεμέτης (6): high-thundering
+  τερπικέραυνος (15): delighting in thunder
+  φιλομμειδής (6): laughter-loving
+  μειδάω (15): smile; laugh aloud; grinning; smáyati
+  γέλως (8): laughter; ridiculous; joke; laugh
+  λάσκω (5): ring, rattle, crash; ring; cracked, broke with a crash; crackled
+  ἀράσσω (9): smite, dash in pieces; rattling, clanging; knock at; open with a crash
+
+cluster 25  |  45 lemmas  |  speak, speech, voice, address
+  αὐδάω (98): utter sounds, speak; utter; speak, say; twas said
+  φθόγγος (6): any clear, distinct sound; voice; voice, telling; speech
+  εἴρω2 (5): say, speak, tell; is said; ask
+  προσαυδάω (179): speak to, address, accost; speak; to one; speak of
+  φθέγγομαι (17): utter a sound; voice; speak loud and clear; utter a syllable
+  βάζω (18): speak, say; address; has been spoken
+  ὀνομαίνω (13): name; call by name; name, recount; utter, speak
+  φωνέω (163): produce a sound; tone; speak loud; clearly
+  αὐδή (21): human voice, speech; sound; twang; report, account
+  ὀνομάζω (51): speak of by name, call; address by name; naming; name, specify
+  ὄψ (26): voice; word
+  μυθέομαι (60): speak; converse; say that; order
+  ἐξερέω (15): will speak; out, tell out, utter aloud
+  ὄσσα (29): a rumour; voice; sound; din
+  προσφωνέω (40): call; speak to, address; address; call by name
+  αὐδήεις (7): speaking with human voice; using human speech; vocal; rumour
+  γλῶσσα (12): tongue; larynx; of talking; frankness of speech
+  προσεῖπον (189): speak to; address, accost; address; addressed
+  ἠχή (11): sound, noise; cry; wail; rumour, talk
+  ἐπακούω (12): hear; wilt; be answered; overhear
+  φῆμις (7): speech, talk; place of talk; common opinion; judgement expressed in talk
+  φωνή (25): sound, tone; the sound of the voice; speech, voice, utterance; cry
+  ἐρῶ (100): verbum; word; will say; speak
+  μεταυδάω (25): speak among; address; accost, address
+  ἀκούω (182): hear; hear of, hear tell of; hear of; from
+  μετεῖπον (65): speak among, address
+  ἀπεῖπον (12): speak out, tell out, declare; to give; full notice; to deliver
+  κλύω (103): hear; from; hear of; have heard
+  ἔπος (443): vácas; word; utterance; that which is uttered in words, speech, tale
+  φθογγή (5): voice
+  πρόσφημι (235): speak to, address
+  μῦθος (300): word, speech; mere word; public speech; plea
+  λιγύφθογγος (5): clear-voiced
+  μετάφημι (14): speak among
+  λιγύς (28): clear, shrill; clear, sweet; clear-toned; clear-voiced
+  μεταφωνέω (7): speak among; accost
+  μέροψ (10): dividing the voice; articulate; bee-eater, Merops apiaster
+  πυνθάνομαι (69): learn; by hearsay; by inquiry; from
+  στόμα (28): mouth; the very jaws; the mouth as the organ of speech; mouthpiece, organ
+  λιγυρός (7): clear, shrill; which vent themselves in shrill wailings; clear, sweet; shrilly
+  ἐνέπω (38): tell; tell of; couldst tell; the tale of
+  κλέος (64): rumour, report; news; the report; the news
+  ὄνομα (22): name; by name; a name; name, fame
+  νέα (5): (grammar) serving as or indicating the subject of a verb and words identified with the sub
+  ἐπίκλησις (6): surname, additional name; by surname; call also; named
+
+cluster 11  |  39 lemmas  |  black, dark, bright, shine
+  φαεινός (83): shining, radiant; bright; bright, glossy; bright as the day
+  ἀργής (8): bright, glancing; vivid; fire; shining, white
+  παμφανόων (18): bright-shining, radiant
+  φαίδιμος (70): shining, radiant, glistening; sleek, glossy; famous, glorious
+  φαέθω (5): shine; radiant; the sun; days
+  λευκός (60): light, bright, clear; glassy; clear, limpid; clear, distinct
+  μέλας (180): black, dark; dark; pitched over; dark, swarthy
+  παμφαίνω (8): shine; beam brightly; white-gleaming
+  φάος (40): light; daylight; day; the light
+  αἶθοψ (33): fiery-looking; flashing; sparkling; fiery
+  αἴγλη (5): the light of the sun; moon; daylight; sunshine
+  αἰόλος (8): quick-moving, nimble; wriggling; glittering; changeful of hue, sheeny
+  σιγαλόεις (23): glossy, glittering; glittering; fatty, oily
+  κελαινεφής (18): black with clouds; shrouded in dark clouds, cloud-wrapped; dark-coloured; black, rich
+  σκιόεις (15): shady, shadowy; shady; thickly wooded; dark
+  ἀριφραδής (8): clear, manifest; plainly; clear to the sight, bright; very thoughtful, wise
+  λαμπρός (12): bright, radiant; bright; toga candida; clear, limpid
+  ἐρεβεννός (8): dark, gloomy
+  κελαινός (16): black, dark; swarthy; black with blood-stains; dark, murky
+  ἦνοψ (5): gleaming; Fr.anon; not to be looked at, dazzling
+  ἐρεμνός (5): murky, black, dark; dark, obscure
+  αἴθων (16): fiery, burning; fiery; flashing, glittering; red-brown, tawny
+  σκιάω (6): overshadow, make shady; to be shaded; dark
+  γλαυκῶπις (90): with gleaming eyes
+  λάμπω (23): give light, shine; ring loud and clear; shine forth, be famous; conspicuous
+  μαρμαίρω (9): flash, sparkle, gleam; darting, quivering; sparkling
+  ἀπολάμπω (6): shine; beam from; beamed from; gleams with
+  εὐδείελος (7): clear, distinct; farseen; open to the sun, sunny
+  σκότος (16): darkness, gloom; darkness; dizziness, vertigo; darkness, obscurity
+  αὐγή (20): light of the sun; rays, beams; the light; in a full
+  νῶροψ (8): flashing; bright
+  στεροπή (7): flash of lightning; dazzling light, gieam
+  λιπαρός (23): oily, shiny with oil; anointed; shiny; fatty, greasy
+  φόως (16): to the light, to the light of day
+  ἥλιος (8): sun; the light of life, live; East; eastern
+  ζόφος (12): nether darkness; the realms of gloom; gloom, darkness; the gloom
+  κυανόπρῳρος (12): darkprowed
+  μελάνυδρος (5): with black water; which looks black
+  κυάνεος (18): dressed in black: "a black knight"; "black friars"
+
+cluster 5  |  38 lemmas  |  sleep, sit, seat, bed
+  ἱδρύω (6): make to sit down, seat; encamped; to be seated, sit still; lie encamped
+  εὐνάζω (6): lay; place in ambush; put to bed, put to sleep; in a form
+  εὐνάω (13): lay; place in ambush; lay asleep, lull to sleep; make oneʼs couch
+  ἕδος (15): sitting-place; seat, stool; straight-backed chair; seat, abode, dwelling-place
+  κοῖτος (10): resting-place, bed; stall, fold; pen; sleep
+  καθεύδω (7): lie down to sleep, sleep; to sleep; pass the night; roost
+  ἕδρα (12): sitting-place; seat, chair, stool, bench; seat of honour; throne
+  κατατίθημι (50): place, put, lay down; set; down in; take down
+  ἐπιτίθημι (32): lay, put; place upon; laid on; set
+  κάθημαι (40): to be seated, sit; as he sat there; sate; sit on
+  ἧμαι (130): āste; to be seated, sit; sit still, sit idle; encamp
+  ἑδριάω (6): seat; set; sit
+  καταλέγω (68): lay down
+  κείω (7): to lie down; to bed; will lie; that they will lie
+  καθίζω (37): make to sit down, seat; set, place; encamp; post
+  πάρημαι (13): to be seated beside; seated by; seated at; dwell beside
+  ἐφέζομαι (7): sit upon; sit by; near
+  καθέζομαι (24): sit down, take oneʼs seat; preside; taking their seats; sit down in, occupy
+  θᾶκος (5): seat, chair; seats; chair of office; privy
+  ὕπτιος (16): laid on oneʼs back; backwards; lying on oneʼs back; lying on its back
+  παρέζομαι (5): sit beside
+  κοιμάω (41): lull, put to sleep; put to bed; still, calm; soothe, assuage
+  λέγω (24): lay
+  λέκτρον (10): couch, bed; to bed; marriage-bed; the fruit of marriage, a child
+  εὕδω (60): sleep; slumbering; sleep of death; rest, be still
+  καταδαρθάνω (5): fall asleep; to be asleep; to be falling asleep; pass the night
+  λέχος (48): couch, bed; bedstead; bier; marriage-bed
+  εὔθρονος (6): with beautiful seat; throne
+  εὐνή (80): bed; bedding; abode; lair
+  ἵζω (69): si-sd-ō; e-sed-s; make to sit, seat, place, set; set
+  θρόνος (47): seat, chair; throne, chair of state; kingʼs estate; dignity
+  κεῖμαι (195): śáyate; cunae; to be laid; lie, lie outstretched
+  δέμνιον (13): bedstead, mattress; bed
+  ὕπνος (103): sleep, slumber; the sleep of death; sleep; a dream
+  πρόκειμαι (14): to be set before one; laid; shew; lie exposed
+  ἄυπνος (5): sleepless, wakeful; sleepless, never-resting; sleepless; that is no sleep, from which one 
+  χθαμαλός (5): near the ground, on the ground, low; of humble station; sitting in a lower place; pedestri
+  ἐκεῖθι (15): to or toward that place; away from the speaker: "go there around noon!"
+

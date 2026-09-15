@@ -1,0 +1,702 @@
+# 40 emergent fields over word senses (GreBERTa contextual centroids; UMAP+HDBSCAN).
+# label = c-TF-IDF of member senses' LSJ glosses; senses by centrality. '#' separates lemma from sense id.
+
+FIELD 28  |  41 senses  |  cut, leave, draw, stream
+    ἐρύω1#0                (  4)  drag, draw; drag; away, rescue; off for plunder, ransom  | ναῦς μέλας ἅλς1 δῖος ἦτορ στῆθος λάσιος μερμηρίζω φάσγανον ὀξύς μηρός ἀνίστημι
+    τεύχω#0                (  3)  make ready, make; produce by work; art; make, build  | δαίς1 ἑλώριον κύων οἰωνός πᾶς Δαναοί θεοπροπέω ἀγορεύω ἑκηβόλος ἄλγος κόρη Χρυσηίς
+    καίω#0                 (  4)  kindle; they lighted them; to be lighted, burn; which blaze  | Σμινθεύς χαρίεις ναός ἐρέφω πίων μηρία ταῦρος αἴξ κραίνω ἔλδωρ πυρή νέκυς
+    πείρω#0                (  2)  pierce, run through; spitted; they stuck; ran  | σκῆπτρον βάλλω γαῖα χρύσεος ἧλος μῆρα καίω σπλάγχνον πατέομαι μιστύλλω ὀβελός ὀπτάω
+    δέω#0                  (  4)  bind, tie, fetter; to bind; tie; bind, keep in bonds  | δαίς1 θυμός ἴσος πρυμνήσιος παύω πόνος τεύχω δαίνυμι φόρμιγξ περικαλλής ἔχω Ἀπόλλων
+    γίγνομαι#0             (  6)  come into a new state of being; come into being; to be born; born  | ἄνθρωπος θεός δεινός κλαγγή ἀργύρεος βιός ἀγείρω ὁμηγερής ἀνίστημι μετάφημι πούς ὠκύς
+    τανύω#0                (  1)  stretch, strain; string; having strung his; pull  | ἱκνέομαι στρατός εὐρύς Ἀχαιός ναῦς μέλας ἤπειρος ἐρύω1 ψάμαθος ἕρμα μακρός
+    προερέσσω#0            (  1)  row forwards  | ὅρμος2 ἐρετμόν
+    προερύω#0              (  1)  draw on; forward; drew; move  | Ἀτρείδης ναῦς θοός ἅλς1
+    διατμήγω#0             (  1)  cut in twain; having cut; in twain; distinguish  | βουλεύω
+    πέλω#0                 (  3)  come into existence, become, be; was; when once in being; become  | πᾶς ὠκύμορος λίσσομαι Ἀχιλλεύς μεθίημι χόλος μέγας ἕρκος Ἀχαιός πόλεμος κακός ὀιζυρός
+    λείπω#0                (  2)  leave, quit; is gone; leave behind, leave at home; leave  | σκῆπτρον φύλλον ὄζος φύω πρῶτος τομή ὄρος ἀναθηλέω χώομαι θυμός εὔζωνος γυνή
+    καταρρέζω#0            (  1)  pat, stroke, caress  | καθέζομαι δάκρυ χέω χείρ ἔπος φημί ὀνομάζω
+    ὀπτάω#0                (  1)  roast, broil; roast; broil; fry  | μῆρα καίω σπλάγχνον πατέομαι μιστύλλω ὀβελός πείρω ἐρύω1 πᾶς
+    χερνίπτομαι#0          (  1)  wash oneʼs hands with holy water; sprinkle with holy water, purify; de  | οὐλοχύται ἀναιρέω
+    πετάννυμι#0            (  1)  fly; spread out; opening his doors; flutter  | ἱστός ἵστημι ἱστίον λευκός
+    ἐπιρρώομαι#0           (  1)  apply oneʼs; strength to; work lustily at; worked with might and main   | ἀμβρόσιος χαίτη ἄναξ κάρα ἀθάνατος
+    πελάζω#0               (  1)  approach, draw near; draws to; come near; will  | ἱστός ἱστοδόκη πρότονοι ὑφίημι
+    ἐπιστέφω#0             (  1)  filled; to be full; covered with; pour  | πόσις2 ἐδητύς ἔρος ἵημι κοῦρος κρατήρ ποτός νωμάω πᾶς ἐπάρχω δέπας
+    ἐλελίζω#0              (  1)  whirl round; move in coils; spires; cause  | μέγας Ὄλυμπος
+    ὠμοθετέω#0             (  1)  place the raw pieces; sacrifice; raw; shoulder
+    ποιέω#0                (  2)  make; make, produce; made; to be made with  | ἕκαστος εὔχομαι οὐλοχύται προβάλλω αὐερύω πρῶτος σφάζω δέρω μηρός ἐκτέμνω κνῖσα καλύπτω
+    μερμηρίζω#0            (  1)  to be anxious; thoughtful, to be in doubt; was debating; debated anxio  | ἦτορ στῆθος λάσιος φάσγανον ὀξύς ἐρύω1 μηρός ἀνίστημι Ἀτρείδης ἐναρίζω χόλος παύω
+    μιστύλλω#0             (  1)  cut up  | μῆρα καίω σπλάγχνον πατέομαι ὀβελός πείρω ὀπτάω ἐρύω1 πᾶς
+    σφάζω#0                (  1)  slay, slaughter; by cutting the throat; slaughter; cut  | εὔχομαι οὐλοχύται προβάλλω αὐερύω πρῶτος δέρω μηρός ἐκτέμνω κνῖσα καλύπτω δίπτυχος ποιέω
+    νωμάω#0                (  1)  deal out, distribute; pour; the several; direct, guide  | πόσις2 ἐδητύς ἔρος ἵημι κοῦρος κρατήρ ἐπιστέφω ποτός πᾶς ἐπάρχω δέπας
+    καταπίπτω#0            (  1)  fall, drop; fell; base, contemptible; accidents  | ἥλιος καταδύω Λῆμνος
+    δέρω#0                 (  1)  skin, flay; to have oneʼs; flayed off; will make  | εὔχομαι οὐλοχύται προβάλλω αὐερύω πρῶτος σφάζω μηρός ἐκτέμνω κνῖσα καλύπτω δίπτυχος ποιέω
+    τίκτω#0                (  4)  bring into the world, engender; beget; bring forth; parents  | πολύς κίω ἀράομαι γεραιός Ἀπόλλων ἄναξ εὔκομος Λητώ μήτηρ μινυνθάδιος τιμή ὀφέλλω
+    πρήθω#0                (  1)  burn; blow out, swell out by blowing; spout; spouted  | ἄνεμος μέσος ἱστίον
+    καλύπτω#0              (  1)  oc-culo, celo; cover; to kill; covered, grasped  | εὔχομαι οὐλοχύται προβάλλω αὐερύω πρῶτος σφάζω δέρω μηρός ἐκτέμνω κνῖσα δίπτυχος ποιέω
+    προβάλλω#0             (  1)  throw; lay before, throw to; put forward; present  | εὔχομαι οὐλοχύται αὐερύω πρῶτος σφάζω δέρω μηρός ἐκτέμνω κνῖσα καλύπτω δίπτυχος ποιέω
+    πένομαι#0              (  1)  toil, work; were busy; to have to work for oneʼs living; to be poor  | στρατός
+    τρέφω#0                (  3)  thicken; congeal; curdle; curdle, congeal  | γενεά μέροψ ἄνθρωπος φθίω γίγνομαι Πύλος ἠγάθεος κράτιστος ἐπιχθόνιος ἀνήρ τέκνον αἰνός
+    ἐκτέμνω#0              (  1)  cut out; cut; from; out  | εὔχομαι οὐλοχύται προβάλλω αὐερύω πρῶτος σφάζω δέρω μηρός κνῖσα καλύπτω δίπτυχος ποιέω
+    πατέομαι#0             (  1)  eat; drink; eat of, partake of; eat, taste food  | μῆρα καίω σπλάγχνον μιστύλλω ὀβελός πείρω ὀπτάω ἐρύω1 πᾶς
+    αὐερύω#0               (  1)  draw back; backwards; pulled; draw  | εὔχομαι οὐλοχύται προβάλλω πρῶτος σφάζω δέρω μηρός ἐκτέμνω κνῖσα καλύπτω δίπτυχος ποιέω
+    ἰάχω#0                 (  1)  cry, shout; shriek; ring, resound; roar  | κῦμα στεῖρα πορφύρεος μέγας ναῦς εἶμι
+    ῥέω#0                  (  1)  flow, run, stream, gush; runs with; a full stream; derive its stream  | Νέστωρ ἡδυεπής ἀνορούω λιγύς Πύλιος ἀγορητής γλῶσσα μέλι γλυκύς αὐδή
+    ἔρος#0                 (  1)  love, desire; Eros  | πόσις2 ἐδητύς ἵημι κοῦρος κρατήρ ἐπιστέφω ποτός νωμάω πᾶς ἐπάρχω δέπας
+    γείνομαι#0             (  1)  to be born; at oneʼs birth; beget; bring forth  | καρτερός θεά μήτηρ φέρτατος πλείων ἀνάσσω
+
+FIELD 2  |  36 senses  |  dishonour, bend, alive, awe
+    χώομαι#0               (  7)  to be angry; to be angry at; about; because of  | ὦμος θυμός βαίνω Ὄλυμπος κάρηνον κῆρ τόξον ἔχω ἀμφηρεφής φαρέτρα κλάζω ὀιστός
+    ἱλάσκομαι#0            (  5)    | ἀνήρ Ἑκάεργος ἱερός ῥέζω θεός ἄναξ πείθω εἷς ἀρχός βουληφόρος Αἴας Ἰδομενεύς
+    νεικέω#0               (  2)  quarrel, wrangle with; quarrel; with; strove with him  | πατήρ ἀθάνατος θεός μήτηρ παράφημι νοέω φίλος ἐπίηρα φέρω Ζεύς δαίς1 ταράσσω
+    κήδω#0                 (  4)  trouble, distress; to be concerned, care for; mourn for; caring for  | ἵημι θεά λευκώλενος Ἥρα ἄμφω θυμός φιλέω Δαναοί θνήσκω ὁράω ἀνέχω φίλος
+    εὔχομαι#0              (  9)  pray; to utter; in prayer; pray that  | Δαναοί φημί Ἀπόλλων φίλος χείρ Ζεύς Κάλχας θεοπροπία ἀναφαίνω ζάω χθών δέρκομαι
+    τιμάω#0                (  4)  honour, revere, reverence; bestow honours; reward; will honour  | Ἀχαιός μητίετα Ζεύς μέγας ἴπτομαι λαός υἱός ὠκύμορος πέλω οἴομαι κατανεύω ἐτήτυμος
+    ἄχνυμαι#0              (  3)    | δύναμαι χραισμέω ἀνίστημι ἥρως Ἀτρείδης εὐρύς κρείων Ἀγαμέμνων πολύς Ἕκτωρ ἀνδροφόνος θνήσκω
+    θείνω#0                (  1)  strike; dashed; slay; slain  | ἀνέχω κήδω φίλος ὀφθαλμός εἶδον
+    αἰδέομαι#0             (  3)  to be ashamed; from a sense of shame; stand in awe of, fear; show a se  | πᾶς ἐπευφημέω Ἀχαιός ἱερεύς ἀγλαός δέχομαι ἄποινα ταρβέω βασιλεύς ἵστημι
+    ἀτιμάω#0               (  3)  dishonour, disdain  | Ἀγαμέμνων εὐχωλή ἐπιμέμφομαι ἑκατόμβη ἀρητήρ Ἀτρείδης εὐρύς κρείων ἄναξ ἀνήρ
+    ἑλίσσω#0               (  1)  Acut.(Sp; turn round; about; turning  | κνῖσα οὐρανός ἱκνέομαι καπνός
+    ὄσσομαι#0              (  1)  oqṷ-yo; see, look; Fr.anon; see in spirit  | Κάλχας πρώτιστος κακός προσεῖπον
+    ἀτιμάζω#0              (  1)  hold in no honour, esteem lightly; bring dishonour upon; speakest in d  | ὀλέκω λαός Χρύσης ἀρητήρ Ἀτρείδης
+    λιάζομαι#0             (  1)  bend, incline; go aside, recoil, shrink; shrank; hast  | Ἀχιλλεύς δακρύω ἑταῖρος ἕζομαι θίς ἅλς1 πολιός ὁράω ἀπείρων πόντος
+    θνήσκω#0               (  3)  Papers of the Amer. School; die; to be dead; dead  | κήδω Δαναοί ὁράω δύναμαι ἄχνυμαι χραισμέω πολύς Ἕκτωρ ἀνδροφόνος πίπτω λαός ἐπασσύτερος
+    ἐπέρχομαι#0            (  1)  come upon; approach; come suddenly upon; come to for advice  | τλάω μένω
+    δεύω2#0                (  1)  miss, want; he missed, failed; feel the want; loss of, be without  | ἐθέλω ἔχω γέρας ἧμαι
+    οὐλόμενος#0            (  1)  accursed; ruined, lost; unhappy, wretched  | μῆνις ἀείδω θεά Πηλείδης Ἀχιλλεύς
+    πίπτω#0                (  2)  Exc. ex libris Herodiani; fall down; cast oneself down; fall  | δύναμαι ἄχνυμαι χραισμέω πολύς Ἕκτωρ ἀνδροφόνος θνήσκω Σίντιες ἀνήρ κομίζω
+    κτείνω#0               (  1)  kill, slay; seeks to kill; the slayer, murderer; put to death  | Ἀχαιός μιμνήσκω παρέζομαι λαμβάνω γόνυ ἐθέλω Τρώς ἀρήγω πρύμνα ἅλς1 εἴλω πᾶς
+    εὐχωλή#0               (  2)  prayer, vow; votive offering; boast, vaunt; shout of triumph  | ἐπιμέμφομαι ἑκατόμβη μάντις εἴρω2 ἱερεύς ὀνειροπόλος ὄναρ Ζεύς εἶπον τόσος χώομαι Φοῖβος
+    ἵλαος#0                (  1)  propitious, gracious; propitious, blameless, atoned for; gracious, kin  | Ὀλύμπιος
+    ἄρνυμαι#0              (  1)  win, gain; striving; maintaining; trying to win, striving to secure  | μέγας ἀναιδής ἕπομαι χαίρω τιμή Μενέλαος κυνώπης Τρώς
+    δέρκομαι#0             (  1)  see clearly, see; having sight; alive, living; since she lives  | εὔχομαι Δαναοί Ἀπόλλων Ζεύς φίλος Κάλχας θεοπροπία ἀναφαίνω ζάω χθών κοῖλος ναῦς
+    κατακείω#0             (  1)    | ἕκαστος καταδύω λαμπρός φάος ἥλιος βαίνω οἶκος δῶμα περικλυτός ἀμφιγυήεις Ἥφαιστος ποιέω
+    διαπράσσω#0            (  1)  pass over; made their way over; may finish; went through  | θέω κῦμα κέλευθος
+    ἐπάρχω#0               (  1)  rule over; to be governor, commandant of; rule besides; pour the first  | πόσις2 ἐδητύς ἔρος ἵημι κοῦρος κρατήρ ἐπιστέφω ποτός νωμάω πᾶς δέπας
+    ἐπιγνάμπτω#0           (  1)  curve; bend; bow, bend to oneʼs purpose  | ἀκέων κάθημαι φίλος κῆρ
+    κινέω#0                (  1)  set in motion; move; rock; remove  | κλάζω ὀιστός ὦμος χώομαι
+    ἅζομαι#0               (  1)  stand in awe of, esp. gods and oneʼs parents; respects; I fear; revere  | παῖς λύω φίλος ἄποινα δέχομαι Ζεύς υἱός ἑκηβόλος Ἀπόλλων
+    ὀιζυρός#0              (  1)  woeful, miserable; wretch!; toilsome, dreary; sorry, wretched, poor  | ὠκύμορος πᾶς πέλω
+    συνδέω#0               (  1)  bind; tie together; together, side by side; fasten  | πατήρ μέγαρον ἀκούω εὔχομαι φημί κελαινεφής Κρονίων οἶος ἀθάνατος ἀεικής λοιγός ἀμύνω
+    γαίω#0                 (  1)  rejoice, exult  | Κρονίων καθέζομαι κῦδος
+    σώζω#0                 (  1)  save, keep; save from death, keep alive; spare; to be saved, kept aliv  | φράζω
+    φιλέω#0                (  2)  love, regard with affection; sexual love; friends; to be beloved  | ἵημι θεά λευκώλενος Ἥρα ἄμφω θυμός κήδω
+    ζάω#0                  (  1)    | εὔχομαι Δαναοί Ἀπόλλων Ζεύς φίλος Κάλχας θεοπροπία ἀναφαίνω χθών δέρκομαι κοῖλος ναῦς
+
+FIELD 22  |  30 senses  |  greeks, olympus, men, cronos
+    Ζεύς#0                 ( 31)  dyaús; divás; diví; dyávi  | Ὄλυμπος φίλος Ἀπόλλων δῶμα ἔπος υἱός Ἀχαιός ἔρχομαι Ὀλύμπιος λίσσομαι ὀνίνημι ἔργον
+    Κρονίων#0              (  5)  son of Cronos; Zeus  | Ζεύς πατήρ μέγαρον ἀκούω εὔχομαι φημί κελαινεφής οἶος ἀθάνατος ἀεικής λοιγός ἀμύνω
+    Μυρμιδόνες#0           (  2)    | ναῦς εἶμι ἑταῖρος ἀνάσσω κλισία ἱκνέομαι
+    Ἀθήνη#0                (  5)  Athene; casting vote  | Παλλάς ὁρμαίνω φρήν θυμός ἕλκω κολεόν μέγας ξίφος ἔρχομαι γιγνώσκω προσεῖπον θεά
+    Τρώς#0                 (  7)  Tros; Trojans; Trojan men  | Ἀχαιός μάχομαι μέγας χαίρω τιμή Πρίαμος πᾶς ἀρήγω τίνω ἔρχομαι αἰχμητής αἴτιος
+    θεός#0                 ( 30)  God, the Deity; against his will; bless you! good heavens! for heavenʼ  | πᾶς Ἀχαιός δῶμα εἶμι μάκαρ Ὄλυμπος δίδωμι χραισμέω στρατός κῆλον ἐπιπείθομαι ἑκατόμβη
+    Ὀλύμπιος#0             (  8)  Olympian, of Olympus, dwelling on Olympus; of Olympus  | Ζεύς ἐθέλω ἀστεροπητής Ἀτρείδης ἐυκνήμις Ἀχαιός θεός δίδωμι δῶμα ἔχω ἐκπέρθω Πρίαμος
+    Ἀπόλλων#0              ( 17)  Apollo  | ναῦς Ἀχαιός ἑκηβόλος Φοῖβος λύω ἄποινα ἔχω χείρ φίλος Ζεύς ἔρχομαι θοός
+    Παλλάς#0               (  2)  Pallas; coin bearing the head of Pallas; maiden-priestess; five  | Ἀθήνη γιγνώσκω πατήρ μέγαρον ἀκούω εὔχομαι φημί κελαινεφής Κρονίων οἶος ἀθάνατος ἀεικής
+    Κρονίδης#0             (  2)  son of Cronos; Zeus; an aged man  | εὑρίσκω εὐρύοπα ἧμαι ἄκρος κορυφή πολυδειράς Ὄλυμπος αἰνός ποῖος μῦθος εἶπον
+    Θέτις#0                (  5)  Thetis  | ἀργυρόπεζος θυγάτηρ ἅλιος γέρων ἀμείβω δάκρυ χέω λανθάνω ἐφετμή παῖς ἅπτω γόνυ
+    οὐρανίωνες#0           (  1)    | ὀχθέω δῶμα Ζεύς θεός
+    Λητώ#0                 (  2)  Leto; born from Leto; temple of L  | Ζεύς υἱός πολύς κίω ἀράομαι γεραιός Ἀπόλλων ἄναξ εὔκομος τίκτω
+    Ἥρα#0                  ( 13)  Hera; nine; servo; inhabitants of Heraea  | λευκώλενος θεά ἵημι ἄμφω θυμός φιλέω κήδω βοῶπις πότνια φρήν τίθημι πατήρ
+    Δαναοί#0               (  9)  the Danaäns; the Greeks; the sons; descendants of Danaus  | εὔχομαι φίλος Ἀγαμέμνων πολύς Ἀπόλλων Ζεύς Κάλχας θεοπροπία ἀναφαίνω ζάω χθών δέρκομαι
+    Ἀργεῖος#0              (  4)  from Argos, Argive; the Greeks; Argolis; womenʼs shoes  | ἀνήρ ἄναξ οἴομαι χολόω μέγας πᾶς κρατέω πείθω Ἀχαιός γέρας ἑτοιμάζω οἶος
+    Φοῖβος#0               (  6)    | Ἀπόλλων κλύω ἑκατόμβη ναῦς πέμπω ἄναξ μάντις εἴρω2 ἱερεύς ὀνειροπόλος ὄναρ Ζεύς
+    Ἥφαιστος#0             (  3)  Hephaestus; Volcanus; Plah; nine  | δῶμα ἕκαστος κλυτοτέχνης ἄρχω ἀγορεύω μήτηρ φίλος ἐπίηρα φέρω λευκώλενος Ἥρα ἄσβεστος
+    αἰγίοχος#0             (  2)  veho; aegis-bearing  | Ζεύς τέκος ἔρχομαι Ὄλυμπος βαίνω δῶμα δαίμων
+    κυδιάνειρα#0           (  1)  bringing men glory; renown; glorified by men, famous for men  | ἀγορά πωλέομαι πόλεμος
+    Ἀχαιός#0               ( 41)  Achaean; the Achaeans; Greeks; Achaia  | ναῦς πᾶς Ἀτρείδης δίδωμι υἱός εὐρύς ἔχω Ἀπόλλων ἄριστος γέρας ἄποινα λαός
+    Σίντιες#0              (  1)  Sintians  | ἀνήρ κομίζω πίπτω
+    Ποσειδεών#0            (  1)    | πατήρ μέγαρον ἀκούω εὔχομαι φημί κελαινεφής Κρονίων οἶος ἀθάνατος ἀεικής λοιγός ἀμύνω
+    Ἠετίων#0               (  1)    | οἴχομαι Θήβη ἱερός πόλις
+    Πύλιος#0               (  1)    | Νέστωρ ἡδυεπής ἀνορούω λιγύς ἀγορητής γλῶσσα μέλι γλυκύς ῥέω αὐδή
+    Μοῦσα#0                (  1)  Muse; music, song; strain; liberal arts, accomplishments  | θυμός δέω δαίς1 ἴσος φόρμιγξ περικαλλής ἔχω Ἀπόλλων ἀείδω ἀμείβω ὄψ καλός
+    εὐρύοπα#0              (  1)  wide-eyed; vox; far-sounding; thundering  | εὑρίσκω Κρονίδης ἧμαι ἄκρος κορυφή πολυδειράς Ὄλυμπος
+    ἀριστεύς#0             (  1)  those who excel in valour; chiefs  | οἰνοβαρής κύων ὄμμα ἔχω καρδία ἔλαφος πόλεμος λαός θωρήσσω λόχος εἶμι Ἀχαιός
+    θεά#0                  (  9)  goddess  | λευκώλενος Ἥρα θυμός ἵημι ἄμφω φιλέω κήδω καλέω μῆνις ἀείδω Πηλείδης Ἀχιλλεύς
+    δαίμων#0               (  1)  god, goddess; the Divine power; the Deity; chance  | Ὄλυμπος βαίνω δῶμα αἰγίοχος Ζεύς
+
+FIELD 8  |  28 senses  |  sea, earth, land, salt
+    ναῦς#0                 ( 30)  ship; the ships; ships; naús  | Ἀχαιός εἶμι Ἀπόλλων θοός μέλας ἔρχομαι κλισία λύω φέρω στέμμα ἔχω χείρ
+    γαῖα#0                 (  3)  land, country; land; earth; the earth  | σκῆπτρον βάλλω χρύσεος ἧλος πείρω μέγας πένθος Ἀχαιΐς ἱκάνω μεθομιλέω Πύλος ἔρχομαι
+    πρυμνήσιος#0           (  2)  of a stern; stern-cables  | δέω ἥλιος καταδύω κνέφας ἔρχομαι κοιμάω ναῦς
+    κέλευθος#0             (  2)  road, path; the streets; paths, orbits; path  | ἀναβαίνω ἐπιπλέω ὑγρός θέω κῦμα διαπράσσω
+    ῥηγμίν#0               (  1)  Wiener Sitzb; sea breaking on the beach, surf; broken sea; at the seaʼ  | βαίνω θάλασσα
+    ἅλς1#0                 ( 10)  salt; rock-salt; brine; sugar  | θίς ναῦς Ἀτρείδης ἀτρύγετος πολιός Ἀχαιός μέλας ἐρύω1 δῖος θοός προερύω λῦμα
+    ἱστίον#0               (  3)  web, cloth, sheet; hangings; piece; sail  | λιμήν πολυβενθής ἱκνέομαι στέλλω τίθημι ναῦς μέλας ἱστός ἵστημι λευκός πετάννυμι ἄνεμος
+    ὄρος#0                 (  2)  mountain, hill; canton, parish; desert  | βοῦς ἐλαύνω ἵππος Φθία ἐριβῶλαξ βωτιάνειρα καρπός1 δηλέομαι πολύς σκιόεις θάλασσα ἠχήεις
+    ποντοπόρος#0           (  1)  seafaring  | Χρυσηίς ναῦς βαίνω
+    σχίζα#0                (  1)  piece of wood cut off, lath, splinter; wood cleft small; firewood; sha  | καίω γέρων
+    θάλασσα#0              (  4)  sea; salt lake; maritime affairs; a sea  | βαίνω ἀκέων θίς πολύφλοισβος βοῦς ἐλαύνω ἵππος Φθία ἐριβῶλαξ βωτιάνειρα καρπός1 δηλέομαι
+    ἤπειρος#0              (  1)  terra firma, land; the sea; land; the mainland of Western Greece  | ἱκνέομαι στρατός εὐρύς Ἀχαιός ναῦς μέλας ἐρύω1 ψάμαθος ἕρμα μακρός τανύω
+    ἐρετμόν#0              (  1)  oar  | ὅρμος2 προερέσσω
+    βένθος#0               (  1)  depth  | κλύω πότνια μήτηρ ἧμαι ἅλς1 πατήρ γέρων
+    ἐρέτης#0               (  2)  rowers; oars; era; aritár  | ἀγείρω κρίνω
+    ψάμαθος#0              (  1)    | ἱκνέομαι στρατός εὐρύς Ἀχαιός ναῦς μέλας ἤπειρος ἐρύω1 ἕρμα μακρός τανύω
+    θίς#0                  (  4)  heap; sand-banks; sandy deserts; beach, shore  | ἅλς1 βαίνω ἀτρύγετος ἀκέων πολύφλοισβος θάλασσα ἔρδω Ἀπόλλων τελήεις ἑκατόμβη ταῦρος αἴξ
+    κῦμα#0                 (  3)  anything swollen; pregnant; wave, billow; swell  | στεῖρα πορφύρεος μέγας ἰάχω ναῦς εἶμι θέω διαπράσσω κέλευθος ἀναδύνω θάλασσα
+    παλάμη#0               (  1)    | υἱός Ἀχαιός φορέω δικασπόλος θέμις Ζεύς ἐρύω2
+    πρύμνα#0               (  1)  stern, poop; retire, draw back; the Acropolis; the vessel  | Ἀχαιός μιμνήσκω παρέζομαι λαμβάνω γόνυ ἐθέλω Τρώς ἀρήγω ἅλς1 εἴλω κτείνω πᾶς
+    ἕρμα#0                 (  1)  prop, support; props; prop; stay  | ἱκνέομαι στρατός εὐρύς Ἀχαιός ναῦς μέλας ἤπειρος ἐρύω1 ψάμαθος μακρός τανύω
+    ὅρμος2#0               (  1)  cord, chain; necklace, collar; anything strung like a necklace, wreath  | προερέσσω ἐρετμόν
+    λιμήν#0                (  1)  harbour; havens of refuge from; haven, retreat, refuge; a haven of  | πολυβενθής ἱκνέομαι ἱστίον στέλλω τίθημι ναῦς μέλας
+    πόντος#0               (  1)  sea; open sea; wide waters; the sea  | Ἀχιλλεύς δακρύω ἑταῖρος ἕζομαι λιάζομαι θίς ἅλς1 πολιός ὁράω ἀπείρων
+    ἀπείρων#0              (  1)  without experience, ignorant  | Ἀχιλλεύς δακρύω ἑταῖρος ἕζομαι λιάζομαι θίς ἅλς1 πολιός ὁράω πόντος
+    κορυφή#0               (  1)  head, top; crown, top of the head; top, peak; summit, top  | εὑρίσκω εὐρύοπα Κρονίδης ἧμαι ἄκρος πολυδειράς Ὄλυμπος
+    ἄνεμος#0               (  1)  wind; a gale; the wind; to the winds  | πρήθω μέσος ἱστίον
+    χθών#0                 (  1)  earth; the surface of it; soil; the earth  | εὔχομαι Δαναοί Ἀπόλλων Ζεύς φίλος Κάλχας θεοπροπία ἀναφαίνω ζάω δέρκομαι κοῖλος ναῦς
+
+FIELD 20  |  25 senses  |  destroy, accept, away, lay
+    ἀφαιρέω#0              (  5)  take away from; took; from; relieve  | πολύς δίδωμι Ἀχαιός κόρη γέρας ἀπειλέω μογέω υἱός Χρυσηίς Φοῖβος Ἀπόλλων ναῦς
+    ἐφίημι#0               (  4)  send to; sent; set on, incite; throw  | ἄναξ βέλος ἐχεπευκής βάλλω Χρύσης πέμπω ἀνήρ Ἀγαμέμνων παῖς ἄγω Φοῖβος ἱερός
+    δίδωμι#0               ( 18)  give freely; to be ready to give, offer; things offered; grant, assign  | Ἀχαιός ἄγω γέρας κόρη αἱρέω υἱός Ἀτρείδης θεός πόλις ἄλγος ἑκηβόλος ἐθέλω
+    δέχομαι#0              (  6)  take, accept, receive; receive; at the hand of; accept  | ἄποινα παῖς ἀγλαός φίλος ἑκηβόλος πᾶς ἐπευφημέω Ἀχαιός αἰδέομαι ἱερεύς λύω ἅζομαι
+    ἀφύσσω#0               (  2)  draw; was drawn from; draw full draughts of; heap it up  | οἴομαι ἄτιμος ἄφενος πλοῦτος θεός ἐνδέξιος πᾶς οἰνοχοέω γλυκύς νέκταρ κρατήρ
+    ὄλλυμι#0               (  2)  destroy, make an end of; kill; doing away with; lose  | ὑπεροπλία θυμός οἴομαι κατανεύω ἐτήτυμος Ἀχιλλεύς τιμάω πολύς ναῦς Ἀχαιός
+    ἀναιρέω#0              (  2)  take up; having raised; take up and carry off, bear away; make away wi  | θοός ναῦς μέλας φέρω ἀέκων χερνίπτομαι οὐλοχύται
+    ἀπόλλυμι#0             (  2)  destroy utterly, kill; demolish, lay waste; will waste; sought to dest  | βούλομαι λαός σῶς
+    ἀπαυράω#0              (  3)    | αἱρέω ἔχω γέρας λείπω χώομαι θυμός εὔζωνος γυνή βία ἀέκων
+    ἀμύνω#0                (  4)  keep off, ward off; to be kept off; for; from whom  | λοιγός ἀεικής μάντις εἴρω2 ἱερεύς ὀνειροπόλος ὄναρ Ζεύς εἶπον τόσος χώομαι Φοῖβος
+    καταπέσσω#0            (  1)  digest; digest, keep from rising; bear; meekly  | χόλος ἔχω κότος τελέω στῆθος
+    ἀπωθέω#0               (  1)  thrust away, push back; pushed; off; thrust away from oneself  | Δαναοί ἀεικής λοιγός πατήρ φίλος δίδωμι ἑλικῶπις κόρη ἀπρίατος ἀνάποινος ἄγω ἱερός
+    ἐρέθω#0                (  1)  disquiet; raised; increase; explore, search  | λοίγιος ἔργον ἐχθοδοπέω ἐφίημι Ἥρα ὀνείδειος ἔπος
+    ἀμύσσω#0               (  1)  scratch, tear, lacerate; tear in pieces, mangle; prick; sting  | θυμός χώομαι ἄριστος Ἀχαιός τίνω
+    ἀναθηλέω#0             (  1)  sprout afresh  | σκῆπτρον φύλλον ὄζος φύω πρῶτος τομή ὄρος λείπω
+    ἀθερίζω#0              (  1)  make light of
+    ἀπολύω#0               (  1)  loose from; from; undo; set free, release, relieve from  | θυγάτηρ ἀποδέχομαι ἄποινα
+    ὀλέκω#0                (  1)  ruin, destroy, kill; prey; perish, die  | λαός Χρύσης ἀτιμάζω ἀρητήρ Ἀτρείδης
+    ἐπιφέρω#0              (  1)  bring, put; lay upon; will lay; upon  | εὔχομαι Δαναοί Ἀπόλλων Ζεύς φίλος Κάλχας θεοπροπία ἀναφαίνω ζάω χθών δέρκομαι κοῖλος
+    ἀποδέχομαι#0           (  1)  accept; accept as a teacher, follow; admit; admitting into the mind  | ἀπολύω θυγάτηρ ἄποινα
+    πάρειμι#0              (  1)  sum; to be by; present; near  | τόσος ἀγλαός δῶρον ὕβρις
+    μεθίημι#0              (  1)  set loose, let go; release; let; depart  | λίσσομαι Ἀχιλλεύς χόλος μέγας πᾶς ἕρκος Ἀχαιός πέλω πόλεμος κακός
+    παρεῖπον#0             (  1)  talk over, win over; by thy persuasions; give; advice  | δείδω φρήν ἀργυρόπεζος Θέτις θυγάτηρ ἅλιος γέρων
+    ταράσσω#0              (  1)  stir, trouble; troubling; mix; to wag  | πατήρ μήτηρ παράφημι νοέω φίλος ἐπίηρα φέρω Ζεύς νεικέω δαίς1
+    ἀποδίδωμι#0            (  1)  give up; back, restore, return; render what is due, pay; give  | κέλομαι
+
+FIELD 32  |  24 senses  |  sit, stay, leap, stand
+    βαίνω#0                ( 13)  walk, step; on foot; on ground; he went to  | θίς θάλασσα Ὄλυμπος Χρυσηίς δῶμα Ζεύς ἑκατόμβη ἕκαστος ἀκέων πολύφλοισβος κάρηνον χώομαι
+    εἶμι#0                 ( 18)  ibo; shall go, shall come; come; go, depart  | ναῦς θεός Ζεύς Ὄλυμπος χραισμέω αἱρέω γέρας ἄγω Φθία πολύς φέρτατος κορωνίς
+    ἔρχομαι#0              ( 16)  ibo; start, set out; was setting out; was  | ναῦς Ἀχαιός ἔχω Ἀπόλλων Ζεύς Ὄλυμπος θοός λύω θυγάτηρ φέρω ἀπερείσιος ἄποινα
+    ἵστημι#0               (  5)  make to stand; stand; sthā; á-sthā-t  | ταρβέω αἰδέομαι βασιλεύς θεός ἱερός ἑκατόμβη εὔδμητος βωμός ἱστός ἱστίον λευκός πετάννυμι
+    ἧμαι#0                 (  6)  āste; to be seated, sit; sit still, sit idle; encamp  | εὑρίσκω ναῦς ἐθέλω ἔχω γέρας δεύω2 κλισία μέλας κλύω πότνια μήτηρ βένθος
+    ἕζομαι#0               (  5)  seat oneself, sit; sank; crouch; sink  | εἶπον ναῦς Ἀχιλλεύς δακρύω ἑταῖρος λιάζομαι θίς ἅλς1 πολιός ὁράω ἀπείρων πόντος
+    οἴχομαι#0              (  3)  come; go, go away, go off; he has gone, departed; he had gone  | στρατός κῆλον θεός Θήβη ἱερός πόλις Ἠετίων χώομαι γέρων
+    κίω#0                  (  2)    | πολύς ἀράομαι γεραιός Ἀπόλλων ἄναξ εὔκομος τίκτω Λητώ ἀέκων γυνή
+    ἀναβαίνω#0             (  3)  go up, mount; go up to; goes up among; to trample on  | ἐπιπλέω ὑγρός κέλευθος ἠέριος μέγας οὐρανός Ὄλυμπος καθεύδω
+    ἕπομαι#0               (  2)  sacate; sequor; sèkti; saśc(a)-)  | μέγας ἀναιδής χαίρω τιμή ἄρνυμαι Μενέλαος κυνώπης Τρώς θεός πᾶς
+    ἀποβαίνω#0             (  1)  step off from; alight, disembark from; disembark; dismount  | φωνέω
+    κάθημαι#0              (  2)  to be seated, sit; as he sat there; sate; sit on  | ἀκέων ἐπιγνάμπτω φίλος κῆρ
+    καθέζομαι#0            (  4)  sit down, take oneʼs seat; preside; taking their seats; sit down in, o  | δάκρυ χέω χείρ καταρρέζω ἔπος φημί ὀνομάζω Κρονίων κῦδος γαίω θρόνος
+    ἀναδύνω#0              (  2)  come to the top of the water; emerge  | πολιός ἅλς1 ὀμίχλη κῦμα θάλασσα
+    θέω#0                  (  1)  dhávate; run; running; run and  | κῦμα διαπράσσω κέλευθος
+    ἅλλομαι#0              (  1)  sal; sal-io; spring, leap; leap upon  | ἅλς1 βαθύς αἰγλήεις Ὄλυμπος Ζεύς δῶμα
+    καθεύδω#0              (  1)  lie down to sleep, sleep; to sleep; pass the night; roost  | ἀναβαίνω
+    ἀνορούω#0              (  1)  start up, leap up; went swiftly up  | Νέστωρ ἡδυεπής λιγύς Πύλιος ἀγορητής γλῶσσα μέλι γλυκύς ῥέω αὐδή
+    μένω#0                 (  3)  stay, wait; stand fast; stay at home, stay where one is; lodge, stay  | λίσσομαι φθινύθω φίλος κῆρ τλάω ἐπέρχομαι
+    ἵζω#0                  (  1)  si-sd-ō; e-sed-s; make to sit, seat, place, set; set  | Χρυσηίς καλλιπάρηος ἄγω
+    ἐνόρνυμι#0             (  1)  arouse, stir up in; arise in; among  | ἄσβεστος γέλως μάκαρ θεός εἶδον Ἥφαιστος δῶμα ποιπνύω
+    ἀνάγω#0                (  1)  lead up; lead up to the high sea, carry by sea; conduct, carry to; put  | ἠριγένεια φαίνω ῥοδοδάκτυλος ἠώς στρατός εὐρύς Ἀχαιός
+    ἔνειμι#0               (  1)  sum; to be in; to be among; is in  | ὀλίγος θυμός
+    ὁδός#0                 (  1)  way, road; course, channel; to truth; further on the way, forwards  | ἀναίδεια ἐπιέννυμι κερδαλεόφρων πρόφρων ἔπος πείθω Ἀχαιός ἔρχομαι ἀνήρ μάχομαι
+
+FIELD 23  |  22 senses  |  best, better, force, bad
+    κράτιστος#0            (  3)    | ἐπιχθόνιος τρέφω ἀνήρ μάχομαι φήρ ὀρεσκῷος
+    κακός#0                (  7)  bad; ugly; ill-born, mean; craven, base  | βασιλεύς χολόω νόσος στρατός ὄρνυμι Κάλχας πρώτιστος ὄσσομαι προσεῖπον μάντις κρήγυος εἶπον
+    ὑπεροπλία#0            (  1)  insolence, presumptuousness; high courage  | θυμός ὄλλυμι
+    ἐσθλός#0               (  2)  good; brave, stout; noble; wellbred  | εἶπον ἔπος τελέω δαίς1 ἦδος χείρων νικάω
+    κρατερός#0             (  3)  strong, stout, mighty; stern, harsh; mighty, fierce; hard  | μῦθος τέλλω
+    ἐπασσύτερος#0          (  1)  one upon another, one after another; one after another; upon; frequent  | λαός θνήσκω
+    ἀταρτηρός#0            (  1)  mischievous, baneful  | Πηλείδης ἔπος Ἀτρείδης προσεῖπον
+    ἔχθιστος#0             (  1)  most hateful; most hostile; bitterest enemies  | διοτρεφής βασιλεύς
+    ὀλοός#0                (  1)  destructive, deadly; ill; destroyed, lost  | φρήν θύω
+    σφωίτερος#0            (  1)  of you two; of them two; both of them; your own, your  | χρή θεά ἔπος ἐρύω2 θυμός χολόω
+    χαλεπός#0              (  1)  difficult; hard to bear, painful, grievous; severity; hardships  | ἄλοχος
+    ἀντίβιος#0             (  1)  opposing force to force; wrangling; hostile; enemy  | μάχομαι ἔπος ἀνίστημι
+    ἀρείων#0               (  1)  better, stouter, braver; snail; slug  | ἀνήρ ὁμιλέω
+    κρείσσων#0             (  1)  stronger, mightier; having the upper hand, superior; prevail; better  | βασιλεύς χώομαι ἀνήρ χείρων
+    φέρτατος#0             (  3)  bravest, best; the best; least bad; best  | εἶμι πολύς Φθία ναῦς κορωνίς καρτερός θεά γείνομαι μήτηρ πλείων ἀνάσσω
+    νημερτής#0             (  1)  unerring, infallible; sure; that will infallibly be put in force; sure  | ὑπισχνέομαι κατανεύω ἀπεῖπον δέος οἶδα ὅσος πᾶς ἄτιμος θεός
+    κερτόμιος#0            (  1)  mocking, taunting  | Ζεύς Κρονίων προσαυδάω
+    ὀνείδειος#0            (  1)  reproachful; of reproach; dishonourable  | λοίγιος ἔργον ἐχθοδοπέω ἐφίημι Ἥρα ἐρέθω ἔπος
+    κήρ#0                  (  1)    | εἶδον
+    ὕστατος#0              (  1)    | Ἀτρείδης λωβάομαι
+    φέρτερος#0             (  1)    | ἄγω Βρισηίς καλλιπάρηος εἶμι κλισία γέρας εἶδον ὅσος στυγέω ἴσος φημί ὁμοιόω
+    λωίων#0                (  1)  more desirable, more agreeable, better; my good friend  | πολύς στρατός εὐρύς Ἀχαιός δῶρον ἀφαιρέω ἀντίος εἶπον
+
+FIELD 16  |  20 senses  |  son, lord, man, old
+    βασιλεύς#0             (  9)  king, chief; captain; judge; hereditary king  | ἐθέλω Πηλείδης ἐρίζω ὁμοῖος μείρομαι τιμή σκηπτοῦχος Ζεύς κῦδος δίδωμι Ἀχαιός χολόω
+    γέρων#0                (  8)  old man; Elders, Chiefs; Senators; old  | δείδω ἀργυρόπεζος Θέτις θυγάτηρ ἅλιος κοῖλος ναῦς κιχάνω δηθύνω ὕστερος εἶμι χραισμέω
+    ἄναξ#0                 ( 10)  lord, master; sons; brothers of kings; lord  | ἀνήρ Ἀγαμέμνων ἄγω Ἀχιλλεύς Ἀπόλλων Ζεύς Χρύσης πέμπω παῖς Φοῖβος ἱερός ἑκατόμβη
+    παῖς#0                 (  7)  child; son; daughter; adopted son  | δέχομαι φίλος Πρίαμος χαίρω Δαναοί ἄναξ λύω ἄποινα ἅζομαι Ζεύς υἱός ἑκηβόλος
+    υἱός#0                 ( 11)  Vasen mit Meister-signaturen; pitṛṣu; son; a son  | Ἀχαιός Ζεύς δίδωμι γέρας Ἀχιλλεύς Λητώ παῖς λύω φίλος ἄποινα δέχομαι ἅζομαι
+    μήτηρ#0                (  8)  mother; dam; mother-bird; queen  | φίλος πατήρ χείρ Ζεύς ἐπίηρα φέρω καρτερός θεά γείνομαι φέρτατος πλείων ἀνάσσω
+    ἀνήρ#0                 ( 17)  nar; ner-, nṛ; man; woman  | ἄναξ πᾶς δῖος ἱλάσκομαι ἱερός ῥέζω Ἀγαμέμνων Ἀργεῖος πείθω Ἀχαιός εἷς ἀρχός
+    θυγάτηρ#0              (  5)  daughter; maidservant, slave; duhitár  | ἄποινα Ἀπόλλων ἔρχομαι θοός ναῦς Ἀχαιός λύω φέρω ἀπερείσιος στέμμα ἔχω χείρ
+    πατήρ#0                ( 10)  pitṛṣu; father; grandfather; by the fatherʼs side  | φίλος μήτηρ Ζεύς ἀεικής λοιγός ἄγω ἀθάνατος θεός παράφημι νοέω ἐπίηρα φέρω
+    κόρη#0                 (  7)  girl; maiden; nymphs; bride  | δίδωμι Δαναοί ἄγω ἀφαιρέω ἀεικής λοιγός ἀπωθέω πατήρ φίλος ἑλικῶπις ἀπρίατος ἀνάποινος
+    ἥρως#0                 (  2)  hero; the Fourth Age of men; heroes, as objects of worship; local deit  | πολύς ἴφθιμος ψυχή Ἅιδης προιάπτω ἀνίστημι Ἀτρείδης εὐρύς κρείων Ἀγαμέμνων ἄχνυμαι
+    κοῦρος#0               (  2)  loppings, twigs stripped from a tree  | πόσις2 ἐδητύς ἔρος ἵημι κρατήρ ἐπιστέφω ποτός νωμάω πᾶς ἐπάρχω δέπας πανημέριος
+    κῆρυξ#0                (  3)  herald, pursuivant; public messenger, envoy; messengers between nation  | Ταλθύβιος Εὐρυβάτης προσεῖπον ὀτρηρός θεράπων χαίρω Ζεύς ἄγγελος ἀνήρ νέος βαίνω ἄγω
+    γεραιός#0              (  1)  old; reverend sire; the elders, senators; eldest  | πολύς κίω ἀράομαι Ἀπόλλων ἄναξ εὔκομος τίκτω Λητώ
+    σκηπτοῦχος#0           (  1)  bearing a staff, baton; sceptre; sceptred; wand-bearer  | βασιλεύς Πηλείδης ἐθέλω ἐρίζω ὁμοῖος μείρομαι τιμή Ζεύς κῦδος δίδωμι
+    γυνή#0                 (  2)  woman; man; mistress, lady; the lasses  | ἀέκων κίω λείπω χώομαι θυμός εὔζωνος βία ἀπαυράω
+    τέκνον#0               (  2)  child; my son, my child; young  | κλαίω τρέφω αἰνός τίκτω
+    ἄλοχος#0               (  2)  partner of oneʼs bed, wife; leman, concubine; unwedded  | Κλυταιμνήστρη προβέβουλα κουρίδιος χείρων δέμας φυή φρήν ἔργον χαλεπός
+    ποιμήν#0               (  1)  herdsman; shepherd; captain, chief; master, lord  | εἶδον τοῖος ἀνήρ οἷος Πειρίθοος Δρύας λαός Καινεύς Ἐξάδιος ἀντίθεος Πολύφημος Θησεύς
+    ἄνθρωπος#0             (  3)  man; gods; the men; the ideal man, humanity  | γίγνομαι θεός γενεά μέροψ φθίω τρέφω Πύλος ἠγάθεος μάρτυρος μάκαρ θνητός βασιλεύς
+
+FIELD 34  |  20 senses  |  speak, attempt, ask, make
+    κατανεύω#0             (  4)  nod assent; grant, promise; consent to; make a signbynoddingthehead  | κεφαλή νημερτής ὑπισχνέομαι ἀπεῖπον δέος οἶδα ὅσος πᾶς ἄτιμος θεός πείθω παλινάγρετος
+    εἴρω2#0                (  6)  say, speak, tell; is said; ask  | Ζεύς μάντις ἱερεύς ὀνειροπόλος ὄναρ εἶπον τόσος χώομαι Φοῖβος Ἀπόλλων εὐχωλή ἐπιμέμφομαι
+    ἀγορεύω#0              (  4)  speak in the assembly, harangue; address; to address the house?; couns  | οἶδα Δαναοί θεοπροπέω ἑκηβόλος ἄλγος τεύχω κόρη Χρυσηίς ἀγλαός ἄποινα ἐθέλω δέχομαι
+    ἀπειλέω#0              (  3)  keep away; brought; forced; unroll, roll off  | γέρας ἀφαιρέω πολύς μογέω δίδωμι υἱός Ἀχαιός ἀνίστημι μῦθος τελέω
+    ἔρομαι#0               (  3)  ask, inquire; learn by inquiry; ask after; for  | δεύτερος μεταλλάω
+    μεθομιλέω#0            (  1)  hold converse with  | Πύλος ἔρχομαι ἄπιος γαῖα
+    μεταφράζω#0            (  1)  paraphrase; translate; consider after
+    εἶπον#0                ( 14)  said; avocam; vac; speak, say  | μάντις Ζεύς Ἀπόλλων ἕζομαι εὔχομαι Δαναοί χείρ πολύς Ἀχαιός ἔπος πᾶς εἴρω2
+    ἐπιπείθομαι#0          (  3)  to be persuaded; trust; to, put faith in; comply with, obey  | θεός κλύω Πάτροκλος φίλος ἑταῖρος μῦθος χραισμέω ὅσος Ὄλυμπος εἶμι ἄαπτος χείρ
+    ὄμνυμι#0               (  2)  swear; swear to; affirm; confirm by oath  | πρόφρων ἔπος χείρ ἀρήγω μέγας ὅρκος
+    παράφημι#0             (  1)  speak gently to, advise; persuade, appease; speak deceitfully; insince  | πατήρ μήτηρ νοέω φίλος ἐπίηρα φέρω Ζεύς νεικέω δαίς1 ταράσσω
+    ἐξείρω#0               (  1)  put forth; pull out
+    ὁμιλέω#0               (  1)  to be in company with, consort with; consortest; joining in company; t  | ἀρείων ἀνήρ
+    προβέβουλα#0           (  1)  prefer; make plans  | Κλυταιμνήστρη κουρίδιος ἄλοχος χείρων δέμας φυή φρήν ἔργον
+    πειράω#0               (  1)  attempt, endeavour, try; make trial of; make an attempt on; make an at  | γιγνώσκω
+    ἀποτίνω#0              (  1)  repay; pay for; may atone for; made atonement  | Ἀχαιός τριπλόος τετραπλόος Ζεύς δίδωμι πόλις Τροία εὐτείχεος ἐξαλαπάζω
+    ὑπείκω#0               (  1)  retire, withdraw, depart; from; retire from; for  | δειλός οὐτιδανός καλέω πᾶς ἔργον εἶπον
+    οἴομαι#0               (  9)  forebode, presage; expect; suspect; fear  | πᾶς πείθω Ἀχαιός κρατέω Ἀτρείδης παλιμπλάζομαι ἀπονοστέω θάνατος φεύγω πόλεμος δαμάζω λοιμός
+    ἐξαυδάω#0              (  1)  speak out  | κεύθω νόος οἶδα ἄμφω
+    κλαίω#0                (  1)  cry, wail, lament; crying; crying, howling; well beaten  | τέκνον
+
+FIELD 26  |  18 senses  |  strength, death, strife, fear
+    χόλος#0                (  5)  gall, bile; gall, bitter anger, wrath; rage; anger towards  | στῆθος καταπέσσω ἔχω κότος τελέω ἦτορ λάσιος μερμηρίζω φάσγανον ὀξύς ἐρύω1 μηρός
+    βέλος#0                (  3)  missile; arrow, dart; hurled; thrown  | τίνω Δαναοί δάκρυον ἐχεπευκής ἐφίημι βάλλω ἵημι Ἀργεῖος κακός
+    μένος#0                (  3)  might, force; strength, fierceness; spirit; force, might  | παύω μέγας φρήν ἀμφιμέλας πίμπλημι ἔρχομαι πείθω Ἀτρείδης
+    πόλεμος#0              (  8)  war; battle, fight; single combat; War, Battle  | Ἀχαιός Ἀτρείδης παλιμπλάζομαι οἴομαι ἀπονοστέω θάνατος φεύγω δαμάζω λοιμός πλείων πολυάιξ χείρ
+    ἔρις#0                 (  4)  strife, quarrel, contention; battle-strife; quarrel, strife; discord  | λήγω θεός συνίημι μάχομαι φίλος πόλεμος μάχη Ἀγαμέμνων πρῶτος ἐπαπειλέω Ἀχιλλεύς
+    κῦδος#0                (  2)  glory, renown; glory  | βασιλεύς Πηλείδης ἐθέλω ἐρίζω ὁμοῖος μείρομαι τιμή σκηπτοῦχος Ζεύς δίδωμι Κρονίων καθέζομαι
+    γέρας#0                ( 13)  gift of honour; the last honours; privilege, prerogative; gift, presen  | δίδωμι Ἀχαιός ἔχω αἱρέω πᾶς μεγάθυμος εἶμι ἄγω πολύς υἱός ἴσος ἀπαυράω
+    ξίφος#0                (  3)  sword; power of life and death; jus gladii; sword-shaped bone  | ἕλκω κολεόν μέγας ὁρμαίνω φρήν θυμός ἔρχομαι Ἀθήνη χείρ ὠθέω
+    μάχη#0                 (  2)    | ἔρις φίλος πόλεμος φημί Τρώς ἀρήγω
+    κότος#0                (  1)  grudge, rancour, ill-will; vengeance  | χόλος καταπέσσω ἔχω τελέω στῆθος
+    κράτος#0               (  1)  strength, might; bodily strength; strength; all oneʼs might  | Τρώς τίθημι Ἀχαιός υἱός τίνω ὀφέλλω τιμή
+    δέος#0                 (  1)  fear, alarm; fear; fear of; to fear  | νημερτής ὑπισχνέομαι κατανεύω ἀπεῖπον οἶδα ὅσος πᾶς ἄτιμος θεός
+    λέχος#0                (  2)  couch, bed; bedstead; bier; marriage-bed  | γῆρας ἔπειμι οἶκος Ἄργος πάτρη ἱστός ἐποίχομαι ἀντιάω Ζεύς εἶμι Ὀλύμπιος ἀστεροπητής
+    ἄχος#0                 (  1)  pain, distress  | Πηλείων γίγνομαι
+    πόνος#0                (  1)  work; hard work, toil; the toil of war; toil  | δαίς1 παύω τεύχω δαίνυμι θυμός δέω ἴσος
+    θάνατος#0              (  1)  death; the death threatened; to death; death-penalty  | Ἀτρείδης παλιμπλάζομαι οἴομαι ἀπονοστέω φεύγω πόλεμος δαμάζω λοιμός Ἀχαιός
+    λοιμός#0               (  1)  plague; plague, pest; pestilent  | Ἀτρείδης παλιμπλάζομαι οἴομαι ἀπονοστέω θάνατος φεύγω πόλεμος δαμάζω Ἀχαιός
+    ἕρκος#0                (  1)  fence, enclosure; the place enclosed, court-yard; enclosure; wall for   | λίσσομαι Ἀχιλλεύς μεθίημι χόλος μέγας πᾶς Ἀχαιός πέλω πόλεμος κακός
+
+FIELD 31  |  17 senses  |  tolerable, worth, fulfil, accused
+    πείθω#0                ( 16)  persuade; obey; trust; prevail upon, persuade  | οἴομαι πᾶς μῦθος ἀνήρ κρατέω Ἀχαιός ἔπος ἔρχομαι ἀμείνων χολόω μέγας Ἀργεῖος
+    τελέω#0                (  7)  fulfil, accomplish, execute, perform; did it; perform; fulfil  | Ζεύς βουλή χόλος καταπέσσω ἔχω κότος στῆθος ἐσθλός εἶπον ἔπος οἴομαι ἀνίστημι
+    παλινάγρετος#0         (  1)  to be taken back; recalled; revocable; recoverable  | ἀπατηλός ἀτελεύτητος κεφαλή κατανεύω
+    ἐπιμέμφομαι#0          (  2)  cast blame upon; find fault for; because of; complain of  | εὐχωλή ἑκατόμβη μάντις εἴρω2 ἱερεύς ὀνειροπόλος ὄναρ Ζεύς εἶπον τόσος χώομαι Φοῖβος
+    ἀτελεύτητος#0          (  1)  not brought to an end; issue, unaccomplished; without an end, intermin  | παλινάγρετος ἀπατηλός κεφαλή κατανεύω
+    ἐπισεύω#0              (  1)  put in motion; against, set on; hurry; hasten to  | φεύγω θυμός
+    ἐπαίτιος#0             (  1)  blamed for; blameable, blameworthy; for; accused of  | Ἀγαμέμνων προίημι Βρισηίς κόρη
+    ῥίγιον#0               (  2)  
+    ἀπατηλός#0             (  1)  producing illusion; deceptive  | παλινάγρετος ἀτελεύτητος κεφαλή κατανεύω
+    ἐτήτυμος#0             (  1)  true; the truth; truthful; genuine, real  | οἴομαι κατανεύω Ἀχιλλεύς τιμάω ὄλλυμι πολύς ναῦς Ἀχαιός
+    ἀντάξιος#0             (  1)  worth just as much as; worth; itself; worth as much as  | δίδωμι γέρας μεγάθυμος Ἀχαιός ἀραρίσκω θυμός
+    μέλω#0                 (  1)  to be an object of care; thought; care for, take an interest in; am I   | τελέω
+    μάρτυρος#0             (  1)    | θεός μάκαρ θνητός ἄνθρωπος βασιλεύς ἀπηνής χρεώ γίγνομαι ἀεικής λοιγός ἀμύνω
+    παρέρχομαι#0           (  1)  ibo; go by, beside; past, pass by; passed away  | ἀγαθός θεοείκελος Ἀχιλλεύς κλέπτω νόος πείθω
+    λωβάομαι#0             (  1)  outrage, maltreat; despite; maim, mutilate; brings  | Ἀτρείδης ὕστατος
+    αἴτιος#0               (  1)  culpable, responsible; the most guilty; the accused, the culprit; they  | Τρώς ἔρχομαι αἰχμητής μάχομαι
+    ἀνεκτός#0              (  1)  bearable, sufferable, tolerable; that can be endured; tolerable; more   | λοίγιος ἔργον θνητός ἐριδαίνω θεός κολῳός ἐλαύνω
+
+FIELD 7  |  17 senses  |  fear, rejoice, tears, cower
+    ὀχθέω#0                (  2)  to be sorely angered, vexed in spirit  | Ζεύς μέγας πρόσφημι νεφεληγερέτα δῶμα θεός οὐρανίωνες
+    φωνέω#0                (  3)  produce a sound; tone; speak loud; clearly  | ἔπος πτερόεις προσαυδάω ἀποβαίνω
+    μειδάω#0               (  2)  smile; laugh aloud; grinning; smáyati  | θεά λευκώλενος Ἥρα παῖς δέχομαι χείρ κύπελλον
+    θαρσέω#0               (  2)  to be of good courage; to be over-bold; fear not!; with good courage  | εἶπον θεοπρόπιον οἶδα
+    ταρβέω#0               (  1)  to be frightened, alarmed; feels fear; a state of fear; from fear  | αἰδέομαι βασιλεύς ἵστημι
+    γηθέω#0                (  2)  rejoice; will rejoice; rejoice in doing; impune  | Πρίαμος παῖς Τρώς μέγας χαίρω θυμός πᾶς πυνθάνομαι μάρναμαι βουλή Δαναοί μάχομαι
+    δείδω#0                (  3)  fear; to be alarmed, anxious; fear to do; fear, dread  | γέρων φρήν παρεῖπον ἀργυρόπεζος Θέτις θυγάτηρ ἅλιος βοῶπις πότνια Ἥρα
+    θαμβέω#0               (  1)  to be astounded; to be astonished at; alarm; PMag. Leid.W  | Ἀχιλλεύς
+    δακρύω#0               (  1)  weep, shed tears; with tears; to flood; to be in tears  | Ἀχιλλεύς ἑταῖρος ἕζομαι λιάζομαι θίς ἅλς1 πολιός ὁράω ἀπείρων πόντος
+    ἀγνοέω#0               (  1)  not to perceive; recognize; he perceived; knew well  | Ἥρα εἶδον συμφράζομαι βουλή ἀργυρόπεζος Θέτις θυγάτηρ ἅλιος γέρων
+    ἐπευφημέω#0            (  2)  assent with a shout of applause; glorify, sing praises to; sing over;   | πᾶς Ἀχαιός αἰδέομαι ἱερεύς ἀγλαός δέχομαι ἄποινα
+    κλάζω#0                (  1)  make a sharp piercing sound; scream; bark, bay; clash, rattle  | ὀιστός ὦμος χώομαι κινέω
+    φρονέω#0               (  3)  to be minded; have understanding, be wise, prudent; counsel; to be  | ἀγοράομαι μετεῖπον φίλος κρυπτάδιος δικάζω
+    στενάχω#0              (  1)  groan, sigh, wail; groaning; bewail, lament  | βαρύς πρόσφημι πούς ὠκύς Ἀχιλλεύς
+    χέω#0                  (  3)  pour; pour out, let flow; snows; gush forth  | δάκρυ φημί καθέζομαι χείρ καταρρέζω ἔπος ὀνομάζω ἀμείβω Θέτις
+    ὑποδείδω#0             (  1)  shrink in fear under, cower before; cower beneath; fear  | μάκαρ θεός
+    πτερόεις#0             (  1)  feathered, winged; fluttering; winged  | φωνέω ἔπος προσαυδάω
+
+FIELD 24  |  15 senses  |  arm, fight, anger, judgement
+    χραισμέω#0             (  4)  ward off; from one; keep; off  | εἶμι θεός δύναμαι ἄχνυμαι γέρων κοῖλος ναῦς κιχάνω δηθύνω ὕστερος σκῆπτρον στέμμα
+    μάχομαι#0              ( 10)  fight; fight with; against; with thy help  | ἔπος Ἀχαιός ἔρχομαι Τρώς Πρίαμος θεός ἔρις συνίημι ἀναίδεια ἐπιέννυμι κερδαλεόφρων πρόφρων
+    χολόω#0                (  4)  anger, provoke; to anger; to be angered; provoked to anger  | βασιλεύς νόσος στρατός ὄρνυμι κακός οἴομαι ἀνήρ μέγας πᾶς Ἀργεῖος κρατέω πείθω
+    χείρων#0               (  3)  meaner, inferior; worse than others; knave; worse  | κρείσσων βασιλεύς χώομαι ἀνήρ Κλυταιμνήστρη προβέβουλα κουρίδιος ἄλοχος δέμας φυή φρήν ἔργον
+    δικάζω#0               (  1)  Bis Acc; judge, sit in judgement; sit as a juror; give judgement on, d  | φίλος κρυπτάδιος φρονέω
+    ἐχθοδοπέω#0            (  1)  show enmity towards, engage in hostility with  | λοίγιος ἔργον ἐφίημι Ἥρα ἐρέθω ὀνείδειος ἔπος
+    θωρήσσω#0              (  1)  arm with a; arm; arm oneself, put oneʼs harness on; to arm yourselves   | οἰνοβαρής κύων ὄμμα ἔχω καρδία ἔλαφος πόλεμος λαός λόχος εἶμι ἀριστεύς Ἀχαιός
+    ἀντιφέρω#0             (  1)  set against; set oneself against, fight against; to oppose; match ones  | ἀργαλέος Ὀλύμπιος
+    μάρναμαι#0             (  1)  fight, do battle; with, against; together with; on his side  | Πρίαμος γηθέω παῖς Τρώς μέγας χαίρω θυμός πᾶς πυνθάνομαι βουλή Δαναοί μάχομαι
+    κρυπτάδιος#0           (  1)  secret, clandestine  | φίλος φρονέω δικάζω
+    ἀντιάω#0               (  2)  go for the purpose of meeting; receiving; go in quest of; hit  | γῆρας ἔπειμι οἶκος Ἄργος πάτρη ἱστός ἐποίχομαι λέχος μάντις εἴρω2 ἱερεύς ὀνειροπόλος
+    πολεμίζω#0             (  1)  wage war, fight; with; jointly with; war  | ὀλίγος φίλος ἔρχομαι ἔχω ναῦς κάμνω
+    πράσσω#0               (  1)  pass through, pass over; experience certain for; tunes, fare; achieve,  | δύναμαι
+    μέμαα#0                (  1)    | ἀλέξω ῥίπτω πούς τεταγών βηλός θεσπέσιος
+    ὁμοῖος#0               (  1)    | βασιλεύς Πηλείδης ἐθέλω ἐρίζω μείρομαι τιμή σκηπτοῦχος Ζεύς κῦδος δίδωμι
+
+FIELD 4  |  15 senses  |  speak, address, exchange, accost
+    ἀμείβω#0               (  7)  change, exchange; changing; give in exchange; take in exchange  | δῖος Ἀχιλλεύς ἀνήρ ποδάρκης ἄναξ Ἀγαμέμνων Θέτις δάκρυ χέω πατήρ θεός βοῶπις
+    καλέω#0                (  5)  call, summon; they had been summoned; demand, require; call to oneself  | πᾶς ἔρχομαι θεά ὑπολύω δεσμός ἑκατόγχειρος μακρός Ὄλυμπος Βριάρεως θεός ἀνήρ Αἰγαίων
+    ἀράομαι#0              (  2)  pray to; invoke; pray; prayed  | πολύς κίω γεραιός Ἀπόλλων ἄναξ εὔκομος τίκτω Λητώ μήτηρ φίλος χείρ ὀρέγνυμι
+    προσεῖπον#0            (  7)  speak to; address, accost; address; addressed  | Κάλχας πρώτιστος κακός ὄσσομαι θεά γλαυκῶπις Ἀθήνη Πηλείδης ἀταρτηρός ἔπος Ἀτρείδης Ταλθύβιος
+    μετεῖπον#0             (  2)  speak among, address  | φρονέω ἀγοράομαι
+    προσφωνέω#0            (  1)  call; speak to, address; address; call by name
+    ἐπαπειλέω#0            (  1)  hold out as a threat to; threaten; threatened  | Ἀγαμέμνων λήγω ἔρις πρῶτος Ἀχιλλεύς
+    ἀπαμείβομαι#0          (  5)  reply, answer  | πρόσφημι πούς ὠκύς Ἀχιλλεύς κρείων Ἀγαμέμνων νεφεληγερέτα Ζεύς
+    συμφράζομαι#0          (  2)  join in considering, take counsel with; imparted; contrive; mention at  | βουλή Ἥρα ἀγνοέω εἶδον ἀργυρόπεζος Θέτις θυγάτηρ ἅλιος γέρων δολομήτης θεός
+    προσαυδάω#0            (  2)  speak to, address, accost; speak; to one; speak of  | φωνέω ἔπος πτερόεις κερτόμιος Ζεύς Κρονίων
+    ἀγοράομαι#0            (  2)  meet in assembly, sit in debate; speak in the assembly, harangue; spea  | φρονέω μετεῖπον
+    πωλέομαι#0             (  1)  go up and down; to and fro; come frequently; she goes  | ἀγορά κυδιάνειρα πόλεμος
+    μετάφημι#0             (  1)  speak among  | ἀγείρω ὁμηγερής γίγνομαι ἀνίστημι πούς ὠκύς Ἀχιλλεύς
+    πρόσφημι#0             (  9)  speak to, address  | ἀπαμείβομαι πούς ὠκύς Ἀχιλλεύς νεφεληγερέτα Ζεύς κρείων Ἀγαμέμνων εἶδον βαρύς στενάχω μέγας
+    ὀνομάζω#0              (  1)  speak of by name, call; address by name; naming; name, specify  | καθέζομαι δάκρυ χέω χείρ καταρρέζω ἔπος φημί
+
+FIELD 33  |  15 senses  |  throw, crown, choose, hurl
+    ἵημι#0                 (  6)  Ja-c-io; sēmen; véti; vyánti  | θεά λευκώλενος Ἥρα ἄμφω θυμός φιλέω κήδω ἰός Ἀργεῖος κακός βέλος πόσις2
+    βάλλω#0                (  5)  throw; throw so as to hit, hit; striking; smote upon  | βέλος ἐχεπευκής ἐφίημι σκῆπτρον γαῖα χρύσεος ἧλος πείρω φρήν ἅλς1 λῦμα εὐνή
+    ἕλκω#0                 (  2)  sulcus; velkù; draw, drag; began to drag  | ξίφος ὁρμαίνω φρήν θυμός κολεόν μέγας ἔρχομαι Ἀθήνη χείρ
+    λέπω#0                 (  1)  strip off the rind; husks, peel, bark; give a hiding to; thrash  | χαλκός φύλλον φλοιός
+    ὠθέω#0                 (  1)  thrust, push; he kept pushing; pushed; rush  | κολεόν μέγας ξίφος
+    τέλλω#0                (  3)  accomplish; perform; come into being; turns  | κρατερός μῦθος
+    ὄρνυμι#0               (  1)  ārta; orior; stir, stir up; urge on, incite  | βασιλεύς χολόω νόσος στρατός κακός
+    λαμβάνω#0              (  4)  take; receive; take hold of, grasp, seize; caught  | γόνυ Ἀχαιός Ἀτρεΐων χόλος μιμνήσκω παρέζομαι ἐθέλω Τρώς ἀρήγω πρύμνα ἅλς1 εἴλω
+    προιάπτω#0             (  1)  send forth, hurl away; project  | πολύς ἴφθιμος ψυχή Ἅιδης ἥρως
+    ῥίπτω#0                (  1)  throw, cast, hurl; throw; prostrate; lying  | ἀλέξω μέμαα πούς τεταγών βηλός θεσπέσιος
+    νεύω#0                 (  1)  incline in any direction; nod, beckon; beckon; nod  | κυάνεος ὀφρύς Κρονίων
+    λείβω#0                (  1)  pour, pour forth; make a libation of; let flow, shed; liquefy  | αἶθοψ οἶνος
+    ἐρέφω#0                (  1)  cover with a roof; thatched; cover with a crown, crown; crown oneself  | Σμινθεύς χαρίεις ναός πίων μηρία καίω ταῦρος αἴξ κραίνω ἔλδωρ
+    ἅπτω#0                 (  1)  fasten; bind to; having fastened; join  | Θέτις γόνυ ἔχω ἐμφύω
+    κρίνω#0                (  1)  separate, put asunder, distinguish; pick out, choose; to choose; to be  | ἐρέτης
+
+FIELD 17  |  15 senses  |  troy, phthia, city, pear
+    Πύλος#0                (  2)  Pylos  | γενεά μέροψ ἄνθρωπος φθίω τρέφω γίγνομαι ἠγάθεος μεθομιλέω ἔρχομαι ἄπιος γαῖα
+    Φθία#0                 (  2)  Phthia; to Phthia; at Phthia; a man of Phthia  | πολύς εἶμι βοῦς ἐλαύνω ἵππος ἐριβῶλαξ βωτιάνειρα καρπός1 δηλέομαι ὄρος σκιόεις θάλασσα
+    Τροία#0                (  1)  Troy; ‘Troy-town’; the Troad; from Troy  | Ἀχαιός τριπλόος τετραπλόος ἀποτίνω Ζεύς δίδωμι πόλις εὐτείχεος ἐξαλαπάζω
+    πόλις#0                (  4)  city; the citadel; the city of; oneʼs city  | Ἀχαιός δίδωμι ἐκπέρθω Ἀτρείδης ἐυκνήμις θεός Ὀλύμπιος δῶμα ἔχω Πρίαμος ἱκνέομαι δατέομαι
+    Τένεδος#0              (  2)  Tenedos  | κλύω ἀργυρότοξος Χρύση ἀμφιβαίνω Κίλλα ζάθεος ἀνάσσω
+    Θήβη#0                 (  1)    | οἴχομαι ἱερός πόλις Ἠετίων
+    Λῆμνος#0               (  1)  Lemnos; from Lemnos; Lemnian  | ἥλιος καταδύω καταπίπτω
+    πτολίεθρον#0           (  1)    | ἴσος ἔχω γέρας Ἀχαιός Τρώς ἐκπέρθω ναίω
+    Χρύση#0                (  4)    | κλύω ἀργυρότοξος ἀμφιβαίνω Κίλλα ζάθεος Τένεδος ἀνάσσω ἄγω ἱερός ἑκατόμβη Δαναοί ἀεικής
+    Κίλλα#0                (  2)    | κλύω ἀργυρότοξος Χρύση ἀμφιβαίνω ζάθεος Τένεδος ἀνάσσω
+    Ἀχαιΐς#0               (  1)  the Achaian land; Achaian woman  | μέγας πένθος γαῖα ἱκάνω
+    Ἄργος#0                (  1)    | γῆρας ἔπειμι οἶκος πάτρη ἱστός ἐποίχομαι λέχος ἀντιάω
+    ἄπιος#0                (  1)  pear-tree, Pyrus communis; pear; Euphorbia Apios, tuberous spurge  | μεθομιλέω Πύλος ἔρχομαι γαῖα
+    ναίω#0                 (  1)  dwell, abide; dwell in, inhabit; to be inhabited; lie, be situated  | ἴσος ἔχω γέρας Ἀχαιός Τρώς ἐκπέρθω πτολίεθρον
+    Ἴλιος#0                (  1)  Ilios; Ilium, the city of Ilus, Troy; from Troy; before Troy  | ἀνίστημι Κάλχας Θεστορίδης οἰωνοπόλος ἄριστος οἶδα ναῦς ἡγέομαι Ἀχαιός μαντοσύνη πόρω Φοῖβος
+
+FIELD 11  |  14 senses  |  know, perceive, better, des
+    οἶδα#0                 ( 12)  know; knew; Stadtrecht von Gortyn; Koische Forschungen  | πᾶς ναῦς Ἀχαιός ἀγορεύω θεός ἕκαστος ἀνίστημι Κάλχας Θεστορίδης οἰωνοπόλος ἄριστος ἡγέομαι
+    νοέω#0                 (  5)  Excerpta e libris Herodiani; perceive by the eyes, observe; perceive b  | πατήρ οἶδα ναῦς σῶς μάχομαι Ἀχαιός ἀποστείχω Ἥρα πρόφρων τλάω εἶπον ἔπος
+    εἶδον#0                ( 10)  see; to be seen; seem; know  | Ἀχιλλεύς τοῖος ἀνήρ οἷος Πειρίθοος Δρύας ποιμήν λαός Καινεύς Ἐξάδιος ἀντίθεος Πολύφημος
+    γιγνώσκω#0             (  4)  come to know, perceive; know; know by reflection; know by observation  | Ἀχαιός Παλλάς Ἀθήνη πειράω φρήν μιμνήσκω παρέζομαι λαμβάνω γόνυ ἐθέλω Τρώς ἀρήγω
+    εἴκω1#0                (  3)  to be like, seem likely  | εἶμι νύξ ὄσσε πῦρ λαμπετάω γέρας ἑτοιμάζω οἶος Ἀργεῖος ἀγέραστος
+    ὁράω#0                 (  3)  Inscr. des tombeaux des rois; I know; a)ware; see, look  | κήδω Δαναοί θνήσκω Ἀχιλλεύς δακρύω ἑταῖρος ἕζομαι λιάζομαι θίς ἅλς1 πολιός ἀπείρων
+    νέομαι#0               (  1)  come; go back; return; násate  | ἐρεθίζω σῶς
+    πυνθάνομαι#0           (  1)  learn; by hearsay; by inquiry; from  | Πρίαμος γηθέω παῖς Τρώς μέγας χαίρω θυμός πᾶς μάρναμαι βουλή Δαναοί μάχομαι
+    ἐμφύω#0                (  1)  implant; planted; grow in; is implanted  | Θέτις ἅπτω γόνυ ἔχω
+    ἀμείνων#0              (  4)  better; stouter, stronger, braver; the better sort; ʼtis better  | πείθω ἐθέλω δίδωμι βία πατήρ
+    ἕκαστος#0              (  3)  each; every one; every single; all and each severally  | καταδύω λαμπρός φάος ἥλιος κατακείω βαίνω οἶκος δῶμα περικλυτός ἀμφιγυήεις Ἥφαιστος ποιέω
+    νικάω#0                (  1)  conquer, prevail; conqueror; conquered; won the first prize  | δαίς1 ἐσθλός ἦδος χείρων
+    οἷος#0                 (  1)  such as, of what sort; what a man; what; like as  | εἶδον τοῖος ἀνήρ Πειρίθοος Δρύας ποιμήν λαός Καινεύς Ἐξάδιος ἀντίθεος Πολύφημος Θησεύς
+    ὀφθαλμός#0             (  1)  eye; eyes; to the eye; sight  | ἀνέχω κήδω φίλος εἶδον θείνω
+
+FIELD 14  |  14 senses  |  dreams, augur, strong, powerful busied
+    ὠκύμορος#0             (  2)    | πέλω ὀιζυρός πᾶς τιμάω υἱός
+    αἰχμητής#0             (  2)  spearman, warrior; pointed; spear-wielding; warlike  | Τρώς ἔρχομαι μάχομαι αἴτιος τίθημι θεός προτίθημι ὄνειδος μυθέομαι
+    βουληφόρος#0           (  1)  counselling, advising; like a counsellor  | ἀνήρ εἷς ἀρχός Αἴας Ἰδομενεύς δῖος Ὀδυσσεύς Πηλείδης πᾶς ἔκπαγλος Ἑκάεργος ἱλάσκομαι
+    δικασπόλος#0           (  1)  qṷel; one who gives law, judge  | υἱός Ἀχαιός παλάμη φορέω θέμις Ζεύς ἐρύω2
+    οὐτιδανός#0            (  2)  of no account, worthless; reckless; quid; cid  | δημοβόρος βασιλεύς ἀνάσσω δειλός καλέω πᾶς ἔργον ὑπείκω εἶπον
+    δημοβόρος#0            (  1)  devourer of the common stock  | βασιλεύς οὐτιδανός ἀνάσσω
+    οἰωνοπόλος#0           (  1)  one busied with the flight and cries of birds, an augur; augur  | ἀνίστημι Κάλχας Θεστορίδης ἄριστος οἶδα ναῦς ἡγέομαι Ἀχαιός Ἴλιος μαντοσύνη πόρω Φοῖβος
+    ἀμύμων#0               (  2)  blameless, noble, excellent; a physician  | αὐδάω μάντις Ζεύς Ὠκεανός Αἰθίοψ χθιζός βαίνω δαίς1
+    ὀνειροπόλος#0          (  1)  interpreter of dreams; belonging to dreams  | μάντις εἴρω2 ἱερεύς ὄναρ Ζεύς εἶπον τόσος χώομαι Φοῖβος Ἀπόλλων εὐχωλή ἐπιμέμφομαι
+    κοσμήτωρ#0             (  2)  one who marshals an army, commander, leader; guide, director; one who   | λίσσομαι πᾶς Ἀχαιός Ἀτρείδης λαός
+    ἀστεροπητής#0          (  2)  lightener  | Ὀλύμπιος ἐθέλω ἕδος στυφελίζω Ζεύς λέχος εἶμι
+    ἀγορητής#0             (  1)  speaker; public auctioneer  | Νέστωρ ἡδυεπής ἀνορούω λιγύς Πύλιος γλῶσσα μέλι γλυκύς ῥέω αὐδή
+    ἴφθιμος#0              (  1)  stout, strong; comely, stately; strong, powerful  | πολύς ψυχή Ἅιδης προιάπτω ἥρως
+    ἄριστος#0              (  4)  best; noblest; a chief; bravest  | Ἀχαιός Κάλχας ναῦς Ἀπόλλων εὔχομαι Δαναοί Ἀγαμέμνων τίνω ἀνίστημι Θεστορίδης οἰωνοπόλος οἶδα
+
+FIELD 0  |  14 senses  |  early, morn, light, day
+    φαίνω#0                (  3)  bring to light, cause to appear; make; appear; show by baring  | ξανθός κόμη αἱρέω Πηλείων οἶος δεινός ὄσσε ἠριγένεια ῥοδοδάκτυλος ἠώς ἀνάγω στρατός
+    ἥλιος#0                (  4)  sun; the light of life, live; East; eastern  | καταδύω ἕκαστος κνέφας ἔρχομαι κοιμάω πρυμνήσιος ναῦς καταπίπτω Λῆμνος πρόπας ἦμαρ δαίνυμι
+    καταδύω#0              (  4)  go down, sink, set; to be sunk; disabled; duck  | ἥλιος ἕκαστος κνέφας ἔρχομαι κοιμάω πρυμνήσιος ναῦς καταπίπτω Λῆμνος πρόπας ἦμαρ δαίνυμι
+    ἠέριος#0               (  2)  early, at; with early morn; misty, dimly seen; high in air  | ἀναβαίνω μέγας οὐρανός Ὄλυμπος παρέζομαι
+    ἠριγένεια#0            (  1)  early-born, child of morn; morn; morning; a day  | φαίνω ῥοδοδάκτυλος ἠώς ἀνάγω στρατός εὐρύς Ἀχαιός
+    ἠώς#0                  (  2)  dawn; light of day; morning; at morn, early  | ἠριγένεια φαίνω ῥοδοδάκτυλος ἀνάγω στρατός εὐρύς Ἀχαιός δωδέκατος γίγνομαι Ὄλυμπος εἶμι θεός
+    πορφύρεος#0            (  1)  heaving, surging; gushing; onrushing; lurid  | κῦμα στεῖρα μέγας ἰάχω ναῦς εἶμι
+    κνέφας#0               (  1)  darkness; evening dusk, twilight; morning twilight; dawn  | ἥλιος καταδύω ἔρχομαι κοιμάω πρυμνήσιος ναῦς
+    λαμπετάω#0             (  1)  shine; shining  | ὄσσε πῦρ εἴκω1
+    ὀμίχλη#0               (  1)  mist, fog; cloud-like darkness, gloom; the steam of cookery; miglà  | ἀναδύνω πολιός ἅλς1
+    φάος#0                 (  1)  light; daylight; day; the light  | ἕκαστος καταδύω λαμπρός ἥλιος κατακείω βαίνω οἶκος δῶμα περικλυτός ἀμφιγυήεις Ἥφαιστος ποιέω
+    λαμπρός#0              (  1)  bright, radiant; bright; toga candida; clear, limpid  | ἕκαστος καταδύω φάος ἥλιος κατακείω βαίνω οἶκος δῶμα περικλυτός ἀμφιγυήεις Ἥφαιστος ποιέω
+    στεῖρα#0               (  1)  forepart of a shipʼs keel; stem; cutwater; bandage  | κῦμα πορφύρεος μέγας ἰάχω ναῦς εἶμι
+    πῦρ#0                  (  1)  fire; funeral-fire; burn; sacrificial fire  | ὄσσε λαμπετάω εἴκω1
+
+FIELD 19  |  12 senses  |  thigh, knee, nail, sheath
+    κολεόν#0               (  2)  sheath, scabbard; sheath, wing-case  | μέγας ξίφος ὁρμαίνω φρήν θυμός ἕλκω ἔρχομαι Ἀθήνη ὠθέω
+    ὦμος#0                 (  2)  the shoulder with the upper arm; the lower; arms; the shoulder  | χώομαι βαίνω Ὄλυμπος κάρηνον κῆρ τόξον ἔχω ἀμφηρεφής φαρέτρα κλάζω ὀιστός κινέω
+    μηρός#0                (  2)  thigh; his thigh; beside; thigh-bone  | ἦτορ στῆθος λάσιος μερμηρίζω φάσγανον ὀξύς ἐρύω1 ἀνίστημι Ἀτρείδης ἐναρίζω χόλος παύω
+    ἀνθερεών#0             (  1)  chin; neck, throat; mouth  | δεξιτερός αἱρέω λίσσομαι προσεῖπον Ζεύς Κρονίων ἄναξ
+    χείρ#0                 ( 18)  the hand; closed; open, flat; a single hand  | ἔχω Ἀπόλλων φίλος ναῦς Ἀχαιός εὔχομαι τίθημι ἔρχομαι θοός λύω θυγάτηρ φέρω
+    γόνυ#0                 (  4)  knee; clasping the knees; on my knees; the knee  | λαμβάνω Ἀχαιός μιμνήσκω παρέζομαι ἐθέλω Τρώς ἀρήγω πρύμνα ἅλς1 εἴλω κτείνω πᾶς
+    βιός#0                 (  1)  bow; jiyā´; gijà  | δεινός κλαγγή γίγνομαι ἀργύρεος
+    ὀβελός#0               (  1)  spit; pointed square pillar, obelisk; horizontal line  | μῆρα καίω σπλάγχνον πατέομαι μιστύλλω πείρω ὀπτάω ἐρύω1 πᾶς
+    δόρυ#0                 (  1)  stem, tree; plank; beam; mast  | αἷμα κελαινός ἐρωέω
+    ἧλος#0                 (  1)  nail-head, stud; nail; acutus; spur  | σκῆπτρον βάλλω γαῖα χρύσεος πείρω
+    βηλός#0                (  1)  threshold  | ἀλέξω μέμαα ῥίπτω πούς τεταγών θεσπέσιος
+    δεσμός#0               (  1)  band, bond, anything for tying and fastening; halter; mooring-cable; d  | καλέω ἔρχομαι θεά ὑπολύω ἑκατόγχειρος μακρός Ὄλυμπος Βριάρεως θεός ἀνήρ πᾶς Αἰγαίων
+
+FIELD 38  |  12 senses  |  shooting, far, fingered large, feeding
+    ἑκηβόλος#0             (  6)  attaining his aim; far-shooting  | Ἀπόλλων ἄποινα λύω ἔχω ἔρχομαι θοός ναῦς Ἀχαιός θυγάτηρ φέρω ἀπερείσιος στέμμα
+    ἑκατηβελέτης#0         (  1)  six  | Ἀχιλλεύς κέλομαι Ζεύς φίλος μυθέομαι μῆνις Ἀπόλλων ἄναξ
+    βωτιάνειρα#0           (  1)  man-feeding, nurse of heroes  | βοῦς ἐλαύνω ἵππος Φθία ἐριβῶλαξ καρπός1 δηλέομαι πολύς ὄρος σκιόεις θάλασσα ἠχήεις
+    ἑκατηβόλος#0           (  1)  far-darting; shooting a hundred; hitting the mark at will  | Ἀπόλλων Χρύσης ἱερεύς ἔρχομαι θοός ναῦς Ἀχαιός χαλκοχίτων λύω θυγάτηρ φέρω ἀπερείσιος
+    ἐριβῶλαξ#0             (  1)  with large clods; very fertile  | βοῦς ἐλαύνω ἵππος Φθία βωτιάνειρα καρπός1 δηλέομαι πολύς ὄρος σκιόεις θάλασσα ἠχήεις
+    ἑλικῶπις#0             (  1)    | Δαναοί ἀεικής λοιγός ἀπωθέω πατήρ φίλος δίδωμι κόρη ἀπρίατος ἀνάποινος ἄγω ἱερός
+    ὑψιβρεμέτης#0          (  1)  high-thundering  | μήτηρ τίκτω μινυνθάδιος τιμή ὀφέλλω Ὀλύμπιος ἐγγυαλίζω Ζεύς
+    ῥοδοδάκτυλος#0         (  1)  rosy-fingered  | ἠριγένεια φαίνω ἠώς ἀνάγω στρατός εὐρύς Ἀχαιός
+    τερπικέραυνος#0        (  1)  delighting in thunder  | εἴρω2 ἔπος Ζεύς εἶμι Ὄλυμπος ἀγάννιφος πείθω
+    εὔκομος#0              (  1)  lovely-haired; well-fleeced; with goodly foliage  | πολύς κίω ἀράομαι γεραιός Ἀπόλλων ἄναξ τίκτω Λητώ
+    ἑκατόμβη#0             ( 10)  an offering of a hundred oxen; sacrifice; eye-salve  | ἱερός Ἀπόλλων ἄγω Φοῖβος εὐχωλή ἐπιμέμφομαι αἴξ λοιγός Ἀγαμέμνων Δαναοί Χρύση βαίνω
+    περικλυτός#0           (  1)  famous, renowned; excellent, noble  | ἕκαστος καταδύω λαμπρός φάος ἥλιος κατακείω βαίνω οἶκος δῶμα ἀμφιγυήεις Ἥφαιστος ποιέω
+
+FIELD 3  |  12 senses  |  bull, bird, night, chariot
+    κύων#0                 (  3)  dog, bitch; shepherds’ dogs; watch-dogs; hounds  | ἑλώριον τεύχω οἰωνός πᾶς ὀρεύς πρῶτος ἐποίχομαι ἀργός οἰνοβαρής ὄμμα ἔχω καρδία
+    ὀρεύς#0                (  1)  mule  | πρῶτος ἐποίχομαι κύων ἀργός
+    φήρ#0                  (  1)  the Centaurs; Satyrs  | κράτιστος μάχομαι ὀρεσκῷος
+    ταῦρος#0               (  2)  bull; priest of Poseidon Taureios; the bull as a sign of the Zodiac; t  | αἴξ Σμινθεύς χαρίεις ναός ἐρέφω πίων μηρία καίω κραίνω ἔλδωρ ἔρδω Ἀπόλλων
+    ὀρεσκῷος#0             (  1)  lying on mountains, mountain-bred, wild  | κράτιστος μάχομαι φήρ
+    αἴξ#0                  (  3)  goat; ibex; the star Capella; goose  | ταῦρος Ἀπόλλων ἑκατόμβη Σμινθεύς χαρίεις ναός ἐρέφω πίων μηρία καίω κραίνω ἔλδωρ
+    ἔλαφος#0               (  1)  deer, Cervus elaphus; hart; stag; hind  | οἰνοβαρής κύων ὄμμα ἔχω καρδία πόλεμος λαός θωρήσσω λόχος εἶμι ἀριστεύς Ἀχαιός
+    οἰωνός#0               (  1)  a large bird, bird of prey; birds; a bird of omen; augury  | ἑλώριον τεύχω κύων πᾶς
+    ἀρνός#0                (  1)    | μάντις εἴρω2 ἱερεύς ὀνειροπόλος ὄναρ Ζεύς εἶπον τόσος χώομαι Φοῖβος Ἀπόλλων εὐχωλή
+    ἵππος#0                (  1)  horse; mare; team of chariot-horses; the chariot  | βοῦς ἐλαύνω Φθία ἐριβῶλαξ βωτιάνειρα καρπός1 δηλέομαι πολύς ὄρος σκιόεις θάλασσα ἠχήεις
+    βοῦς#0                 (  1)  bullock, bull, ox; cow; cattle; buffalo  | ἐλαύνω ἵππος Φθία ἐριβῶλαξ βωτιάνειρα καρπός1 δηλέομαι πολύς ὄρος σκιόεις θάλασσα ἠχήεις
+    νύξ#0                  (  1)  night; mght-season; a night; by night  | εἶμι εἴκω1
+
+FIELD 30  |  12 senses  |  disperse, prepare, mischief, delight
+    κοιμάω#0               (  2)  lull, put to sleep; put to bed; still, calm; soothe, assuage  | ἥλιος καταδύω κνέφας ἔρχομαι πρυμνήσιος ναῦς γλυκύς ὕπνος ἱκάνω
+    δαίνυμι#0              (  2)  give a banquet; feast; to give; thou shalt be  | δαίς1 παύω πόνος τεύχω θυμός δέω ἴσος πρόπας ἦμαρ ἥλιος καταδύω
+    τρέπω#0                (  1)  Studien zum griech. Perf; turn; direct; show
+    δηλέομαι#0             (  1)  hurt, do a mischief to; did; a mischief; slew  | βοῦς ἐλαύνω ἵππος Φθία ἐριβῶλαξ βωτιάνειρα καρπός1 πολύς ὄρος σκιόεις θάλασσα ἠχήεις
+    ἑτοιμάζω#0             (  1)  get ready, prepare; to those furnishing; cause to be prepared; prepare  | γέρας οἶος Ἀργεῖος ἀγέραστος εἴκω1
+    πίμπλημι#0             (  1)  fill; fill full of; filled; full  | μένος μέγας φρήν ἀμφιμέλας
+    φθίω#0                 (  1)  kṣiṇā´ti, kṣiṇóti; Kṣīyante; ákṣitas; kṣeṣya  | γενεά μέροψ ἄνθρωπος τρέφω γίγνομαι Πύλος ἠγάθεος
+    διέπω#0                (  1)  manage, conduct; drove; away; traverse  | πλείων πολυάιξ πόλεμος χείρ
+    ἡγέομαι#0              (  1)  go before, lead the way; precede; to go before; might guide  | ἀνίστημι Κάλχας Θεστορίδης οἰωνοπόλος ἄριστος οἶδα ναῦς Ἀχαιός Ἴλιος μαντοσύνη πόρω Φοῖβος
+    τέρπω#0                (  1)  delight, gladden, cheer; will give; pleasure; give delight  | φρήν ἀκούω
+    σκίδνημι#0             (  1)  disperse; to be spread; scattered, disperse; began to spread his light  | κλισία ναῦς
+    στέλλω#0               (  1)  make ready; rig; fit; out  | λιμήν πολυβενθής ἱκνέομαι ἱστίον τίθημι ναῦς μέλας
+
+FIELD 9  |  12 senses  |  greedy, silver bow, terribly, ruthless
+    κερδαλεόφρων#0         (  1)  greedy of gain; crafty  | ἀναίδεια ἐπιέννυμι πρόφρων ἔπος πείθω Ἀχαιός ὁδός ἔρχομαι ἀνήρ μάχομαι
+    θεοείκελος#0           (  1)  godlike  | ἀγαθός Ἀχιλλεύς κλέπτω νόος παρέρχομαι πείθω
+    αἰνός#0                (  2)  dread, horrible; dread, terrible; terribly; strangely, exceedingly  | τέκνον τρέφω τίκτω Κρονίδης ποῖος μῦθος εἶπον
+    φιλοκτέανος#0          (  1)  loving possessions, greedy of gain, covetous  | Ἀτρείδης κύδιστος πᾶς δίδωμι γέρας μεγάθυμος Ἀχαιός
+    ἀργυρότοξος#0          (  2)  with silver bow; bearer of the silver bow  | κλύω Χρύση ἀμφιβαίνω Κίλλα ζάθεος Τένεδος ἀνάσσω
+    ἔκπαγλος#0             (  1)  terrible, violent; terribly, vehemently, exceedingly; beyond all measu  | ἀνήρ εἷς ἀρχός βουληφόρος Αἴας Ἰδομενεύς δῖος Ὀδυσσεύς Πηλείδης πᾶς Ἑκάεργος ἱλάσκομαι
+    ἐπιέννυμι#0            (  1)  put on besides; over; threw; clad in  | ἀναίδεια κερδαλεόφρων πρόφρων ἔπος πείθω Ἀχαιός ὁδός ἔρχομαι ἀνήρ μάχομαι
+    κύδιστος#0             (  1)  most honoured, noblest; greatest; profits it  | Ἀτρείδης φιλοκτέανος πᾶς δίδωμι γέρας μεγάθυμος Ἀχαιός
+    δολομήτης#0            (  1)    | θεός συμφράζομαι βουλή
+    οἰνοβαρής#0            (  1)  heavy with wine  | κύων ὄμμα ἔχω καρδία ἔλαφος πόλεμος λαός θωρήσσω λόχος εἶμι ἀριστεύς Ἀχαιός
+    ἀναιδής#0              (  1)  shameless; ruthless; the reckless, ruthless; greedy  | μέγας ἕπομαι χαίρω τιμή ἄρνυμαι Μενέλαος κυνώπης Τρώς
+    ἐπιείκελος#0           (  1)  like  | εἶδον τοῖος ἀνήρ οἷος Πειρίθοος Δρύας ποιμήν λαός Καινεύς Ἐξάδιος ἀντίθεος Πολύφημος
+
+FIELD 36  |  11 senses  |  peleus, son, nether, world place
+    Πηλείδης#0             (  7)    | Ἀχιλλεύς ἀνήρ βασιλεύς κλισία μῆνις ἀείδω θεά οὐλόμενος εἷς ἀρχός βουληφόρος Αἴας
+    Ἀτρείδης#0             ( 21)  son of Atreus  | Ἀχαιός Ἀγαμέμνων λαός πᾶς θυμός εὐρύς κρείων λίσσομαι κοσμήτωρ δίδωμι ἁνδάνω ἀνίστημι
+    Πηλείων#0              (  2)    | ἄχος γίγνομαι ξανθός κόμη αἱρέω οἶος φαίνω
+    Βρισηίς#0              (  4)    | ἄγω καλλιπάρηος κλισία εἶμι γέρας εἶδον ὅσος φέρτερος στυγέω ἴσος φημί ὁμοιόω
+    Ἀτρεΐων#0              (  1)    | χόλος λαμβάνω
+    Χρυσηίς#0              (  6)    | καλλιπάρηος βαίνω ναῦς Δαναοί θεοπροπέω ἀγορεύω ἑκηβόλος ἄλγος τεύχω κόρη ἀγλαός ἄποινα
+    Βρισεύς#0              (  1)    | νέος βαίνω κῆρυξ ἄγω κόρη δίδωμι υἱός Ἀχαιός
+    Μενοιτιάδης#0          (  1)    | Πηλείδης κλισία ναῦς ἴσος εἶμι ἑταῖρος
+    Πηλεύς#0               (  1)  Peleus; son of Peleus; to Peleus’ son  | μηνίω ναῦς πάρημαι ὠκύπορος διογενής υἱός πούς ὠκύς Ἀχιλλεύς
+    Θεστορίδης#0           (  1)    | ἀνίστημι Κάλχας οἰωνοπόλος ἄριστος οἶδα ναῦς ἡγέομαι Ἀχαιός Ἴλιος μαντοσύνη πόρω Φοῖβος
+    Ἅιδης#0                (  1)  Hades; nether; to the nether world; place of departed spirits  | πολύς ἴφθιμος ψυχή προιάπτω ἥρως
+
+FIELD 13  |  11 senses  |  wish, owe, willing, urge
+    ἐθέλω#0                ( 11)  to be willing; wish; wish to; wish that  | πᾶς βασιλεύς ἔχω δίδωμι Ὀλύμπιος Ἀχαιός Δαναοί θεοπροπέω ἀγορεύω ἑκηβόλος ἄλγος τεύχω
+    τλάω#0                 (  4)  suffer, undergo; hold out, endure, be patient, submit; I submitted; bo  | οἰνοβαρής κύων ὄμμα ἔχω καρδία ἔλαφος πόλεμος λαός θωρήσσω λόχος εἶμι ἀριστεύς
+    κέλομαι#0              (  3)  urge, exhort, command; commands; advise; constrained  | Ἀχιλλεύς Ζεύς φίλος μυθέομαι μῆνις Ἀπόλλων ἑκατηβελέτης ἄναξ ἀποδίδωμι πρῶτος θεός ἱλάσκομαι
+    βούλομαι#0             (  3)  will, wish, be willing; wish is will; willed; that supports  | μάντις εἴρω2 ἱερεύς ὀνειροπόλος ὄναρ Ζεύς εἶπον τόσος χώομαι Φοῖβος Ἀπόλλων εὐχωλή
+    δύναμαι#0              (  4)  to be able, strong enough; canst; powerful, mighty; multum valet  | ἄχνυμαι χραισμέω πολύς Ἕκτωρ ἀνδροφόνος θνήσκω πίπτω περιέχω παῖς ἐύς πράσσω
+    ὀφείλω#0               (  1)  owe, have to pay; account for; do I owe?; to be debtor  | ναῦς ἀδάκρυτος ἀπήμων ἧμαι αἶσα
+    ἄνωγα#0                (  1)  command, order; advise, urge; bade; bids, prompts  | λαός Ἀτρείδης ἀπολυμαίνομαι
+    ἐπιεικής#0             (  1)  fitting, meet, suitable; meet; a fair; reasonable  | ἀκούω θεός πρότερος οἶδα ἄνθρωπος
+    κάμνω#0                (  1)  work; wrought; build; win by toil  | ὀλίγος φίλος ἔρχομαι ἔχω ναῦς πολεμίζω
+    χρή#0                  (  1)  sum; it is necessary; it must needs, one must; ought  | σφωίτερος θεά ἔπος ἐρύω2 θυμός χολόω
+    μέλλω#0                (  1)  to be destined; likely to; belike; doubtless  | φίλος
+
+FIELD 1  |  11 senses  |  grief, gift, splendid, thigh bones
+    ἄλγος#0                (  3)  pain; sufferings; grief; grief for  | δίδωμι ἑκηβόλος μυρίος Ἀχαιός τίθημι Δαναοί θεοπροπέω ἀγορεύω τεύχω κόρη Χρυσηίς ἀγλαός
+    στέμμα#0               (  3)  wreath, garland, chaplet; shrine with chaplcts decked; crowns of offic  | ναῦς Ἀπόλλων σκῆπτρον ἔρχομαι θοός Ἀχαιός λύω θυγάτηρ φέρω ἀπερείσιος ἄποινα ἔχω
+    δῶρον#0                (  3)  gift, present, gift of honour; votive gift; offering; the gifts of  | τόσος πάρειμι ἀγλαός ὕβρις πολύς λωίων στρατός εὐρύς Ἀχαιός ἀφαιρέω ἀντίος εἶπον
+    μηρία#0                (  1)  thigh-bones; thigh-bones in their fat; thighs  | Σμινθεύς χαρίεις ναός ἐρέφω πίων καίω ταῦρος αἴξ κραίνω ἔλδωρ
+    ἀπερείσιος#0           (  2)  countless  | Ἀπόλλων ἔρχομαι θοός ναῦς Ἀχαιός λύω θυγάτηρ φέρω ἄποινα στέμμα ἔχω χείρ
+    κῆδος#0                (  1)  care about; matter; anxiety, grief; troubles  | ἄναξ Χρύσης πέμπω ἀνήρ Ἀγαμέμνων παῖς ἄγω Φοῖβος ἱερός ἑκατόμβη ῥέζω Δαναοί
+    ἀγλαός#0               (  4)  splendid, shining, bright; splendid, beautiful; noble, glorious; beaut  | δέχομαι ἄποινα πᾶς ἐπευφημέω Ἀχαιός αἰδέομαι ἱερεύς Δαναοί θεοπροπέω ἀγορεύω ἑκηβόλος ἄλγος
+    μυρίος#0               (  1)  numberless, countless, infinite; measureless, immense, in finite; boun  | Ἀχαιός ἄλγος τίθημι
+    τόξον#0                (  1)  bow; the bow; by guess; bowmanship, archery  | βαίνω Ὄλυμπος κάρηνον χώομαι κῆρ ὦμος ἔχω ἀμφηρεφής φαρέτρα
+    ἄποινα#0               (  7)  ransom; price paid; to recover oneʼs freedom; to save oneʼs life  | Ἀχαιός ἑκηβόλος Ἀπόλλων δέχομαι λύω θυγάτηρ ἔχω ἱερεύς ἀγλαός ἔρχομαι θοός ναῦς
+    ὄμμα#0                 (  1)  eye; straight; look; expression  | οἰνοβαρής κύων ἔχω καρδία ἔλαφος πόλεμος λαός θωρήσσω λόχος εἶμι ἀριστεύς Ἀχαιός
+
+FIELD 21  |  11 senses  |  mortal, earth, ones, perfect
+    μάκαρ#0                (  3)  blessed, happy; the blessed ones; gods; blest, fortunate  | θεός μάρτυρος θνητός ἄνθρωπος βασιλεύς ἀπηνής χρεώ γίγνομαι ἀεικής λοιγός ἀμύνω ὑποδείδω
+    ἐπιχθόνιος#0           (  2)  upon the earth, earthly; earthly ones, men on earth; who haunt the ear  | κράτιστος τρέφω ἀνήρ βροτός μάχομαι
+    διοτρεφής#0            (  1)  fostered, cherished by Zeus; fed by rain  | ἔχθιστος βασιλεύς
+    ἀθάνατος#0             (  6)    | εἶδον πατήρ τοῖος ἀνήρ οἷος Πειρίθοος Δρύας ποιμήν λαός Καινεύς Ἐξάδιος ἀντίθεος
+    ὠκύπορος#0             (  2)    | ναῦς πάρημαι μηνίω Ἀχαιός διογενής Πηλεύς υἱός πούς ὠκύς Ἀχιλλεύς
+    χαλκοχίτων#0           (  1)  bronze-clad  | Ἀπόλλων Χρύσης ἱερεύς ἑκατηβόλος ἔρχομαι θοός ναῦς Ἀχαιός λύω θυγάτηρ φέρω ἀπερείσιος
+    μέροψ#0                (  1)  dividing the voice; articulate; bee-eater, Merops apiaster  | γενεά ἄνθρωπος φθίω τρέφω γίγνομαι Πύλος ἠγάθεος
+    θνητός#0               (  2)  liable to death, mortal; mortals; mortal women; mortal creatures  | θεός μάρτυρος μάκαρ ἄνθρωπος βασιλεύς ἀπηνής χρεώ γίγνομαι ἀεικής λοιγός ἀμύνω λοίγιος
+    κορωνίς#0              (  1)  crook-beaked; curved; with crumpled horns; anything curved  | εἶμι Φθία πολύς φέρτατος ναῦς
+    βροτός#0               (  1)  mortal man; dead; mṛtás; morior  | ἐπιχθόνιος μάχομαι
+    τέλειος#0              (  1)  perfect; entire, without spot; blemish; perfect, of full tale  | μάντις εἴρω2 ἱερεύς ὀνειροπόλος ὄναρ Ζεύς εἶπον τόσος χώομαι Φοῖβος Ἀπόλλων εὐχωλή
+
+FIELD 25  |  11 senses  |  luo, shut, look gaze, loosen
+    ἐρύω2#0                (  2)  se-srū; e-serū; protect, guard; lie in wait for  | χρή σφωίτερος θεά ἔπος θυμός χολόω υἱός Ἀχαιός παλάμη φορέω δικασπόλος θέμις
+    λύω#0                  (  5)  luo; re-luo, solvo; se-luo), solūtus; loosen  | Ἀπόλλων ναῦς Ἀχαιός ἄποινα ἑκηβόλος ἔρχομαι θοός θυγάτηρ φέρω ἀπερείσιος στέμμα ἔχω
+    στυφελίζω#0            (  1)  strike hard; drives away; thrust; treat roughly, maltreat  | ἐθέλω Ὀλύμπιος ἀστεροπητής ἕδος
+    ἀπολυμαίνομαι#0        (  2)  cleanse oneself by bathing; from an  | λαός Ἀτρείδης ἄνωγα
+    ἐγγυαλίζω#0            (  1)  put into the palm of the hand, put into the hand; will put; into; hand  | μήτηρ τίκτω μινυνθάδιος τιμή ὀφέλλω Ὀλύμπιος Ζεύς ὑψιβρεμέτης
+    ὑπολύω#0               (  1)  loosen beneath; below; made; give way under him  | καλέω ἔρχομαι θεά δεσμός ἑκατόγχειρος μακρός Ὄλυμπος Βριάρεως θεός ἀνήρ πᾶς Αἰγαίων
+    ῥέζω#0                 (  2)  do, act, deal; do, accomplish, make; if once done; wronged  | ἀνήρ ἱλάσκομαι ἱερός ἄναξ εἷς ἀρχός βουληφόρος Αἴας Ἰδομενεύς δῖος Ὀδυσσεύς Πηλείδης
+    εἴλω#0                 (  1)  shut in; shut out; let them be shut out; ponded  | Ἀχαιός μιμνήσκω παρέζομαι λαμβάνω γόνυ ἐθέλω Τρώς ἀρήγω πρύμνα ἅλς1 κτείνω πᾶς
+    λεύσσω#0               (  1)  look; gaze upon, see; look, gaze; lives  | πᾶς γέρας ἔρχομαι
+    ἐξαλαπάζω#0            (  1)  sack, storm; empty; of its inhabitants, clear; out  | Ἀχαιός τριπλόος τετραπλόος ἀποτίνω Ζεύς δίδωμι πόλις Τροία εὐτείχεος
+    ἀραρίσκω#0             (  1)  join, fit together; join together, fasten; knitted; pack up  | δίδωμι γέρας μεγάθυμος Ἀχαιός θυμός ἀντάξιος
+
+FIELD 15  |  11 senses  |  youth, safe, small, honour
+    δειλός#0               (  1)  cowardly; vile, worthless; lowborn, mean; afraid of  | οὐτιδανός καλέω πᾶς ἔργον ὑπείκω εἶπον
+    καρτερός#0             (  2)  strong, staunch; the strongest; possessed of, in control of, master of  | θεός δίδωμι θεά γείνομαι μήτηρ φέρτατος πλείων ἀνάσσω
+    ἀδάκρυτος#0            (  1)  without tears; tearless; so that they weep not; abnormally dry  | ὀφείλω ναῦς ἀπήμων ἧμαι αἶσα
+    ἄτιμος#0               (  2)  unhonoured, dishonoured; dishonourable; without the honour of.., not d  | οἴομαι ἄφενος πλοῦτος ἀφύσσω νημερτής ὑπισχνέομαι κατανεύω ἀπεῖπον δέος οἶδα ὅσος πᾶς
+    ἀργαλέος#0             (  1)  painful, troublous; difficult; troublesome, vexatious; hard  | Ὀλύμπιος ἀντιφέρω
+    σῶς#0                  (  3)  safe and sound, alive and well; safe, whole; preserved, extant; intact  | ἐρεθίζω νέομαι βούλομαι λαός ἀπόλλυμι οἶδα νοέω ναῦς μάχομαι Ἀχαιός
+    νέος#0                 (  3)  young, youthful; youths; youth upwards; youth  | ἄμφω βαίνω κῆρυξ ἄγω κόρη Βρισεύς δίδωμι υἱός Ἀχαιός ἔχω πεμπώβολον χείρ
+    ἀγέραστος#0            (  1)  without a gift of honour, unrecompensed  | γέρας ἑτοιμάζω οἶος Ἀργεῖος εἴκω1
+    ὀλίγος#0               (  2)  little, small; small, low; not copious; slight  | φίλος ἔρχομαι ἔχω ναῦς κάμνω πολεμίζω θυμός ἔνειμι
+    ἀπήμων#0               (  1)  unharmed, unhurt; without sorrow; care; doing no harm  | ὀφείλω ναῦς ἀδάκρυτος ἧμαι αἶσα
+    ἀγαθός#0               (  2)  good; well-born, gentle; aristocrats; brave, valiant  | θεοείκελος Ἀχιλλεύς κλέπτω νόος παρέρχομαι πείθω ἀφαιρέω κόρη
+
+FIELD 35  |  11 senses  |  reproach, command, hold, encompasses
+    περιέχω#0              (  1)  encompass, embrace, surround; envelope; encompasses; environment  | δύναμαι παῖς ἐύς
+    ἴσχω#0                 (  1)  keep back, restrain; keep; back; to keep
+    ἐπιτέλλω#0             (  1)  enjoin, prescribe, command; spake; command; enjoined, prescribed
+    ἀνέχω#0                (  2)  hold up, lift up; held up; in fight; hold up  | Χρύσης μέγας εὔχομαι χείρ κήδω φίλος ὀφθαλμός εἶδον θείνω
+    ἀποστείχω#0            (  1)  go away, go home  | νοέω Ἥρα
+    ὀνειδίζω#0             (  1)  cast in; teeth, make a reproach; make a reproach; to be made a reproac  | ἔπος
+    ὑπισχνέομαι#0          (  1)  take upon oneself; undertake to do; promise; she makes promises  | νημερτής κατανεύω ἀπεῖπον δέος οἶδα ὅσος πᾶς ἄτιμος θεός
+    ἐπέλπομαι#0            (  1)  have hopes of, hope; expect  | Ἥρα πᾶς μῦθος οἶδα
+    διείρομαι#0            (  1)    | θεός ἐθέλω νοέω ἕκαστος μεταλλάω
+    φράζω#0                (  2)  point out, show; say, tell; show the way to, show where to find; showe  | σώζω εὔκηλος ἐθέλω
+    ἴπτομαι#0              (  1)  press hard, oppress; hurt, harm  | τιμάω μέγας λαός Ἀχαιός
+
+FIELD 37  |  11 senses  |  god, deity disguised, equal, hostile deity
+    Ἐξάδιος#0              (  1)    | εἶδον τοῖος ἀνήρ οἷος Πειρίθοος Δρύας ποιμήν λαός Καινεύς ἀντίθεος Πολύφημος Θησεύς
+    Αἰγείδης#0             (  1)    | εἶδον τοῖος ἀνήρ οἷος Πειρίθοος Δρύας ποιμήν λαός Καινεύς Ἐξάδιος ἀντίθεος Πολύφημος
+    Καινεύς#0              (  1)    | εἶδον τοῖος ἀνήρ οἷος Πειρίθοος Δρύας ποιμήν λαός Ἐξάδιος ἀντίθεος Πολύφημος Θησεύς
+    Ταλθύβιος#0            (  1)    | Εὐρυβάτης προσεῖπον κῆρυξ ὀτρηρός θεράπων
+    Πειρίθοος#0            (  1)    | εἶδον τοῖος ἀνήρ οἷος Δρύας ποιμήν λαός Καινεύς Ἐξάδιος ἀντίθεος Πολύφημος Θησεύς
+    Δρύας#0                (  1)    | εἶδον τοῖος ἀνήρ οἷος Πειρίθοος ποιμήν λαός Καινεύς Ἐξάδιος ἀντίθεος Πολύφημος Θησεύς
+    Εὐρυβάτης#0            (  1)    | Ταλθύβιος προσεῖπον κῆρυξ ὀτρηρός θεράπων
+    Θησεύς#0               (  1)  Theseus  | εἶδον τοῖος ἀνήρ οἷος Πειρίθοος Δρύας ποιμήν λαός Καινεύς Ἐξάδιος ἀντίθεος Πολύφημος
+    Πολύφημος#0            (  1)    | εἶδον τοῖος ἀνήρ οἷος Πειρίθοος Δρύας ποιμήν λαός Καινεύς Ἐξάδιος ἀντίθεος Θησεύς
+    Βριάρεως#0             (  1)  Aegaeon  | καλέω ἔρχομαι θεά ὑπολύω δεσμός ἑκατόγχειρος μακρός Ὄλυμπος θεός ἀνήρ πᾶς Αἰγαίων
+    ἀντίθεος#0             (  1)  equal to the gods, godlike; contrary to God; hostile deity; disguised   | εἶδον τοῖος ἀνήρ οἷος Πειρίθοος Δρύας ποιμήν λαός Καινεύς Ἐξάδιος Πολύφημος Θησεύς
+
+FIELD 27  |  10 senses  |  blood, heart, feeling, life
+    θυμός#0                ( 18)  soul, spirit; the principle of life, feeling and thought; of strong fe  | Ἀτρείδης Ἀχαιός θεά δαίς1 Ἀγαμέμνων ἁνδάνω παύω μέγας ἵημι λευκώλενος Ἥρα ἄμφω
+    πένθος#0               (  2)  grief, sorrow; for; mourning; a public mourning  | μέγας Ἀχαιΐς γαῖα ἱκάνω φρήν ἱκνέομαι
+    ἰός#0                  (  1)  arrow  | ἵημι
+    δάκρυον#0              (  1)  tear; that which drops like tears, gum, sap  | τίνω Δαναοί βέλος
+    αἷμα#0                 (  1)  blood; streams of blood; anything like blood; dye  | κελαινός ἐρωέω δόρυ
+    κῆρ#0                  (  3)  heart; with all the heart, heartily; exceedingly; throughout  | φίλος βαίνω Ὄλυμπος κάρηνον χώομαι τόξον ὦμος ἔχω ἀμφηρεφής φαρέτρα φθινύθω μένω
+    ἦτορ#0                 (  1)  heart; my heart; the seat of life, life; the seat of feeling, passion,  | στῆθος λάσιος μερμηρίζω φάσγανον ὀξύς ἐρύω1 μηρός ἀνίστημι Ἀτρείδης ἐναρίζω χόλος παύω
+    δάκρυ#0                (  3)  Ev. Luc; tear; drop; lacruma  | χέω φημί καθέζομαι χείρ καταρρέζω ἔπος ὀνομάζω ἀμείβω Θέτις
+    ὕπνος#0                (  1)  sleep, slumber; the sleep of death; sleep; a dream  | κοιμάω γλυκύς ἱκάνω
+    γῆρας#0                (  1)  old age; cast skin, slough of a serpent  | ἔπειμι οἶκος Ἄργος πάτρη ἱστός ἐποίχομαι λέχος ἀντιάω
+
+FIELD 10  |  10 senses  |  send, set, lead, having
+    ἄγω#0                  ( 14)  lead, carry, fetch, bring; taking; take with one; carry off  | δίδωμι καλλιπάρηος ἱερός ἑκατόμβη αἱρέω Ὀδυσσεύς Βρισηίς ἄναξ Δαναοί πατήρ φίλος κόρη
+    αἱρέω#0                (  9)  take with the hand, grasp, seize; to take; having taken up; take away  | γέρας δίδωμι ἄγω Αἴας εἶμι Ὀδυσσεύς καλλιπάρηος ἔχω ἀπαυράω ξανθός κόμη Πηλείων
+    προίημι#0              (  3)  send forth, send forward; send; forward; will allow  | θεός εἶπον ἐπαίτιος Ἀγαμέμνων Βρισηίς κόρη
+    ἔχω#0                  ( 16)  check; seĝh; sáhate; sigis  | Ἀχαιός χείρ Ἀπόλλων γέρας ἔρχομαι ναῦς ἄποινα ἑκηβόλος θοός λύω θυγάτηρ φέρω
+    πέμπω#0                (  3)  send; over; send for; send to  | Φοῖβος ναῦς Χρύσης ἄναξ ἀφαιρέω Χρυσηίς Ἀπόλλων ἑταῖρος θοός ἑλίκωψ Ἀχαιός ἀνήρ
+    φέρω#0                 (  6)  fero; beran; bhárati; náśati  | θοός ναῦς Ἀπόλλων ἔρχομαι Ἀχαιός λύω θυγάτηρ ἀπερείσιος ἄποινα στέμμα ἔχω χείρ
+    τεταγών#0              (  1)  having seized; tango, tetigi  | ἀλέξω μέμαα ῥίπτω πούς βηλός θεσπέσιος
+    προτίθημι#0            (  1)  set before, set out; set before oneself, have set before one; cause; t  | αἰχμητής τίθημι θεός ὄνειδος μυθέομαι
+    ἐξάγω#0                (  1)  lead out, lead away; having brought; out from; bring out of  | διογενής Πάτροκλος κόρη
+    ἀφίημι#0               (  2)  send forth, discharge; throw oneself; give oneself up; let loose
+
+FIELD 12  |  10 senses  |  speech, stature, growth, heart
+    βουλή#0                (  5)  will, determination; counsel, design; counsel, advice; ground of argum  | Πρίαμος συμφράζομαι Ζεύς τελέω γηθέω παῖς Τρώς μέγας χαίρω θυμός πᾶς πυνθάνομαι
+    φρήν#0                 ( 11)  midriff; heart; very heart; sincere  | μέγας τίθημι θεά λευκώλενος Ἥρα μένος ἀμφιμέλας πίμπλημι κακός φίλος μαντεύομαι Κλυταιμνήστρη
+    καρδία#0               (  2)  heart; feelings?; freely; kindly  | Ζεύς οἰνοβαρής κύων ὄμμα ἔχω ἔλαφος πόλεμος λαός θωρήσσω λόχος εἶμι ἀριστεύς
+    μῦθος#0                ( 10)  word, speech; mere word; public speech; plea  | κρατερός τέλλω πείθω ἀπιθέω Ἀθήνη ἀνίστημι ἀπειλέω τελέω Ἥρα πᾶς ἐπέλπομαι οἶδα
+    ἔργον#0                (  6)  weorc; varəza; work; tasks  | Ζεύς ἔπος ὀνίνημι λοίγιος Κλυταιμνήστρη προβέβουλα κουρίδιος ἄλοχος χείρων δέμας φυή φρήν
+    ἐφετμή#0               (  1)  command, behest; behests; demands, prayers  | Θέτις λανθάνω παῖς
+    φυή#0                  (  1)  growth, stature; fine growth, noble stature; in size; growth  | Κλυταιμνήστρη προβέβουλα κουρίδιος ἄλοχος χείρων δέμας φρήν ἔργον
+    γλῶσσα#0               (  1)  tongue; larynx; of talking; frankness of speech  | Νέστωρ ἡδυεπής ἀνορούω λιγύς Πύλιος ἀγορητής μέλι γλυκύς ῥέω αὐδή
+    ψυχή#0                 (  1)  life; lives; dear as life; departed spirit, ghost  | πολύς ἴφθιμος Ἅιδης προιάπτω ἥρως
+    δέμας#0                (  1)  bodily frame; the living body; in stature; shoot  | Κλυταιμνήστρη προβέβουλα κουρίδιος ἄλοχος χείρων φυή φρήν ἔργον
+
+FIELD 29  |  9 senses  |  hear, rouse, escape notice, waste
+    κλύω#0                 (  7)  hear; from; hear of; have heard  | ἀργυρότοξος Χρύση ἀμφιβαίνω Κίλλα ζάθεος Τένεδος ἀνάσσω Φοῖβος Ἀπόλλων θεός ἐπιπείθομαι πότνια
+    λανθάνω#0              (  2)  escape notice; escape; notice; donʼt know  | Θέτις ἐφετμή παῖς
+    φθινύθω#0              (  1)  waste; cause; to pine away; waste away, decay, perish  | φίλος κῆρ μένω
+    κεύθω#0                (  1)  custos; hýdan; cover, hide; covered  | ἐξαυδάω νόος οἶδα ἄμφω
+    ἐρεθίζω#0              (  1)  rouse to anger, rouse to fight; challenge to; provoke to curiosity; ex  | σῶς νέομαι
+    ἀπιθέω#0               (  1)  disobeyed; fail to persuade  | μῦθος Ἀθήνη
+    ἀκούω#0                (  4)  hear; hear of, hear tell of; hear of; from  | εὔχομαι Ἀπόλλων φίλος πατήρ μέγαρον φημί κελαινεφής Κρονίων οἶος ἀθάνατος ἀεικής λοιγός
+    ὄθομαι#0               (  1)  take heed; regard  | κοτέω
+    κλέπτω#0               (  1)  clèpere; hlifan; hliftus; steal  | ἀγαθός θεοείκελος Ἀχιλλεύς νόος παρέρχομαι πείθω
+
+FIELD 6  |  8 senses  |  ward, divide, resolve, apart separate
+    ἐρίζω#0                (  2)  strive, wrangle, quarrel; contend; sophistical disputations; discord  | βασιλεύς πρῶτος διίστημι Ἀτρείδης ἄναξ ἀνήρ δῖος Ἀχιλλεύς Πηλείδης ἐθέλω ὁμοῖος μείρομαι
+    βουλεύω#0              (  1)  take counsel, deliberate; determine; resolve after deliberation; in co  | διατμήγω
+    ὀτρηρός#0              (  1)  quick, nimble, busy, ready; sharp, cutting  | Ταλθύβιος Εὐρυβάτης προσεῖπον κῆρυξ θεράπων
+    διίστημι#0             (  1)  set apart, separate; set; at variance with; divide  | πρῶτος ἐρίζω Ἀτρείδης ἄναξ ἀνήρ δῖος Ἀχιλλεύς
+    θεράπων#0              (  1)    | Ταλθύβιος Εὐρυβάτης προσεῖπον κῆρυξ ὀτρηρός
+    ὄσσε#0                 (  2)  the two eyes; oqṷ-ye  | πῦρ λαμπετάω εἴκω1 δεινός φαίνω
+    ἄμφω#0                 (  4)  both  | ἵημι θεά λευκώλενος Ἥρα θυμός φιλέω κήδω νέος ἐξαυδάω κεύθω νόος οἶδα
+    ἀλέξω#0                (  1)  raákṣati; ward off, turn aside; will ward; off from  | μέμαα ῥίπτω πούς τεταγών βηλός θεσπέσιος
+
+FIELD 5  |  8 senses  |  silver, overgrown, gold, breast
+    στῆθος#0               (  2)  breast; chest; breasts; the breast as the seat of feeling and thought  | χόλος καταπέσσω ἔχω κότος τελέω ἦτορ λάσιος μερμηρίζω φάσγανον ὀξύς ἐρύω1 μηρός
+    ἀργύρεος#0             (  2)  of silver; silver-plated; silver coin  | δεινός κλαγγή γίγνομαι βιός κώπη ἔχω χείρ βαρύς
+    λάσιος#0               (  1)  shaggy, woolly; hairiness; bushy, overgrown; overgrown with  | ἦτορ στῆθος μερμηρίζω φάσγανον ὀξύς ἐρύω1 μηρός ἀνίστημι Ἀτρείδης ἐναρίζω χόλος παύω
+    κυάνεος#0              (  1)    | ὀφρύς νεύω Κρονίων
+    χρύσεος#0              (  3)  golden; enriched; adorned with gold; gold  | Ἀπόλλων σκῆπτρον ἔρχομαι θοός ναῦς Ἀχαιός λύω θυγάτηρ φέρω ἀπερείσιος ἄποινα στέμμα
+    πραπίδες#0             (  1)  midriff, diaphragm; understanding, mind; heart  | ἕκαστος καταδύω λαμπρός φάος ἥλιος κατακείω βαίνω οἶκος δῶμα περικλυτός ἀμφιγυήεις Ἥφαιστος
+    μέγαρον#0              (  2)  large room, hall; the chief room; womenʼs apartment; bedchamber  | πατήρ ἀκούω εὔχομαι φημί κελαινεφής Κρονίων οἶος ἀθάνατος ἀεικής λοιγός ἀμύνω συνδέω
+    ὀφρύς#0                (  1)    | κυάνεος νεύω Κρονίων
+
+FIELD 18  |  8 senses  |  wine, bowl, sweet, drinking
+    κρατήρ#0               (  2)  mixing vessel; bowl, in which wine was mixed with water; bowls of wine  | πᾶς πόσις2 ἐδητύς ἔρος ἵημι κοῦρος ἐπιστέφω ποτός νωμάω ἐπάρχω δέπας θεός
+    νέκταρ#0               (  1)  nectar; wine; perfumed unguent  | θεός ἐνδέξιος πᾶς οἰνοχοέω γλυκύς κρατήρ ἀφύσσω
+    δέπας#0                (  2)  beaker, goblet; bowl  | πόσις2 ἐδητύς ἔρος ἵημι κοῦρος κρατήρ ἐπιστέφω ποτός νωμάω πᾶς ἐπάρχω ἀναίσσω
+    γλυκύς#0               (  3)  sweet to the taste; smell; pleasant, delightful; sweet, fresh  | Νέστωρ ἡδυεπής ἀνορούω λιγύς Πύλιος ἀγορητής γλῶσσα μέλι ῥέω αὐδή θεός ἐνδέξιος
+    ποτός#0                (  1)  drunk, for drinking; that which one drinks, drink; drink; drinking wat  | πόσις2 ἐδητύς ἔρος ἵημι κοῦρος κρατήρ ἐπιστέφω νωμάω πᾶς ἐπάρχω δέπας
+    αἶθοψ#0                (  1)  fiery-looking; flashing; sparkling; fiery  | οἶνος λείβω
+    οἶνος#0                (  1)  wine; cups; wines; in vino veritas  | αἶθοψ λείβω
+    κάρα#0                 (  1)  head; the face; peak, top; edge, brim  | ἀμβρόσιος χαίτη ἐπιρρώομαι ἄναξ ἀθάνατος
+
+FIELD 39  |  8 senses  |  unresting snowed, dazzling, deep, confused
+    πολυδειράς#0           (  1)  with many ridges  | εὑρίσκω εὐρύοπα Κρονίδης ἧμαι ἄκρος κορυφή Ὄλυμπος
+    πολύφλοισβος#0         (  1)  loud-roaring; confused  | βαίνω ἀκέων θίς θάλασσα
+    εὔδμητος#0             (  1)  well-built  | θεός ἱερός ἑκατόμβη ἵστημι βωμός
+    ἀτρύγετος#0            (  2)  unharvested, barren; never worn out, unresting  | θίς ἅλς1 ἔρδω Ἀπόλλων τελήεις ἑκατόμβη ταῦρος αἴξ ἀέκων βαίνω
+    πολυβενθής#0           (  1)  very deep  | λιμήν ἱκνέομαι ἱστίον στέλλω τίθημι ναῦς μέλας
+    αἰγλήεις#0             (  1)  dazzling, radiant  | ἅλς1 ἅλλομαι βαθύς Ὄλυμπος Ζεύς δῶμα
+    ἀγάννιφος#0            (  1)  much snowed on, snow-capt  | εἴρω2 ἔπος Ζεύς τερπικέραυνος εἶμι Ὄλυμπος πείθω
+    εὐτείχεος#0            (  1)  well-walled  | Ἀχαιός τριπλόος τετραπλόος ἀποτίνω Ζεύς δίδωμι πόλις Τροία ἐξαλαπάζω
+

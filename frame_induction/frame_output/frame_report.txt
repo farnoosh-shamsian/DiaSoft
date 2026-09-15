@@ -1,0 +1,21 @@
+Predicate-argument frame induction for Homer
+============================================================
+predicate-argument tuples: 40,752 verb occurrences
+verbs clustered: 972 (freq >= 5, function verbs excluded, >=1 non-stoplist SBJ/OBJ filler)
+representation: [mean SBJ-filler | mean OBJ-filler] FastText vectors (200d), unit-normalized
+UMAP+HDBSCAN: 43 frames, 387 unassigned (40%)
+Ward cross-view cuts: [12, 25, 50, 100]
+
+Outputs:
+  frames.txt   frames with member verbs + selectional preferences
+  frames.csv   verb -> frame id/label + its own top subjects/objects
+  ../predicate_arguments.csv  the raw tuple table (reusable)
+
+Caveats:
+ - AGLDT relations are syntactic, not semantic roles; SBJ != Agent
+   under passive/middle voice (voice kept in predicate_arguments.csv
+   for later Agent/Patient refinement).
+ - Fillers are embedded in the FastText space trained on Homer, so
+   frames group verbs whose participants PATTERN alike — a candidate
+   frame inventory, to be curated against LSJ / the 11 LSJ categories.
+ - Pronoun / article fillers are excluded via the CLTK+Homeric stoplist.

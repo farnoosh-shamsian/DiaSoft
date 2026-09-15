@@ -1,0 +1,940 @@
+lemma,sense_id,n_occ,field_hdbscan,field_label,field_ward_25,gloss,top_context_lemmas
+Ἀχαιός,0,41,22,"greeks, olympus, men, cronos",25,Achaean; the Achaeans; Greeks; Achaia,ναῦς πᾶς Ἀτρείδης δίδωμι υἱός εὐρύς ἔχω Ἀπόλλων ἄριστος γέρας ἄποινα λαός
+Ζεύς,0,31,22,"greeks, olympus, men, cronos",18,dyaús; divás; diví; dyávi,Ὄλυμπος φίλος Ἀπόλλων δῶμα ἔπος υἱός Ἀχαιός ἔρχομαι Ὀλύμπιος λίσσομαι ὀνίνημι ἔργον
+πᾶς,0,31,-1,,21,all; the whole; every; all the,Ἀχαιός θεός ἀνήρ ἐθέλω Ἀτρείδης οἴομαι κρατέω πείθω λίσσομαι μέγας ἀνάσσω σημαίνω
+ναῦς,0,30,8,"sea, earth, land, salt",13,ship; the ships; ships; naús,Ἀχαιός εἶμι Ἀπόλλων θοός μέλας ἔρχομαι κλισία λύω φέρω στέμμα ἔχω χείρ
+θεός,0,30,22,"greeks, olympus, men, cronos",18,"God, the Deity; against his will; bless you! good heavens! for heavenʼs sake!; weather",πᾶς Ἀχαιός δῶμα εἶμι μάκαρ Ὄλυμπος δίδωμι χραισμέω στρατός κῆλον ἐπιπείθομαι ἑκατόμβη
+Ἀτρείδης,0,21,36,"peleus, son, nether, world place",18,son of Atreus,Ἀχαιός Ἀγαμέμνων λαός πᾶς θυμός εὐρύς κρείων λίσσομαι κοσμήτωρ δίδωμι ἁνδάνω ἀνίστημι
+Ἀχιλλεύς,0,21,-1,,24,Achilles; ‘Achilles and the Tortoise’,πούς ὠκύς πρόσφημι δῖος Ἀχαιός μῆνις Πηλείδης πρῶτος ἄναξ ἀπαμείβομαι ἀμείβω εἶδον
+φίλος,0,20,-1,,24,"beloved, dear; dear; friend; friends, kith and kin",Ζεύς Ἀπόλλων χείρ πατήρ μήτηρ εὔχομαι Δαναοί παῖς δέχομαι ναῦς πολύς ἄγω
+εἶμι,0,18,32,"sit, stay, leap, stand",4,"ibo; shall go, shall come; come; go, depart",ναῦς θεός Ζεύς Ὄλυμπος χραισμέω αἱρέω γέρας ἄγω Φθία πολύς φέρτατος κορωνίς
+θυμός,0,18,27,"blood, heart, feeling, life",10,"soul, spirit; the principle of life, feeling and thought; of strong feeling and passion; breath, life",Ἀτρείδης Ἀχαιός θεά δαίς1 Ἀγαμέμνων ἁνδάνω παύω μέγας ἵημι λευκώλενος Ἥρα ἄμφω
+δίδωμι,0,18,20,"destroy, accept, away, lay",7,"give freely; to be ready to give, offer; things offered; grant, assign",Ἀχαιός ἄγω γέρας κόρη αἱρέω υἱός Ἀτρείδης θεός πόλις ἄλγος ἑκηβόλος ἐθέλω
+μέγας,0,18,-1,,21,"big; full-grown; elder; vast, high",πᾶς Ἀχαιός φρήν χαίρω Τρώς θυμός κολεόν ξίφος ὅρκος Πρίαμος Ὄλυμπος οἴομαι
+χείρ,0,18,19,"thigh, knee, nail, sheath",12,"the hand; closed; open, flat; a single hand",ἔχω Ἀπόλλων φίλος ναῦς Ἀχαιός εὔχομαι τίθημι ἔρχομαι θοός λύω θυγάτηρ φέρω
+ἀνήρ,0,17,16,"son, lord, man, old",24,"nar; ner-, nṛ; man; woman",ἄναξ πᾶς δῖος ἱλάσκομαι ἱερός ῥέζω Ἀγαμέμνων Ἀργεῖος πείθω Ἀχαιός εἷς ἀρχός
+Ἀπόλλων,0,17,22,"greeks, olympus, men, cronos",18,Apollo,ναῦς Ἀχαιός ἑκηβόλος Φοῖβος λύω ἄποινα ἔχω χείρ φίλος Ζεύς ἔρχομαι θοός
+ἔχω,0,16,10,"send, set, lead, having",7,check; seĝh; sáhate; sigis,Ἀχαιός χείρ Ἀπόλλων γέρας ἔρχομαι ναῦς ἄποινα ἑκηβόλος θοός λύω θυγάτηρ φέρω
+ἔρχομαι,0,16,32,"sit, stay, leap, stand",4,"ibo; start, set out; was setting out; was",ναῦς Ἀχαιός ἔχω Ἀπόλλων Ζεύς Ὄλυμπος θοός λύω θυγάτηρ φέρω ἀπερείσιος ἄποινα
+πείθω,0,16,31,"tolerable, worth, fulfil, accused",8,"persuade; obey; trust; prevail upon, persuade",οἴομαι πᾶς μῦθος ἀνήρ κρατέω Ἀχαιός ἔπος ἔρχομαι ἀμείνων χολόω μέγας Ἀργεῖος
+ἔπος,0,15,-1,,10,"vácas; word; utterance; that which is uttered in words, speech, tale",Ζεύς πρόφρων ἔργον χείρ εἶπον πείθω ἔρχομαι μάχομαι Ὄλυμπος ὀνίνημι ὄμνυμι ἀρήγω
+Ἀγαμέμνων,0,15,-1,,24,Agamemnon; Agamemnonʼs son,Ἀτρείδης κρείων ἄναξ Δαναοί Ἀχαιός ἀτιμάω εὐρύς ἀνήρ ἁνδάνω θυμός εὔχομαι ἄριστος
+φημί,0,15,-1,,8,"say, affirm, assert; shall we say of; speak; think, deem, suppose",εὔχομαι δάκρυ χέω ἄγω Βρισηίς καλλιπάρηος εἶμι κλισία γέρας εἶδον ὅσος φέρτερος
+εἶπον,0,14,34,"speak, attempt, ask, make",8,"said; avocam; vac; speak, say",μάντις Ζεύς Ἀπόλλων ἕζομαι εὔχομαι Δαναοί χείρ πολύς Ἀχαιός ἔπος πᾶς εἴρω2
+ἄγω,0,14,10,"send, set, lead, having",7,"lead, carry, fetch, bring; taking; take with one; carry off",δίδωμι καλλιπάρηος ἱερός ἑκατόμβη αἱρέω Ὀδυσσεύς Βρισηίς ἄναξ Δαναοί πατήρ φίλος κόρη
+πολύς,0,14,-1,,21,"many; often; frequent; much, mighty",Ἀχαιός Δαναοί ναῦς ἀράομαι Ἀπόλλων φίλος εὔχομαι χείρ εἶπον Φθία γέρας ἀφαιρέω
+βαίνω,0,13,32,"sit, stay, leap, stand",4,"walk, step; on foot; on ground; he went to",θίς θάλασσα Ὄλυμπος Χρυσηίς δῶμα Ζεύς ἑκατόμβη ἕκαστος ἀκέων πολύφλοισβος κάρηνον χώομαι
+γέρας,0,13,26,"strength, death, strife, fear",10,"gift of honour; the last honours; privilege, prerogative; gift, present",δίδωμι Ἀχαιός ἔχω αἱρέω πᾶς μεγάθυμος εἶμι ἄγω πολύς υἱός ἴσος ἀπαυράω
+Ἥρα,0,13,22,"greeks, olympus, men, cronos",18,Hera; nine; servo; inhabitants of Heraea,λευκώλενος θεά ἵημι ἄμφω θυμός φιλέω κήδω βοῶπις πότνια φρήν τίθημι πατήρ
+Ὄλυμπος,0,12,-1,,14,"Olympus; sky; to, towards Olympus; from O",Ζεύς ἔρχομαι θεός εἶμι βαίνω δῶμα ἔπος καλέω πᾶς δωδέκατος μέγας κάρηνον
+οἶδα,0,12,11,"know, perceive, better, des",7,know; knew; Stadtrecht von Gortyn; Koische Forschungen,πᾶς ναῦς Ἀχαιός ἀγορεύω θεός ἕκαστος ἀνίστημι Κάλχας Θεστορίδης οἰωνοπόλος ἄριστος ἡγέομαι
+υἱός,0,11,16,"son, lord, man, old",24,Vasen mit Meister-signaturen; pitṛṣu; son; a son,Ἀχαιός Ζεύς δίδωμι γέρας Ἀχιλλεύς Λητώ παῖς λύω φίλος ἄποινα δέχομαι ἅζομαι
+φρήν,0,11,12,"speech, stature, growth, heart",10,midriff; heart; very heart; sincere,μέγας τίθημι θεά λευκώλενος Ἥρα μένος ἀμφιμέλας πίμπλημι κακός φίλος μαντεύομαι Κλυταιμνήστρη
+ἐθέλω,0,11,13,"wish, owe, willing, urge",8,to be willing; wish; wish to; wish that,πᾶς βασιλεύς ἔχω δίδωμι Ὀλύμπιος Ἀχαιός Δαναοί θεοπροπέω ἀγορεύω ἑκηβόλος ἄλγος τεύχω
+λαός,0,11,-1,,24,men; foot and horse; foot; a land army,Ἀτρείδης Ἀχαιός λίσσομαι πᾶς κοσμήτωρ εἶδον ὀλέκω Χρύσης ἀτιμάζω ἀρητήρ δέκατος ἀγορά
+εἶδον,0,10,11,"know, perceive, better, des",7,see; to be seen; seem; know,Ἀχιλλεύς τοῖος ἀνήρ οἷος Πειρίθοος Δρύας ποιμήν λαός Καινεύς Ἐξάδιος ἀντίθεος Πολύφημος
+πατήρ,0,10,16,"son, lord, man, old",23,pitṛṣu; father; grandfather; by the fatherʼs side,φίλος μήτηρ Ζεύς ἀεικής λοιγός ἄγω ἀθάνατος θεός παράφημι νοέω ἐπίηρα φέρω
+ἅλς1,0,10,8,"sea, earth, land, salt",13,salt; rock-salt; brine; sugar,θίς ναῦς Ἀτρείδης ἀτρύγετος πολιός Ἀχαιός μέλας ἐρύω1 δῖος θοός προερύω λῦμα
+ἄναξ,0,10,16,"son, lord, man, old",24,"lord, master; sons; brothers of kings; lord",ἀνήρ Ἀγαμέμνων ἄγω Ἀχιλλεύς Ἀπόλλων Ζεύς Χρύσης πέμπω παῖς Φοῖβος ἱερός ἑκατόμβη
+μάχομαι,0,10,24,"arm, fight, anger, judgement",7,fight; fight with; against; with thy help,ἔπος Ἀχαιός ἔρχομαι Τρώς Πρίαμος θεός ἔρις συνίημι ἀναίδεια ἐπιέννυμι κερδαλεόφρων πρόφρων
+μῦθος,0,10,12,"speech, stature, growth, heart",10,"word, speech; mere word; public speech; plea",κρατερός τέλλω πείθω ἀπιθέω Ἀθήνη ἀνίστημι ἀπειλέω τελέω Ἥρα πᾶς ἐπέλπομαι οἶδα
+ἑκατόμβη,0,10,38,"shooting, far, fingered large, feeding",10,an offering of a hundred oxen; sacrifice; eye-salve,ἱερός Ἀπόλλων ἄγω Φοῖβος εὐχωλή ἐπιμέμφομαι αἴξ λοιγός Ἀγαμέμνων Δαναοί Χρύση βαίνω
+πρόσφημι,0,9,4,"speak, address, exchange, accost",3,"speak to, address",ἀπαμείβομαι πούς ὠκύς Ἀχιλλεύς νεφεληγερέτα Ζεύς κρείων Ἀγαμέμνων εἶδον βαρύς στενάχω μέγας
+οἴομαι,0,9,34,"speak, attempt, ask, make",8,"forebode, presage; expect; suspect; fear",πᾶς πείθω Ἀχαιός κρατέω Ἀτρείδης παλιμπλάζομαι ἀπονοστέω θάνατος φεύγω πόλεμος δαμάζω λοιμός
+ἱκνέομαι,0,9,-1,,7,"come; came; arrive at; reach, attain to",Ἀχαιός ναῦς μέλας Ἀτρείδης ἐυκνήμις θεός δίδωμι Ὀλύμπιος δῶμα ἔχω ἐκπέρθω Πρίαμος
+βασιλεύς,0,9,16,"son, lord, man, old",24,"king, chief; captain; judge; hereditary king",ἐθέλω Πηλείδης ἐρίζω ὁμοῖος μείρομαι τιμή σκηπτοῦχος Ζεύς κῦδος δίδωμι Ἀχαιός χολόω
+Δαναοί,0,9,22,"greeks, olympus, men, cronos",25,the Danaäns; the Greeks; the sons; descendants of Danaus,εὔχομαι φίλος Ἀγαμέμνων πολύς Ἀπόλλων Ζεύς Κάλχας θεοπροπία ἀναφαίνω ζάω χθών δέρκομαι
+αἱρέω,0,9,10,"send, set, lead, having",7,"take with the hand, grasp, seize; to take; having taken up; take away",γέρας δίδωμι ἄγω Αἴας εἶμι Ὀδυσσεύς καλλιπάρηος ἔχω ἀπαυράω ξανθός κόμη Πηλείων
+τίθημι,0,9,-1,,4,"l), Alc; set, put, place; set; set for oneself",χείρ Ἀχαιός φίλος μυρίος ἄλγος φρήν θεά λευκώλενος Ἥρα ἑκατόμβη αἰχμητής θεός
+εὔχομαι,0,9,2,"dishonour, bend, alive, awe",8,pray; to utter; in prayer; pray that,Δαναοί φημί Ἀπόλλων φίλος χείρ Ζεύς Κάλχας θεοπροπία ἀναφαίνω ζάω χθών δέρκομαι
+θεά,0,9,22,"greeks, olympus, men, cronos",19,goddess,λευκώλενος Ἥρα θυμός ἵημι ἄμφω φιλέω κήδω καλέω μῆνις ἀείδω Πηλείδης Ἀχιλλεύς
+πόλεμος,0,8,26,"strength, death, strife, fear",10,"war; battle, fight; single combat; War, Battle",Ἀχαιός Ἀτρείδης παλιμπλάζομαι οἴομαι ἀπονοστέω θάνατος φεύγω δαμάζω λοιμός πλείων πολυάιξ χείρ
+μήτηρ,0,8,16,"son, lord, man, old",23,mother; dam; mother-bird; queen,φίλος πατήρ χείρ Ζεύς ἐπίηρα φέρω καρτερός θεά γείνομαι φέρτατος πλείων ἀνάσσω
+γέρων,0,8,16,"son, lord, man, old",24,"old man; Elders, Chiefs; Senators; old",δείδω ἀργυρόπεζος Θέτις θυγάτηρ ἅλιος κοῖλος ναῦς κιχάνω δηθύνω ὕστερος εἶμι χραισμέω
+Ὀλύμπιος,0,8,22,"greeks, olympus, men, cronos",18,"Olympian, of Olympus, dwelling on Olympus; of Olympus",Ζεύς ἐθέλω ἀστεροπητής Ἀτρείδης ἐυκνήμις Ἀχαιός θεός δίδωμι δῶμα ἔχω ἐκπέρθω Πρίαμος
+κόρη,0,7,16,"son, lord, man, old",23,girl; maiden; nymphs; bride,δίδωμι Δαναοί ἄγω ἀφαιρέω ἀεικής λοιγός ἀπωθέω πατήρ φίλος ἑλικῶπις ἀπρίατος ἀνάποινος
+κακός,0,7,23,"best, better, force, bad",21,"bad; ugly; ill-born, mean; craven, base",βασιλεύς χολόω νόσος στρατός ὄρνυμι Κάλχας πρώτιστος ὄσσομαι προσεῖπον μάντις κρήγυος εἶπον
+Πηλείδης,0,7,36,"peleus, son, nether, world place",18,,Ἀχιλλεύς ἀνήρ βασιλεύς κλισία μῆνις ἀείδω θεά οὐλόμενος εἷς ἀρχός βουληφόρος Αἴας
+Τρώς,0,7,22,"greeks, olympus, men, cronos",25,Tros; Trojans; Trojan men,Ἀχαιός μάχομαι μέγας χαίρω τιμή Πρίαμος πᾶς ἀρήγω τίνω ἔρχομαι αἰχμητής αἴτιος
+εὐρύς,0,7,-1,,19,"wide, broad; loose; far-reaching, far-spread; várīyān",Ἀχαιός στρατός Ἀτρείδης κρείων Ἀγαμέμνων ἀνίστημι ἥρως ἄχνυμαι πολύς λωίων δῶρον ἀφαιρέω
+ἀνάσσω,0,7,-1,,7,"to be lord, master; to be lord, hold sway in; to be lord of; to be master of",πᾶς κλύω ἀργυρότοξος Χρύση ἀμφιβαίνω Κίλλα ζάθεος Τένεδος εἶμι ναῦς ἑταῖρος Μυρμιδόνες
+τελέω,0,7,31,"tolerable, worth, fulfil, accused",8,"fulfil, accomplish, execute, perform; did it; perform; fulfil",Ζεύς βουλή χόλος καταπέσσω ἔχω κότος στῆθος ἐσθλός εἶπον ἔπος οἴομαι ἀνίστημι
+πρῶτος,0,7,-1,,21,,Ἀχιλλεύς διίστημι ἐρίζω Ἀτρείδης ἄναξ ἀνήρ δῖος ὀρεύς ἐποίχομαι κύων ἀργός σκῆπτρον
+κλισία,0,7,-1,,10,"place for lying down; reclining; hut, shed, booth; cot, cabin",ναῦς ἄγω Βρισηίς καλλιπάρηος εἶμι ἴσος Πηλείδης γέρας εἶδον ὅσος φέρτερος στυγέω
+ἀνίστημι,0,7,-1,,4,"make to stand up, raise up; raised; raisefrom sleep, wake up; raise from the dead",Ἀτρείδης ἀγείρω ὁμηγερής γίγνομαι μετάφημι πούς ὠκύς Ἀχιλλεύς Κάλχας Θεστορίδης οἰωνοπόλος ἄριστος
+ἀμείβω,0,7,4,"speak, address, exchange, accost",8,"change, exchange; changing; give in exchange; take in exchange",δῖος Ἀχιλλεύς ἀνήρ ποδάρκης ἄναξ Ἀγαμέμνων Θέτις δάκρυ χέω πατήρ θεός βοῶπις
+παῖς,0,7,16,"son, lord, man, old",23,child; son; daughter; adopted son,δέχομαι φίλος Πρίαμος χαίρω Δαναοί ἄναξ λύω ἄποινα ἅζομαι Ζεύς υἱός ἑκηβόλος
+στρατός,0,7,-1,,14,"army, host; the commons, people; band; body",εὐρύς Ἀχαιός κῆλον θεός βασιλεύς χολόω νόσος ὄρνυμι κακός οἴχομαι πολύς λωίων
+πούς,0,7,-1,,19,foot; talons; arms; feelers,ὠκύς Ἀχιλλεύς πρόσφημι ἀπαμείβομαι ἀγείρω ὁμηγερής γίγνομαι ἀνίστημι μετάφημι εἶδον βαρύς στενάχω
+δῶμα,0,7,-1,,14,"house; chief room, hall; a single house; housetop",Ζεύς θεός Ὄλυμπος βαίνω Ἥφαιστος ἕκαστος Ἀτρείδης ἐυκνήμις Ἀχαιός δίδωμι Ὀλύμπιος ἔχω
+ἄποινα,0,7,1,"grief, gift, splendid, thigh bones",11,ransom; price paid; to recover oneʼs freedom; to save oneʼs life,Ἀχαιός ἑκηβόλος Ἀπόλλων δέχομαι λύω θυγάτηρ ἔχω ἱερεύς ἀγλαός ἔρχομαι θοός ναῦς
+κλύω,0,7,29,"hear, rouse, escape notice, waste",8,hear; from; hear of; have heard,ἀργυρότοξος Χρύση ἀμφιβαίνω Κίλλα ζάθεος Τένεδος ἀνάσσω Φοῖβος Ἀπόλλων θεός ἐπιπείθομαι πότνια
+προσεῖπον,0,7,4,"speak, address, exchange, accost",3,"speak to; address, accost; address; addressed",Κάλχας πρώτιστος κακός ὄσσομαι θεά γλαυκῶπις Ἀθήνη Πηλείδης ἀταρτηρός ἔπος Ἀτρείδης Ταλθύβιος
+χώομαι,0,7,2,"dishonour, bend, alive, awe",8,to be angry; to be angry at; about; because of,ὦμος θυμός βαίνω Ὄλυμπος κάρηνον κῆρ τόξον ἔχω ἀμφηρεφής φαρέτρα κλάζω ὀιστός
+ὠκύς,0,6,-1,,19,"quick, swift, fleet; quickness, sharpness; shrill",πούς Ἀχιλλεύς πρόσφημι ἀπαμείβομαι ἀγείρω ὁμηγερής γίγνομαι ἀνίστημι μετάφημι εἶδον βαρύς στενάχω
+ἔργον,0,6,12,"speech, stature, growth, heart",10,weorc; varəza; work; tasks,Ζεύς ἔπος ὀνίνημι λοίγιος Κλυταιμνήστρη προβέβουλα κουρίδιος ἄλοχος χείρων δέμας φυή φρήν
+φέρω,0,6,10,"send, set, lead, having",7,fero; beran; bhárati; náśati,θοός ναῦς Ἀπόλλων ἔρχομαι Ἀχαιός λύω θυγάτηρ ἀπερείσιος ἄποινα στέμμα ἔχω χείρ
+καλλιπάρηος,0,6,-1,,20,beautiful-cheeked,ἄγω Χρυσηίς Βρισηίς κλισία αἱρέω βαίνω εἶμι γέρας εἶδον ὅσος φέρτερος στυγέω
+τίνω,0,6,-1,,7,pay a price; pay; acquit oneself of; render,Ἀχαιός ἄριστος Τρώς Δαναοί δάκρυον βέλος θυμός ἀμύσσω χώομαι τυτθός μιμνήσκω παρέζομαι
+Χρυσηίς,0,6,36,"peleus, son, nether, world place",20,,καλλιπάρηος βαίνω ναῦς Δαναοί θεοπροπέω ἀγορεύω ἑκηβόλος ἄλγος τεύχω κόρη ἀγλαός ἄποινα
+ἧμαι,0,6,32,"sit, stay, leap, stand",4,"āste; to be seated, sit; sit still, sit idle; encamp",εὑρίσκω ναῦς ἐθέλω ἔχω γέρας δεύω2 κλισία μέλας κλύω πότνια μήτηρ βένθος
+λίσσομαι,0,6,-1,,8,"beg, pray; pray; prays; that",πᾶς Ἀχαιός Ζεύς Ἀτρείδης κοσμήτωρ λαός μένω Ἀχιλλεύς μεθίημι χόλος μέγας ἕρκος
+δαίς1,0,6,-1,,12,"meal, banquet; duly shared; banquet; sacrificial feast",θυμός δέω ἴσος Ζεύς παύω πόνος τεύχω δαίνυμι πατήρ Ὠκεανός ἀμύμων Αἰθίοψ
+ἵημι,0,6,33,"throw, crown, choose, hurl",4,Ja-c-io; sēmen; véti; vyánti,θεά λευκώλενος Ἥρα ἄμφω θυμός φιλέω κήδω ἰός Ἀργεῖος κακός βέλος πόσις2
+εἴρω2,0,6,34,"speak, attempt, ask, make",8,"say, speak, tell; is said; ask",Ζεύς μάντις ἱερεύς ὀνειροπόλος ὄναρ εἶπον τόσος χώομαι Φοῖβος Ἀπόλλων εὐχωλή ἐπιμέμφομαι
+γίγνομαι,0,6,28,"cut, leave, draw, stream",1,come into a new state of being; come into being; to be born; born,ἄνθρωπος θεός δεινός κλαγγή ἀργύρεος βιός ἀγείρω ὁμηγερής ἀνίστημι μετάφημι πούς ὠκύς
+ἱερός,0,6,-1,,10,"filled with; manifesting divine power, supernatural; great; holy",ἑκατόμβη ἄγω ἀνήρ Δαναοί Χρύση Ὀδυσσεύς ἱλάσκομαι ῥέζω ἄναξ ἀεικής λοιγός ἀπωθέω
+Φοῖβος,0,6,22,"greeks, olympus, men, cronos",19,,Ἀπόλλων κλύω ἑκατόμβη ναῦς πέμπω ἄναξ μάντις εἴρω2 ἱερεύς ὀνειροπόλος ὄναρ Ζεύς
+ἑκηβόλος,0,6,38,"shooting, far, fingered large, feeding",20,attaining his aim; far-shooting,Ἀπόλλων ἄποινα λύω ἔχω ἔρχομαι θοός ναῦς Ἀχαιός θυγάτηρ φέρω ἀπερείσιος στέμμα
+δέχομαι,0,6,20,"destroy, accept, away, lay",4,"take, accept, receive; receive; at the hand of; accept",ἄποινα παῖς ἀγλαός φίλος ἑκηβόλος πᾶς ἐπευφημέω Ἀχαιός αἰδέομαι ἱερεύς λύω ἅζομαι
+ἀθάνατος,0,6,21,"mortal, earth, ones, perfect",25,,εἶδον πατήρ τοῖος ἀνήρ οἷος Πειρίθοος Δρύας ποιμήν λαός Καινεύς Ἐξάδιος ἀντίθεος
+κρείων,0,5,-1,,18,"ruler, lord, master; queen",Ἀγαμέμνων Ἀτρείδης εὐρύς ἀπαμείβομαι πρόσφημι Ἀχαιός ἀνίστημι ἥρως ἄχνυμαι ἀτιμάω μιμνήσκω παρέζομαι
+ἀφαιρέω,0,5,20,"destroy, accept, away, lay",7,take away from; took; from; relieve,πολύς δίδωμι Ἀχαιός κόρη γέρας ἀπειλέω μογέω υἱός Χρυσηίς Φοῖβος Ἀπόλλων ναῦς
+βάλλω,0,5,33,"throw, crown, choose, hurl",4,"throw; throw so as to hit, hit; striking; smote upon",βέλος ἐχεπευκής ἐφίημι σκῆπτρον γαῖα χρύσεος ἧλος πείρω φρήν ἅλς1 λῦμα εὐνή
+Θέτις,0,5,22,"greeks, olympus, men, cronos",18,Thetis,ἀργυρόπεζος θυγάτηρ ἅλιος γέρων ἀμείβω δάκρυ χέω λανθάνω ἐφετμή παῖς ἅπτω γόνυ
+ἕζομαι,0,5,32,"sit, stay, leap, stand",4,"seat oneself, sit; sank; crouch; sink",εἶπον ναῦς Ἀχιλλεύς δακρύω ἑταῖρος λιάζομαι θίς ἅλς1 πολιός ὁράω ἀπείρων πόντος
+Κρονίων,0,5,22,"greeks, olympus, men, cronos",18,son of Cronos; Zeus,Ζεύς πατήρ μέγαρον ἀκούω εὔχομαι φημί κελαινεφής οἶος ἀθάνατος ἀεικής λοιγός ἀμύνω
+ἀπαμείβομαι,0,5,4,"speak, address, exchange, accost",8,"reply, answer",πρόσφημι πούς ὠκύς Ἀχιλλεύς κρείων Ἀγαμέμνων νεφεληγερέτα Ζεύς
+νοέω,0,5,11,"know, perceive, better, des",7,"Excerpta e libris Herodiani; perceive by the eyes, observe; perceive by the mind, apprehend; take notice",πατήρ οἶδα ναῦς σῶς μάχομαι Ἀχαιός ἀποστείχω Ἥρα πρόφρων τλάω εἶπον ἔπος
+Ἀθήνη,0,5,22,"greeks, olympus, men, cronos",18,Athene; casting vote,Παλλάς ὁρμαίνω φρήν θυμός ἕλκω κολεόν μέγας ξίφος ἔρχομαι γιγνώσκω προσεῖπον θεά
+ἑταῖρος,0,5,-1,,25,"comrade, companion; comrades-in-arms; messmate; fellowslave",ναῦς εἶμι Μυρμιδόνες ἀνάσσω ἀφαιρέω Χρυσηίς Φοῖβος Ἀπόλλων πέμπω Πηλείδης κλισία ἴσος
+ἵστημι,0,5,32,"sit, stay, leap, stand",4,make to stand; stand; sthā; á-sthā-t,ταρβέω αἰδέομαι βασιλεύς θεός ἱερός ἑκατόμβη εὔδμητος βωμός ἱστός ἱστίον λευκός πετάννυμι
+βουλή,0,5,12,"speech, stature, growth, heart",10,"will, determination; counsel, design; counsel, advice; ground of argument",Πρίαμος συμφράζομαι Ζεύς τελέω γηθέω παῖς Τρώς μέγας χαίρω θυμός πᾶς πυνθάνομαι
+λοιγός,0,5,-1,,12,"ruin, havoc; destruction; pa-liegti",ἀμύνω ἀεικής ἑκατόμβη Δαναοί πατήρ μάντις εἴρω2 ἱερεύς ὀνειροπόλος ὄναρ Ζεύς εἶπον
+δῖος,0,5,-1,,19,heavenly; noble; noblest; excellent,ἀνήρ Ἀχιλλεύς ἀμείβω πρῶτος διίστημι ἐρίζω Ἀτρείδης ἄναξ ποδάρκης ναῦς μέλας ἐρύω1
+Χρύσης,0,5,-1,,14,,Ἀπόλλων θοός ναῦς Ἀχαιός χείρ πέμπω ἄναξ ὀλέκω λαός ἀτιμάζω ἀρητήρ Ἀτρείδης
+Ὀδυσσεύς,0,5,-1,,24,Odysseus; games in honour of Odysseus; temple of Odysseus,ἄγω αἱρέω Αἴας ἀρχός ἀνήρ ἱερός πολύμητις δίδωμι εἶμι γέρας εἷς βουληφόρος
+θοός,0,5,-1,,15,"quick, nimble; swift; hasty; in haste",ναῦς Ἀχαιός φέρω Ἀπόλλων ἔρχομαι λύω θυγάτηρ ἀπερείσιος ἄποινα στέμμα ἔχω χείρ
+λύω,0,5,25,"luo, shut, look gaze, loosen",7,"luo; re-luo, solvo; se-luo), solūtus; loosen",Ἀπόλλων ναῦς Ἀχαιός ἄποινα ἑκηβόλος ἔρχομαι θοός θυγάτηρ φέρω ἀπερείσιος στέμμα ἔχω
+θυγάτηρ,0,5,16,"son, lord, man, old",23,"daughter; maidservant, slave; duhitár",ἄποινα Ἀπόλλων ἔρχομαι θοός ναῦς Ἀχαιός λύω φέρω ἀπερείσιος στέμμα ἔχω χείρ
+χόλος,0,5,26,"strength, death, strife, fear",10,"gall, bile; gall, bitter anger, wrath; rage; anger towards",στῆθος καταπέσσω ἔχω κότος τελέω ἦτορ λάσιος μερμηρίζω φάσγανον ὀξύς ἐρύω1 μηρός
+μέλας,0,5,-1,,15,"black, dark; dark; pitched over; dark, swarthy",ναῦς ἐρύω1 ἱκνέομαι ἅλς1 δῖος θοός φέρω ἀναιρέω ἀέκων εὑρίσκω κλισία ἧμαι
+σκῆπτρον,0,5,-1,,10,staff; stick; staffs; supports,ναῦς στέμμα Ἀπόλλων χρύσεος ἔρχομαι θοός Ἀχαιός λύω θυγάτηρ φέρω ἀπερείσιος ἄποινα
+ἴσος,0,5,-1,,8,equal; like; copy; the same,δαίς1 ἔχω γέρας εἶμι κλισία θυμός δέω Ἀχαιός Τρώς ἐκπέρθω ναίω πτολίεθρον
+ἱλάσκομαι,0,5,2,"dishonour, bend, alive, awe",8,,ἀνήρ Ἑκάεργος ἱερός ῥέζω θεός ἄναξ πείθω εἷς ἀρχός βουληφόρος Αἴας Ἰδομενεύς
+καλέω,0,5,4,"speak, address, exchange, accost",8,"call, summon; they had been summoned; demand, require; call to oneself",πᾶς ἔρχομαι θεά ὑπολύω δεσμός ἑκατόγχειρος μακρός Ὄλυμπος Βριάρεως θεός ἀνήρ Αἰγαίων
+λευκώλενος,0,5,-1,,19,white-armed,Ἥρα θεά ἵημι ἄμφω θυμός φιλέω κήδω φρήν τίθημι Ἥφαιστος κλυτοτέχνης ἄρχω
+κήδω,0,4,2,"dishonour, bend, alive, awe",6,"trouble, distress; to be concerned, care for; mourn for; caring for",ἵημι θεά λευκώλενος Ἥρα ἄμφω θυμός φιλέω Δαναοί θνήσκω ὁράω ἀνέχω φίλος
+ἐφίημι,0,4,20,"destroy, accept, away, lay",7,"send to; sent; set on, incite; throw",ἄναξ βέλος ἐχεπευκής βάλλω Χρύσης πέμπω ἀνήρ Ἀγαμέμνων παῖς ἄγω Φοῖβος ἱερός
+τλάω,0,4,13,"wish, owe, willing, urge",4,"suffer, undergo; hold out, endure, be patient, submit; I submitted; bore up under",οἰνοβαρής κύων ὄμμα ἔχω καρδία ἔλαφος πόλεμος λαός θωρήσσω λόχος εἶμι ἀριστεύς
+ἄμφω,0,4,6,"ward, divide, resolve, apart separate",5,both,ἵημι θεά λευκώλενος Ἥρα θυμός φιλέω κήδω νέος ἐξαυδάω κεύθω νόος οἶδα
+ἄριστος,0,4,14,"dreams, augur, strong, powerful busied",21,best; noblest; a chief; bravest,Ἀχαιός Κάλχας ναῦς Ἀπόλλων εὔχομαι Δαναοί Ἀγαμέμνων τίνω ἀνίστημι Θεστορίδης οἰωνοπόλος οἶδα
+ἀμύνω,0,4,20,"destroy, accept, away, lay",7,"keep off, ward off; to be kept off; for; from whom",λοιγός ἀεικής μάντις εἴρω2 ἱερεύς ὀνειροπόλος ὄναρ Ζεύς εἶπον τόσος χώομαι Φοῖβος
+Ἀργεῖος,0,4,22,"greeks, olympus, men, cronos",25,"from Argos, Argive; the Greeks; Argolis; womenʼs shoes",ἀνήρ ἄναξ οἴομαι χολόω μέγας πᾶς κρατέω πείθω Ἀχαιός γέρας ἑτοιμάζω οἶος
+ἀεικής,0,4,-1,,21,"unseemly, shameful; inconvenience; meagre; strange",λοιγός ἀμύνω Δαναοί πατήρ ἀπωθέω φίλος δίδωμι ἑλικῶπις κόρη ἀπρίατος ἀνάποινος ἄγω
+κατανεύω,0,4,34,"speak, attempt, ask, make",8,"nod assent; grant, promise; consent to; make a signbynoddingthehead",κεφαλή νημερτής ὑπισχνέομαι ἀπεῖπον δέος οἶδα ὅσος πᾶς ἄτιμος θεός πείθω παλινάγρετος
+γιγνώσκω,0,4,11,"know, perceive, better, des",7,"come to know, perceive; know; know by reflection; know by observation",Ἀχαιός Παλλάς Ἀθήνη πειράω φρήν μιμνήσκω παρέζομαι λαμβάνω γόνυ ἐθέλω Τρώς ἀρήγω
+χαίρω,0,4,-1,,6,"rejoice, be glad; to rejoice; rejoice at, take pleasure in; express oneʼs joy",μέγας Τρώς Πρίαμος παῖς ἀναιδής ἕπομαι τιμή ἄρνυμαι Μενέλαος κυνώπης γηθέω θυμός
+μάντις,0,4,-1,,24,"diviner, seer, prophet; prophet; presager, foreboder; prophetic",εἶπον εἴρω2 ἱερεύς ὀνειροπόλος ὄναρ Ζεύς τόσος χώομαι Φοῖβος Ἀπόλλων εὐχωλή ἐπιμέμφομαι
+καίω,0,4,28,"cut, leave, draw, stream",4,"kindle; they lighted them; to be lighted, burn; which blaze",Σμινθεύς χαρίεις ναός ἐρέφω πίων μηρία ταῦρος αἴξ κραίνω ἔλδωρ πυρή νέκυς
+τιμάω,0,4,2,"dishonour, bend, alive, awe",7,"honour, revere, reverence; bestow honours; reward; will honour",Ἀχαιός μητίετα Ζεύς μέγας ἴπτομαι λαός υἱός ὠκύμορος πέλω οἴομαι κατανεύω ἐτήτυμος
+δύναμαι,0,4,13,"wish, owe, willing, urge",8,"to be able, strong enough; canst; powerful, mighty; multum valet",ἄχνυμαι χραισμέω πολύς Ἕκτωρ ἀνδροφόνος θνήσκω πίπτω περιέχω παῖς ἐύς πράσσω
+τιμή,0,4,-1,,10,"worship, esteem, honour; honours; due regard; paid to them by",Τρώς βασιλεύς Ζεύς ὀφέλλω μέγας ἀναιδής ἕπομαι χαίρω ἄρνυμαι Μενέλαος κυνώπης Πηλείδης
+θάλασσα,0,4,8,"sea, earth, land, salt",13,sea; salt lake; maritime affairs; a sea,βαίνω ἀκέων θίς πολύφλοισβος βοῦς ἐλαύνω ἵππος Φθία ἐριβῶλαξ βωτιάνειρα καρπός1 δηλέομαι
+ἀγλαός,0,4,1,"grief, gift, splendid, thigh bones",11,"splendid, shining, bright; splendid, beautiful; noble, glorious; beautiful",δέχομαι ἄποινα πᾶς ἐπευφημέω Ἀχαιός αἰδέομαι ἱερεύς Δαναοί θεοπροπέω ἀγορεύω ἑκηβόλος ἄλγος
+Βρισηίς,0,4,36,"peleus, son, nether, world place",20,,ἄγω καλλιπάρηος κλισία εἶμι γέρας εἶδον ὅσος φέρτερος στυγέω ἴσος φημί ὁμοιόω
+ἀκέων,0,4,-1,,8,"softly, silently",κάθημαι βαίνω θίς πολύφλοισβος θάλασσα ἧμαι ἐπιγνάμπτω φίλος κῆρ
+δέω,0,4,28,"cut, leave, draw, stream",4,"bind, tie, fetter; to bind; tie; bind, keep in bonds",δαίς1 θυμός ἴσος πρυμνήσιος παύω πόνος τεύχω δαίνυμι φόρμιγξ περικαλλής ἔχω Ἀπόλλων
+ἀμείνων,0,4,11,"know, perceive, better, des",21,"better; stouter, stronger, braver; the better sort; ʼtis better",πείθω ἐθέλω δίδωμι βία πατήρ
+ἥλιος,0,4,0,"early, morn, light, day",16,"sun; the light of life, live; East; eastern",καταδύω ἕκαστος κνέφας ἔρχομαι κοιμάω πρυμνήσιος ναῦς καταπίπτω Λῆμνος πρόπας ἦμαρ δαίνυμι
+χραισμέω,0,4,24,"arm, fight, anger, judgement",6,ward off; from one; keep; off,εἶμι θεός δύναμαι ἄχνυμαι γέρων κοῖλος ναῦς κιχάνω δηθύνω ὕστερος σκῆπτρον στέμμα
+ἀέκων,0,4,-1,,8,"involuntary, constrained; invito Jove; unwillingly; involuntary",γυνή θοός ναῦς μέλας φέρω ἀναιρέω βαίνω θίς ἅλς1 ἀτρύγετος κίω λείπω
+λαμβάνω,0,4,33,"throw, crown, choose, hurl",4,"take; receive; take hold of, grasp, seize; caught",γόνυ Ἀχαιός Ἀτρεΐων χόλος μιμνήσκω παρέζομαι ἐθέλω Τρώς ἀρήγω πρύμνα ἅλς1 εἴλω
+ἀκούω,0,4,29,"hear, rouse, escape notice, waste",8,"hear; hear of, hear tell of; hear of; from",εὔχομαι Ἀπόλλων φίλος πατήρ μέγαρον φημί κελαινεφής Κρονίων οἶος ἀθάνατος ἀεικής λοιγός
+ἱερεύς,0,4,-1,,10,"priest, sacrificer, diviner; pontifex; pont. maximus; a minister",Ἀχαιός ἄποινα Ἀπόλλων πᾶς ἐπευφημέω αἰδέομαι ἀγλαός δέχομαι μάντις εἴρω2 ὀνειροπόλος ὄναρ
+πόλις,0,4,17,"troy, phthia, city, pear",14,city; the citadel; the city of; oneʼs city,Ἀχαιός δίδωμι ἐκπέρθω Ἀτρείδης ἐυκνήμις θεός Ὀλύμπιος δῶμα ἔχω Πρίαμος ἱκνέομαι δατέομαι
+ἐρύω1,0,4,28,"cut, leave, draw, stream",7,"drag, draw; drag; away, rescue; off for plunder, ransom",ναῦς μέλας ἅλς1 δῖος ἦτορ στῆθος λάσιος μερμηρίζω φάσγανον ὀξύς μηρός ἀνίστημι
+καθέζομαι,0,4,32,"sit, stay, leap, stand",4,"sit down, take oneʼs seat; preside; taking their seats; sit down in, occupy",δάκρυ χέω χείρ καταρρέζω ἔπος φημί ὀνομάζω Κρονίων κῦδος γαίω θρόνος
+καταδύω,0,4,0,"early, morn, light, day",4,"go down, sink, set; to be sunk; disabled; duck",ἥλιος ἕκαστος κνέφας ἔρχομαι κοιμάω πρυμνήσιος ναῦς καταπίπτω Λῆμνος πρόπας ἦμαρ δαίνυμι
+χολόω,0,4,24,"arm, fight, anger, judgement",6,"anger, provoke; to anger; to be angered; provoked to anger",βασιλεύς νόσος στρατός ὄρνυμι κακός οἴομαι ἀνήρ μέγας πᾶς Ἀργεῖος κρατέω πείθω
+ἔρις,0,4,26,"strength, death, strife, fear",10,"strife, quarrel, contention; battle-strife; quarrel, strife; discord",λήγω θεός συνίημι μάχομαι φίλος πόλεμος μάχη Ἀγαμέμνων πρῶτος ἐπαπειλέω Ἀχιλλεύς
+θίς,0,4,8,"sea, earth, land, salt",15,"heap; sand-banks; sandy deserts; beach, shore",ἅλς1 βαίνω ἀτρύγετος ἀκέων πολύφλοισβος θάλασσα ἔρδω Ἀπόλλων τελήεις ἑκατόμβη ταῦρος αἴξ
+παύω,0,4,-1,,8,"make to end; bring to an end, check; stop; silence",Ἀτρείδης θυμός μένος δαίς1 ἦτορ στῆθος λάσιος μερμηρίζω φάσγανον ὀξύς ἐρύω1 μηρός
+γόνυ,0,4,19,"thigh, knee, nail, sheath",12,knee; clasping the knees; on my knees; the knee,λαμβάνω Ἀχαιός μιμνήσκω παρέζομαι ἐθέλω Τρώς ἀρήγω πρύμνα ἅλς1 εἴλω κτείνω πᾶς
+τίκτω,0,4,28,"cut, leave, draw, stream",23,"bring into the world, engender; beget; bring forth; parents",πολύς κίω ἀράομαι γεραιός Ἀπόλλων ἄναξ εὔκομος Λητώ μήτηρ μινυνθάδιος τιμή ὀφέλλω
+Χρύση,0,4,17,"troy, phthia, city, pear",14,,κλύω ἀργυρότοξος ἀμφιβαίνω Κίλλα ζάθεος Τένεδος ἀνάσσω ἄγω ἱερός ἑκατόμβη Δαναοί ἀεικής
+ἀγορεύω,0,4,34,"speak, attempt, ask, make",8,"speak in the assembly, harangue; address; to address the house?; counsel",οἶδα Δαναοί θεοπροπέω ἑκηβόλος ἄλγος τεύχω κόρη Χρυσηίς ἀγλαός ἄποινα ἐθέλω δέχομαι
+γαῖα,0,3,8,"sea, earth, land, salt",13,"land, country; land; earth; the earth",σκῆπτρον βάλλω χρύσεος ἧλος πείρω μέγας πένθος Ἀχαιΐς ἱκάνω μεθομιλέω Πύλος ἔρχομαι
+φωνέω,0,3,7,"fear, rejoice, tears, cower",6,produce a sound; tone; speak loud; clearly,ἔπος πτερόεις προσαυδάω ἀποβαίνω
+φαίνω,0,3,0,"early, morn, light, day",4,"bring to light, cause to appear; make; appear; show by baring",ξανθός κόμη αἱρέω Πηλείων οἶος δεινός ὄσσε ἠριγένεια ῥοδοδάκτυλος ἠώς ἀνάγω στρατός
+ἄνθρωπος,0,3,16,"son, lord, man, old",25,"man; gods; the men; the ideal man, humanity",γίγνομαι θεός γενεά μέροψ φθίω τρέφω Πύλος ἠγάθεος μάρτυρος μάκαρ θνητός βασιλεύς
+πότνια,0,3,-1,,19,"mistress, queen; queen; revered, august",βοῶπις Ἥρα κλύω μήτηρ ἧμαι βένθος ἅλς1 πατήρ γέρων ἀμείβω δείδω
+ἀρήγω,0,3,-1,,7,"aid, succour; succour in war; help, succour; to be good for",Τρώς Ἀχαιός ὄμνυμι πρόφρων ἔπος χείρ μιμνήσκω παρέζομαι λαμβάνω γόνυ ἐθέλω πρύμνα
+ἔλδωρ,0,3,-1,,21,"wish, longing, desire",κραίνω Σμινθεύς χαρίεις ναός ἐρέφω πίων μηρία καίω ταῦρος αἴξ ἐπικραίνω Ζεύς
+δῶρον,0,3,1,"grief, gift, splendid, thigh bones",11,"gift, present, gift of honour; votive gift; offering; the gifts of",τόσος πάρειμι ἀγλαός ὕβρις πολύς λωίων στρατός εὐρύς Ἀχαιός ἀφαιρέω ἀντίος εἶπον
+πλείων,0,3,-1,,21,more; the majority; greater; further,πολυάιξ πόλεμος χείρ διέπω καρτερός θεά γείνομαι μήτηρ φέρτατος ἀνάσσω δίδωμι αἱρέω
+κῆρυξ,0,3,16,"son, lord, man, old",24,"herald, pursuivant; public messenger, envoy; messengers between nations at war; crier",Ταλθύβιος Εὐρυβάτης προσεῖπον ὀτρηρός θεράπων χαίρω Ζεύς ἄγγελος ἀνήρ νέος βαίνω ἄγω
+ἱκάνω,0,3,-1,,7,"come; to come to; reach, attain to; are fulfilled",μέγας πένθος Ἀχαιΐς γαῖα Ὀδυσσεύς Χρύση ἄγω ἱερός ἑκατόμβη κοιμάω γλυκύς ὕπνος
+στέμμα,0,3,1,"grief, gift, splendid, thigh bones",10,"wreath, garland, chaplet; shrine with chaplcts decked; crowns of office; wreaths of wool",ναῦς Ἀπόλλων σκῆπτρον ἔρχομαι θοός Ἀχαιός λύω θυγάτηρ φέρω ἀπερείσιος ἄποινα ἔχω
+κῦμα,0,3,8,"sea, earth, land, salt",13,"anything swollen; pregnant; wave, billow; swell",στεῖρα πορφύρεος μέγας ἰάχω ναῦς εἶμι θέω διαπράσσω κέλευθος ἀναδύνω θάλασσα
+χρύσεος,0,3,5,"silver, overgrown, gold, breast",15,golden; enriched; adorned with gold; gold,Ἀπόλλων σκῆπτρον ἔρχομαι θοός ναῦς Ἀχαιός λύω θυγάτηρ φέρω ἀπερείσιος ἄποινα στέμμα
+νέος,0,3,15,"youth, safe, small, honour",24,"young, youthful; youths; youth upwards; youth",ἄμφω βαίνω κῆρυξ ἄγω κόρη Βρισεύς δίδωμι υἱός Ἀχαιός ἔχω πεμπώβολον χείρ
+κνῖσα,0,3,-1,,12,steam and odour of fat; smell; savour of a burnt sacrifice; odour of savoury meat,μάντις εἴρω2 ἱερεύς ὀνειροπόλος ὄναρ Ζεύς εἶπον τόσος χώομαι Φοῖβος Ἀπόλλων εὐχωλή
+ἔρομαι,0,3,34,"speak, attempt, ask, make",8,"ask, inquire; learn by inquiry; ask after; for",δεύτερος μεταλλάω
+βούλομαι,0,3,13,"wish, owe, willing, urge",8,"will, wish, be willing; wish is will; willed; that supports",μάντις εἴρω2 ἱερεύς ὀνειροπόλος ὄναρ Ζεύς εἶπον τόσος χώομαι Φοῖβος Ἀπόλλων εὐχωλή
+ἄλγος,0,3,1,"grief, gift, splendid, thigh bones",1,pain; sufferings; grief; grief for,δίδωμι ἑκηβόλος μυρίος Ἀχαιός τίθημι Δαναοί θεοπροπέω ἀγορεύω τεύχω κόρη Χρυσηίς ἀγλαός
+πρόφρων,0,3,-1,,21,"with forward mind; of oneʼs free will; fain; kindly, gracious, willing",ἔπος ὄμνυμι χείρ ἀρήγω ἀναίδεια ἐπιέννυμι κερδαλεόφρων πείθω Ἀχαιός ὁδός ἔρχομαι ἀνήρ
+κέλομαι,0,3,13,"wish, owe, willing, urge",8,"urge, exhort, command; commands; advise; constrained",Ἀχιλλεύς Ζεύς φίλος μυθέομαι μῆνις Ἀπόλλων ἑκατηβελέτης ἄναξ ἀποδίδωμι πρῶτος θεός ἱλάσκομαι
+ἀτιμάω,0,3,2,"dishonour, bend, alive, awe",7,"dishonour, disdain",Ἀγαμέμνων εὐχωλή ἐπιμέμφομαι ἑκατόμβη ἀρητήρ Ἀτρείδης εὐρύς κρείων ἄναξ ἀνήρ
+προίημι,0,3,10,"send, set, lead, having",8,"send forth, send forward; send; forward; will allow",θεός εἶπον ἐπαίτιος Ἀγαμέμνων Βρισηίς κόρη
+φρονέω,0,3,7,"fear, rejoice, tears, cower",6,"to be minded; have understanding, be wise, prudent; counsel; to be",ἀγοράομαι μετεῖπον φίλος κρυπτάδιος δικάζω
+ἕκαστος,0,3,11,"know, perceive, better, des",9,each; every one; every single; all and each severally,καταδύω λαμπρός φάος ἥλιος κατακείω βαίνω οἶκος δῶμα περικλυτός ἀμφιγυήεις Ἥφαιστος ποιέω
+ξίφος,0,3,26,"strength, death, strife, fear",10,sword; power of life and death; jus gladii; sword-shaped bone,ἕλκω κολεόν μέγας ὁρμαίνω φρήν θυμός ἔρχομαι Ἀθήνη χείρ ὠθέω
+νεφεληγερέτα,0,3,-1,,20,cloud-gatherer,πρόσφημι Ζεύς μέγας ὀχθέω ἀπαμείβομαι
+χέω,0,3,7,"fear, rejoice, tears, cower",6,"pour; pour out, let flow; snows; gush forth",δάκρυ φημί καθέζομαι χείρ καταρρέζω ἔπος ὀνομάζω ἀμείβω Θέτις
+μάκαρ,0,3,21,"mortal, earth, ones, perfect",25,"blessed, happy; the blessed ones; gods; blest, fortunate",θεός μάρτυρος θνητός ἄνθρωπος βασιλεύς ἀπηνής χρεώ γίγνομαι ἀεικής λοιγός ἀμύνω ὑποδείδω
+ἀπαυράω,0,3,20,"destroy, accept, away, lay",7,,αἱρέω ἔχω γέρας λείπω χώομαι θυμός εὔζωνος γυνή βία ἀέκων
+τεύχω,0,3,28,"cut, leave, draw, stream",4,"make ready, make; produce by work; art; make, build",δαίς1 ἑλώριον κύων οἰωνός πᾶς Δαναοί θεοπροπέω ἀγορεύω ἑκηβόλος ἄλγος κόρη Χρυσηίς
+φέρτατος,0,3,23,"best, better, force, bad",21,"bravest, best; the best; least bad; best",εἶμι πολύς Φθία ναῦς κορωνίς καρτερός θεά γείνομαι μήτηρ πλείων ἀνάσσω
+κύων,0,3,3,"bull, bird, night, chariot",12,"dog, bitch; shepherds’ dogs; watch-dogs; hounds",ἑλώριον τεύχω οἰωνός πᾶς ὀρεύς πρῶτος ἐποίχομαι ἀργός οἰνοβαρής ὄμμα ἔχω καρδία
+Κάλχας,0,3,-1,,24,Calchas,ἄριστος ναῦς Ἀχαιός Ἀπόλλων εὔχομαι Δαναοί ἀνίστημι Θεστορίδης οἰωνοπόλος οἶδα ἡγέομαι Ἴλιος
+δάκρυ,0,3,27,"blood, heart, feeling, life",9,Ev. Luc; tear; drop; lacruma,χέω φημί καθέζομαι χείρ καταρρέζω ἔπος ὀνομάζω ἀμείβω Θέτις
+λήγω,0,3,-1,,8,"stay, abate; would stay; from; leave off, cease",ἔρις χόλος Ἀγαμέμνων πρῶτος ἐπαπειλέω Ἀχιλλεύς
+ἐκπέρθω,0,3,-1,,7,"destroy utterly, sack; take as booty from",Ἀχαιός ἔχω πόλις Ἀτρείδης ἐυκνήμις θεός δίδωμι Ὀλύμπιος δῶμα Πρίαμος ἱκνέομαι δατέομαι
+βαρύς,0,3,-1,,21,"heavy in weight; strength and force; bushy; heavy with age, infirmity",εὔχομαι Δαναοί χείρ Ἀπόλλων Ζεύς φίλος Κάλχας θεοπροπία ἀναφαίνω ζάω χθών δέρκομαι
+πέλω,0,3,28,"cut, leave, draw, stream",1,"come into existence, become, be; was; when once in being; become",πᾶς ὠκύμορος λίσσομαι Ἀχιλλεύς μεθίημι χόλος μέγας ἕρκος Ἀχαιός πόλεμος κακός ὀιζυρός
+ἱστός,0,3,-1,,13,"anything set upright; mast; the mast; rod, pole",γῆρας ἔπειμι οἶκος Ἄργος πάτρη ἐποίχομαι λέχος ἀντιάω ἱστοδόκη πελάζω πρότονοι ὑφίημι
+ἄχνυμαι,0,3,2,"dishonour, bend, alive, awe",6,,δύναμαι χραισμέω ἀνίστημι ἥρως Ἀτρείδης εὐρύς κρείων Ἀγαμέμνων πολύς Ἕκτωρ ἀνδροφόνος θνήσκω
+μένος,0,3,26,"strength, death, strife, fear",10,"might, force; strength, fierceness; spirit; force, might",παύω μέγας φρήν ἀμφιμέλας πίμπλημι ἔρχομαι πείθω Ἀτρείδης
+ἀπειλέω,0,3,34,"speak, attempt, ask, make",8,"keep away; brought; forced; unroll, roll off",γέρας ἀφαιρέω πολύς μογέω δίδωμι υἱός Ἀχαιός ἀνίστημι μῦθος τελέω
+ἐποίχομαι,0,3,-1,,4,"go towards, approach; draw near to; approach with hostile purpose, attack; go over, traverse",γῆρας ἔπειμι οἶκος Ἄργος πάτρη ἱστός λέχος ἀντιάω ὀρεύς πρῶτος κύων ἀργός
+κῆρ,0,3,27,"blood, heart, feeling, life",9,"heart; with all the heart, heartily; exceedingly; throughout",φίλος βαίνω Ὄλυμπος κάρηνον χώομαι τόξον ὦμος ἔχω ἀμφηρεφής φαρέτρα φθινύθω μένω
+γλυκύς,0,3,18,"wine, bowl, sweet, drinking",12,"sweet to the taste; smell; pleasant, delightful; sweet, fresh",Νέστωρ ἡδυεπής ἀνορούω λιγύς Πύλιος ἀγορητής γλῶσσα μέλι ῥέω αὐδή θεός ἐνδέξιος
+σῶς,0,3,15,"youth, safe, small, honour",7,"safe and sound, alive and well; safe, whole; preserved, extant; intact",ἐρεθίζω νέομαι βούλομαι λαός ἀπόλλυμι οἶδα νοέω ναῦς μάχομαι Ἀχαιός
+πέμπω,0,3,10,"send, set, lead, having",7,send; over; send for; send to,Φοῖβος ναῦς Χρύσης ἄναξ ἀφαιρέω Χρυσηίς Ἀπόλλων ἑταῖρος θοός ἑλίκωψ Ἀχαιός ἀνήρ
+δείδω,0,3,7,"fear, rejoice, tears, cower",6,"fear; to be alarmed, anxious; fear to do; fear, dread",γέρων φρήν παρεῖπον ἀργυρόπεζος Θέτις θυγάτηρ ἅλιος βοῶπις πότνια Ἥρα
+ἱστίον,0,3,8,"sea, earth, land, salt",13,"web, cloth, sheet; hangings; piece; sail",λιμήν πολυβενθής ἱκνέομαι στέλλω τίθημι ναῦς μέλας ἱστός ἵστημι λευκός πετάννυμι ἄνεμος
+μηνίω,0,3,-1,,8,"cherish wrath, be wroth against; because of",ναῦς πάρημαι ὠκύπορος Ἀτρείδης Ἀχαιός διογενής Πηλεύς υἱός πούς ὠκύς Ἀχιλλεύς
+εἴκω1,0,3,11,"know, perceive, better, des",8,"to be like, seem likely",εἶμι νύξ ὄσσε πῦρ λαμπετάω γέρας ἑτοιμάζω οἶος Ἀργεῖος ἀγέραστος
+Ἑκάεργος,0,3,-1,,18,nine,ἀνήρ ἱλάσκομαι εἷς ἀρχός βουληφόρος Αἴας Ἰδομενεύς δῖος Ὀδυσσεύς Πηλείδης πᾶς ἔκπαγλος
+μένω,0,3,32,"sit, stay, leap, stand",7,"stay, wait; stand fast; stay at home, stay where one is; lodge, stay",λίσσομαι φθινύθω φίλος κῆρ τλάω ἐπέρχομαι
+κράτιστος,0,3,23,"best, better, force, bad",21,,ἐπιχθόνιος τρέφω ἀνήρ μάχομαι φήρ ὀρεσκῷος
+χείρων,0,3,24,"arm, fight, anger, judgement",21,"meaner, inferior; worse than others; knave; worse",κρείσσων βασιλεύς χώομαι ἀνήρ Κλυταιμνήστρη προβέβουλα κουρίδιος ἄλοχος δέμας φυή φρήν ἔργον
+Πρίαμος,0,3,-1,,18,priam; like Priam,γηθέω παῖς Τρώς μέγας χαίρω θυμός πᾶς πυνθάνομαι μάρναμαι βουλή Δαναοί μάχομαι
+οἶος,0,3,-1,,21,"alone, lonely; alone; naught but; only",γέρας ἑτοιμάζω Ἀργεῖος ἀγέραστος εἴκω1 ξανθός κόμη αἱρέω Πηλείων φαίνω πατήρ μέγαρον
+ὅσος,0,3,-1,,21,"as great as, how great; as much as, how much; as far as, how far; as long as, how long",εἶμι θεός ἄγω Βρισηίς καλλιπάρηος κλισία γέρας εἶδον φέρτερος στυγέω ἴσος φημί
+ἀναβαίνω,0,3,32,"sit, stay, leap, stand",4,"go up, mount; go up to; goes up among; to trample on",ἐπιπλέω ὑγρός κέλευθος ἠέριος μέγας οὐρανός Ὄλυμπος καθεύδω
+Ἥφαιστος,0,3,22,"greeks, olympus, men, cronos",18,Hephaestus; Volcanus; Plah; nine,δῶμα ἕκαστος κλυτοτέχνης ἄρχω ἀγορεύω μήτηρ φίλος ἐπίηρα φέρω λευκώλενος Ἥρα ἄσβεστος
+αἰδέομαι,0,3,2,"dishonour, bend, alive, awe",6,"to be ashamed; from a sense of shame; stand in awe of, fear; show a sense of regard",πᾶς ἐπευφημέω Ἀχαιός ἱερεύς ἀγλαός δέχομαι ἄποινα ταρβέω βασιλεύς ἵστημι
+ἐπιπείθομαι,0,3,34,"speak, attempt, ask, make",8,"to be persuaded; trust; to, put faith in; comply with, obey",θεός κλύω Πάτροκλος φίλος ἑταῖρος μῦθος χραισμέω ὅσος Ὄλυμπος εἶμι ἄαπτος χείρ
+βέλος,0,3,26,"strength, death, strife, fear",10,"missile; arrow, dart; hurled; thrown",τίνω Δαναοί δάκρυον ἐχεπευκής ἐφίημι βάλλω ἵημι Ἀργεῖος κακός
+ὁράω,0,3,11,"know, perceive, better, des",4,"Inscr. des tombeaux des rois; I know; a)ware; see, look",κήδω Δαναοί θνήσκω Ἀχιλλεύς δακρύω ἑταῖρος ἕζομαι λιάζομαι θίς ἅλς1 πολιός ἀπείρων
+τρέφω,0,3,28,"cut, leave, draw, stream",23,"thicken; congeal; curdle; curdle, congeal",γενεά μέροψ ἄνθρωπος φθίω γίγνομαι Πύλος ἠγάθεος κράτιστος ἐπιχθόνιος ἀνήρ τέκνον αἰνός
+θνήσκω,0,3,2,"dishonour, bend, alive, awe",7,Papers of the Amer. School; die; to be dead; dead,κήδω Δαναοί ὁράω δύναμαι ἄχνυμαι χραισμέω πολύς Ἕκτωρ ἀνδροφόνος πίπτω λαός ἐπασσύτερος
+αἴξ,0,3,3,"bull, bird, night, chariot",12,goat; ibex; the star Capella; goose,ταῦρος Ἀπόλλων ἑκατόμβη Σμινθεύς χαρίεις ναός ἐρέφω πίων μηρία καίω κραίνω ἔλδωρ
+κρατερός,0,3,23,"best, better, force, bad",21,"strong, stout, mighty; stern, harsh; mighty, fierce; hard",μῦθος τέλλω
+τέλλω,0,3,33,"throw, crown, choose, hurl",4,accomplish; perform; come into being; turns,κρατερός μῦθος
+ἀγορά,0,3,-1,,10,assembly; of the People; Amphictyonic Council; conventus agere,δέκατος καλέω λαός Ἀχιλλεύς λύω ναῦς Ἀχαιός πωλέομαι κυδιάνειρα πόλεμος
+ἀείδω,0,3,-1,,4,Il.Parv; sing; crow; hoot,καλός μῆνις θεά Πηλείδης Ἀχιλλεύς οὐλόμενος πανημέριος μολπή θεός ἱλάσκομαι παιάν κοῦρος
+οἴχομαι,0,3,32,"sit, stay, leap, stand",4,"come; go, go away, go off; he has gone, departed; he had gone",στρατός κῆλον θεός Θήβη ἱερός πόλις Ἠετίων χώομαι γέρων
+μητίετα,0,2,-1,,20,counsellor; all-wise,Ζεύς τιμάω τίνω Ὀλύμπιος
+ἄρχω,0,2,-1,,24,"to be first; begin, make a beginning; to be the aggressor; to begin oneʼs",Ζεύς Ἥφαιστος κλυτοτέχνης ἀγορεύω μήτηρ φίλος ἐπίηρα φέρω λευκώλενος Ἥρα
+ἀφύσσω,0,2,20,"destroy, accept, away, lay",7,draw; was drawn from; draw full draughts of; heap it up,οἴομαι ἄτιμος ἄφενος πλοῦτος θεός ἐνδέξιος πᾶς οἰνοχοέω γλυκύς νέκταρ κρατήρ
+λανθάνω,0,2,29,"hear, rouse, escape notice, waste",8,escape notice; escape; notice; donʼt know,Θέτις ἐφετμή παῖς
+νόος,0,2,-1,,10,"mind; sense, wit; prudently; senselessly",ἀγαθός θεοείκελος Ἀχιλλεύς κλέπτω παρέρχομαι πείθω ἐξαυδάω κεύθω οἶδα ἄμφω
+Αἴας,0,2,-1,,24,Ajax,αἱρέω Ὀδυσσεύς ἀνήρ δίδωμι εἶμι γέρας ἄγω εἷς ἀρχός βουληφόρος Ἰδομενεύς δῖος
+ἐρέτης,0,2,8,"sea, earth, land, salt",13,rowers; oars; era; aritár,ἀγείρω κρίνω
+ἀρχός,0,2,-1,,24,"leader, chief; ruler; dux Orientis; the rectum",ἀνήρ Ὀδυσσεύς εἷς βουληφόρος Αἴας Ἰδομενεύς δῖος Πηλείδης πᾶς ἔκπαγλος Ἑκάεργος ἱλάσκομαι
+Κρονίδης,0,2,22,"greeks, olympus, men, cronos",18,son of Cronos; Zeus; an aged man,εὑρίσκω εὐρύοπα ἧμαι ἄκρος κορυφή πολυδειράς Ὄλυμπος αἰνός ποῖος μῦθος εἶπον
+ἠέριος,0,2,0,"early, morn, light, day",16,"early, at; with early morn; misty, dimly seen; high in air",ἀναβαίνω μέγας οὐρανός Ὄλυμπος παρέζομαι
+ῥέζω,0,2,25,"luo, shut, look gaze, loosen",2,"do, act, deal; do, accomplish, make; if once done; wronged",ἀνήρ ἱλάσκομαι ἱερός ἄναξ εἷς ἀρχός βουληφόρος Αἴας Ἰδομενεύς δῖος Ὀδυσσεύς Πηλείδης
+μάχη,0,2,26,"strength, death, strife, fear",10,,ἔρις φίλος πόλεμος φημί Τρώς ἀρήγω
+ἠώς,0,2,0,"early, morn, light, day",16,"dawn; light of day; morning; at morn, early",ἠριγένεια φαίνω ῥοδοδάκτυλος ἀνάγω στρατός εὐρύς Ἀχαιός δωδέκατος γίγνομαι Ὄλυμπος εἶμι θεός
+αἰχμητής,0,2,14,"dreams, augur, strong, powerful busied",21,"spearman, warrior; pointed; spear-wielding; warlike",Τρώς ἔρχομαι μάχομαι αἴτιος τίθημι θεός προτίθημι ὄνειδος μυθέομαι
+ἐλαύνω,0,2,-1,,8,"drive, set in motion; drive; ride; row",βοῦς ἵππος Φθία ἐριβῶλαξ βωτιάνειρα καρπός1 δηλέομαι πολύς ὄρος σκιόεις θάλασσα ἠχήεις
+Φθία,0,2,17,"troy, phthia, city, pear",14,Phthia; to Phthia; at Phthia; a man of Phthia,πολύς εἶμι βοῦς ἐλαύνω ἵππος ἐριβῶλαξ βωτιάνειρα καρπός1 δηλέομαι ὄρος σκιόεις θάλασσα
+ὄρος,0,2,8,"sea, earth, land, salt",14,"mountain, hill; canton, parish; desert",βοῦς ἐλαύνω ἵππος Φθία ἐριβῶλαξ βωτιάνειρα καρπός1 δηλέομαι πολύς σκιόεις θάλασσα ἠχήεις
+ἕπομαι,0,2,32,"sit, stay, leap, stand",7,sacate; sequor; sèkti; saśc(a)-),μέγας ἀναιδής χαίρω τιμή ἄρνυμαι Μενέλαος κυνώπης Τρώς θεός πᾶς
+ἀλεγίζω,0,2,-1,,8,"trouble oneself about; care for, mind, heed",
+ὀλίγος,0,2,15,"youth, safe, small, honour",24,"little, small; small, low; not copious; slight",φίλος ἔρχομαι ἔχω ναῦς κάμνω πολεμίζω θυμός ἔνειμι
+ἄτιμος,0,2,15,"youth, safe, small, honour",21,"unhonoured, dishonoured; dishonourable; without the honour of.., not deemed worthy of; unworthy",οἴομαι ἄφενος πλοῦτος ἀφύσσω νημερτής ὑπισχνέομαι κατανεύω ἀπεῖπον δέος οἶδα ὅσος πᾶς
+κοιμάω,0,2,30,"disperse, prepare, mischief, delight",1,"lull, put to sleep; put to bed; still, calm; soothe, assuage",ἥλιος καταδύω κνέφας ἔρχομαι πρυμνήσιος ναῦς γλυκύς ὕπνος ἱκάνω
+μῆνις,0,2,-1,,10,wrath; revengeful temper,Ἀχιλλεύς ἀείδω θεά Πηλείδης οὐλόμενος κέλομαι Ζεύς φίλος μυθέομαι Ἀπόλλων ἑκατηβελέτης ἄναξ
+καρτερός,0,2,15,"youth, safe, small, honour",24,"strong, staunch; the strongest; possessed of, in control of, master of; steadfast, patient",θεός δίδωμι θεά γείνομαι μήτηρ φέρτατος πλείων ἀνάσσω
+ὀνίνημι,0,2,-1,,7,"profit, benefit, help; gratify, delight; benefit; will",Ζεύς ἔπος ἔργον ἔρχομαι Ὄλυμπος λίσσομαι καρδία πατήρ ἀθάνατος κραίνω ἔλδωρ
+ὠκύπορος,0,2,21,"mortal, earth, ones, perfect",25,,ναῦς πάρημαι μηνίω Ἀχαιός διογενής Πηλεύς υἱός πούς ὠκύς Ἀχιλλεύς
+γηθέω,0,2,7,"fear, rejoice, tears, cower",6,rejoice; will rejoice; rejoice in doing; impune,Πρίαμος παῖς Τρώς μέγας χαίρω θυμός πᾶς πυνθάνομαι μάρναμαι βουλή Δαναοί μάχομαι
+πάρημαι,0,2,-1,,8,to be seated beside; seated by; seated at; dwell beside,ναῦς ὠκύπορος μηνίω Ἀχαιός διογενής Πηλεύς υἱός πούς ὠκύς Ἀχιλλεύς
+ὠκύμορος,0,2,14,"dreams, augur, strong, powerful busied",21,,πέλω ὀιζυρός πᾶς τιμάω υἱός
+αἶσα,0,2,-1,,10,,ὀφείλω ναῦς ἀδάκρυτος ἀπήμων ἧμαι κακός τίκτω μέγαρον
+αἰνός,0,2,9,"greedy, silver bow, terribly, ruthless",22,"dread, horrible; dread, terrible; terribly; strangely, exceedingly",τέκνον τρέφω τίκτω Κρονίδης ποῖος μῦθος εἶπον
+ἐπιχθόνιος,0,2,21,"mortal, earth, ones, perfect",21,"upon the earth, earthly; earthly ones, men on earth; who haunt the earth; natives",κράτιστος τρέφω ἀνήρ βροτός μάχομαι
+παρέζομαι,0,2,-1,,8,sit beside,Ἀχαιός μιμνήσκω λαμβάνω γόνυ ἐθέλω Τρώς ἀρήγω πρύμνα ἅλς1 εἴλω κτείνω πᾶς
+βία,0,2,-1,,10,"bodily strength, force; act of violence; against; will, in spite of",πατήρ ἀμείνων λείπω χώομαι θυμός εὔζωνος γυνή ἀέκων ἀπαυράω
+μακρός,0,2,-1,,9,long; ships of war; the longer sides; length-wise,καλέω ἔρχομαι θεά ὑπολύω δεσμός ἑκατόγχειρος Ὄλυμπος Βριάρεως θεός ἀνήρ πᾶς Αἰγαίων
+κῦδος,0,2,26,"strength, death, strife, fear",10,"glory, renown; glory",βασιλεύς Πηλείδης ἐθέλω ἐρίζω ὁμοῖος μείρομαι τιμή σκηπτοῦχος Ζεύς δίδωμι Κρονίων καθέζομαι
+σημαίνω,0,2,-1,,8,"show by a sign, indicate, point out; after indicating; you have; shown you",πᾶς κρατέω ἐθέλω ἀνάσσω πείθω οἴομαι
+μέγαρον,0,2,5,"silver, overgrown, gold, breast",12,"large room, hall; the chief room; womenʼs apartment; bedchamber",πατήρ ἀκούω εὔχομαι φημί κελαινεφής Κρονίων οἶος ἀθάνατος ἀεικής λοιγός ἀμύνω συνδέω
+ἀναιρέω,0,2,20,"destroy, accept, away, lay",7,"take up; having raised; take up and carry off, bear away; make away with, destroy",θοός ναῦς μέλας φέρω ἀέκων χερνίπτομαι οὐλοχύται
+Πύλος,0,2,17,"troy, phthia, city, pear",14,Pylos,γενεά μέροψ ἄνθρωπος φθίω τρέφω γίγνομαι ἠγάθεος μεθομιλέω ἔρχομαι ἄπιος γαῖα
+πολύμητις,0,2,-1,,20,of many counsels,Ὀδυσσεύς ἀρχός βαίνω βωμός ἄγω πατήρ φίλος χείρ τίθημι
+κέλευθος,0,2,8,"sea, earth, land, salt",13,"road, path; the streets; paths, orbits; path",ἀναβαίνω ἐπιπλέω ὑγρός θέω κῦμα διαπράσσω
+ἀπολυμαίνομαι,0,2,25,"luo, shut, look gaze, loosen",8,cleanse oneself by bathing; from an,λαός Ἀτρείδης ἄνωγα
+ἀτρύγετος,0,2,39,"unresting snowed, dazzling, deep, confused",20,"unharvested, barren; never worn out, unresting",θίς ἅλς1 ἔρδω Ἀπόλλων τελήεις ἑκατόμβη ταῦρος αἴξ ἀέκων βαίνω
+οὐρανός,0,2,-1,,14,"heaven; vault; firmament of heaven, sky; Heaven",κνῖσα ἱκνέομαι ἑλίσσω καπνός ἠέριος ἀναβαίνω μέγας Ὄλυμπος
+τέκνον,0,2,16,"son, lord, man, old",23,"child; my son, my child; young",κλαίω τρέφω αἰνός τίκτω
+ἀναδύνω,0,2,32,"sit, stay, leap, stand",4,come to the top of the water; emerge,πολιός ἅλς1 ὀμίχλη κῦμα θάλασσα
+ῥίγιον,0,2,31,"tolerable, worth, fulfil, accused",21,,
+εὑρίσκω,0,2,-1,,7,"find; find that; found; find means, be able",ἧμαι κλισία ναῦς μέλας εὐρύοπα Κρονίδης ἄκρος κορυφή πολυδειράς Ὄλυμπος
+διογενής,0,2,-1,,24,sprung from Zeus; ordained and upheld by Zeus; divine,Πάτροκλος ἐξάγω κόρη μηνίω ναῦς πάρημαι ὠκύπορος Πηλεύς υἱός πούς ὠκύς Ἀχιλλεύς
+Πάτροκλος,0,2,-1,,24,Patroclus,διογενής ἐξάγω κόρη φίλος ἐπιπείθομαι ἑταῖρος
+θνητός,0,2,21,"mortal, earth, ones, perfect",25,"liable to death, mortal; mortals; mortal women; mortal creatures",θεός μάρτυρος μάκαρ ἄνθρωπος βασιλεύς ἀπηνής χρεώ γίγνομαι ἀεικής λοιγός ἀμύνω λοίγιος
+ὀφέλλω,0,2,-1,,7,"increase, enlarge, strengthen; raises high; multiply; add to",τιμή μήτηρ τίκτω μινυνθάδιος Ὀλύμπιος ἐγγυαλίζω Ζεύς ὑψιβρεμέτης Τρώς τίθημι κράτος Ἀχαιός
+γυνή,0,2,16,"son, lord, man, old",23,"woman; man; mistress, lady; the lasses",ἀέκων κίω λείπω χώομαι θυμός εὔζωνος βία ἀπαυράω
+πένθος,0,2,27,"blood, heart, feeling, life",10,"grief, sorrow; for; mourning; a public mourning",μέγας Ἀχαιΐς γαῖα ἱκάνω φρήν ἱκνέομαι
+δωδέκατος,0,2,-1,,15,twelfth,Ὄλυμπος ἔρχομαι γίγνομαι ἠώς εἶμι θεός πᾶς
+Μυρμιδόνες,0,2,22,"greeks, olympus, men, cronos",25,,ναῦς εἶμι ἑταῖρος ἀνάσσω κλισία ἱκνέομαι
+ὄλλυμι,0,2,20,"destroy, accept, away, lay",7,"destroy, make an end of; kill; doing away with; lose",ὑπεροπλία θυμός οἴομαι κατανεύω ἐτήτυμος Ἀχιλλεύς τιμάω πολύς ναῦς Ἀχαιός
+Πηλείων,0,2,36,"peleus, son, nether, world place",18,,ἄχος γίγνομαι ξανθός κόμη αἱρέω οἶος φαίνω
+καλός,0,2,-1,,9,"beautiful; beauteous; fair, shapely; beauty",ἀείδω πανημέριος μολπή θεός ἱλάσκομαι παιάν κοῦρος Ἀχαιός μέλπω Ἑκάεργος θυμός δέω
+δέπας,0,2,18,"wine, bowl, sweet, drinking",12,"beaker, goblet; bowl",πόσις2 ἐδητύς ἔρος ἵημι κοῦρος κρατήρ ἐπιστέφω ποτός νωμάω πᾶς ἐπάρχω ἀναίσσω
+μηρός,0,2,19,"thigh, knee, nail, sheath",12,thigh; his thigh; beside; thigh-bone,ἦτορ στῆθος λάσιος μερμηρίζω φάσγανον ὀξύς ἐρύω1 ἀνίστημι Ἀτρείδης ἐναρίζω χόλος παύω
+κρατήρ,0,2,18,"wine, bowl, sweet, drinking",12,"mixing vessel; bowl, in which wine was mixed with water; bowls of wine; a bowl of wine",πᾶς πόσις2 ἐδητύς ἔρος ἵημι κοῦρος ἐπιστέφω ποτός νωμάω ἐπάρχω δέπας θεός
+ἕλκω,0,2,33,"throw, crown, choose, hurl",4,"sulcus; velkù; draw, drag; began to drag",ξίφος ὁρμαίνω φρήν θυμός κολεόν μέγας ἔρχομαι Ἀθήνη χείρ
+κολεόν,0,2,19,"thigh, knee, nail, sheath",12,"sheath, scabbard; sheath, wing-case",μέγας ξίφος ὁρμαίνω φρήν θυμός ἕλκω ἔρχομαι Ἀθήνη ὠθέω
+φιλέω,0,2,2,"dishonour, bend, alive, awe",6,"love, regard with affection; sexual love; friends; to be beloved",ἵημι θεά λευκώλενος Ἥρα ἄμφω θυμός κήδω
+κοῦρος,0,2,16,"son, lord, man, old",24,"loppings, twigs stripped from a tree",πόσις2 ἐδητύς ἔρος ἵημι κρατήρ ἐπιστέφω ποτός νωμάω πᾶς ἐπάρχω δέπας πανημέριος
+Παλλάς,0,2,22,"greeks, olympus, men, cronos",19,Pallas; coin bearing the head of Pallas; maiden-priestess; five,Ἀθήνη γιγνώσκω πατήρ μέγαρον ἀκούω εὔχομαι φημί κελαινεφής Κρονίων οἶος ἀθάνατος ἀεικής
+δαίνυμι,0,2,30,"disperse, prepare, mischief, delight",1,give a banquet; feast; to give; thou shalt be,δαίς1 παύω πόνος τεύχω θυμός δέω ἴσος πρόπας ἦμαρ ἥλιος καταδύω
+προσαυδάω,0,2,4,"speak, address, exchange, accost",3,"speak to, address, accost; speak; to one; speak of",φωνέω ἔπος πτερόεις κερτόμιος Ζεύς Κρονίων
+αἰγίοχος,0,2,22,"greeks, olympus, men, cronos",18,veho; aegis-bearing,Ζεύς τέκος ἔρχομαι Ὄλυμπος βαίνω δῶμα δαίμων
+ὕβρις,0,2,-1,,10,"wanton violence; insolence; in wantonness; lust, lewdness",εἶδον Ἀγαμέμνων Ἀτρείδης τόσος πάρειμι ἀγλαός δῶρον
+ἐρύω2,0,2,25,"luo, shut, look gaze, loosen",7,"se-srū; e-serū; protect, guard; lie in wait for",χρή σφωίτερος θεά ἔπος θυμός χολόω υἱός Ἀχαιός παλάμη φορέω δικασπόλος θέμις
+πείρω,0,2,28,"cut, leave, draw, stream",2,"pierce, run through; spitted; they stuck; ran",σκῆπτρον βάλλω γαῖα χρύσεος ἧλος μῆρα καίω σπλάγχνον πατέομαι μιστύλλω ὀβελός ὀπτάω
+ἠμί,0,2,-1,,17,"say; spake; said; aio, ad-agium",
+ποιέω,0,2,28,"cut, leave, draw, stream",2,"make; make, produce; made; to be made with",ἕκαστος εὔχομαι οὐλοχύται προβάλλω αὐερύω πρῶτος σφάζω δέρω μηρός ἐκτέμνω κνῖσα καλύπτω
+καρδία,0,2,12,"speech, stature, growth, heart",10,heart; feelings?; freely; kindly,Ζεύς οἰνοβαρής κύων ὄμμα ἔχω ἔλαφος πόλεμος λαός θωρήσσω λόχος εἶμι ἀριστεύς
+ἀντίος,0,2,-1,,7,"set against; face to face, opposite; to meet them; though she faced him",πολύς λωίων στρατός εὐρύς Ἀχαιός δῶρον ἀφαιρέω εἶπον ἵστημι ἅπας
+οὐτιδανός,0,2,14,"dreams, augur, strong, powerful busied",21,"of no account, worthless; reckless; quid; cid",δημοβόρος βασιλεύς ἀνάσσω δειλός καλέω πᾶς ἔργον ὑπείκω εἶπον
+ἀνέχω,0,2,35,"reproach, command, hold, encompasses",8,"hold up, lift up; held up; in fight; hold up",Χρύσης μέγας εὔχομαι χείρ κήδω φίλος ὀφθαλμός εἶδον θείνω
+ὅρκος,0,2,-1,,10,the object by which one swears; oath; an oath by; an oath,μέγας ὄμνυμι
+φύλλον,0,2,-1,,12,leaf; leaves; foliage; voting-papers,σκῆπτρον ὄζος φύω πρῶτος τομή ὄρος λείπω ἀναθηλέω χαλκός λέπω φλοιός
+οὐλοχύται,0,2,-1,,12,barley-groats; coarsely-ground barley sprinkled,χερνίπτομαι ἀναιρέω εὔχομαι προβάλλω αὐερύω πρῶτος σφάζω δέρω μηρός ἐκτέμνω κνῖσα καλύπτω
+λείπω,0,2,28,"cut, leave, draw, stream",1,"leave, quit; is gone; leave behind, leave at home; leave",σκῆπτρον φύλλον ὄζος φύω πρῶτος τομή ὄρος ἀναθηλέω χώομαι θυμός εὔζωνος γυνή
+βωμός,0,2,-1,,14,"raised platform, stand; base; altar with a base; tomb, cairn",ἄγω πολύμητις Ὀδυσσεύς πατήρ φίλος χείρ τίθημι θεός ἱερός ἑκατόμβη ἵστημι εὔδμητος
+πρυμνήσιος,0,2,8,"sea, earth, land, salt",13,of a stern; stern-cables,δέω ἥλιος καταδύω κνέφας ἔρχομαι κοιμάω ναῦς
+πίπτω,0,2,2,"dishonour, bend, alive, awe",7,Exc. ex libris Herodiani; fall down; cast oneself down; fall,δύναμαι ἄχνυμαι χραισμέω πολύς Ἕκτωρ ἀνδροφόνος θνήσκω Σίντιες ἀνήρ κομίζω
+ἀγαθός,0,2,15,"youth, safe, small, honour",24,"good; well-born, gentle; aristocrats; brave, valiant",θεοείκελος Ἀχιλλεύς κλέπτω νόος παρέρχομαι πείθω ἀφαιρέω κόρη
+δατέομαι,0,2,-1,,8,divide among themselves; they share; are alike filled with; tear,πόλις ἐκπέρθω υἱός Ἀχαιός
+πολιός,0,2,-1,,15,"grey, grizzled, grisly; grey; greyhaired men; grey hairs",ἅλς1 Ἀχιλλεύς δακρύω ἑταῖρος ἕζομαι λιάζομαι θίς ὁράω ἀπείρων πόντος ἀναδύνω ὀμίχλη
+ἐπευφημέω,0,2,7,"fear, rejoice, tears, cower",6,"assent with a shout of applause; glorify, sing praises to; sing over; in furtherance of",πᾶς Ἀχαιός αἰδέομαι ἱερεύς ἀγλαός δέχομαι ἄποινα
+ἦμαρ,0,2,-1,,9,day; by day; on that day; the day,πᾶς φέρω πρόπας ἥλιος καταδύω δαίνυμι
+ὄμνυμι,0,2,34,"speak, attempt, ask, make",8,swear; swear to; affirm; confirm by oath,πρόφρων ἔπος χείρ ἀρήγω μέγας ὅρκος
+ἀράομαι,0,2,4,"speak, address, exchange, accost",1,pray to; invoke; pray; prayed,πολύς κίω γεραιός Ἀπόλλων ἄναξ εὔκομος τίκτω Λητώ μήτηρ φίλος χείρ ὀρέγνυμι
+κρατέω,0,2,-1,,6,"to be strong, powerful; rule, hold sway; sway; the ruler",πᾶς οἴομαι πείθω ἀνήρ χολόω μέγας Ἀργεῖος Ἀχαιός ἐθέλω ἀνάσσω σημαίνω
+κίω,0,2,32,"sit, stay, leap, stand",4,,πολύς ἀράομαι γεραιός Ἀπόλλων ἄναξ εὔκομος τίκτω Λητώ ἀέκων γυνή
+στῆθος,0,2,5,"silver, overgrown, gold, breast",12,breast; chest; breasts; the breast as the seat of feeling and thought,χόλος καταπέσσω ἔχω κότος τελέω ἦτορ λάσιος μερμηρίζω φάσγανον ὀξύς ἐρύω1 μηρός
+φράζω,0,2,35,"reproach, command, hold, encompasses",8,"point out, show; say, tell; show the way to, show where to find; showed",σώζω εὔκηλος ἐθέλω
+θαρσέω,0,2,7,"fear, rejoice, tears, cower",6,to be of good courage; to be over-bold; fear not!; with good courage,εἶπον θεοπρόπιον οἶδα
+ἀντιάω,0,2,24,"arm, fight, anger, judgement",7,go for the purpose of meeting; receiving; go in quest of; hit,γῆρας ἔπειμι οἶκος Ἄργος πάτρη ἱστός ἐποίχομαι λέχος μάντις εἴρω2 ἱερεύς ὀνειροπόλος
+ἅλιος,0,2,-1,,18,of the sea; sea,ἀργυρόπεζος Θέτις θυγάτηρ γέρων Ἥρα ἀγνοέω εἶδον συμφράζομαι βουλή δείδω φρήν παρεῖπον
+ἀργυρόπεζος,0,2,-1,,20,,Θέτις θυγάτηρ ἅλιος γέρων Ἥρα ἀγνοέω εἶδον συμφράζομαι βουλή δείδω φρήν παρεῖπον
+συμφράζομαι,0,2,4,"speak, address, exchange, accost",8,"join in considering, take counsel with; imparted; contrive; mention at the same time",βουλή Ἥρα ἀγνοέω εἶδον ἀργυρόπεζος Θέτις θυγάτηρ ἅλιος γέρων δολομήτης θεός
+λέχος,0,2,26,"strength, death, strife, fear",14,"couch, bed; bedstead; bier; marriage-bed",γῆρας ἔπειμι οἶκος Ἄργος πάτρη ἱστός ἐποίχομαι ἀντιάω Ζεύς εἶμι Ὀλύμπιος ἀστεροπητής
+σύμπας,0,2,-1,,21,"all together, all at once; the whole; as a whole; general",εὔχομαι Δαναοί Ἀχαιός Ἀπόλλων Ζεύς φίλος Κάλχας θεοπροπία ἀναφαίνω ζάω χθών δέρκομαι
+μειδάω,0,2,7,"fear, rejoice, tears, cower",6,smile; laugh aloud; grinning; smáyati,θεά λευκώλενος Ἥρα παῖς δέχομαι χείρ κύπελλον
+ἀμύμων,0,2,14,"dreams, augur, strong, powerful busied",25,"blameless, noble, excellent; a physician",αὐδάω μάντις Ζεύς Ὠκεανός Αἰθίοψ χθιζός βαίνω δαίς1
+οἶκος,0,2,-1,,14,house; built houses; any dwelling-place; cave,ἕκαστος γῆρας ἔπειμι Ἄργος πάτρη ἱστός ἐποίχομαι λέχος ἀντιάω καταδύω λαμπρός φάος
+ἕδος,0,2,-1,,12,"sitting-place; seat, stool; straight-backed chair; seat, abode, dwelling-place",θεός πᾶς ἀνίστημι σφός πατήρ ἐθέλω Ὀλύμπιος ἀστεροπητής στυφελίζω
+ὄσσε,0,2,6,"ward, divide, resolve, apart separate",5,the two eyes; oqṷ-ye,πῦρ λαμπετάω εἴκω1 δεινός φαίνω
+κοῖλος,0,2,-1,,15,hollow; hold; vena cava; plate,ναῦς εὔχομαι Δαναοί γέρων κιχάνω δηθύνω ὕστερος εἶμι χραισμέω σκῆπτρον στέμμα θεός
+ἀφίημι,0,2,10,"send, set, lead, having",8,"send forth, discharge; throw oneself; give oneself up; let loose",
+μυθέομαι,0,2,-1,,8,speak; converse; say that; order,Ἀχιλλεύς κέλομαι Ζεύς φίλος μῆνις Ἀπόλλων ἑκατηβελέτης ἄναξ αἰχμητής τίθημι θεός προτίθημι
+μετεῖπον,0,2,4,"speak, address, exchange, accost",3,"speak among, address",φρονέω ἀγοράομαι
+ἀγοράομαι,0,2,4,"speak, address, exchange, accost",24,"meet in assembly, sit in debate; speak in the assembly, harangue; speak, utter; speak, talk with",φρονέω μετεῖπον
+φεύγω,0,2,-1,,8,"flee, take flight; ran; flee; the purpose",Ἀτρείδης παλιμπλάζομαι οἴομαι ἀπονοστέω θάνατος πόλεμος δαμάζω λοιμός Ἀχαιός θυμός ἐπισεύω
+δεινός,0,2,-1,,10,"fearful, terrible; fearful; awful; danger, suffering, horror",κλαγγή γίγνομαι ἀργύρεος βιός ὄσσε φαίνω
+ἀστεροπητής,0,2,14,"dreams, augur, strong, powerful busied",20,lightener,Ὀλύμπιος ἐθέλω ἕδος στυφελίζω Ζεύς λέχος εἶμι
+ἀργύρεος,0,2,5,"silver, overgrown, gold, breast",15,of silver; silver-plated; silver coin,δεινός κλαγγή γίγνομαι βιός κώπη ἔχω χείρ βαρύς
+ὦμος,0,2,19,"thigh, knee, nail, sheath",12,the shoulder with the upper arm; the lower; arms; the shoulder,χώομαι βαίνω Ὄλυμπος κάρηνον κῆρ τόξον ἔχω ἀμφηρεφής φαρέτρα κλάζω ὀιστός κινέω
+κῆλον,0,2,-1,,11,shaft; arrow; the shafts; timbers,στρατός θεός οἴχομαι ἐποίχομαι εὐρύς Ἀχαιός
+ἐπίηρα,0,2,-1,,11,acceptable; gifts; service; for the sake of,μήτηρ φίλος φέρω πατήρ Ἥφαιστος κλυτοτέχνης ἄρχω ἀγορεύω λευκώλενος Ἥρα παράφημι νοέω
+ἀγείρω,0,2,-1,,7,"gather together; gather, assemble; herded; collect, gather",ὁμηγερής γίγνομαι ἀνίστημι μετάφημι πούς ὠκύς Ἀχιλλεύς ἐρέτης
+κραίνω,0,2,-1,,21,"accomplish, fulfil; accomplish; give true; come true",ἔλδωρ Σμινθεύς χαρίεις ναός ἐρέφω πίων μηρία καίω ταῦρος αἴξ Ζεύς πατήρ
+ταῦρος,0,2,3,"bull, bird, night, chariot",12,bull; priest of Poseidon Taureios; the bull as a sign of the Zodiac; the pudenda muliebria,αἴξ Σμινθεύς χαρίεις ναός ἐρέφω πίων μηρία καίω κραίνω ἔλδωρ ἔρδω Ἀπόλλων
+κάθημαι,0,2,32,"sit, stay, leap, stand",4,"to be seated, sit; as he sat there; sate; sit on",ἀκέων ἐπιγνάμπτω φίλος κῆρ
+ἀργυρότοξος,0,2,9,"greedy, silver bow, terribly, ruthless",20,with silver bow; bearer of the silver bow,κλύω Χρύση ἀμφιβαίνω Κίλλα ζάθεος Τένεδος ἀνάσσω
+Τένεδος,0,2,17,"troy, phthia, city, pear",18,Tenedos,κλύω ἀργυρότοξος Χρύση ἀμφιβαίνω Κίλλα ζάθεος ἀνάσσω
+τόσος,0,2,-1,,21,"so great, so vast; so long; so many; so loud",μάντις εἴρω2 ἱερεύς ὀνειροπόλος ὄναρ Ζεύς εἶπον χώομαι Φοῖβος Ἀπόλλων εὐχωλή ἐπιμέμφομαι
+εὐχωλή,0,2,2,"dishonour, bend, alive, awe",10,"prayer, vow; votive offering; boast, vaunt; shout of triumph",ἐπιμέμφομαι ἑκατόμβη μάντις εἴρω2 ἱερεύς ὀνειροπόλος ὄναρ Ζεύς εἶπον τόσος χώομαι Φοῖβος
+ἐπιμέμφομαι,0,2,31,"tolerable, worth, fulfil, accused",8,cast blame upon; find fault for; because of; complain of,εὐχωλή ἑκατόμβη μάντις εἴρω2 ἱερεύς ὀνειροπόλος ὄναρ Ζεύς εἶπον τόσος χώομαι Φοῖβος
+ζάθεος,0,2,-1,,20,"very divine, sacred",κλύω ἀργυρότοξος Χρύση ἀμφιβαίνω Κίλλα Τένεδος ἀνάσσω
+Κίλλα,0,2,17,"troy, phthia, city, pear",14,,κλύω ἀργυρότοξος Χρύση ἀμφιβαίνω ζάθεος Τένεδος ἀνάσσω
+ἀμφιβαίνω,0,2,-1,,7,go about; around; in his course had reached; bestride,κλύω ἀργυρότοξος Χρύση Κίλλα ζάθεος Τένεδος ἀνάσσω
+βοῶπις,0,2,-1,,19,"ox-eyed; having large, full eyes",πότνια Ἥρα ἀμείβω δείδω
+μεταλλάω,0,2,-1,,8,"search carefully, inquire diligently; inquire of, question; sought; out",θεός ἐθέλω νοέω ἕκαστος διείρομαι ἔρομαι
+ἁνδάνω,0,2,-1,,4,"please, delight, gratify; pleased; with; the opinion",Ἀτρείδης Ἀγαμέμνων θυμός
+θεοπροπία,0,2,-1,,25,"prophecy, oracle",εὔχομαι Δαναοί Ἀπόλλων Ζεύς φίλος Κάλχας ἀναφαίνω ζάω χθών δέρκομαι κοῖλος ναῦς
+κεφαλή,0,2,-1,,9,head; in stature; down over the head; on the head,κατανεύω πείθω παλινάγρετος ἀπατηλός ἀτελεύτητος
+ὀχθέω,0,2,7,"fear, rejoice, tears, cower",6,"to be sorely angered, vexed in spirit",Ζεύς μέγας πρόσφημι νεφεληγερέτα δῶμα θεός οὐρανίωνες
+νεικέω,0,2,2,"dishonour, bend, alive, awe",6,"quarrel, wrangle with; quarrel; with; strove with him",πατήρ ἀθάνατος θεός μήτηρ παράφημι νοέω φίλος ἐπίηρα φέρω Ζεύς δαίς1 ταράσσω
+ἐρίζω,0,2,6,"ward, divide, resolve, apart separate",7,"strive, wrangle, quarrel; contend; sophistical disputations; discord",βασιλεύς πρῶτος διίστημι Ἀτρείδης ἄναξ ἀνήρ δῖος Ἀχιλλεύς Πηλείδης ἐθέλω ὁμοῖος μείρομαι
+μεγάθυμος,0,2,-1,,25,great-hearted,δίδωμι γέρας Ἀχαιός Ἀτρείδης κύδιστος φιλοκτέανος πᾶς ἀραρίσκω θυμός ἀντάξιος
+συνίημι,0,2,-1,,8,bring; set together; shot; together,θεός ἔρις μάχομαι βουλή
+ἥρως,0,2,16,"son, lord, man, old",24,"hero; the Fourth Age of men; heroes, as objects of worship; local deities",πολύς ἴφθιμος ψυχή Ἅιδης προιάπτω ἀνίστημι Ἀτρείδης εὐρύς κρείων Ἀγαμέμνων ἄχνυμαι
+ἀπόλλυμι,0,2,20,"destroy, accept, away, lay",7,"destroy utterly, kill; demolish, lay waste; will waste; sought to destroy",βούλομαι λαός σῶς
+Λητώ,0,2,22,"greeks, olympus, men, cronos",18,Leto; born from Leto; temple of L,Ζεύς υἱός πολύς κίω ἀράομαι γεραιός Ἀπόλλων ἄναξ εὔκομος τίκτω
+ἄλοχος,0,2,16,"son, lord, man, old",23,"partner of oneʼs bed, wife; leman, concubine; unwedded",Κλυταιμνήστρη προβέβουλα κουρίδιος χείρων δέμας φυή φρήν ἔργον χαλεπός
+λοίγιος,0,2,-1,,21,"pestilent, deadly; sorrow",ἔργον ἐχθοδοπέω ἐφίημι Ἥρα ἐρέθω ὀνείδειος ἔπος ἀνεκτός θνητός ἐριδαίνω θεός κολῳός
+ἀρητήρ,0,2,-1,,12,one that prays; priest,ὀλέκω λαός Χρύσης ἀτιμάζω Ἀτρείδης εὐχωλή ἐπιμέμφομαι ἑκατόμβη ἀτιμάω Ἀγαμέμνων
+ἀπερείσιος,0,2,1,"grief, gift, splendid, thigh bones",11,countless,Ἀπόλλων ἔρχομαι θοός ναῦς Ἀχαιός λύω θυγάτηρ φέρω ἄποινα στέμμα ἔχω χείρ
+κοσμήτωρ,0,2,14,"dreams, augur, strong, powerful busied",5,"one who marshals an army, commander, leader; guide, director; one who adorns",λίσσομαι πᾶς Ἀχαιός Ἀτρείδης λαός
+ἐσθλός,0,2,23,"best, better, force, bad",21,"good; brave, stout; noble; wellbred",εἶπον ἔπος τελέω δαίς1 ἦδος χείρων νικάω
+πελάζω,0,1,28,"cut, leave, draw, stream",2,"approach, draw near; draws to; come near; will",ἱστός ἱστοδόκη πρότονοι ὑφίημι
+ἀμφικύπελλος,0,1,-1,,20,double cup; two-handled,ἀναίσσω δέπας μήτηρ φίλος χείρ τίθημι
+ἀποπαύω,0,1,-1,,8,"stop; hinder from, make to cease from; hinder; leave off, cease from",πόλεμος
+μέμαα,0,1,24,"arm, fight, anger, judgement",6,,ἀλέξω ῥίπτω πούς τεταγών βηλός θεσπέσιος
+ῥίπτω,0,1,33,"throw, crown, choose, hurl",7,"throw, cast, hurl; throw; prostrate; lying",ἀλέξω μέμαα πούς τεταγών βηλός θεσπέσιος
+τεταγών,0,1,10,"send, set, lead, having",7,"having seized; tango, tetigi",ἀλέξω μέμαα ῥίπτω πούς βηλός θεσπέσιος
+ὑψιβρεμέτης,0,1,38,"shooting, far, fingered large, feeding",20,high-thundering,μήτηρ τίκτω μινυνθάδιος τιμή ὀφέλλω Ὀλύμπιος ἐγγυαλίζω Ζεύς
+βηλός,0,1,19,"thigh, knee, nail, sheath",12,threshold,ἀλέξω μέμαα ῥίπτω πούς τεταγών θεσπέσιος
+ὅρμος2,0,1,8,"sea, earth, land, salt",13,"cord, chain; necklace, collar; anything strung like a necklace, wreath, chaplet; a string",προερέσσω ἐρετμόν
+ἀμφιγυήεις,0,1,-1,,20,"with both feet crooked, lame",ἕκαστος καταδύω λαμπρός φάος ἥλιος κατακείω βαίνω οἶκος δῶμα περικλυτός Ἥφαιστος ποιέω
+θεσπέσιος,0,1,-1,,18,"divinely sounding, divinely sweet; divinely uttered; decreed; oracular",ἀλέξω μέμαα ῥίπτω πούς τεταγών βηλός
+ἀγάννιφος,0,1,39,"unresting snowed, dazzling, deep, confused",20,"much snowed on, snow-capt",εἴρω2 ἔπος Ζεύς τερπικέραυνος εἶμι Ὄλυμπος πείθω
+καθεύδω,0,1,32,"sit, stay, leap, stand",4,"lie down to sleep, sleep; to sleep; pass the night; roost",ἀναβαίνω
+καθάπτω,0,1,-1,,25,"fasten; fix on, put upon; having made; fast",ἔπος μαλακός
+περικλυτός,0,1,38,"shooting, far, fingered large, feeding",20,"famous, renowned; excellent, noble",ἕκαστος καταδύω λαμπρός φάος ἥλιος κατακείω βαίνω οἶκος δῶμα ἀμφιγυήεις Ἥφαιστος ποιέω
+τερπικέραυνος,0,1,38,"shooting, far, fingered large, feeding",20,delighting in thunder,εἴρω2 ἔπος Ζεύς εἶμι Ὄλυμπος ἀγάννιφος πείθω
+τυτθός,0,1,-1,,21,"little, small, young; a little one; a little, a bit; little",τίνω
+κατακείω,0,1,2,"dishonour, bend, alive, awe",6,,ἕκαστος καταδύω λαμπρός φάος ἥλιος βαίνω οἶκος δῶμα περικλυτός ἀμφιγυήεις Ἥφαιστος ποιέω
+προερέσσω,0,1,28,"cut, leave, draw, stream",2,row forwards,ὅρμος2 ἐρετμόν
+ὀιζυρός,0,1,2,"dishonour, bend, alive, awe",12,"woeful, miserable; wretch!; toilsome, dreary; sorry, wretched, poor",ὠκύμορος πᾶς πέλω
+ὀρέγνυμι,0,1,-1,,7,,πολύς μήτηρ φίλος ἀράομαι χείρ
+ἐρετμόν,0,1,8,"sea, earth, land, salt",13,oar,ὅρμος2 προερέσσω
+εὐνή,0,1,-1,,10,bed; bedding; abode; lair,βάλλω
+φάος,0,1,0,"early, morn, light, day",16,light; daylight; day; the light,ἕκαστος καταδύω λαμπρός ἥλιος κατακείω βαίνω οἶκος δῶμα περικλυτός ἀμφιγυήεις Ἥφαιστος ποιέω
+πόντος,0,1,8,"sea, earth, land, salt",13,sea; open sea; wide waters; the sea,Ἀχιλλεύς δακρύω ἑταῖρος ἕζομαι λιάζομαι θίς ἅλς1 πολιός ὁράω ἀπείρων
+Ὠκεανός,0,1,-1,,14,Oceanus; great River; the great Outward Sea; oceans,Ζεύς ἀμύμων Αἰθίοψ χθιζός βαίνω δαίς1
+ἀλέξω,0,1,6,"ward, divide, resolve, apart separate",7,"raákṣati; ward off, turn aside; will ward; off from",μέμαα ῥίπτω πούς τεταγών βηλός θεσπέσιος
+ἐγγυαλίζω,0,1,25,"luo, shut, look gaze, loosen",7,"put into the palm of the hand, put into the hand; will put; into; hands",μήτηρ τίκτω μινυνθάδιος τιμή ὀφέλλω Ὀλύμπιος Ζεύς ὑψιβρεμέτης
+ἵλαος,0,1,2,"dishonour, bend, alive, awe",10,"propitious, gracious; propitious, blameless, atoned for; gracious, kindly",Ὀλύμπιος
+ὀφθαλμός,0,1,11,"know, perceive, better, des",9,eye; eyes; to the eye; sight,ἀνέχω κήδω φίλος εἶδον θείνω
+ἱστοδόκη,0,1,-1,,15,mast-holder,ἱστός πελάζω πρότονοι ὑφίημι
+στέλλω,0,1,30,"disperse, prepare, mischief, delight",2,make ready; rig; fit; out,λιμήν πολυβενθής ἱκνέομαι ἱστίον τίθημι ναῦς μέλας
+ὕπνος,0,1,27,"blood, heart, feeling, life",9,"sleep, slumber; the sleep of death; sleep; a dream",κοιμάω γλυκύς ἱκάνω
+πολυβενθής,0,1,39,"unresting snowed, dazzling, deep, confused",20,very deep,λιμήν ἱκνέομαι ἱστίον στέλλω τίθημι ναῦς μέλας
+λιμήν,0,1,8,"sea, earth, land, salt",12,"harbour; havens of refuge from; haven, retreat, refuge; a haven of",πολυβενθής ἱκνέομαι ἱστίον στέλλω τίθημι ναῦς μέλας
+εὔζωνος,0,1,-1,,20,"well-girdled; girt up for exercise, active; well-equipped; well-girded",λείπω χώομαι θυμός γυνή βία ἀέκων ἀπαυράω
+ἀποβαίνω,0,1,32,"sit, stay, leap, stand",4,"step off from; alight, disembark from; disembark; dismount",φωνέω
+μινυνθάδιος,0,1,-1,,21,short-lived; small,μήτηρ τίκτω τιμή ὀφέλλω Ὀλύμπιος ἐγγυαλίζω Ζεύς ὑψιβρεμέτης
+ἀναίσσω,0,1,-1,,4,start up; he rose to speak; gush forth; springing fresh,δέπας ἀμφικύπελλος μήτηρ φίλος χείρ τίθημι
+πρότονοι,0,1,-1,,12,"ropes from the masthead to the forepart of a ship, forestays; halyards",ἱστός ἱστοδόκη πελάζω ὑφίημι
+Αἰθίοψ,0,1,-1,,25,"Burnt-face; Ethiopian, negro; a fish; Ethiopian",Ζεύς Ὠκεανός ἀμύμων χθιζός βαίνω δαίς1
+γουνάζομαι,0,1,-1,,8,"clasp; knees; implore, entreat; implore",
+θείνω,0,1,2,"dishonour, bend, alive, awe",6,strike; dashed; slay; slain,ἀνέχω κήδω φίλος ὀφθαλμός εἶδον
+χαλκοβατής,0,1,-1,,20,"standing on bronze, with brazen base; with floor of bronze",εἶμι Ζεύς δῶμα
+ἀργαλέος,0,1,15,"youth, safe, small, honour",21,"painful, troublous; difficult; troublesome, vexatious; hard",Ὀλύμπιος ἀντιφέρω
+ἀδάκρυτος,0,1,15,"youth, safe, small, honour",21,without tears; tearless; so that they weep not; abnormally dry,ὀφείλω ναῦς ἀπήμων ἧμαι αἶσα
+μαλακός,0,1,-1,,25,soft; fresh-ploughed; soft grassy; soft-fleeced,ἔπος καθάπτω
+πραπίδες,0,1,5,"silver, overgrown, gold, breast",25,"midriff, diaphragm; understanding, mind; heart",ἕκαστος καταδύω λαμπρός φάος ἥλιος κατακείω βαίνω οἶκος δῶμα περικλυτός ἀμφιγυήεις Ἥφαιστος
+ἀντιφέρω,0,1,24,"arm, fight, anger, judgement",7,"set against; set oneself against, fight against; to oppose; match oneself with",ἀργαλέος Ὀλύμπιος
+χθιζός,0,1,-1,,21,of yesterday; yesterdayʼs; yesterday; yesterday!,Ζεύς Ὠκεανός ἀμύμων Αἰθίοψ βαίνω δαίς1
+ὑφίημι,0,1,-1,,2,"let down, lower; lower; put under; put",ἱστός ἱστοδόκη πελάζω πρότονοι
+ἀπήμων,0,1,15,"youth, safe, small, honour",21,"unharmed, unhurt; without sorrow; care; doing no harm",ὀφείλω ναῦς ἀδάκρυτος ἧμαι αἶσα
+ἑκατηβόλος,0,1,38,"shooting, far, fingered large, feeding",20,far-darting; shooting a hundred; hitting the mark at will,Ἀπόλλων Χρύσης ἱερεύς ἔρχομαι θοός ναῦς Ἀχαιός χαλκοχίτων λύω θυγάτηρ φέρω ἀπερείσιος
+ὀφείλω,0,1,13,"wish, owe, willing, urge",8,"owe, have to pay; account for; do I owe?; to be debtor",ναῦς ἀδάκρυτος ἀπήμων ἧμαι αἶσα
+ἐξαυδάω,0,1,34,"speak, attempt, ask, make",22,speak out,κεύθω νόος οἶδα ἄμφω
+δεσμός,0,1,19,"thigh, knee, nail, sheath",12,"band, bond, anything for tying and fastening; halter; mooring-cable; door-latch",καλέω ἔρχομαι θεά ὑπολύω ἑκατόγχειρος μακρός Ὄλυμπος Βριάρεως θεός ἀνήρ πᾶς Αἰγαίων
+ὑπολύω,0,1,25,"luo, shut, look gaze, loosen",7,loosen beneath; below; made; give way under him,καλέω ἔρχομαι θεά δεσμός ἑκατόγχειρος μακρός Ὄλυμπος Βριάρεως θεός ἀνήρ πᾶς Αἰγαίων
+κεύθω,0,1,29,"hear, rouse, escape notice, waste",8,"custos; hýdan; cover, hide; covered",ἐξαυδάω νόος οἶδα ἄμφω
+Ποσειδεών,0,1,22,"greeks, olympus, men, cronos",18,,πατήρ μέγαρον ἀκούω εὔχομαι φημί κελαινεφής Κρονίων οἶος ἀθάνατος ἀεικής λοιγός ἀμύνω
+κύπελλον,0,1,-1,,20,"big-bellied drinking-vessel, beaker, goblet; milk-vessel; fragments of bread left on table",μειδάω παῖς δέχομαι χείρ
+συνδέω,0,1,2,"dishonour, bend, alive, awe",7,"bind; tie together; together, side by side; fasten",πατήρ μέγαρον ἀκούω εὔχομαι φημί κελαινεφής Κρονίων οἶος ἀθάνατος ἀεικής λοιγός ἀμύνω
+ἐνδέξιος,0,1,-1,,11,"towards the right hand, from left to right; from left to right; propitious; on the right",θεός πᾶς οἰνοχοέω γλυκύς νέκταρ κρατήρ ἀφύσσω
+κελαινεφής,0,1,-1,,20,"black with clouds; shrouded in dark clouds, cloud-wrapped; dark-coloured; black, rich",πατήρ μέγαρον ἀκούω εὔχομαι φημί Κρονίων οἶος ἀθάνατος ἀεικής λοιγός ἀμύνω συνδέω
+οἰνοχοέω,0,1,-1,,4,,θεός ἐνδέξιος πᾶς γλυκύς νέκταρ κρατήρ ἀφύσσω
+νέκταρ,0,1,18,"wine, bowl, sweet, drinking",12,nectar; wine; perfumed unguent,θεός ἐνδέξιος πᾶς οἰνοχοέω γλυκύς κρατήρ ἀφύσσω
+στενάχω,0,1,7,"fear, rejoice, tears, cower",6,"groan, sigh, wail; groaning; bewail, lament",βαρύς πρόσφημι πούς ὠκύς Ἀχιλλεύς
+ἄσβεστος,0,1,-1,,21,"unquenchable, inextinguishable; not quenched; ceaseless; unslaked lime",ἐνόρνυμι γέλως μάκαρ θεός εἶδον Ἥφαιστος δῶμα ποιπνύω
+ἐνόρνυμι,0,1,32,"sit, stay, leap, stand",4,"arouse, stir up in; arise in; among",ἄσβεστος γέλως μάκαρ θεός εἶδον Ἥφαιστος δῶμα ποιπνύω
+ἐύς,0,1,-1,,18,"good, brave, noble; good things, good fortune; thy",δύναμαι περιέχω παῖς
+περιέχω,0,1,35,"reproach, command, hold, encompasses",8,"encompass, embrace, surround; envelope; encompasses; environment",δύναμαι παῖς ἐύς
+Βρισεύς,0,1,36,"peleus, son, nether, world place",18,,νέος βαίνω κῆρυξ ἄγω κόρη δίδωμι υἱός Ἀχαιός
+ἑλίκωψ,0,1,-1,,25,,ναῦς θοός Ἀχαιός Χρύσης πέμπω
+Θήβη,0,1,17,"troy, phthia, city, pear",14,,οἴχομαι ἱερός πόλις Ἠετίων
+Ἠετίων,0,1,22,"greeks, olympus, men, cronos",18,,οἴχομαι Θήβη ἱερός πόλις
+Ἀτρεΐων,0,1,36,"peleus, son, nether, world place",18,,χόλος λαμβάνω
+ἕκατος,0,1,-1,,18,,μάντις οἶδα ἀγορεύω θεοπροπία
+ἐπασσύτερος,0,1,23,"best, better, force, bad",21,"one upon another, one after another; one after another; upon; frequent, repeated",λαός θνήσκω
+ποιπνύω,0,1,-1,,6,bustle about; make haste and; labouring,ἄσβεστος ἐνόρνυμι γέλως μάκαρ θεός εἶδον Ἥφαιστος δῶμα
+χαλκοχίτων,0,1,21,"mortal, earth, ones, perfect",25,bronze-clad,Ἀπόλλων Χρύσης ἱερεύς ἑκατηβόλος ἔρχομαι θοός ναῦς Ἀχαιός λύω θυγάτηρ φέρω ἀπερείσιος
+γέλως,0,1,-1,,10,laughter; ridiculous; joke; laugh,ἄσβεστος ἐνόρνυμι μάκαρ θεός εἶδον Ἥφαιστος δῶμα ποιπνύω
+ἑκατόγχειρος,0,1,-1,,20,hundred-handed,καλέω ἔρχομαι θεά ὑπολύω δεσμός μακρός Ὄλυμπος Βριάρεως θεός ἀνήρ πᾶς Αἰγαίων
+κομίζω,0,1,-1,,7,"take care of, provide for; receive, treat; attended to; attend, give heed to",Σίντιες ἀνήρ πίπτω
+λαμπρός,0,1,0,"early, morn, light, day",16,"bright, radiant; bright; toga candida; clear, limpid",ἕκαστος καταδύω φάος ἥλιος κατακείω βαίνω οἶκος δῶμα περικλυτός ἀμφιγυήεις Ἥφαιστος ποιέω
+κλαίω,0,1,34,"speak, attempt, ask, make",8,"cry, wail, lament; crying; crying, howling; well beaten",τέκνον
+ὄψ,0,1,-1,,25,voice; word,θυμός δέω δαίς1 ἴσος φόρμιγξ περικαλλής ἔχω Ἀπόλλων Μοῦσα ἀείδω ἀμείβω καλός
+διαπέρθω,0,1,-1,,7,"destroy utterly, sack, waste",ἄγω πᾶς
+βένθος,0,1,8,"sea, earth, land, salt",15,depth,κλύω πότνια μήτηρ ἧμαι ἅλς1 πατήρ γέρων
+ἄτη,0,1,-1,,10,"bewilderment, infatuation; blindness; delusion; the goddess of mischief",Ἀχαιός μιμνήσκω παρέζομαι λαμβάνω γόνυ ἐθέλω Τρώς ἀρήγω πρύμνα ἅλς1 εἴλω κτείνω
+ἐπαυρέω,0,1,-1,,7,"partake of, share; enjoys; share; have had enjoyment of",Ἀχαιός μιμνήσκω παρέζομαι λαμβάνω γόνυ ἐθέλω Τρώς ἀρήγω πρύμνα ἅλς1 εἴλω κτείνω
+κτείνω,0,1,2,"dishonour, bend, alive, awe",6,"kill, slay; seeks to kill; the slayer, murderer; put to death",Ἀχαιός μιμνήσκω παρέζομαι λαμβάνω γόνυ ἐθέλω Τρώς ἀρήγω πρύμνα ἅλς1 εἴλω πᾶς
+εἴλω,0,1,25,"luo, shut, look gaze, loosen",7,shut in; shut out; let them be shut out; ponded,Ἀχαιός μιμνήσκω παρέζομαι λαμβάνω γόνυ ἐθέλω Τρώς ἀρήγω πρύμνα ἅλς1 κτείνω πᾶς
+πρύμνα,0,1,8,"sea, earth, land, salt",13,"stern, poop; retire, draw back; the Acropolis; the vessel",Ἀχαιός μιμνήσκω παρέζομαι λαμβάνω γόνυ ἐθέλω Τρώς ἀρήγω ἅλς1 εἴλω κτείνω πᾶς
+καταπίπτω,0,1,28,"cut, leave, draw, stream",7,"fall, drop; fell; base, contemptible; accidents",ἥλιος καταδύω Λῆμνος
+Μοῦσα,0,1,22,"greeks, olympus, men, cronos",12,"Muse; music, song; strain; liberal arts, accomplishments",θυμός δέω δαίς1 ἴσος φόρμιγξ περικαλλής ἔχω Ἀπόλλων ἀείδω ἀμείβω ὄψ καλός
+περικαλλής,0,1,-1,,18,very beautiful,θυμός δέω δαίς1 ἴσος φόρμιγξ ἔχω Ἀπόλλων Μοῦσα ἀείδω ἀμείβω ὄψ καλός
+Λῆμνος,0,1,17,"troy, phthia, city, pear",14,Lemnos; from Lemnos; Lemnian,ἥλιος καταδύω καταπίπτω
+ἔνειμι,0,1,32,"sit, stay, leap, stand",7,sum; to be in; to be among; is in,ὀλίγος θυμός
+μιμνήσκω,0,1,-1,,6,"remind, put in mind; recalled; to memory, made; famous",Ἀχαιός παρέζομαι λαμβάνω γόνυ ἐθέλω Τρώς ἀρήγω πρύμνα ἅλς1 εἴλω κτείνω πᾶς
+Σίντιες,0,1,22,"greeks, olympus, men, cronos",14,Sintians,ἀνήρ κομίζω πίπτω
+ὑποδείδω,0,1,7,"fear, rejoice, tears, cower",6,"shrink in fear under, cower before; cower beneath; fear",μάκαρ θεός
+ὀμίχλη,0,1,0,"early, morn, light, day",16,"mist, fog; cloud-like darkness, gloom; the steam of cookery; miglà",ἀναδύνω πολιός ἅλς1
+φόρμιγξ,0,1,-1,,15,lyre; bow,θυμός δέω δαίς1 ἴσος περικαλλής ἔχω Ἀπόλλων Μοῦσα ἀείδω ἀμείβω ὄψ καλός
+γαίω,0,1,2,"dishonour, bend, alive, awe",6,"rejoice, exult",Κρονίων καθέζομαι κῦδος
+πρόπας,0,1,-1,,21,all; long; together; utterly,ἦμαρ ἥλιος καταδύω δαίνυμι
+καταρρέζω,0,1,28,"cut, leave, draw, stream",4,"pat, stroke, caress",καθέζομαι δάκρυ χέω χείρ ἔπος φημί ὀνομάζω
+ῥηγμίν,0,1,8,"sea, earth, land, salt",15,"Wiener Sitzb; sea breaking on the beach, surf; broken sea; at the seaʼs edge",βαίνω θάλασσα
+Αἰγαίων,0,1,-1,,20,Aegaeon; the Aegaean sea,καλέω ἔρχομαι θεά ὑπολύω δεσμός ἑκατόγχειρος μακρός Ὄλυμπος Βριάρεως θεός ἀνήρ πᾶς
+ὀνομάζω,0,1,4,"speak, address, exchange, accost",4,"speak of by name, call; address by name; naming; name, specify",καθέζομαι δάκρυ χέω χείρ καταρρέζω ἔπος φημί
+Βριάρεως,0,1,37,"god, deity disguised, equal, hostile deity",20,Aegaeon,καλέω ἔρχομαι θεά ὑπολύω δεσμός ἑκατόγχειρος μακρός Ὄλυμπος θεός ἀνήρ πᾶς Αἰγαίων
+στυφελίζω,0,1,25,"luo, shut, look gaze, loosen",7,"strike hard; drives away; thrust; treat roughly, maltreat",ἐθέλω Ὀλύμπιος ἀστεροπητής ἕδος
+ὑπισχνέομαι,0,1,35,"reproach, command, hold, encompasses",8,take upon oneself; undertake to do; promise; she makes promises,νημερτής κατανεύω ἀπεῖπον δέος οἶδα ὅσος πᾶς ἄτιμος θεός
+ποντοπόρος,0,1,8,"sea, earth, land, salt",13,seafaring,Χρυσηίς ναῦς βαίνω
+κάρα,0,1,18,"wine, bowl, sweet, drinking",12,"head; the face; peak, top; edge, brim",ἀμβρόσιος χαίτη ἐπιρρώομαι ἄναξ ἀθάνατος
+πορφύρεος,0,1,0,"early, morn, light, day",15,"heaving, surging; gushing; onrushing; lurid",κῦμα στεῖρα μέγας ἰάχω ναῦς εἶμι
+ἰάχω,0,1,28,"cut, leave, draw, stream",6,"cry, shout; shriek; ring, resound; roar",κῦμα στεῖρα πορφύρεος μέγας ναῦς εἶμι
+θέω,0,1,32,"sit, stay, leap, stand",4,dhávate; run; running; run and,κῦμα διαπράσσω κέλευθος
+διαπράσσω,0,1,2,"dishonour, bend, alive, awe",6,pass over; made their way over; may finish; went through,θέω κῦμα κέλευθος
+βουλεύω,0,1,6,"ward, divide, resolve, apart separate",5,"take counsel, deliberate; determine; resolve after deliberation; in council",διατμήγω
+ἐλελίζω,0,1,28,"cut, leave, draw, stream",4,whirl round; move in coils; spires; cause,μέγας Ὄλυμπος
+ἤπειρος,0,1,8,"sea, earth, land, salt",13,"terra firma, land; the sea; land; the mainland of Western Greece",ἱκνέομαι στρατός εὐρύς Ἀχαιός ναῦς μέλας ἐρύω1 ψάμαθος ἕρμα μακρός τανύω
+πολύστονος,0,1,-1,,21,"much-sighing, mournful; noisy; causing many sighs, mournful, grievous",ἄναξ Χρύσης πέμπω ἀνήρ Ἀγαμέμνων παῖς ἄγω Φοῖβος ἱερός ἑκατόμβη ῥέζω Δαναοί
+ψάμαθος,0,1,8,"sea, earth, land, salt",15,,ἱκνέομαι στρατός εὐρύς Ἀχαιός ναῦς μέλας ἤπειρος ἐρύω1 ἕρμα μακρός τανύω
+ἕρμα,0,1,8,"sea, earth, land, salt",13,"prop, support; props; prop; stay",ἱκνέομαι στρατός εὐρύς Ἀχαιός ναῦς μέλας ἤπειρος ἐρύω1 ψάμαθος μακρός τανύω
+ἐπιρρώομαι,0,1,28,"cut, leave, draw, stream",4,apply oneʼs; strength to; work lustily at; worked with might and main at,ἀμβρόσιος χαίτη ἄναξ κάρα ἀθάνατος
+τανύω,0,1,28,"cut, leave, draw, stream",2,"stretch, strain; string; having strung his; pull",ἱκνέομαι στρατός εὐρύς Ἀχαιός ναῦς μέλας ἤπειρος ἐρύω1 ψάμαθος ἕρμα μακρός
+σκίδνημι,0,1,30,"disperse, prepare, mischief, delight",4,"disperse; to be spread; scattered, disperse; began to spread his light",κλισία ναῦς
+Πηλεύς,0,1,36,"peleus, son, nether, world place",18,Peleus; son of Peleus; to Peleus’ son,μηνίω ναῦς πάρημαι ὠκύπορος διογενής υἱός πούς ὠκύς Ἀχιλλεύς
+διατμήγω,0,1,28,"cut, leave, draw, stream",4,cut in twain; having cut; in twain; distinguish,βουλεύω
+ἅλλομαι,0,1,32,"sit, stay, leap, stand",4,"sal; sal-io; spring, leap; leap upon",ἅλς1 βαθύς αἰγλήεις Ὄλυμπος Ζεύς δῶμα
+στεῖρα,0,1,0,"early, morn, light, day",15,forepart of a shipʼs keel; stem; cutwater; bandage,κῦμα πορφύρεος μέγας ἰάχω ναῦς εἶμι
+βαθύς,0,1,-1,,15,deep; high; within a high fence; the deep,ἅλς1 ἅλλομαι αἰγλήεις Ὄλυμπος Ζεύς δῶμα
+αἰγλήεις,0,1,39,"unresting snowed, dazzling, deep, confused",20,"dazzling, radiant",ἅλς1 ἅλλομαι βαθύς Ὄλυμπος Ζεύς δῶμα
+μέσος,0,1,-1,,15,"middle, in the middle; middle; zenith; mid",ἄνεμος πρήθω ἱστίον
+πρήθω,0,1,28,"cut, leave, draw, stream",2,"burn; blow out, swell out by blowing; spout; spouted",ἄνεμος μέσος ἱστίον
+ἄνεμος,0,1,8,"sea, earth, land, salt",13,wind; a gale; the wind; to the winds,πρήθω μέσος ἱστίον
+πετάννυμι,0,1,28,"cut, leave, draw, stream",2,fly; spread out; opening his doors; flutter,ἱστός ἵστημι ἱστίον λευκός
+σφός,0,1,-1,,18,"their, their own, belonging to them; his; her, his own; her own",θεός πᾶς ἀνίστημι ἕδος πατήρ
+λευκός,0,1,-1,,9,"light, bright, clear; glassy; clear, limpid; clear, distinct",ἱστός ἵστημι ἱστίον πετάννυμι
+οὖρος,0,1,-1,,13,fair wind; rough breeze; storm; the wind,ἴκμενος ἵημι Ἑκάεργος Ἀπόλλων
+ἐπέρχομαι,0,1,2,"dishonour, bend, alive, awe",6,come upon; approach; come suddenly upon; come to for advice,τλάω μένω
+ἴκμενος,0,1,-1,,13,a fair; moist,οὖρος ἵημι Ἑκάεργος Ἀπόλλων
+ἅπας,0,1,-1,,21,"quite all, the whole; all together; in all things; all",ἀντίος ἵστημι
+ἀνάγω,0,1,32,"sit, stay, leap, stand",4,"lead up; lead up to the high sea, carry by sea; conduct, carry to; put",ἠριγένεια φαίνω ῥοδοδάκτυλος ἠώς στρατός εὐρύς Ἀχαιός
+θρόνος,0,1,-1,,14,"seat, chair; throne, chair of state; kingʼs estate; dignity",καθέζομαι
+πωλέομαι,0,1,4,"speak, address, exchange, accost",4,go up and down; to and fro; come frequently; she goes,ἀγορά κυδιάνειρα πόλεμος
+χαίτη,0,1,-1,,10,"loose, flowing hair; back hair; mane; crest",ἀμβρόσιος ἐπιρρώομαι ἄναξ κάρα ἀθάνατος
+κυδιάνειρα,0,1,22,"greeks, olympus, men, cronos",20,"bringing men glory; renown; glorified by men, famous for men",ἀγορά πωλέομαι πόλεμος
+ὀνείδειος,0,1,23,"best, better, force, bad",25,reproachful; of reproach; dishonourable,λοίγιος ἔργον ἐχθοδοπέω ἐφίημι Ἥρα ἐρέθω ἔπος
+δεύτερος,0,1,-1,,21,second; next; comes in second; hereafter,ἔρομαι
+ἐμφύω,0,1,11,"know, perceive, better, des",6,implant; planted; grow in; is implanted,Θέτις ἅπτω γόνυ ἔχω
+ἀπεῖπον,0,1,-1,,8,"speak out, tell out, declare; to give; full notice; to deliver",νημερτής ὑπισχνέομαι κατανεύω δέος οἶδα ὅσος πᾶς ἄτιμος θεός
+ἅπτω,0,1,33,"throw, crown, choose, hurl",4,fasten; bind to; having fastened; join,Θέτις γόνυ ἔχω ἐμφύω
+δέος,0,1,26,"strength, death, strife, fear",10,"fear, alarm; fear; fear of; to fear",νημερτής ὑπισχνέομαι κατανεύω ἀπεῖπον οἶδα ὅσος πᾶς ἄτιμος θεός
+κράτος,0,1,26,"strength, death, strife, fear",10,"strength, might; bodily strength; strength; all oneʼs might",Τρώς τίθημι Ἀχαιός υἱός τίνω ὀφέλλω τιμή
+ἀνθερεών,0,1,19,"thigh, knee, nail, sheath",12,"chin; neck, throat; mouth",δεξιτερός αἱρέω λίσσομαι προσεῖπον Ζεύς Κρονίων ἄναξ
+δεξιτερός,0,1,-1,,15,right-hand of two; the right hand,ἀνθερεών αἱρέω λίσσομαι προσεῖπον Ζεύς Κρονίων ἄναξ
+σκαιός,0,1,-1,,15,"left, on the left hand; with the left hand; western, westward; West",λαμβάνω γόνυ
+πολυδειράς,0,1,39,"unresting snowed, dazzling, deep, confused",20,with many ridges,εὑρίσκω εὐρύοπα Κρονίδης ἧμαι ἄκρος κορυφή Ὄλυμπος
+ἀπείρων,0,1,8,"sea, earth, land, salt",14,"without experience, ignorant",Ἀχιλλεύς δακρύω ἑταῖρος ἕζομαι λιάζομαι θίς ἅλς1 πολιός ὁράω πόντος
+ἐχθοδοπέω,0,1,24,"arm, fight, anger, judgement",21,"show enmity towards, engage in hostility with",λοίγιος ἔργον ἐφίημι Ἥρα ἐρέθω ὀνείδειος ἔπος
+ἐρέθω,0,1,20,"destroy, accept, away, lay",7,"disquiet; raised; increase; explore, search",λοίγιος ἔργον ἐχθοδοπέω ἐφίημι Ἥρα ὀνείδειος ἔπος
+κορυφή,0,1,8,"sea, earth, land, salt",15,"head, top; crown, top of the head; top, peak; summit, top",εὑρίσκω εὐρύοπα Κρονίδης ἧμαι ἄκρος πολυδειράς Ὄλυμπος
+ἀποστείχω,0,1,35,"reproach, command, hold, encompasses",8,"go away, go home",νοέω Ἥρα
+ἀμβρόσιος,0,1,-1,,21,"immortal, divine; belonging to gods; divine; divinely excellent",χαίτη ἐπιρρώομαι ἄναξ κάρα ἀθάνατος
+μέλω,0,1,31,"tolerable, worth, fulfil, accused",8,"to be an object of care; thought; care for, take an interest in; am I in",τελέω
+ἄκρος,0,1,-1,,15,"at the farthest point; end; topmost, outermost; inmost",εὑρίσκω εὐρύοπα Κρονίδης ἧμαι κορυφή πολυδειράς Ὄλυμπος
+τέκμαρ,0,1,-1,,21,"fixed mark; boundary, goal, end; goal; an end",ἀθάνατος μέγας
+εὐρύοπα,0,1,22,"greeks, olympus, men, cronos",19,wide-eyed; vox; far-sounding; thundering,εὑρίσκω Κρονίδης ἧμαι ἄκρος κορυφή πολυδειράς Ὄλυμπος
+παλινάγρετος,0,1,31,"tolerable, worth, fulfil, accused",21,to be taken back; recalled; revocable; recoverable,ἀπατηλός ἀτελεύτητος κεφαλή κατανεύω
+ἀπατηλός,0,1,31,"tolerable, worth, fulfil, accused",21,producing illusion; deceptive,παλινάγρετος ἀτελεύτητος κεφαλή κατανεύω
+ἀτελεύτητος,0,1,31,"tolerable, worth, fulfil, accused",21,"not brought to an end; issue, unaccomplished; without an end, interminable; everlasting",παλινάγρετος ἀπατηλός κεφαλή κατανεύω
+ἐφετμή,0,1,12,"speech, stature, growth, heart",10,"command, behest; behests; demands, prayers",Θέτις λανθάνω παῖς
+κυάνεος,0,1,5,"silver, overgrown, gold, breast",15,,ὀφρύς νεύω Κρονίων
+ὀφρύς,0,1,5,"silver, overgrown, gold, breast",6,,κυάνεος νεύω Κρονίων
+ἀυτή,0,1,-1,,10,"cry, shout; battle-shout, war-cry; blast; creaking",ποθέω πόλεμος
+νεύω,0,1,33,"throw, crown, choose, hurl",4,"incline in any direction; nod, beckon; beckon; nod",κυάνεος ὀφρύς Κρονίων
+ποθέω,0,1,-1,,8,"long for, yearn after; miss; regret; will miss",ἀυτή πόλεμος
+φθινύθω,0,1,29,"hear, rouse, escape notice, waste",8,"waste; cause; to pine away; waste away, decay, perish",φίλος κῆρ μένω
+ῥοδοδάκτυλος,0,1,38,"shooting, far, fingered large, feeding",20,rosy-fingered,ἠριγένεια φαίνω ἠώς ἀνάγω στρατός εὐρύς Ἀχαιός
+ἠριγένεια,0,1,0,"early, morn, light, day",16,"early-born, child of morn; morn; morning; a day",φαίνω ῥοδοδάκτυλος ἠώς ἀνάγω στρατός εὐρύς Ἀχαιός
+ἀγνοέω,0,1,7,"fear, rejoice, tears, cower",6,not to perceive; recognize; he perceived; knew well,Ἥρα εἶδον συμφράζομαι βουλή ἀργυρόπεζος Θέτις θυγάτηρ ἅλιος γέρων
+ἐκτέμνω,0,1,28,"cut, leave, draw, stream",2,cut out; cut; from; out,εὔχομαι οὐλοχύται προβάλλω αὐερύω πρῶτος σφάζω δέρω μηρός κνῖσα καλύπτω δίπτυχος ποιέω
+σπλάγχνον,0,1,-1,,12,inward parts; sacrificial feast; any part of the inwards; womb,μῆρα καίω πατέομαι μιστύλλω ὀβελός πείρω ὀπτάω ἐρύω1 πᾶς
+ἐπιγνάμπτω,0,1,2,"dishonour, bend, alive, awe",6,"curve; bend; bow, bend to oneʼs purpose",ἀκέων κάθημαι φίλος κῆρ
+μῆρα,0,1,-1,,12,,καίω σπλάγχνον πατέομαι μιστύλλω ὀβελός πείρω ὀπτάω ἐρύω1 πᾶς
+πεμπώβολον,0,1,-1,,11,five-pronged fork,νέος ἔχω χείρ
+λείβω,0,1,33,"throw, crown, choose, hurl",4,"pour, pour forth; make a libation of; let flow, shed; liquefy",αἶθοψ οἶνος
+οὐρανίωνες,0,1,22,"greeks, olympus, men, cronos",18,,ὀχθέω δῶμα Ζεύς θεός
+κλυτοτέχνης,0,1,-1,,20,famous for his art,Ἥφαιστος ἄρχω ἀγορεύω μήτηρ φίλος ἐπίηρα φέρω λευκώλενος Ἥρα
+οἶνος,0,1,18,"wine, bowl, sweet, drinking",9,wine; cups; wines; in vino veritas,αἶθοψ λείβω
+αἶθοψ,0,1,18,"wine, bowl, sweet, drinking",19,fiery-looking; flashing; sparkling; fiery,οἶνος λείβω
+σχίζα,0,1,8,"sea, earth, land, salt",15,"piece of wood cut off, lath, splinter; wood cleft small; firewood; shaft, dart",καίω γέρων
+ὠμοθετέω,0,1,28,"cut, leave, draw, stream",4,place the raw pieces; sacrifice; raw; shoulder,
+δίπτυχος,0,1,-1,,11,"double-folded, doubled; a pair of; folding; having doubled",εὔχομαι οὐλοχύται προβάλλω αὐερύω πρῶτος σφάζω δέρω μηρός ἐκτέμνω κνῖσα καλύπτω ποιέω
+ἀνεκτός,0,1,31,"tolerable, worth, fulfil, accused",8,"bearable, sufferable, tolerable; that can be endured; tolerable; more tolerable",λοίγιος ἔργον θνητός ἐριδαίνω θεός κολῳός ἐλαύνω
+καλύπτω,0,1,28,"cut, leave, draw, stream",2,"oc-culo, celo; cover; to kill; covered, grasped",εὔχομαι οὐλοχύται προβάλλω αὐερύω πρῶτος σφάζω δέρω μηρός ἐκτέμνω κνῖσα δίπτυχος ποιέω
+δέρω,0,1,28,"cut, leave, draw, stream",2,"skin, flay; to have oneʼs; flayed off; will make",εὔχομαι οὐλοχύται προβάλλω αὐερύω πρῶτος σφάζω μηρός ἐκτέμνω κνῖσα καλύπτω δίπτυχος ποιέω
+μιστύλλω,0,1,28,"cut, leave, draw, stream",2,cut up,μῆρα καίω σπλάγχνον πατέομαι ὀβελός πείρω ὀπτάω ἐρύω1 πᾶς
+νημερτής,0,1,23,"best, better, force, bad",21,"unerring, infallible; sure; that will infallibly be put in force; sure truths",ὑπισχνέομαι κατανεύω ἀπεῖπον δέος οἶδα ὅσος πᾶς ἄτιμος θεός
+ἐριδαίνω,0,1,-1,,8,"wrangle, quarrel; strive; compete in",λοίγιος ἔργον ἀνεκτός θνητός θεός κολῳός ἐλαύνω
+αὐερύω,0,1,28,"cut, leave, draw, stream",2,draw back; backwards; pulled; draw,εὔχομαι οὐλοχύται προβάλλω πρῶτος σφάζω δέρω μηρός ἐκτέμνω κνῖσα καλύπτω δίπτυχος ποιέω
+προβάλλω,0,1,28,"cut, leave, draw, stream",2,"throw; lay before, throw to; put forward; present",εὔχομαι οὐλοχύται αὐερύω πρῶτος σφάζω δέρω μηρός ἐκτέμνω κνῖσα καλύπτω δίπτυχος ποιέω
+κολῳός,0,1,-1,,12,"brawling, wrangling",λοίγιος ἔργον ἀνεκτός θνητός ἐριδαίνω θεός ἐλαύνω
+ἐπικραίνω,0,1,-1,,21,"bring to pass, accomplish; may; fulfil; fulfilled",ἔλδωρ
+ἦδος,0,1,-1,,10,"delight, pleasure; delight; vinegar",δαίς1 ἐσθλός χείρων νικάω
+ἴπτομαι,0,1,35,"reproach, command, hold, encompasses",8,"press hard, oppress; hurt, harm",τιμάω μέγας λαός Ἀχαιός
+νικάω,0,1,11,"know, perceive, better, des",9,"conquer, prevail; conqueror; conquered; won the first prize",δαίς1 ἐσθλός ἦδος χείρων
+παράφημι,0,1,34,"speak, attempt, ask, make",8,"speak gently to, advise; persuade, appease; speak deceitfully; insincerely",πατήρ μήτηρ νοέω φίλος ἐπίηρα φέρω Ζεύς νεικέω δαίς1 ταράσσω
+ταράσσω,0,1,20,"destroy, accept, away, lay",7,"stir, trouble; troubling; mix; to wag",πατήρ μήτηρ παράφημι νοέω φίλος ἐπίηρα φέρω Ζεύς νεικέω δαίς1
+χερνίπτομαι,0,1,28,"cut, leave, draw, stream",4,"wash oneʼs hands with holy water; sprinkle with holy water, purify; dedicate thereby; sacrifice",οὐλοχύται ἀναιρέω
+εὔδμητος,0,1,39,"unresting snowed, dazzling, deep, confused",20,well-built,θεός ἱερός ἑκατόμβη ἵστημι βωμός
+κῆδος,0,1,1,"grief, gift, splendid, thigh bones",1,"care about; matter; anxiety, grief; troubles",ἄναξ Χρύσης πέμπω ἀνήρ Ἀγαμέμνων παῖς ἄγω Φοῖβος ἱερός ἑκατόμβη ῥέζω Δαναοί
+πατέομαι,0,1,28,"cut, leave, draw, stream",2,"eat; drink; eat of, partake of; eat, taste food",μῆρα καίω σπλάγχνον μιστύλλω ὀβελός πείρω ὀπτάω ἐρύω1 πᾶς
+ἄαπτος,0,1,-1,,21,"not to be touched, resistless, invincible",ἐπιπείθομαι μῦθος χραισμέω ὅσος θεός Ὄλυμπος εἶμι χείρ ἐφίημι
+κνέφας,0,1,0,"early, morn, light, day",16,"darkness; evening dusk, twilight; morning twilight; dawn",ἥλιος καταδύω ἔρχομαι κοιμάω πρυμνήσιος ναῦς
+ποτός,0,1,18,"wine, bowl, sweet, drinking",18,"drunk, for drinking; that which one drinks, drink; drink; drinking water",πόσις2 ἐδητύς ἔρος ἵημι κοῦρος κρατήρ ἐπιστέφω νωμάω πᾶς ἐπάρχω δέπας
+κερτόμιος,0,1,23,"best, better, force, bad",25,"mocking, taunting",Ζεύς Κρονίων προσαυδάω
+δολομήτης,0,1,9,"greedy, silver bow, terribly, ruthless",20,,θεός συμφράζομαι βουλή
+κρυπτάδιος,0,1,24,"arm, fight, anger, judgement",11,"secret, clandestine",φίλος φρονέω δικάζω
+δικάζω,0,1,24,"arm, fight, anger, judgement",7,"Bis Acc; judge, sit in judgement; sit as a juror; give judgement on, decide, determine",φίλος κρυπτάδιος φρονέω
+ἐπέλπομαι,0,1,35,"reproach, command, hold, encompasses",8,"have hopes of, hope; expect",Ἥρα πᾶς μῦθος οἶδα
+τέρπω,0,1,30,"disperse, prepare, mischief, delight",1,"delight, gladden, cheer; will give; pleasure; give delight",φρήν ἀκούω
+μέλπω,0,1,-1,,4,celebrate with song and dance; sing; let; sound,πανημέριος μολπή θεός ἱλάσκομαι καλός ἀείδω παιάν κοῦρος Ἀχαιός Ἑκάεργος
+παιάν,0,1,-1,,11,,πανημέριος μολπή θεός ἱλάσκομαι καλός ἀείδω κοῦρος Ἀχαιός μέλπω Ἑκάεργος
+χαλεπός,0,1,23,"best, better, force, bad",21,"difficult; hard to bear, painful, grievous; severity; hardships",ἄλοχος
+μολπή,0,1,-1,,15,dance; rhythmic movement with song; song; the note,πανημέριος θεός ἱλάσκομαι καλός ἀείδω παιάν κοῦρος Ἀχαιός μέλπω Ἑκάεργος
+πανημέριος,0,1,-1,,21,all day long; in a whole dayʼs sail; of the whole day,μολπή θεός ἱλάσκομαι καλός ἀείδω παιάν κοῦρος Ἀχαιός μέλπω Ἑκάεργος
+ἐπάρχω,0,1,2,"dishonour, bend, alive, awe",8,"rule over; to be governor, commandant of; rule besides; pour the first drops",πόσις2 ἐδητύς ἔρος ἵημι κοῦρος κρατήρ ἐπιστέφω ποτός νωμάω πᾶς δέπας
+νωμάω,0,1,28,"cut, leave, draw, stream",2,"deal out, distribute; pour; the several; direct, guide",πόσις2 ἐδητύς ἔρος ἵημι κοῦρος κρατήρ ἐπιστέφω ποτός πᾶς ἐπάρχω δέπας
+ἐπιεικής,0,1,13,"wish, owe, willing, urge",8,"fitting, meet, suitable; meet; a fair; reasonable",ἀκούω θεός πρότερος οἶδα ἄνθρωπος
+πρότερος,0,1,-1,,21,"before, in front; fore; in front; former, earlier",ἐπιεικής ἀκούω θεός οἶδα ἄνθρωπος
+ὀβελός,0,1,19,"thigh, knee, nail, sheath",12,"spit; pointed square pillar, obelisk; horizontal line",μῆρα καίω σπλάγχνον πατέομαι μιστύλλω πείρω ὀπτάω ἐρύω1 πᾶς
+ἐπιστέφω,0,1,28,"cut, leave, draw, stream",2,filled; to be full; covered with; pour,πόσις2 ἐδητύς ἔρος ἵημι κοῦρος κρατήρ ποτός νωμάω πᾶς ἐπάρχω δέπας
+διείρομαι,0,1,35,"reproach, command, hold, encompasses",8,,θεός ἐθέλω νοέω ἕκαστος μεταλλάω
+ποῖος,0,1,-1,,9,of what kind?; what manner of; what sort; every,αἰνός Κρονίδης μῦθος εἶπον
+εὔκηλος,0,1,-1,,21,"free from care, at oneʼs ease; without fear; still, silent; steady, even",φράζω ἐθέλω
+παρεῖπον,0,1,20,"destroy, accept, away, lay",7,"talk over, win over; by thy persuasions; give; advice",δείδω φρήν ἀργυρόπεζος Θέτις θυγάτηρ ἅλιος γέρων
+ἔρος,0,1,28,"cut, leave, draw, stream",12,"love, desire; Eros",πόσις2 ἐδητύς ἵημι κοῦρος κρατήρ ἐπιστέφω ποτός νωμάω πᾶς ἐπάρχω δέπας
+ἐτήτυμος,0,1,31,"tolerable, worth, fulfil, accused",21,"true; the truth; truthful; genuine, real",οἴομαι κατανεύω Ἀχιλλεύς τιμάω ὄλλυμι πολύς ναῦς Ἀχαιός
+ἐδητύς,0,1,-1,,12,"meat, food",πόσις2 ἔρος ἵημι κοῦρος κρατήρ ἐπιστέφω ποτός νωμάω πᾶς ἐπάρχω δέπας
+πόσις2,0,1,-1,,12,"drinking, drink, beverage; carousal; over their cups; draught",ἐδητύς ἔρος ἵημι κοῦρος κρατήρ ἐπιστέφω ποτός νωμάω πᾶς ἐπάρχω δέπας
+δαιμόνιος,0,1,-1,,22,"belonging to a; miraculous, marvellous; good sir; lady",οἴομαι
+πράσσω,0,1,24,"arm, fight, anger, judgement",7,"pass through, pass over; experience certain for; tunes, fare; achieve, effect, accomplish",δύναμαι
+μέλλω,0,1,13,"wish, owe, willing, urge",8,to be destined; likely to; belike; doubtless,φίλος
+πόνος,0,1,26,"strength, death, strife, fear",12,"work; hard work, toil; the toil of war; toil",δαίς1 παύω τεύχω δαίνυμι θυμός δέω ἴσος
+ὀπτάω,0,1,28,"cut, leave, draw, stream",2,"roast, broil; roast; broil; fry",μῆρα καίω σπλάγχνον πατέομαι μιστύλλω ὀβελός πείρω ἐρύω1 πᾶς
+σφάζω,0,1,28,"cut, leave, draw, stream",2,"slay, slaughter; by cutting the throat; slaughter; cut",εὔχομαι οὐλοχύται προβάλλω αὐερύω πρῶτος δέρω μηρός ἐκτέμνω κνῖσα καλύπτω δίπτυχος ποιέω
+ἀταρτηρός,0,1,23,"best, better, force, bad",21,"mischievous, baneful",Πηλείδης ἔπος Ἀτρείδης προσεῖπον
+λιάζομαι,0,1,2,"dishonour, bend, alive, awe",6,"bend, incline; go aside, recoil, shrink; shrank; hast",Ἀχιλλεύς δακρύω ἑταῖρος ἕζομαι θίς ἅλς1 πολιός ὁράω ἀπείρων πόντος
+λεύσσω,0,1,25,"luo, shut, look gaze, loosen",8,"look; gaze upon, see; look, gaze; lives",πᾶς γέρας ἔρχομαι
+Κλυταιμνήστρη,0,1,-1,,20,,προβέβουλα κουρίδιος ἄλοχος χείρων δέμας φυή φρήν ἔργον
+προβέβουλα,0,1,34,"speak, attempt, ask, make",8,prefer; make plans,Κλυταιμνήστρη κουρίδιος ἄλοχος χείρων δέμας φυή φρήν ἔργον
+κουρίδιος,0,1,-1,,20,"wedded; lawful, wedded wife; wedded wife; lawful marriage",Κλυταιμνήστρη προβέβουλα ἄλοχος χείρων δέμας φυή φρήν ἔργον
+δέμας,0,1,12,"speech, stature, growth, heart",10,bodily frame; the living body; in stature; shoot,Κλυταιμνήστρη προβέβουλα κουρίδιος ἄλοχος χείρων φυή φρήν ἔργον
+φυή,0,1,12,"speech, stature, growth, heart",10,"growth, stature; fine growth, noble stature; in size; growth",Κλυταιμνήστρη προβέβουλα κουρίδιος ἄλοχος χείρων δέμας φρήν ἔργον
+ἑτοιμάζω,0,1,30,"disperse, prepare, mischief, delight",1,"get ready, prepare; to those furnishing; cause to be prepared; prepare for oneself",γέρας οἶος Ἀργεῖος ἀγέραστος εἴκω1
+ἀγέραστος,0,1,15,"youth, safe, small, honour",21,"without a gift of honour, unrecompensed",γέρας ἑτοιμάζω οἶος Ἀργεῖος εἴκω1
+ποδάρκης,0,1,-1,,19,,ἀμείβω δῖος Ἀχιλλεύς
+μαντεύομαι,0,1,-1,,8,"divine, prophesy; draw divinations from; by means of; presage, forebode, surmise",κακός φίλος φρήν
+κύδιστος,0,1,9,"greedy, silver bow, terribly, ruthless",22,"most honoured, noblest; greatest; profits it",Ἀτρείδης φιλοκτέανος πᾶς δίδωμι γέρας μεγάθυμος Ἀχαιός
+φιλοκτέανος,0,1,9,"greedy, silver bow, terribly, ruthless",22,"loving possessions, greedy of gain, covetous",Ἀτρείδης κύδιστος πᾶς δίδωμι γέρας μεγάθυμος Ἀχαιός
+ξυνήιος,0,1,-1,,11,common; common stock,οἶδα κεῖμαι πολύς
+κεῖμαι,0,1,-1,,11,"śáyate; cunae; to be laid; lie, lie outstretched",οἶδα ξυνήιος πολύς
+ἐπέοικε,0,1,-1,,8,,λαός παλίλλογος ἐπαγείρω
+παλίλλογος,0,1,-1,,21,collected again,λαός ἐπέοικε ἐπαγείρω
+ἐπαγείρω,0,1,-1,,7,"gather together, collect; assemble",λαός ἐπέοικε παλίλλογος
+θεοπροπέω,0,1,-1,,25,prophesy; to be a,Δαναοί ἀγορεύω ἑκηβόλος ἄλγος τεύχω κόρη Χρυσηίς ἀγλαός ἄποινα ἐθέλω δέχομαι πολύς
+κρήγυος,0,1,-1,,21,"good, useful; agreeable; a good symptom; honourably",μάντις κακός εἶπον
+δακρύω,0,1,7,"fear, rejoice, tears, cower",6,"weep, shed tears; with tears; to flood; to be in tears",Ἀχιλλεύς ἑταῖρος ἕζομαι λιάζομαι θίς ἅλς1 πολιός ὁράω ἀπείρων πόντος
+ἀπωθέω,0,1,20,"destroy, accept, away, lay",7,"thrust away, push back; pushed; off; thrust away from oneself",Δαναοί ἀεικής λοιγός πατήρ φίλος δίδωμι ἑλικῶπις κόρη ἀπρίατος ἀνάποινος ἄγω ἱερός
+ζάω,0,1,2,"dishonour, bend, alive, awe",21,,εὔχομαι Δαναοί Ἀπόλλων Ζεύς φίλος Κάλχας θεοπροπία ἀναφαίνω χθών δέρκομαι κοῖλος ναῦς
+χθών,0,1,8,"sea, earth, land, salt",9,earth; the surface of it; soil; the earth,εὔχομαι Δαναοί Ἀπόλλων Ζεύς φίλος Κάλχας θεοπροπία ἀναφαίνω ζάω δέρκομαι κοῖλος ναῦς
+δέρκομαι,0,1,2,"dishonour, bend, alive, awe",6,"see clearly, see; having sight; alive, living; since she lives",εὔχομαι Δαναοί Ἀπόλλων Ζεύς φίλος Κάλχας θεοπροπία ἀναφαίνω ζάω χθών κοῖλος ναῦς
+ἐπιφέρω,0,1,20,"destroy, accept, away, lay",7,"bring, put; lay upon; will lay; upon",εὔχομαι Δαναοί Ἀπόλλων Ζεύς φίλος Κάλχας θεοπροπία ἀναφαίνω ζάω χθών δέρκομαι κοῖλος
+αὐδάω,0,1,-1,,4,"utter sounds, speak; utter; speak, say; twas said",μάντις ἀμύμων
+ἀπολύω,0,1,20,"destroy, accept, away, lay",4,"loose from; from; undo; set free, release, relieve from",θυγάτηρ ἀποδέχομαι ἄποινα
+ἀποδέχομαι,0,1,20,"destroy, accept, away, lay",4,"accept; accept as a teacher, follow; admit; admitting into the mind",ἀπολύω θυγάτηρ ἄποινα
+ἑλικῶπις,0,1,38,"shooting, far, fingered large, feeding",20,,Δαναοί ἀεικής λοιγός ἀπωθέω πατήρ φίλος δίδωμι κόρη ἀπρίατος ἀνάποινος ἄγω ἱερός
+ὄσσομαι,0,1,2,"dishonour, bend, alive, awe",8,"oqṷ-yo; see, look; Fr.anon; see in spirit",Κάλχας πρώτιστος κακός προσεῖπον
+ἀπρίατος,0,1,-1,,21,,Δαναοί ἀεικής λοιγός ἀπωθέω πατήρ φίλος δίδωμι ἑλικῶπις κόρη ἀνάποινος ἄγω ἱερός
+ἀνάποινος,0,1,-1,,21,without ransom,Δαναοί ἀεικής λοιγός ἀπωθέω πατήρ φίλος δίδωμι ἑλικῶπις κόρη ἀπρίατος ἄγω ἱερός
+ἀμφιμέλας,0,1,-1,,20,black all round; darkened on either side; coal-black,μένος μέγας φρήν πίμπλημι
+πίμπλημι,0,1,30,"disperse, prepare, mischief, delight",1,fill; fill full of; filled; full,μένος μέγας φρήν ἀμφιμέλας
+πῦρ,0,1,0,"early, morn, light, day",9,fire; funeral-fire; burn; sacrificial fire,ὄσσε λαμπετάω εἴκω1
+λαμπετάω,0,1,0,"early, morn, light, day",6,shine; shining,ὄσσε πῦρ εἴκω1
+πρώτιστος,0,1,-1,,21,"the very first; principal, primal; first of all; now that",Κάλχας κακός ὄσσομαι προσεῖπον
+τριπλόος,0,1,-1,,15,"triple, threefold; thrice repeated; compounded of three",Ἀχαιός τετραπλόος ἀποτίνω Ζεύς δίδωμι πόλις Τροία εὐτείχεος ἐξαλαπάζω
+τετραπλόος,0,1,-1,,15,fourfold,Ἀχαιός τριπλόος ἀποτίνω Ζεύς δίδωμι πόλις Τροία εὐτείχεος ἐξαλαπάζω
+ἀποτίνω,0,1,34,"speak, attempt, ask, make",7,repay; pay for; may atone for; made atonement,Ἀχαιός τριπλόος τετραπλόος Ζεύς δίδωμι πόλις Τροία εὐτείχεος ἐξαλαπάζω
+ἠχήεις,0,1,-1,,14,"sounding, ringing, roaring; high, echoing",βοῦς ἐλαύνω ἵππος Φθία ἐριβῶλαξ βωτιάνειρα καρπός1 δηλέομαι πολύς ὄρος σκιόεις θάλασσα
+βοῦς,0,1,3,"bull, bird, night, chariot",12,"bullock, bull, ox; cow; cattle; buffalo",ἐλαύνω ἵππος Φθία ἐριβῶλαξ βωτιάνειρα καρπός1 δηλέομαι πολύς ὄρος σκιόεις θάλασσα ἠχήεις
+ἵππος,0,1,3,"bull, bird, night, chariot",12,horse; mare; team of chariot-horses; the chariot,βοῦς ἐλαύνω Φθία ἐριβῶλαξ βωτιάνειρα καρπός1 δηλέομαι πολύς ὄρος σκιόεις θάλασσα ἠχήεις
+ἐριβῶλαξ,0,1,38,"shooting, far, fingered large, feeding",20,with large clods; very fertile,βοῦς ἐλαύνω ἵππος Φθία βωτιάνειρα καρπός1 δηλέομαι πολύς ὄρος σκιόεις θάλασσα ἠχήεις
+βωτιάνειρα,0,1,38,"shooting, far, fingered large, feeding",20,"man-feeding, nurse of heroes",βοῦς ἐλαύνω ἵππος Φθία ἐριβῶλαξ καρπός1 δηλέομαι πολύς ὄρος σκιόεις θάλασσα ἠχήεις
+καρπός1,0,1,-1,,9,"fruit; the fruits of the earth, corn; harvest; crops",βοῦς ἐλαύνω ἵππος Φθία ἐριβῶλαξ βωτιάνειρα δηλέομαι πολύς ὄρος σκιόεις θάλασσα ἠχήεις
+δηλέομαι,0,1,30,"disperse, prepare, mischief, delight",1,"hurt, do a mischief to; did; a mischief; slew",βοῦς ἐλαύνω ἵππος Φθία ἐριβῶλαξ βωτιάνειρα καρπός1 πολύς ὄρος σκιόεις θάλασσα ἠχήεις
+σκιόεις,0,1,-1,,14,"shady, shadowy; shady; thickly wooded; dark",βοῦς ἐλαύνω ἵππος Φθία ἐριβῶλαξ βωτιάνειρα καρπός1 δηλέομαι πολύς ὄρος θάλασσα ἠχήεις
+ἀναιδής,0,1,9,"greedy, silver bow, terribly, ruthless",22,"shameless; ruthless; the reckless, ruthless; greedy",μέγας ἕπομαι χαίρω τιμή ἄρνυμαι Μενέλαος κυνώπης Τρώς
+Τροία,0,1,17,"troy, phthia, city, pear",14,Troy; ‘Troy-town’; the Troad; from Troy,Ἀχαιός τριπλόος τετραπλόος ἀποτίνω Ζεύς δίδωμι πόλις εὐτείχεος ἐξαλαπάζω
+ἄρνυμαι,0,1,2,"dishonour, bend, alive, awe",8,"win, gain; striving; maintaining; trying to win, striving to secure",μέγας ἀναιδής ἕπομαι χαίρω τιμή Μενέλαος κυνώπης Τρώς
+Μενέλαος,0,1,-1,,18,Abiding-men,μέγας ἀναιδής ἕπομαι χαίρω τιμή ἄρνυμαι κυνώπης Τρώς
+κυνώπης,0,1,-1,,22,dog-eyed; shameless one,μέγας ἀναιδής ἕπομαι χαίρω τιμή ἄρνυμαι Μενέλαος Τρώς
+μετατρέπομαι,0,1,-1,,8,,
+μογέω,0,1,-1,,7,"toil, suffer; suffers; tired; with pain",γέρας ἀφαιρέω ἀπειλέω πολύς δίδωμι υἱός Ἀχαιός
+ναίω,0,1,17,"troy, phthia, city, pear",14,"dwell, abide; dwell in, inhabit; to be inhabited; lie, be situated",ἴσος ἔχω γέρας Ἀχαιός Τρώς ἐκπέρθω πτολίεθρον
+πτολίεθρον,0,1,17,"troy, phthia, city, pear",14,,ἴσος ἔχω γέρας Ἀχαιός Τρώς ἐκπέρθω ναίω
+αἴτιος,0,1,31,"tolerable, worth, fulfil, accused",21,"culpable, responsible; the most guilty; the accused, the culprit; they who have sinned against",Τρώς ἔρχομαι αἰχμητής μάχομαι
+ὁδός,0,1,32,"sit, stay, leap, stand",9,"way, road; course, channel; to truth; further on the way, forwards",ἀναίδεια ἐπιέννυμι κερδαλεόφρων πρόφρων ἔπος πείθω Ἀχαιός ἔρχομαι ἀνήρ μάχομαι
+κερδαλεόφρων,0,1,9,"greedy, silver bow, terribly, ruthless",22,greedy of gain; crafty,ἀναίδεια ἐπιέννυμι πρόφρων ἔπος πείθω Ἀχαιός ὁδός ἔρχομαι ἀνήρ μάχομαι
+ἐπιέννυμι,0,1,9,"greedy, silver bow, terribly, ruthless",22,put on besides; over; threw; clad in,ἀναίδεια κερδαλεόφρων πρόφρων ἔπος πείθω Ἀχαιός ὁδός ἔρχομαι ἀνήρ μάχομαι
+εὐτείχεος,0,1,39,"unresting snowed, dazzling, deep, confused",20,well-walled,Ἀχαιός τριπλόος τετραπλόος ἀποτίνω Ζεύς δίδωμι πόλις Τροία ἐξαλαπάζω
+ἐξαλαπάζω,0,1,25,"luo, shut, look gaze, loosen",7,"sack, storm; empty; of its inhabitants, clear; out",Ἀχαιός τριπλόος τετραπλόος ἀποτίνω Ζεύς δίδωμι πόλις Τροία εὐτείχεος
+θεοείκελος,0,1,9,"greedy, silver bow, terribly, ruthless",20,godlike,ἀγαθός Ἀχιλλεύς κλέπτω νόος παρέρχομαι πείθω
+κλέπτω,0,1,29,"hear, rouse, escape notice, waste",8,clèpere; hlifan; hliftus; steal,ἀγαθός θεοείκελος Ἀχιλλεύς νόος παρέρχομαι πείθω
+παρέρχομαι,0,1,31,"tolerable, worth, fulfil, accused",8,"ibo; go by, beside; past, pass by; passed away",ἀγαθός θεοείκελος Ἀχιλλεύς κλέπτω νόος πείθω
+δεύω2,0,1,2,"dishonour, bend, alive, awe",6,"miss, want; he missed, failed; feel the want; loss of, be without",ἐθέλω ἔχω γέρας ἧμαι
+ἀποδίδωμι,0,1,20,"destroy, accept, away, lay",10,"give up; back, restore, return; render what is due, pay; give",κέλομαι
+ἀραρίσκω,0,1,25,"luo, shut, look gaze, loosen",7,"join, fit together; join together, fasten; knitted; pack up",δίδωμι γέρας μεγάθυμος Ἀχαιός θυμός ἀντάξιος
+ἀντάξιος,0,1,31,"tolerable, worth, fulfil, accused",21,worth just as much as; worth; itself; worth as much as,δίδωμι γέρας μεγάθυμος Ἀχαιός ἀραρίσκω θυμός
+μεταφράζω,0,1,34,"speak, attempt, ask, make",7,paraphrase; translate; consider after,
+εἷς,0,1,-1,,24,"sem; one, one; single man; single",ἀνήρ ἀρχός βουληφόρος Αἴας Ἰδομενεύς δῖος Ὀδυσσεύς Πηλείδης πᾶς ἔκπαγλος Ἑκάεργος ἱλάσκομαι
+βουληφόρος,0,1,14,"dreams, augur, strong, powerful busied",24,"counselling, advising; like a counsellor",ἀνήρ εἷς ἀρχός Αἴας Ἰδομενεύς δῖος Ὀδυσσεύς Πηλείδης πᾶς ἔκπαγλος Ἑκάεργος ἱλάσκομαι
+Ἰδομενεύς,0,1,-1,,24,,ἀνήρ εἷς ἀρχός βουληφόρος Αἴας δῖος Ὀδυσσεύς Πηλείδης πᾶς ἔκπαγλος Ἑκάεργος ἱλάσκομαι
+ἔκπαγλος,0,1,9,"greedy, silver bow, terribly, ruthless",22,"terrible, violent; terribly, vehemently, exceedingly; beyond all measure; marvellous, wondrous",ἀνήρ εἷς ἀρχός βουληφόρος Αἴας Ἰδομενεύς δῖος Ὀδυσσεύς Πηλείδης πᾶς Ἑκάεργος ἱλάσκομαι
+ἀναίδεια,0,1,-1,,10,shamelessness; unforgivingness,ἐπιέννυμι κερδαλεόφρων πρόφρων ἔπος πείθω Ἀχαιός ὁδός ἔρχομαι ἀνήρ μάχομαι
+ἀναφαίνω,0,1,-1,,7,"cause to give light, make to blaze up; bring to light, produce; show forth, make known, display; send forth a loud",εὔχομαι Δαναοί Ἀπόλλων Ζεύς φίλος Κάλχας θεοπροπία ζάω χθών δέρκομαι κοῖλος ναῦς
+θεοπρόπιον,0,1,-1,,25,,θαρσέω εἶπον οἶδα
+σώζω,0,1,2,"dishonour, bend, alive, awe",7,"save, keep; save from death, keep alive; spare; to be saved, kept alive, preserved",φράζω
+γεραιός,0,1,16,"son, lord, man, old",24,"old; reverend sire; the elders, senators; eldest",πολύς κίω ἀράομαι Ἀπόλλων ἄναξ εὔκομος τίκτω Λητώ
+ἔπειμι,0,1,-1,,7,"sum; to be upon; to be upon, be set upon; to be attached",γῆρας οἶκος Ἄργος πάτρη ἱστός ἐποίχομαι λέχος ἀντιάω
+Ἄργος,0,1,17,"troy, phthia, city, pear",18,,γῆρας ἔπειμι οἶκος πάτρη ἱστός ἐποίχομαι λέχος ἀντιάω
+πάτρη,0,1,-1,,21,,γῆρας ἔπειμι οἶκος Ἄργος ἱστός ἐποίχομαι λέχος ἀντιάω
+ἐρεθίζω,0,1,29,"hear, rouse, escape notice, waste",8,"rouse to anger, rouse to fight; challenge to; provoke to curiosity; excite, chafe",σῶς νέομαι
+νέομαι,0,1,11,"know, perceive, better, des",7,come; go back; return; násate,ἐρεθίζω σῶς
+πολύφλοισβος,0,1,39,"unresting snowed, dazzling, deep, confused",20,loud-roaring; confused,βαίνω ἀκέων θίς θάλασσα
+εὔκομος,0,1,38,"shooting, far, fingered large, feeding",20,lovely-haired; well-fleeced; with goodly foliage,πολύς κίω ἀράομαι γεραιός Ἀπόλλων ἄναξ τίκτω Λητώ
+τόξον,0,1,1,"grief, gift, splendid, thigh bones",1,"bow; the bow; by guess; bowmanship, archery",βαίνω Ὄλυμπος κάρηνον χώομαι κῆρ ὦμος ἔχω ἀμφηρεφής φαρέτρα
+Σμινθεύς,0,1,-1,,22,the Sminthian; mouse-killer; games at festival of Apollo,χαρίεις ναός ἐρέφω πίων μηρία καίω ταῦρος αἴξ κραίνω ἔλδωρ
+χαρίεις,0,1,-1,,6,"graceful, beautiful; gracious; acceptable; elegant, accomplished",Σμινθεύς ναός ἐρέφω πίων μηρία καίω ταῦρος αἴξ κραίνω ἔλδωρ
+ναός,0,1,-1,,14,"temple; inmost part of a temple, shrine; portable shrine",Σμινθεύς χαρίεις ἐρέφω πίων μηρία καίω ταῦρος αἴξ κραίνω ἔλδωρ
+ἐρέφω,0,1,33,"throw, crown, choose, hurl",7,"cover with a roof; thatched; cover with a crown, crown; crown oneself",Σμινθεύς χαρίεις ναός πίων μηρία καίω ταῦρος αἴξ κραίνω ἔλδωρ
+πίων,0,1,-1,,14,"fat; rich; wealthy, abounding; plenteous",Σμινθεύς χαρίεις ναός ἐρέφω μηρία καίω ταῦρος αἴξ κραίνω ἔλδωρ
+μηρία,0,1,1,"grief, gift, splendid, thigh bones",1,thigh-bones; thigh-bones in their fat; thighs,Σμινθεύς χαρίεις ναός ἐρέφω πίων καίω ταῦρος αἴξ κραίνω ἔλδωρ
+δάκρυον,0,1,27,"blood, heart, feeling, life",9,"tear; that which drops like tears, gum, sap",τίνω Δαναοί βέλος
+γῆρας,0,1,27,"blood, heart, feeling, life",9,"old age; cast skin, slough of a serpent",ἔπειμι οἶκος Ἄργος πάτρη ἱστός ἐποίχομαι λέχος ἀντιάω
+ὕστερος,0,1,-1,,21,"latter, last; úttaras, uttamás; latter; coming after, behind",γέρων κοῖλος ναῦς κιχάνω δηθύνω εἶμι χραισμέω σκῆπτρον στέμμα θεός
+δηθύνω,0,1,-1,,6,"tarry, delay; to be prolonged; to be slow",γέρων κοῖλος ναῦς κιχάνω ὕστερος εἶμι χραισμέω σκῆπτρον στέμμα θεός
+κιχάνω,0,1,-1,,7,"reach, hit; light upon, meet with; reach, overtake; shall reach",γέρων κοῖλος ναῦς δηθύνω ὕστερος εἶμι χραισμέω σκῆπτρον στέμμα θεός
+οὐλόμενος,0,1,2,"dishonour, bend, alive, awe",6,"accursed; ruined, lost; unhappy, wretched",μῆνις ἀείδω θεά Πηλείδης Ἀχιλλεύς
+μυρίος,0,1,1,"grief, gift, splendid, thigh bones",1,"numberless, countless, infinite; measureless, immense, in finite; boundless; all kinds of",Ἀχαιός ἄλγος τίθημι
+ἴφθιμος,0,1,14,"dreams, augur, strong, powerful busied",21,"stout, strong; comely, stately; strong, powerful",πολύς ψυχή Ἅιδης προιάπτω ἥρως
+ψυχή,0,1,12,"speech, stature, growth, heart",10,"life; lives; dear as life; departed spirit, ghost",πολύς ἴφθιμος Ἅιδης προιάπτω ἥρως
+Ἅιδης,0,1,36,"peleus, son, nether, world place",18,Hades; nether; to the nether world; place of departed spirits,πολύς ἴφθιμος ψυχή προιάπτω ἥρως
+προιάπτω,0,1,33,"throw, crown, choose, hurl",8,"send forth, hurl away; project",πολύς ἴφθιμος ψυχή Ἅιδης ἥρως
+ἑλώριον,0,1,-1,,11,,τεύχω κύων οἰωνός πᾶς
+οἰωνός,0,1,3,"bull, bird, night, chariot",12,"a large bird, bird of prey; birds; a bird of omen; augury",ἑλώριον τεύχω κύων πᾶς
+διίστημι,0,1,6,"ward, divide, resolve, apart separate",5,"set apart, separate; set; at variance with; divide",πρῶτος ἐρίζω Ἀτρείδης ἄναξ ἀνήρ δῖος Ἀχιλλεύς
+νόσος,0,1,-1,,10,"sickness, disease, plague; distress, anguish; disease of mind; madness",βασιλεύς χολόω στρατός ὄρνυμι κακός
+ὄρνυμι,0,1,33,"throw, crown, choose, hurl",4,"ārta; orior; stir, stir up; urge on, incite",βασιλεύς χολόω νόσος στρατός κακός
+ὀλέκω,0,1,20,"destroy, accept, away, lay",7,"ruin, destroy, kill; prey; perish, die",λαός Χρύσης ἀτιμάζω ἀρητήρ Ἀτρείδης
+ἀτιμάζω,0,1,2,"dishonour, bend, alive, awe",7,"hold in no honour, esteem lightly; bring dishonour upon; speakest in dishonour of; suffer dishonour, insult",ὀλέκω λαός Χρύσης ἀρητήρ Ἀτρείδης
+ἐυκνήμις,0,1,-1,,25,well-greaved; with goodly spokes,Ἀτρείδης Ἀχαιός θεός δίδωμι Ὀλύμπιος δῶμα ἔχω ἐκπέρθω Πρίαμος πόλις ἱκνέομαι
+ἅζομαι,0,1,2,"dishonour, bend, alive, awe",8,"stand in awe of, esp. gods and oneʼs parents; respects; I fear; reverently, in holy fear",παῖς λύω φίλος ἄποινα δέχομαι Ζεύς υἱός ἑκηβόλος Ἀπόλλων
+κάρηνον,0,1,-1,,10,head; peaks,βαίνω Ὄλυμπος χώομαι κῆρ τόξον ὦμος ἔχω ἀμφηρεφής φαρέτρα
+ἀμφηρεφής,0,1,-1,,20,"covered on both sides, close-covered",βαίνω Ὄλυμπος κάρηνον χώομαι κῆρ τόξον ὦμος ἔχω φαρέτρα
+κότος,0,1,26,"strength, death, strife, fear",10,"grudge, rancour, ill-will; vengeance",χόλος καταπέσσω ἔχω τελέω στῆθος
+οἰωνοπόλος,0,1,14,"dreams, augur, strong, powerful busied",24,"one busied with the flight and cries of birds, an augur; augur",ἀνίστημι Κάλχας Θεστορίδης ἄριστος οἶδα ναῦς ἡγέομαι Ἀχαιός Ἴλιος μαντοσύνη πόρω Φοῖβος
+δαμάζω,0,1,-1,,7,"overpower; tame, break in; work; clear",Ἀτρείδης παλιμπλάζομαι οἴομαι ἀπονοστέω θάνατος φεύγω πόλεμος λοιμός Ἀχαιός
+λοιμός,0,1,26,"strength, death, strife, fear",9,"plague; plague, pest; pestilent",Ἀτρείδης παλιμπλάζομαι οἴομαι ἀπονοστέω θάνατος φεύγω πόλεμος δαμάζω Ἀχαιός
+ὀνειροπόλος,0,1,14,"dreams, augur, strong, powerful busied",24,interpreter of dreams; belonging to dreams,μάντις εἴρω2 ἱερεύς ὄναρ Ζεύς εἶπον τόσος χώομαι Φοῖβος Ἀπόλλων εὐχωλή ἐπιμέμφομαι
+ὄναρ,0,1,-1,,10,"dream, vision in sleep; dream; in a dream, in sleep; in a dream",μάντις εἴρω2 ἱερεύς ὀνειροπόλος Ζεύς εἶπον τόσος χώομαι Φοῖβος Ἀπόλλων εὐχωλή ἐπιμέμφομαι
+ἀρνός,0,1,3,"bull, bird, night, chariot",12,,μάντις εἴρω2 ἱερεύς ὀνειροπόλος ὄναρ Ζεύς εἶπον τόσος χώομαι Φοῖβος Ἀπόλλων εὐχωλή
+τέλειος,0,1,21,"mortal, earth, ones, perfect",14,"perfect; entire, without spot; blemish; perfect, of full tale",μάντις εἴρω2 ἱερεύς ὀνειροπόλος ὄναρ Ζεύς εἶπον τόσος χώομαι Φοῖβος Ἀπόλλων εὐχωλή
+Θεστορίδης,0,1,36,"peleus, son, nether, world place",24,,ἀνίστημι Κάλχας οἰωνοπόλος ἄριστος οἶδα ναῦς ἡγέομαι Ἀχαιός Ἴλιος μαντοσύνη πόρω Φοῖβος
+ἡγέομαι,0,1,30,"disperse, prepare, mischief, delight",1,"go before, lead the way; precede; to go before; might guide",ἀνίστημι Κάλχας Θεστορίδης οἰωνοπόλος ἄριστος οἶδα ναῦς Ἀχαιός Ἴλιος μαντοσύνη πόρω Φοῖβος
+φαρέτρα,0,1,-1,,20,quiver; quiver-full of,βαίνω Ὄλυμπος κάρηνον χώομαι κῆρ τόξον ὦμος ἔχω ἀμφηρεφής
+Ἴλιος,0,1,17,"troy, phthia, city, pear",14,"Ilios; Ilium, the city of Ilus, Troy; from Troy; before Troy",ἀνίστημι Κάλχας Θεστορίδης οἰωνοπόλος ἄριστος οἶδα ναῦς ἡγέομαι Ἀχαιός μαντοσύνη πόρω Φοῖβος
+μαντοσύνη,0,1,-1,,25,the art of divination,ἀνίστημι Κάλχας Θεστορίδης οἰωνοπόλος ἄριστος οἶδα ναῦς ἡγέομαι Ἀχαιός Ἴλιος πόρω Φοῖβος
+πόρω,0,1,-1,,4,,ἀνίστημι Κάλχας Θεστορίδης οἰωνοπόλος ἄριστος οἶδα ναῦς ἡγέομαι Ἀχαιός Ἴλιος μαντοσύνη Φοῖβος
+ἑκατηβελέτης,0,1,38,"shooting, far, fingered large, feeding",20,six,Ἀχιλλεύς κέλομαι Ζεύς φίλος μυθέομαι μῆνις Ἀπόλλων ἄναξ
+συντίθημι,0,1,-1,,8,place; put together; fold; together,
+κρείσσων,0,1,23,"best, better, force, bad",21,"stronger, mightier; having the upper hand, superior; prevail; better",βασιλεύς χώομαι ἀνήρ χείρων
+καταπέσσω,0,1,20,"destroy, accept, away, lay",7,"digest; digest, keep from rising; bear; meekly",χόλος ἔχω κότος τελέω στῆθος
+θάνατος,0,1,26,"strength, death, strife, fear",12,death; the death threatened; to death; death-penalty,Ἀτρείδης παλιμπλάζομαι οἴομαι ἀπονοστέω φεύγω πόλεμος δαμάζω λοιμός Ἀχαιός
+ἀπονοστέω,0,1,-1,,7,"return, come home; when he returns from",Ἀτρείδης παλιμπλάζομαι οἴομαι θάνατος φεύγω πόλεμος δαμάζω λοιμός Ἀχαιός
+παλιμπλάζομαι,0,1,-1,,21,"foiled, driven back",Ἀτρείδης οἴομαι ἀπονοστέω θάνατος φεύγω πόλεμος δαμάζω λοιμός Ἀχαιός
+μετάφημι,0,1,4,"speak, address, exchange, accost",3,speak among,ἀγείρω ὁμηγερής γίγνομαι ἀνίστημι πούς ὠκύς Ἀχιλλεύς
+κλάζω,0,1,7,"fear, rejoice, tears, cower",6,"make a sharp piercing sound; scream; bark, bay; clash, rattle",ὀιστός ὦμος χώομαι κινέω
+ὀιστός,0,1,-1,,12,"arrow; arrow-head, Sagitta sagittifolia; Sagitta",κλάζω ὦμος χώομαι κινέω
+κινέω,0,1,2,"dishonour, bend, alive, awe",7,set in motion; move; rock; remove,κλάζω ὀιστός ὦμος χώομαι
+νύξ,0,1,3,"bull, bird, night, chariot",9,night; mght-season; a night; by night,εἶμι εἴκω1
+ἰός,0,1,27,"blood, heart, feeling, life",9,arrow,ἵημι
+κλαγγή,0,1,-1,,10,any sharp sound; twang; scream; confused cries of a throng,δεινός γίγνομαι ἀργύρεος βιός
+βιός,0,1,19,"thigh, knee, nail, sheath",18,bow; jiyā´; gijà,δεινός κλαγγή γίγνομαι ἀργύρεος
+ὀρεύς,0,1,3,"bull, bird, night, chariot",12,mule,πρῶτος ἐποίχομαι κύων ἀργός
+ἀργός,0,1,-1,,21,"shining, glistening; swift-footed; white; Swift-foot",ὀρεύς πρῶτος ἐποίχομαι κύων
+ἐχεπευκής,0,1,-1,,20,"pungo) sharp, piercing; bitter",βέλος ἐφίημι βάλλω
+πυρή,0,1,-1,,10,,νέκυς καίω θαμέες
+νέκυς,0,1,-1,,10,corpse; dead person; spirits of the dead; dead,πυρή καίω θαμέες
+θαμέες,0,1,-1,,21,"crowded, close-set; frequent",πυρή νέκυς καίω
+δέκατος,0,1,-1,,15,"tenth; tenth part, tithe; of the tenth; the tenth day",ἀγορά καλέω λαός Ἀχιλλεύς
+ὁμηγερής,0,1,-1,,21,assembled; all assembled,ἀγείρω γίγνομαι ἀνίστημι μετάφημι πούς ὠκύς Ἀχιλλεύς
+πολυάιξ,0,1,-1,,25,,πλείων πόλεμος χείρ διέπω
+διέπω,0,1,30,"disperse, prepare, mischief, delight",1,"manage, conduct; drove; away; traverse",πλείων πολυάιξ πόλεμος χείρ
+δασμός,0,1,-1,,10,division of spoil; tribute; tribute paid,ἱκνέομαι γέρας πολύς μέγας
+βροτός,0,1,21,"mortal, earth, ones, perfect",25,mortal man; dead; mṛtás; morior,ἐπιχθόνιος μάχομαι
+Θησεύς,0,1,37,"god, deity disguised, equal, hostile deity",18,Theseus,εἶδον τοῖος ἀνήρ οἷος Πειρίθοος Δρύας ποιμήν λαός Καινεύς Ἐξάδιος ἀντίθεος Πολύφημος
+Αἰγείδης,0,1,37,"god, deity disguised, equal, hostile deity",18,,εἶδον τοῖος ἀνήρ οἷος Πειρίθοος Δρύας ποιμήν λαός Καινεύς Ἐξάδιος ἀντίθεος Πολύφημος
+ἐπιείκελος,0,1,9,"greedy, silver bow, terribly, ruthless",20,like,εἶδον τοῖος ἀνήρ οἷος Πειρίθοος Δρύας ποιμήν λαός Καινεύς Ἐξάδιος ἀντίθεος Πολύφημος
+φήρ,0,1,3,"bull, bird, night, chariot",12,the Centaurs; Satyrs,κράτιστος μάχομαι ὀρεσκῷος
+ὀρεσκῷος,0,1,3,"bull, bird, night, chariot",12,"lying on mountains, mountain-bred, wild",κράτιστος μάχομαι φήρ
+μεθομιλέω,0,1,34,"speak, attempt, ask, make",8,hold converse with,Πύλος ἔρχομαι ἄπιος γαῖα
+ἄπιος,0,1,17,"troy, phthia, city, pear",21,"pear-tree, Pyrus communis; pear; Euphorbia Apios, tuberous spurge",μεθομιλέω Πύλος ἔρχομαι γαῖα
+ἐάω,0,1,-1,,8,"suffer, permit; leave; alone; should be given up",πρῶτος δίδωμι γέρας υἱός Ἀχαιός
+ὄνειδος,0,1,-1,,11,"reproach, rebuke, censure, blame; in disgrace; reproach; with censures",αἰχμητής τίθημι θεός προτίθημι μυθέομαι
+ὁμοῖος,0,1,24,"arm, fight, anger, judgement",21,,βασιλεύς Πηλείδης ἐθέλω ἐρίζω μείρομαι τιμή σκηπτοῦχος Ζεύς κῦδος δίδωμι
+μείρομαι,0,1,-1,,4,receive as oneʼs portion; oneʼs due; take; as thy due,βασιλεύς Πηλείδης ἐθέλω ἐρίζω ὁμοῖος τιμή σκηπτοῦχος Ζεύς κῦδος δίδωμι
+σκηπτοῦχος,0,1,16,"son, lord, man, old",24,"bearing a staff, baton; sceptre; sceptred; wand-bearer",βασιλεύς Πηλείδης ἐθέλω ἐρίζω ὁμοῖος μείρομαι τιμή Ζεύς κῦδος δίδωμι
+γείνομαι,0,1,28,"cut, leave, draw, stream",23,to be born; at oneʼs birth; beget; bring forth,καρτερός θεά μήτηρ φέρτατος πλείων ἀνάσσω
+μεθίημι,0,1,20,"destroy, accept, away, lay",8,"set loose, let go; release; let; depart",λίσσομαι Ἀχιλλεύς χόλος μέγας πᾶς ἕρκος Ἀχαιός πέλω πόλεμος κακός
+ἕρκος,0,1,26,"strength, death, strife, fear",9,"fence, enclosure; the place enclosed, court-yard; enclosure; wall for defence",λίσσομαι Ἀχιλλεύς μεθίημι χόλος μέγας πᾶς Ἀχαιός πέλω πόλεμος κακός
+μοῖρα,0,1,-1,,9,part; portion; division; party,πᾶς γέρων εἶπον
+Πολύφημος,0,1,37,"god, deity disguised, equal, hostile deity",18,,εἶδον τοῖος ἀνήρ οἷος Πειρίθοος Δρύας ποιμήν λαός Καινεύς Ἐξάδιος ἀντίθεος Θησεύς
+ἀντίθεος,0,1,37,"god, deity disguised, equal, hostile deity",18,"equal to the gods, godlike; contrary to God; hostile deity; disguised as a god",εἶδον τοῖος ἀνήρ οἷος Πειρίθοος Δρύας ποιμήν λαός Καινεύς Ἐξάδιος Πολύφημος Θησεύς
+Ἐξάδιος,0,1,37,"god, deity disguised, equal, hostile deity",18,,εἶδον τοῖος ἀνήρ οἷος Πειρίθοος Δρύας ποιμήν λαός Καινεύς ἀντίθεος Πολύφημος Θησεύς
+Καινεύς,0,1,37,"god, deity disguised, equal, hostile deity",18,,εἶδον τοῖος ἀνήρ οἷος Πειρίθοος Δρύας ποιμήν λαός Ἐξάδιος ἀντίθεος Πολύφημος Θησεύς
+μέροψ,0,1,21,"mortal, earth, ones, perfect",25,"dividing the voice; articulate; bee-eater, Merops apiaster",γενεά ἄνθρωπος φθίω τρέφω γίγνομαι Πύλος ἠγάθεος
+φθίω,0,1,30,"disperse, prepare, mischief, delight",1,"kṣiṇā´ti, kṣiṇóti; Kṣīyante; ákṣitas; kṣeṣya",γενεά μέροψ ἄνθρωπος τρέφω γίγνομαι Πύλος ἠγάθεος
+ἠγάθεος,0,1,-1,,20,most holy,γενεά μέροψ ἄνθρωπος φθίω τρέφω γίγνομαι Πύλος
+τρίτατος,0,1,-1,,25,in the third place,ἀνάσσω
+Ἀχαιΐς,0,1,17,"troy, phthia, city, pear",14,the Achaian land; Achaian woman,μέγας πένθος γαῖα ἱκάνω
+πυνθάνομαι,0,1,11,"know, perceive, better, des",8,learn; by hearsay; by inquiry; from,Πρίαμος γηθέω παῖς Τρώς μέγας χαίρω θυμός πᾶς μάρναμαι βουλή Δαναοί μάχομαι
+μάρναμαι,0,1,24,"arm, fight, anger, judgement",6,"fight, do battle; with, against; together with; on his side",Πρίαμος γηθέω παῖς Τρώς μέγας χαίρω θυμός πᾶς πυνθάνομαι βουλή Δαναοί μάχομαι
+ἀρείων,0,1,23,"best, better, force, bad",21,"better, stouter, braver; snail; slug",ἀνήρ ὁμιλέω
+ὁμιλέω,0,1,34,"speak, attempt, ask, make",8,"to be in company with, consort with; consortest; joining in company; throng",ἀρείων ἀνήρ
+ἀθερίζω,0,1,20,"destroy, accept, away, lay",4,make light of,
+τοῖος,0,1,-1,,21,"such, such-like; such as; fit; able",εἶδον ἀνήρ οἷος Πειρίθοος Δρύας ποιμήν λαός Καινεύς Ἐξάδιος ἀντίθεος Πολύφημος Θησεύς
+οἷος,0,1,11,"know, perceive, better, des",21,"such as, of what sort; what a man; what; like as",εἶδον τοῖος ἀνήρ Πειρίθοος Δρύας ποιμήν λαός Καινεύς Ἐξάδιος ἀντίθεος Πολύφημος Θησεύς
+Πειρίθοος,0,1,37,"god, deity disguised, equal, hostile deity",18,,εἶδον τοῖος ἀνήρ οἷος Δρύας ποιμήν λαός Καινεύς Ἐξάδιος ἀντίθεος Πολύφημος Θησεύς
+Δρύας,0,1,37,"god, deity disguised, equal, hostile deity",18,,εἶδον τοῖος ἀνήρ οἷος Πειρίθοος ποιμήν λαός Καινεύς Ἐξάδιος ἀντίθεος Πολύφημος Θησεύς
+ποιμήν,0,1,16,"son, lord, man, old",19,"herdsman; shepherd; captain, chief; master, lord",εἶδον τοῖος ἀνήρ οἷος Πειρίθοος Δρύας λαός Καινεύς Ἐξάδιος ἀντίθεος Πολύφημος Θησεύς
+προτίθημι,0,1,10,"send, set, lead, having",8,"set before, set out; set before oneself, have set before one; cause; to be set before",αἰχμητής τίθημι θεός ὄνειδος μυθέομαι
+δειλός,0,1,15,"youth, safe, small, honour",24,"cowardly; vile, worthless; lowborn, mean; afraid of",οὐτιδανός καλέω πᾶς ἔργον ὑπείκω εἶπον
+αὐδή,0,1,-1,,10,"human voice, speech; sound; twang; report, account",Νέστωρ ἡδυεπής ἀνορούω λιγύς Πύλιος ἀγορητής γλῶσσα μέλι γλυκύς ῥέω
+προσφωνέω,0,1,4,"speak, address, exchange, accost",3,"call; speak to, address; address; call by name",
+πένομαι,0,1,28,"cut, leave, draw, stream",4,"toil, work; were busy; to have to work for oneʼs living; to be poor",στρατός
+ἐπαπειλέω,0,1,4,"speak, address, exchange, accost",8,hold out as a threat to; threaten; threatened,Ἀγαμέμνων λήγω ἔρις πρῶτος Ἀχιλλεύς
+Ταλθύβιος,0,1,37,"god, deity disguised, equal, hostile deity",18,,Εὐρυβάτης προσεῖπον κῆρυξ ὀτρηρός θεράπων
+Εὐρυβάτης,0,1,37,"god, deity disguised, equal, hostile deity",18,,Ταλθύβιος προσεῖπον κῆρυξ ὀτρηρός θεράπων
+ὀτρηρός,0,1,6,"ward, divide, resolve, apart separate",5,"quick, nimble, busy, ready; sharp, cutting",Ταλθύβιος Εὐρυβάτης προσεῖπον κῆρυξ θεράπων
+θεράπων,0,1,6,"ward, divide, resolve, apart separate",5,,Ταλθύβιος Εὐρυβάτης προσεῖπον κῆρυξ ὀτρηρός
+ταρβέω,0,1,7,"fear, rejoice, tears, cower",5,"to be frightened, alarmed; feels fear; a state of fear; from fear",αἰδέομαι βασιλεύς ἵστημι
+ἄγγελος,0,1,-1,,21,"messenger, envoy; one that announces; tells; angel",χαίρω κῆρυξ Ζεύς ἀνήρ
+ὑπείκω,0,1,34,"speak, attempt, ask, make",8,"retire, withdraw, depart; from; retire from; for",δειλός οὐτιδανός καλέω πᾶς ἔργον εἶπον
+ἐπαίτιος,0,1,31,"tolerable, worth, fulfil, accused",21,"blamed for; blameable, blameworthy; for; accused of",Ἀγαμέμνων προίημι Βρισηίς κόρη
+ἐξάγω,0,1,10,"send, set, lead, having",8,"lead out, lead away; having brought; out from; bring out of",διογενής Πάτροκλος κόρη
+μάρτυρος,0,1,31,"tolerable, worth, fulfil, accused",21,,θεός μάκαρ θνητός ἄνθρωπος βασιλεύς ἀπηνής χρεώ γίγνομαι ἀεικής λοιγός ἀμύνω
+ἀπηνής,0,1,-1,,18,"ungentle, rough, hard; cruel; cruel thoughts; hard",μάρτυρος θεός μάκαρ θνητός ἄνθρωπος βασιλεύς χρεώ γίγνομαι ἀεικής λοιγός ἀμύνω
+χρεώ,0,1,-1,,10,"want, need; need; necessity; need of",μάρτυρος θεός μάκαρ θνητός ἄνθρωπος βασιλεύς ἀπηνής γίγνομαι ἀεικής λοιγός ἀμύνω
+ὀλοός,0,1,23,"best, better, force, bad",21,"destructive, deadly; ill; destroyed, lost",φρήν θύω
+θύω,0,1,-1,,8,"offer by burning; made an offering; sacrifice, slay; the flesh of the victim",ὀλοός φρήν
+καπνός,0,1,-1,,9,smoke; spray; trifles; on the smoking embers,κνῖσα οὐρανός ἱκνέομαι ἑλίσσω
+ἑλίσσω,0,1,2,"dishonour, bend, alive, awe",6,Acut.(Sp; turn round; about; turning,κνῖσα οὐρανός ἱκνέομαι καπνός
+τελήεις,0,1,-1,,6,"perfect, complete; of full tale; number; of full-grown beasts",ἔρδω Ἀπόλλων ἑκατόμβη ταῦρος αἴξ θίς ἅλς1 ἀτρύγετος
+ἔρδω,0,1,-1,,4,to do; harm; let; practise,Ἀπόλλων τελήεις ἑκατόμβη ταῦρος αἴξ θίς ἅλς1 ἀτρύγετος
+ἐπιτέλλω,0,1,35,"reproach, command, hold, encompasses",8,"enjoin, prescribe, command; spake; command; enjoined, prescribed",
+πειράω,0,1,34,"speak, attempt, ask, make",8,"attempt, endeavour, try; make trial of; make an attempt on; make an attempt",γιγνώσκω
+αἷμα,0,1,27,"blood, heart, feeling, life",9,blood; streams of blood; anything like blood; dye,κελαινός ἐρωέω δόρυ
+κελαινός,0,1,-1,,21,"black, dark; swarthy; black with blood-stains; dark, murky",αἷμα ἐρωέω δόρυ
+ἐρωέω,0,1,-1,,7,"rush, rush forth; started back; escape harm; draw back",αἷμα κελαινός δόρυ
+δόρυ,0,1,19,"thigh, knee, nail, sheath",12,"stem, tree; plank; beam; mast",αἷμα κελαινός ἐρωέω
+ἀντίβιος,0,1,23,"best, better, force, bad",21,opposing force to force; wrangling; hostile; enemy,μάχομαι ἔπος ἀνίστημι
+Μενοιτιάδης,0,1,36,"peleus, son, nether, world place",18,,Πηλείδης κλισία ναῦς ἴσος εἶμι ἑταῖρος
+προερύω,0,1,28,"cut, leave, draw, stream",2,draw on; forward; drew; move,Ἀτρείδης ναῦς θοός ἅλς1
+κρίνω,0,1,33,"throw, crown, choose, hurl",24,"separate, put asunder, distinguish; pick out, choose; to choose; to be chosen out, distinguished",ἐρέτης
+ἵζω,0,1,32,"sit, stay, leap, stand",4,"si-sd-ō; e-sed-s; make to sit, seat, place, set; set",Χρυσηίς καλλιπάρηος ἄγω
+ἐπιπλέω,0,1,-1,,4,"sail upon; over; sail against, attack by sea; sail on",ἀναβαίνω ὑγρός κέλευθος
+ὑγρός,0,1,-1,,9,"wet, moist, fluid; raw; liquid; moist",ἀναβαίνω ἐπιπλέω κέλευθος
+ἄνωγα,0,1,13,"wish, owe, willing, urge",4,"command, order; advise, urge; bade; bids, prompts",λαός Ἀτρείδης ἀπολυμαίνομαι
+λῦμα,0,1,-1,,11,"water used in washing; dirt removed by washing, offscourings; purgations; offscourings, refuse",ἅλς1 βάλλω
+γενεά,0,1,-1,,10,"race, family; by birth; blood; younger",μέροψ ἄνθρωπος φθίω τρέφω γίγνομαι Πύλος ἠγάθεος
+ῥέω,0,1,28,"cut, leave, draw, stream",4,"flow, run, stream, gush; runs with; a full stream; derive its stream",Νέστωρ ἡδυεπής ἀνορούω λιγύς Πύλιος ἀγορητής γλῶσσα μέλι γλυκύς αὐδή
+κάμνω,0,1,13,"wish, owe, willing, urge",7,work; wrought; build; win by toil,ὀλίγος φίλος ἔρχομαι ἔχω ναῦς πολεμίζω
+πτερόεις,0,1,7,"fear, rejoice, tears, cower",6,"feathered, winged; fluttering; winged",φωνέω ἔπος προσαυδάω
+ἐναρίζω,0,1,-1,,7,strip a slain foe of his arms; slay in fight; slay; when dying,ἦτορ στῆθος λάσιος μερμηρίζω φάσγανον ὀξύς ἐρύω1 μηρός ἀνίστημι Ἀτρείδης χόλος παύω
+ἐρητύω,0,1,-1,,7,"restrain, check; parts; to keep away from; prevent",ἦτορ στῆθος λάσιος μερμηρίζω φάσγανον ὀξύς ἐρύω1 μηρός ἀνίστημι Ἀτρείδης ἐναρίζω χόλος
+ὁρμαίνω,0,1,-1,,4,"turn over; revolve anxiously in the mind, debate, ponder; ponder over, meditate; think, muse",φρήν θυμός ἕλκω κολεόν μέγας ξίφος ἔρχομαι Ἀθήνη
+ξανθός,0,1,-1,,15,"yellow; brown, auburn; fair, golden; golden",κόμη αἱρέω Πηλείων οἶος φαίνω
+κόμη,0,1,-1,,15,"hair of the head; the hair; hair, wig; unkempt",ξανθός αἱρέω Πηλείων οἶος φαίνω
+θαμβέω,0,1,7,"fear, rejoice, tears, cower",6,to be astounded; to be astonished at; alarm; PMag. Leid.W,Ἀχιλλεύς
+τρέπω,0,1,30,"disperse, prepare, mischief, delight",1,Studien zum griech. Perf; turn; direct; show,
+τέκος,0,1,-1,,23,the young,αἰγίοχος Ζεύς ἔρχομαι
+κώπη,0,1,-1,,15,handle; handle of an oar; the oar; oars,ἀργύρεος ἔχω χείρ βαρύς
+ὑπεροπλία,0,1,23,"best, better, force, bad",21,"insolence, presumptuousness; high courage",θυμός ὄλλυμι
+γλαυκῶπις,0,1,-1,,19,with gleaming eyes,προσεῖπον θεά Ἀθήνη
+ὀνειδίζω,0,1,35,"reproach, command, hold, encompasses",8,"cast in; teeth, make a reproach; make a reproach; to be made a reproach",ἔπος
+ἐξείρω,0,1,34,"speak, attempt, ask, make",8,put forth; pull out,
+πάρειμι,0,1,20,"destroy, accept, away, lay",8,sum; to be by; present; near,τόσος ἀγλαός δῶρον ὕβρις
+ἴσχω,0,1,35,"reproach, command, hold, encompasses",8,"keep back, restrain; keep; back; to keep",
+χρή,0,1,13,"wish, owe, willing, urge",8,"sum; it is necessary; it must needs, one must; ought",σφωίτερος θεά ἔπος ἐρύω2 θυμός χολόω
+ὀξύς,0,1,-1,,9,"wood sorrel, Oxalis Acetosella; great sea-rush, Juncus acutus; sorrel, Rumex acetosa",ἦτορ στῆθος λάσιος μερμηρίζω φάσγανον ἐρύω1 μηρός ἀνίστημι Ἀτρείδης ἐναρίζω χόλος παύω
+φάσγανον,0,1,-1,,10,"sword; corn-flag, Gladiolus segetum",ἦτορ στῆθος λάσιος μερμηρίζω ὀξύς ἐρύω1 μηρός ἀνίστημι Ἀτρείδης ἐναρίζω χόλος παύω
+μερμηρίζω,0,1,28,"cut, leave, draw, stream",4,"to be anxious; thoughtful, to be in doubt; was debating; debated anxiously",ἦτορ στῆθος λάσιος φάσγανον ὀξύς ἐρύω1 μηρός ἀνίστημι Ἀτρείδης ἐναρίζω χόλος παύω
+λάσιος,0,1,5,"silver, overgrown, gold, breast",12,"shaggy, woolly; hairiness; bushy, overgrown; overgrown with",ἦτορ στῆθος μερμηρίζω φάσγανον ὀξύς ἐρύω1 μηρός ἀνίστημι Ἀτρείδης ἐναρίζω χόλος παύω
+πολεμίζω,0,1,24,"arm, fight, anger, judgement",7,"wage war, fight; with; jointly with; war",ὀλίγος φίλος ἔρχομαι ἔχω ναῦς κάμνω
+κορωνίς,0,1,21,"mortal, earth, ones, perfect",15,crook-beaked; curved; with crumpled horns; anything curved,εἶμι Φθία πολύς φέρτατος ναῦς
+ἄφενος,0,1,-1,,21,"revenue, riches, wealth, abundance; wealth",οἴομαι ἄτιμος πλοῦτος ἀφύσσω
+πλοῦτος,0,1,-1,,9,"wealth, riches; treasures; treasure; Plutus",οἴομαι ἄτιμος ἄφενος ἀφύσσω
+ἐπισεύω,0,1,31,"tolerable, worth, fulfil, accused",8,"put in motion; against, set on; hurry; hasten to",φεύγω θυμός
+ἔχθιστος,0,1,23,"best, better, force, bad",21,most hateful; most hostile; bitterest enemies,διοτρεφής βασιλεύς
+διοτρεφής,0,1,21,"mortal, earth, ones, perfect",25,"fostered, cherished by Zeus; fed by rain",ἔχθιστος βασιλεύς
+ὄθομαι,0,1,29,"hear, rouse, escape notice, waste",8,take heed; regard,κοτέω
+κοτέω,0,1,-1,,8,"bear; a grudge, be angry at; angry at; angry",ὄθομαι
+φέρτερος,0,1,23,"best, better, force, bad",21,,ἄγω Βρισηίς καλλιπάρηος εἶμι κλισία γέρας εἶδον ὅσος στυγέω ἴσος φημί ὁμοιόω
+στυγέω,0,1,-1,,7,"hate, abhor; to show hatred; hate; fear",ἄγω Βρισηίς καλλιπάρηος εἶμι κλισία γέρας εἶδον ὅσος φέρτερος ἴσος φημί ὁμοιόω
+ὁμοιόω,0,1,-1,,7,"make like; makes; correspond; to be made like, become like",ἄγω Βρισηίς καλλιπάρηος εἶμι κλισία γέρας εἶδον ὅσος φέρτερος στυγέω ἴσος φημί
+ἄχος,0,1,26,"strength, death, strife, fear",10,"pain, distress",Πηλείων γίγνομαι
+ἦτορ,0,1,27,"blood, heart, feeling, life",9,"heart; my heart; the seat of life, life; the seat of feeling, passion, desire",στῆθος λάσιος μερμηρίζω φάσγανον ὀξύς ἐρύω1 μηρός ἀνίστημι Ἀτρείδης ἐναρίζω χόλος παύω
+σφωίτερος,0,1,23,"best, better, force, bad",21,"of you two; of them two; both of them; your own, your",χρή θεά ἔπος ἐρύω2 θυμός χολόω
+ὠθέω,0,1,33,"throw, crown, choose, hurl",4,"thrust, push; he kept pushing; pushed; rush",κολεόν μέγας ξίφος
+μέλι,0,1,-1,,12,honey; sweet gum; manna; milip,Νέστωρ ἡδυεπής ἀνορούω λιγύς Πύλιος ἀγορητής γλῶσσα γλυκύς ῥέω αὐδή
+ἀμύσσω,0,1,20,"destroy, accept, away, lay",7,"scratch, tear, lacerate; tear in pieces, mangle; prick; sting",θυμός χώομαι ἄριστος Ἀχαιός τίνω
+παλάμη,0,1,8,"sea, earth, land, salt",15,,υἱός Ἀχαιός φορέω δικασπόλος θέμις Ζεύς ἐρύω2
+φορέω,0,1,-1,,7,"repeated; habitual; bear to and fro, bear along; conveyed",υἱός Ἀχαιός παλάμη δικασπόλος θέμις Ζεύς ἐρύω2
+δικασπόλος,0,1,14,"dreams, augur, strong, powerful busied",24,"qṷel; one who gives law, judge",υἱός Ἀχαιός παλάμη φορέω θέμις Ζεύς ἐρύω2
+θέμις,0,1,-1,,10,"that which is laid down; established, law; as established by custom; meet and right",υἱός Ἀχαιός παλάμη φορέω δικασπόλος Ζεύς ἐρύω2
+ποθή,0,1,-1,,10,"longing, desire for; from longing after; want",Ἀχιλλεύς ἱκνέομαι υἱός Ἀχαιός σύμπας
+Ἕκτωρ,0,1,-1,,14,,δύναμαι ἄχνυμαι χραισμέω πολύς ἀνδροφόνος θνήσκω πίπτω
+ἀνδροφόνος,0,1,-1,,18,man-slaying; homicide; murderous; slaughter in battle,δύναμαι ἄχνυμαι χραισμέω πολύς Ἕκτωρ θνήσκω πίπτω
+ἧλος,0,1,19,"thigh, knee, nail, sheath",12,"nail-head, stud; nail; acutus; spur",σκῆπτρον βάλλω γαῖα χρύσεος πείρω
+ἀπιθέω,0,1,29,"hear, rouse, escape notice, waste",8,disobeyed; fail to persuade,μῦθος Ἀθήνη
+Νέστωρ,0,1,-1,,24,Nestor,ἡδυεπής ἀνορούω λιγύς Πύλιος ἀγορητής γλῶσσα μέλι γλυκύς ῥέω αὐδή
+ἡδυεπής,0,1,-1,,19,sweet-speaking; sweet-sounding,Νέστωρ ἀνορούω λιγύς Πύλιος ἀγορητής γλῶσσα μέλι γλυκύς ῥέω αὐδή
+ἀνορούω,0,1,32,"sit, stay, leap, stand",4,"start up, leap up; went swiftly up",Νέστωρ ἡδυεπής λιγύς Πύλιος ἀγορητής γλῶσσα μέλι γλυκύς ῥέω αὐδή
+λιγύς,0,1,-1,,19,"clear, shrill; clear, sweet; clear-toned; clear-voiced",Νέστωρ ἡδυεπής ἀνορούω Πύλιος ἀγορητής γλῶσσα μέλι γλυκύς ῥέω αὐδή
+Πύλιος,0,1,22,"greeks, olympus, men, cronos",18,,Νέστωρ ἡδυεπής ἀνορούω λιγύς ἀγορητής γλῶσσα μέλι γλυκύς ῥέω αὐδή
+ἀγορητής,0,1,14,"dreams, augur, strong, powerful busied",24,speaker; public auctioneer,Νέστωρ ἡδυεπής ἀνορούω λιγύς Πύλιος γλῶσσα μέλι γλυκύς ῥέω αὐδή
+γλῶσσα,0,1,12,"speech, stature, growth, heart",9,tongue; larynx; of talking; frankness of speech,Νέστωρ ἡδυεπής ἀνορούω λιγύς Πύλιος ἀγορητής μέλι γλυκύς ῥέω αὐδή
+φλοιός,0,1,-1,,12,bark; smooth bark; husk; skin,χαλκός λέπω φύλλον
+λέπω,0,1,33,"throw, crown, choose, hurl",7,"strip off the rind; husks, peel, bark; give a hiding to; thrash",χαλκός φύλλον φλοιός
+χαλκός,0,1,-1,,9,copper; bronze; anything made of metal; the spear of bronze,λέπω φύλλον φλοιός
+ἀναθηλέω,0,1,20,"destroy, accept, away, lay",7,sprout afresh,σκῆπτρον φύλλον ὄζος φύω πρῶτος τομή ὄρος λείπω
+δαίμων,0,1,22,"greeks, olympus, men, cronos",25,"god, goddess; the Divine power; the Deity; chance",Ὄλυμπος βαίνω δῶμα αἰγίοχος Ζεύς
+οἰνοβαρής,0,1,9,"greedy, silver bow, terribly, ruthless",22,heavy with wine,κύων ὄμμα ἔχω καρδία ἔλαφος πόλεμος λαός θωρήσσω λόχος εἶμι ἀριστεύς Ἀχαιός
+ὄμμα,0,1,1,"grief, gift, splendid, thigh bones",1,eye; straight; look; expression,οἰνοβαρής κύων ἔχω καρδία ἔλαφος πόλεμος λαός θωρήσσω λόχος εἶμι ἀριστεύς Ἀχαιός
+ἔλαφος,0,1,3,"bull, bird, night, chariot",12,"deer, Cervus elaphus; hart; stag; hind",οἰνοβαρής κύων ὄμμα ἔχω καρδία πόλεμος λαός θωρήσσω λόχος εἶμι ἀριστεύς Ἀχαιός
+θωρήσσω,0,1,24,"arm, fight, anger, judgement",6,"arm with a; arm; arm oneself, put oneʼs harness on; to arm yourselves withal",οἰνοβαρής κύων ὄμμα ἔχω καρδία ἔλαφος πόλεμος λαός λόχος εἶμι ἀριστεύς Ἀχαιός
+λόχος,0,1,-1,,14,ambush; place for lying in wait; ambuscade; an ambush,οἰνοβαρής κύων ὄμμα ἔχω καρδία ἔλαφος πόλεμος λαός θωρήσσω εἶμι ἀριστεύς Ἀχαιός
+ἀριστεύς,0,1,22,"greeks, olympus, men, cronos",25,those who excel in valour; chiefs,οἰνοβαρής κύων ὄμμα ἔχω καρδία ἔλαφος πόλεμος λαός θωρήσσω λόχος εἶμι Ἀχαιός
+κήρ,0,1,23,"best, better, force, bad",21,,εἶδον
+λωίων,0,1,23,"best, better, force, bad",21,"more desirable, more agreeable, better; my good friend",πολύς στρατός εὐρύς Ἀχαιός δῶρον ἀφαιρέω ἀντίος εἶπον
+δημοβόρος,0,1,14,"dreams, augur, strong, powerful busied",24,devourer of the common stock,βασιλεύς οὐτιδανός ἀνάσσω
+ὕστατος,0,1,23,"best, better, force, bad",21,,Ἀτρείδης λωβάομαι
+λωβάομαι,0,1,31,"tolerable, worth, fulfil, accused",8,"outrage, maltreat; despite; maim, mutilate; brings",Ἀτρείδης ὕστατος
+ὄζος,0,1,-1,,12,"bough, branch, twig; knot; eye; eyes, mere knots",σκῆπτρον φύλλον φύω πρῶτος τομή ὄρος λείπω ἀναθηλέω
+φύω,0,1,-1,,9,"bring forth, produce, put forth; made; grow; beget, engender",σκῆπτρον φύλλον ὄζος πρῶτος τομή ὄρος λείπω ἀναθηλέω
+τομή,0,1,-1,,9,"end left after cutting, stump; the ends; left by cutting away; end",σκῆπτρον φύλλον ὄζος φύω πρῶτος ὄρος λείπω ἀναθηλέω
+χρυσόθρονος,0,1,-1,,20,with throne of gold,Ἥρα

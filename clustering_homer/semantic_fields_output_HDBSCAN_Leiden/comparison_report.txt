@@ -1,0 +1,35 @@
+HDBSCAN vs Leiden — candidate semantic fields in Homer
+============================================================
+corpus: 15122 sentences, 199967 tokens
+clustered vocabulary: 3235 lemmas (freq >= 5, function words excluded)
+
+HDBSCAN (min_cluster_size=6, min_samples=3, leaf): {
+  "clusters": 46,
+  "assigned": 443,
+  "noise": 2792,
+  "size_min": 6,
+  "size_median": 8.0,
+  "size_max": 25,
+  "silhouette_cosine": 0.10919152859653877
+}
+
+Leiden (kNN k=15, resolution=3.0, modularity 0.294): {
+  "clusters": 55,
+  "assigned": 3235,
+  "noise": 0,
+  "size_min": 10,
+  "size_median": 54.0,
+  "size_max": 166,
+  "silhouette_cosine": 0.021894433144160907
+}
+
+Leiden resolution sweep:
+   resolution=0.5   ->     2 communities  (modularity 0.560)
+   resolution=1.0   ->     9 communities  (modularity 0.415)
+   resolution=2.0   ->    34 communities  (modularity 0.331)
+   resolution=3.0   ->    56 communities  (modularity 0.296)
+   resolution=5.0   ->   102 communities  (modularity 0.252)
+
+Agreement on the 443 lemmas HDBSCAN assigned:
+  adjusted Rand index        = 0.417
+  adjusted mutual information = 0.615

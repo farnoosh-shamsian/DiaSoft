@@ -1,0 +1,35 @@
+CLTK semantic pipeline — Homer (Iliad + Odyssey)
+============================================================
+corpus: 15122 sentences, 199967 tokens
+CLTK normalization: 11 tokens re-normalized, 1245 artifacts/non-Greek dropped
+stoplist: 179 entries (CLTK grc STOPS + Homeric)
+clustered vocabulary: 3224 lemmas (freq >= 5)
+
+fastText: dim=100, window=5, epochs=80, sg=1, min_n..max_n=3..6
+UMAP: dims=25, neighbors=15, min_dist=0.0, metric=cosine
+
+UMAP+HDBSCAN: {
+  "clusters": 194,
+  "assigned": 2068,
+  "noise": 1156,
+  "size_min": 6,
+  "size_median": 9.0,
+  "size_max": 33,
+  "silhouette_cosine": 0.0519304068378126
+}
+
+Leiden (k=15, resolution=3.0, modularity 0.294): {
+  "clusters": 54,
+  "assigned": 3224,
+  "noise": 0,
+  "size_min": 17,
+  "size_median": 56.5,
+  "size_max": 165,
+  "silhouette_cosine": 0.022616799693779683
+}
+
+Agreement on the 2068 HDBSCAN-assigned lemmas:
+  adjusted Rand index         = 0.259
+  adjusted mutual information = 0.531
+
+Ancient Greek WordNet: 2829/3224 lemmas found (88% coverage)

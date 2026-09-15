@@ -1,0 +1,280 @@
+πόλεμος — war; battle, fight; single combat; War, Battle
+    μάχη 0.565 — an energetic attempt to achieve something: "getting through the crowd was a …
+    πολεμίζω 0.534 — wage war, fight; with; jointly with; war
+    ἔρις 0.496 — strife, quarrel, contention; battle-strife; quarrel, strife; discord
+    μάχομαι 0.470 — fight; fight with; against; with thy help
+    ἀγών 0.463 — gathering, assembly; assembly met to see games; place of contest, lists, course; …
+    θάνατος 0.425 — death; the death threatened; to death; death-penalty
+    νεῖκος 0.411 — quarrel, strife, feud; quarrel; strife of words, railing, abuse; strife at law, …
+    Ἄρης 0.409 — Ares; the god of destruction; of Ares; Mars
+    φόβος 0.393 — panic flight; to flight; panic fear; fear, terror
+    φόνος 0.385 — murder, slaughter; killing; murder; slaughter
+    πεδίον 0.378 — plain; a fertile plain; Campus; the plain of Attica
+    πολεμιστής 0.366 — warrior; war; charger; trapped as chargers
+
+μάχη — an energetic attempt to achieve something: "getting through the crowd was a …
+    πόλεμος 0.565 — war; battle, fight; single combat; War, Battle
+    ἔρις 0.530 — strife, quarrel, contention; battle-strife; quarrel, strife; discord
+    νεῖκος 0.423 — quarrel, strife, feud; quarrel; strife of words, railing, abuse; strife at law, …
+    φόνος 0.410 — murder, slaughter; killing; murder; slaughter
+    πολεμίζω 0.401 — wage war, fight; with; jointly with; war
+    μάχομαι 0.397 — fight; fight with; against; with thy help
+    βία 0.389 — bodily strength, force; act of violence; against; will, in spite of
+    δίκη 0.377 — custom, usage; way; the way; like
+    δόλος 0.366 — bait; any cunning contrivance for deceiving; catching; trap
+    μένος 0.362 — might, force; strength, fierceness; spirit; force, might
+    φόβος 0.357 — panic flight; to flight; panic fear; fear, terror
+    βοή 0.346 — loud cry, shout; battle-cry; of war; cry
+
+ἔγχος — spear, lance; weapon; sword; weapons
+    δόρυ 0.588 — stem, tree; plank; beam; mast
+    ξίφος 0.554 — sword; power of life and death; jus gladii; sword-shaped bone
+    τόξον 0.523 — bow; the bow; by guess; bowmanship, archery
+    σάκος 0.518 — shield; shield, defence; tvác
+    τεῦχος 0.515 — tool, implement; implements of war, armour, arms; whole armour, harness; the gear
+    ἀσπίς 0.489 — shield; body of men-at-arms; deep; in file
+    ὦμος 0.469 — the shoulder with the upper arm; the lower; arms; the shoulder
+    ἐγχείη 0.461 — spear, lance; in the spear
+    βέλος 0.449 — missile; arrow, dart; hurled; thrown
+    πῆχυς 0.439 — forearm; arm; ulna; centrepiece, which joined the two horns of the bow
+    ἄλκιμος 0.408 — stout, brave; fortifying; giving succour
+    αἰχμή 0.402 — point of a spear; point; spear; with the spear
+
+ναῦς — ship; the ships; ships; naús
+    νῆσος 0.592 — island; the islands; land flooded; alluvial land
+    ναύτης 0.437 — seaman, sailor; by sea; passenger by sea; mates
+    πρύμνα 0.375 — stern, poop; retire, draw back; the Acropolis; the vessel
+    τρώς 0.344 — Tros; Trojans; Trojan men
+    Ἴλιος 0.338 — Ilios; Ilium, the city of Ilus, Troy; from Troy; before Troy
+    τάφρος 0.334 — ditch, trench; trench; trenches; irrigation-ditch
+    πόντος 0.332 — sea; open sea; wide waters; the sea
+    ἐρέτης 0.330 — rowers; oars; era; aritár
+    κῦμα 0.329 — anything swollen; pregnant; wave, billow; swell
+    Ναιάς 0.320 — Naiad, river-nymph, spring-nymph
+    Τρώς 0.316 — Tros; Trojans; Trojan men
+    ναυσικλυτός 0.314
+
+θάλασσα — sea; salt lake; maritime affairs; a sea
+    πολίτης 0.510 — people living in a large densely populated municipality: "the city voted for …
+    πόντος 0.505 — sea; open sea; wide waters; the sea
+    σίδηρος 0.502 — iron; hardness; stubborn force; firmness, steadfastness
+    λίμνη 0.497 — pool of standing water; marshy lake, mere; artificial pool; basin
+    σιωπή 0.477 — silence; a hush; calm; the habit of silence
+    ἅλς 0.447 — salt; rock-salt; brine; sugar
+    ὄλεθρος 0.443 — ruin, destruction, death; of death; plague take thee!; destruction
+    ἀνάγκη 0.434 — force, constraint, necessity; perforce, of necessity; forcibly, by force; it must be …
+    διώκω 0.426 — cause to run, set in quick motion; pursue, chase; chase; follow
+    σήμερον 0.418 — to-day; kyo; ci-tra
+    ἀχαιός 0.416 — Achaean; the Achaeans; Greeks; Achaia
+    προσαυδάω 0.406 — speak to, address, accost; speak; to one; speak of
+
+πατήρ — pitṛṣu; father; grandfather; by the fatherʼs side
+    παῖς 0.618 — child; son; daughter; adopted son
+    μήτηρ 0.572 — mother; dam; mother-bird; queen
+    γαμβρός 0.514 — connexion by marriage; son-in-law; brother-in-law; sisterʼs husband
+    τέκνον 0.455 — child; my son, my child; young
+    τροφός 0.446 — feeder, rearer; nurse; that which nourishes; nursling
+    ἀδελφός 0.396 — son of the same mother; brother; brother and sister; kinsman
+    φίλος 0.389 — beloved, dear; dear; friend; friends, kith and kin
+    Ζεύς 0.366 — dyaús; divás; diví; dyávi
+    πόσις 0.364 — husband, spouse; lawful husband; potis; pátis
+    ἀνεψιός 0.359 — first cousin; cousin; nepos
+    πάτηρ 0.357
+    θεός 0.356 — God, the Deity; against his will; bless you! good heavens! for heavenʼs …
+
+γυνή — woman; man; mistress, lady; the lasses
+    σίδηρος 0.487 — iron; hardness; stubborn force; firmness, steadfastness
+    πολίτης 0.470 — people living in a large densely populated municipality: "the city voted for …
+    γέρων 0.462 — old man; Elders, Chiefs; Senators; old
+    νύμφη 0.448 — young wife, bride; marriageable maiden; daughter-in-law; young girl
+    σιωπή 0.447 — silence; a hush; calm; the habit of silence
+    Ἀθήνη 0.412 — Athene; casting vote
+    Πηνελόπεια 0.410 — Penelope
+    Ἀφροδίτη 0.408 — Aphrodite; sexual love, pleasure; vehement longing; desire
+    θάλασσα 0.405 — sea; salt lake; maritime affairs; a sea
+    τράπεζα 0.401 — table; dining-table, eating-table; board; a table
+    ἀνάγκη 0.401 — force, constraint, necessity; perforce, of necessity; forcibly, by force; it must be …
+    ἕκαστος 0.390 — each; every one; every single; all and each severally
+
+βασιλεύς — king, chief; captain; judge; hereditary king
+    βασίλεια 0.526 — queen, princess
+    ἀριστεύς 0.519 — those who excel in valour; chiefs
+    βασιλεύω 0.482 — to be king, rule, reign; was king; reigned as queen; to have …
+    ἄναξ 0.420 — lord, master; sons; brothers of kings; lord
+    ἱερεύς 0.407 — priest, sacrificer, diviner; pontifex; pont. maximus; a minister
+    Ἀχιλλεύς 0.406 — Achilles; ‘Achilles and the Tortoise’
+    Ὀδυσσεύς 0.398 — Odysseus; games in honour of Odysseus; temple of Odysseus
+    ἀγορητής 0.370 — speaker; public auctioneer
+    ἰατήρ 0.359 — surgeon; healer; deliverer
+    πολεμιστής 0.358 — warrior; war; charger; trapped as chargers
+    Ἀγαμέμνων 0.354 — Agamemnon; Agamemnonʼs son
+    ἱππεύς 0.354 — one who fights from a chariot; the driver; the hero who fights; …
+
+θεός — God, the Deity; against his will; bless you! good heavens! for heavenʼs …
+    Ζεύς 0.713 — dyaús; divás; diví; dyávi
+    θεά 0.555 — goddess
+    ἀθάνατος 0.503 — concerned with theory and data rather than practice; opposed to applied: "pure …
+    ζεύς 0.499 — dyaús; divás; diví; dyávi
+    Κρόνος 0.478 — Cronos; Saturn; Saturday; a dotard, old fool
+    βροτός 0.430 — mortal man; dead; mṛtás; morior
+    δαίμων 0.421 — god, goddess; the Divine power; the Deity; chance
+    θνητός 0.407 — liable to death, mortal; mortals; mortal women; mortal creatures
+    Ἀπόλλων 0.391 — Apollo
+    Κρονίδης 0.389 — son of Cronos; Zeus; an aged man
+    Κρονίων 0.382 — son of Cronos; Zeus
+    Ποσειδεών 0.356
+
+ἵππος — horse; mare; team of chariot-horses; the chariot
+    ἱππεύς 0.560 — one who fights from a chariot; the driver; the hero who fights; …
+    ἅρμα 0.542 — chariot; war-chariot; racing-chariot; travelling-chariot
+    ἡνίοχος 0.463 — one who holds the reins, driver, charioteer; chariot-driver; rider; the helmsman
+    ἵππουρις 0.426 — horse-tailed, decked with a horse-tail; horse-tail; Satyrʼs tail; horse-tail, Equisetum silvaticum
+    ἄξων 0.395 — axle; axis; axis of the celestial sphere; course, path
+    ἡμίονος 0.394 — half-ass; mule; a team of racing-mules; wild ass, onager
+    πεζός 0.391 — on foot, walking; fighters on foot; on land, going by land; infantry
+    ἕπομαι 0.384 — sacate; sequor; sèkti; saśc(a)-)
+    ἑταῖρος 0.376 — comrade, companion; comrades-in-arms; messmate; fellowslave
+    ἡγεμών 0.364 — one who leads; guide; one who does a thing first, shows the …
+    υἱός 0.362 — Vasen mit Meister-signaturen; pitṛṣu; son; a son
+    αἴξ 0.357 — goat; ibex; the star Capella; goose
+
+φιλέω — love, regard with affection; sexual love; friends; to be beloved
+    στυγέω 0.538 — hate, abhor; to show hatred; hate; fear
+    τιμάω 0.504 — honour, revere, reverence; bestow honours; reward; will honour
+    φιλότης 0.471 — friendship, love, affection; in, with, from friendship; affection; in affection
+    ἀτιμάζω 0.416 — hold in no honour, esteem lightly; bring dishonour upon; speakest in dishonour …
+    ποθέω 0.393 — long for, yearn after; miss; regret; will miss
+    φορέω 0.366 — repeated; habitual; bear to and fro, bear along; conveyed
+    κομέω 0.359 — take care of, tend
+    ἀτιμάω 0.353 — dishonour, disdain
+    τίω 0.335 — Erster Bericht; honour, revere; honour; honoured
+    βουκολέω 0.324 — tend cattle; graze; range through the sky; graze on
+    τρέφω 0.320 — thicken; congeal; curdle; curdle, congeal
+    γαμέω 0.314 — marry; take to wife; marry a wife; take for a paramour
+
+θυμός — soul, spirit; the principle of life, feeling and thought; of strong feeling …
+    ἦτορ 0.596 — heart; my heart; the seat of life, life; the seat of feeling, …
+    κῆρ 0.521 — heart; with all the heart, heartily; exceedingly; throughout
+    νόος 0.457 — mind; sense, wit; prudently; senselessly
+    δαίμων 0.438 — god, goddess; the Divine power; the Deity; chance
+    γυῖον 0.426 — limb; the feet; womb; hands
+    χόλος 0.396 — gall, bile; gall, bitter anger, wrath; rage; anger towards
+    χαλκός 0.394 — copper; bronze; anything made of metal; the spear of bronze
+    μῦθος 0.392 — word, speech; mere word; public speech; plea
+    λαός 0.382 — men; foot and horse; foot; a land army
+    δῆμος 0.375 — district, country, land; the land; people, inhabitants; the commons, common people
+    κόλπος 0.375 — bosom, lap; bosom; lap; vagina
+    πένθος 0.369 — grief, sorrow; for; mourning; a public mourning
+
+οἶνος — wine; cups; wines; in vino veritas
+    ποτός 0.558 — drunk, for drinking; that which one drinks, drink; drink; drinking water
+    πίνω 0.540 — drink; drink of; whereof; to drink
+    σῖτος 0.535 — grain; the corn; its; corn
+    μέθυ 0.526 — wine; mádhu; medu; medǔ
+    νέκταρ 0.484 — nectar; wine; perfumed unguent
+    ἔλαιον 0.475 — olive-oil; anointing-oil; oil; any oily substance
+    ὕδωρ 0.465 — water; the waters; spring-water, drinking-water; a water
+    δεῖπνον 0.460 — meal; noonday meal; morning meal; evening meal
+    δεῖπνος 0.426
+    μελίφρων 0.422 — sweet to the mind, delicious; whose care is honey
+    μέλι 0.420 — honey; sweet gum; manna; milip
+    ὕπνος 0.417 — sleep, slumber; the sleep of death; sleep; a dream
+
+δῶρον — gift, present, gift of honour; votive gift; offering; the gifts of
+    ἄποινα 0.551 — ransom; price paid; to recover oneʼs freedom; to save oneʼs life
+    τάλαντον 0.531 — a person who possesses unusual innate ability in some field or activity
+    χρῆμα 0.446 — need; a thing that one needs; uses; goods, property
+    δίδωμι 0.444 — give freely; to be ready to give, offer; things offered; grant, assign
+    μισθός 0.387 — hire; wages; of our hired service; for hire
+    γέρας 0.384 — gift of honour; the last honours; privilege, prerogative; gift, present
+    κτῆμα 0.375 — anything gotten, piece of property, possession; possessions; heirlooms; property
+    μῆλον 0.365 — sheep; goat; rams, wethers; goats
+    τέκνον 0.348 — child; my son, my child; young
+    φάρμακον 0.347 — drug; healing remedy, medicine; medicines; a medicine for
+    σῆμα 0.338 — sign, mark, token; sign from heaven, omen, portent; sign to do; begin …
+    τιμή 0.338 — worship, esteem, honour; honours; due regard; paid to them by
+
+κτείνω — kill, slay; seeks to kill; the slayer, murderer; put to death
+    κατακτείνω 0.796 — kill, slay
+    ἀποκτείνω 0.762 — kill, slay; condemn to death; put to death
+    θείνω 0.554 — strike; dashed; slay; slain
+    κτερίζω 0.544
+    κατέπεφνον 0.530 — kill, slay
+    ἐκτέμνω 0.468 — cut out; cut; from; out
+    θνήσκω 0.426 — Papers of the Amer. School; die; to be dead; dead
+    θάπτω 0.421 — honour with funeral rites; to carry out to burial; burial expenses
+    τίκτω 0.401 — bring into the world, engender; beget; bring forth; parents
+    οὐτάω 0.384 — wound, hurt, hit; wound by striking; thrusting; pierced
+    ὀλέκω 0.374 — ruin, destroy, kill; prey; perish, die
+    τέτμον 0.372 — overtake, reach, find; partake of, have allotted one
+
+βαίνω — walk, step; on foot; on ground; he went to
+    ἵστημι 0.628 — make to stand; stand; sthā; á-sthā-t
+    εἶμι 0.539 — ibo; shall go, shall come; come; go, depart
+    καταβαίνω 0.503 — come down from; die; came down from; came down
+    ἀποβαίνω 0.479 — step off from; alight, disembark from; disembark; dismount
+    ἀναβαίνω 0.466 — go up, mount; go up to; goes up among; to trample on
+    ἔρχομαι 0.464 — ibo; start, set out; was setting out; was
+    τρέχω 0.422 — run; run and; move quickly; trippingly
+    ἅλλομαι 0.413 — sal; sal-io; spring, leap; leap upon
+    προσβαίνω 0.401 — put oneʼs foot against; approach; mount, ascend; climb up
+    ἵζω 0.385 — si-sd-ō; e-sed-s; make to sit, seat, place, set; set
+    θέω 0.383 — dhávate; run; running; run and
+    στείχω 0.379 — walk, march, go; come; towards; go to, approach
+
+λέγω — lay
+    λέγω2 0.708 — pick up; gather, pick up; picking out stones for building; gather for …
+    καταλέγω 0.542 — lay down
+    φθέγγομαι 0.441 — utter a sound; voice; speak loud and clear; utter a syllable
+    ἔρομαι 0.344 — ask, inquire; learn by inquiry; ask after; for
+    λέγω3 0.317 — lay ; pick up; gather, pick up; picking out stones for building; …
+    φράζω 0.316 — point out, show; say, tell; show the way to, show where to …
+    λέκτρον 0.314 — couch, bed; to bed; marriage-bed; the fruit of marriage, a child
+    εἶπον 0.312 — said; avocam; vac; speak, say
+    ἐρέσσω 0.283 — row; speed by rowing; ply; the measured
+    εἴρω2 0.279 — say, speak, tell; is said; ask
+    δέχομαι 0.267 — take, accept, receive; receive; at the hand of; accept
+    ἐλελίζω 0.266 — whirl round; move in coils; spires; cause
+
+ὁράω — Inscr. des tombeaux des rois; I know; a)ware; see, look
+    εἰσοράω 0.689 — look into, look upon, behold; to discern; to behold; seest)
+    εἶδον 0.678 — see; to be seen; seem; know
+    ἀθρέω 0.445 — gaze at, observe; inspect; look earnestly, gaze; observe, watch
+    ἐφοράω 0.399 — oversee, observe; watch over, visit; visit; attend
+    ὀφθαλμός 0.397 — eye; eyes; to the eye; sight
+    νοέω 0.385 — Excerpta e libris Herodiani; perceive by the eyes, observe; perceive by the …
+    εἰσείδω 0.349
+    δέρκομαι 0.317 — see clearly, see; having sight; alive, living; since she lives
+    γιγνώσκω 0.307 — come to know, perceive; know; know by reflection; know by observation
+    δάω 0.297 — learn; teach; know; wilt learn
+    εἴδω 0.293 — see; to be seen; seem; know
+    οἶδα 0.290 — know; knew; Stadtrecht von Gortyn; Koische Forschungen
+
+καλός — beautiful; beauteous; fair, shapely; beauty
+    λευκός 0.607 — light, bright, clear; glassy; clear, limpid; clear, distinct
+    λεπτός 0.493 — peeled, husked; threshed out; fine, small; light
+    ποικίλος 0.481 — many-coloured, spotted, pied, dappled; tattooed; wrought in various colours; a broidered robe
+    δεινός 0.460 — fearful, terrible; fearful; awful; danger, suffering, horror
+    μακρός 0.458 — long; ships of war; the longer sides; length-wise
+    λαμπρός 0.442 — bright, radiant; bright; toga candida; clear, limpid
+    πιστός2 0.438 — to be trusted; believed; faithful, trusty; trusted friend
+    πυκνός 0.433 — close, compact; close, firm, solid; well-stuffed, firm; overgrown
+    κάλλιμος 0.424 — beautiful
+    ἡδύς 0.402 — pleasant; rather; pleasures; merrily
+    θερμός 0.393 — hot; feverish; hot-headed, hasty; still warm, fresh
+    ἐσθλός 0.386 — good; brave, stout; noble; wellbred
+
+δεινός — fearful, terrible; fearful; awful; danger, suffering, horror
+    χαλεπός 0.551 — difficult; hard to bear, painful, grievous; severity; hardships
+    πυκνός 0.537 — close, compact; close, firm, solid; well-stuffed, firm; overgrown
+    λεπτός 0.513 — peeled, husked; threshed out; fine, small; light
+    λαμπρός 0.489 — bright, radiant; bright; toga candida; clear, limpid
+    πικρός 0.472 — pointed, sharp, keen; sharp; pungent; sharp, keen
+    ὀξύς2 0.469 — sharp, keen; sharpened; point; apex
+    καλός 0.460 — beautiful; beauteous; fair, shapely; beauty
+    μακρός 0.451 — long; ships of war; the longer sides; length-wise
+    αἰνός 0.442 — dread, horrible; dread, terrible; terribly; strangely, exceedingly
+    μέγας 0.436 — big; full-grown; elder; vast, high
+    κρατερός 0.428 — strong, stout, mighty; stern, harsh; mighty, fierce; hard
+    σμερδαλέος 0.409 — terrible to look on, fearful; dire-gleaming; terrible to hear; márdati
+

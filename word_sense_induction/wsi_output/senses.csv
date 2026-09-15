@@ -1,0 +1,940 @@
+lemma,sense_id,n_occ,n_senses_lemma,silhouette,gloss,gloss_source,top_context_lemmas,example_citations
+Ἀχαιός,0,41,1,,Achaean; the Achaeans; Greeks; Achaia,lsj,ναῦς πᾶς Ἀτρείδης δίδωμι υἱός εὐρύς ἔχω Ἀπόλλων ἄριστος γέρας ἄποινα λαός,Iliad 1.368; Iliad 1.276; Iliad 1.454; Iliad 1.347; Iliad 1.305
+Ζεύς,0,31,1,,dyaús; divás; diví; dyávi,lsj,Ὄλυμπος φίλος Ἀπόλλων δῶμα ἔπος υἱός Ἀχαιός ἔρχομαι Ὀλύμπιος λίσσομαι ὀνίνημι ἔργον,Iliad 1.5; Iliad 1.570; Iliad 1.609; Iliad 1.533; Iliad 1.175
+πᾶς,0,31,1,,all; the whole; every; all the,lsj,Ἀχαιός θεός ἀνήρ ἐθέλω Ἀτρείδης οἴομαι κρατέω πείθω λίσσομαι μέγας ἀνάσσω σημαίνω,Iliad 1.533; Iliad 1.22; Iliad 1.376; Iliad 1.424; Iliad 1.495
+ναῦς,0,30,1,,ship; the ships; ships; naús,lsj,Ἀχαιός εἶμι Ἀπόλλων θοός μέλας ἔρχομαι κλισία λύω φέρω στέμμα ἔχω χείρ,Iliad 1.168; Iliad 1.26; Iliad 1.170; Iliad 1.421; Iliad 1.347
+θεός,0,30,1,,"God, the Deity; against his will; bless you! good heavens! for heavenʼs sake!; weather",lsj,πᾶς Ἀχαιός δῶμα εἶμι μάκαρ Ὄλυμπος δίδωμι χραισμέω στρατός κῆλον ἐπιπείθομαι ἑκατόμβη,Iliad 1.597; Iliad 1.533; Iliad 1.424; Iliad 1.570; Iliad 1.290
+Ἀτρείδης,0,21,1,,son of Atreus,lsj,Ἀχαιός Ἀγαμέμνων λαός πᾶς θυμός εὐρύς κρείων λίσσομαι κοσμήτωρ δίδωμι ἁνδάνω ἀνίστημι,Iliad 1.313; Iliad 1.355; Iliad 1.247; Iliad 1.232; Iliad 1.102
+Ἀχιλλεύς,0,21,1,,Achilles; ‘Achilles and the Tortoise’,lsj,πούς ὠκύς πρόσφημι δῖος Ἀχαιός μῆνις Πηλείδης πρῶτος ἄναξ ἀπαμείβομαι ἀμείβω εἶδον,Iliad 1.292; Iliad 1.148; Iliad 1.84; Iliad 1.364; Iliad 1.215
+φίλος,0,20,1,,"beloved, dear; dear; friend; friends, kith and kin",lsj,Ζεύς Ἀπόλλων χείρ πατήρ μήτηρ εὔχομαι Δαναοί παῖς δέχομαι ναῦς πολύς ἄγω,Iliad 1.447; Iliad 1.351; Iliad 1.441; Iliad 1.20; Iliad 1.587
+εἶμι,0,18,1,,"ibo; shall go, shall come; come; go, depart",lsj,ναῦς θεός Ζεύς Ὄλυμπος χραισμέω αἱρέω γέρας ἄγω Φθία πολύς φέρτατος κορωνίς,Iliad 1.307; Iliad 1.335; Iliad 1.567; Iliad 1.170; Iliad 1.609
+θυμός,0,18,1,,"soul, spirit; the principle of life, feeling and thought; of strong feeling and passion; breath, life",lsj,Ἀτρείδης Ἀχαιός θεά δαίς1 Ἀγαμέμνων ἁνδάνω παύω μέγας ἵημι λευκώλενος Ἥρα ἄμφω,Iliad 1.243; Iliad 1.217; Iliad 1.196; Iliad 1.209; Iliad 1.205
+δίδωμι,0,18,1,,"give freely; to be ready to give, offer; things offered; grant, assign",lsj,Ἀχαιός ἄγω γέρας κόρη αἱρέω υἱός Ἀτρείδης θεός πόλις ἄλγος ἑκηβόλος ἐθέλω,Iliad 1.135; Iliad 1.276; Iliad 1.98; Iliad 1.123; Iliad 1.116
+μέγας,0,18,1,,"big; full-grown; elder; vast, high",lsj,πᾶς Ἀχαιός φρήν χαίρω Τρώς θυμός κολεόν ξίφος ὅρκος Πρίαμος Ὄλυμπος οἴομαι,Iliad 1.450; Iliad 1.220; Iliad 1.194; Iliad 1.482; Iliad 1.254
+χείρ,0,18,1,,"the hand; closed; open, flat; a single hand",lsj,ἔχω Ἀπόλλων φίλος ναῦς Ἀχαιός εὔχομαι τίθημι ἔρχομαι θοός λύω θυγάτηρ φέρω,Iliad 1.596; Iliad 1.77; Iliad 1.585; Iliad 1.441; Iliad 1.446
+ἀνήρ,0,17,1,,"nar; ner-, nṛ; man; woman",lsj,ἄναξ πᾶς δῖος ἱλάσκομαι ἱερός ῥέζω Ἀγαμέμνων Ἀργεῖος πείθω Ἀχαιός εἷς ἀρχός,Iliad 1.7; Iliad 1.266; Iliad 1.146; Iliad 1.172; Iliad 1.442
+Ἀπόλλων,0,17,1,,Apollo,lsj,ναῦς Ἀχαιός ἑκηβόλος Φοῖβος λύω ἄποινα ἔχω χείρ φίλος Ζεύς ἔρχομαι θοός,Iliad 1.479; Iliad 1.457; Iliad 1.43; Iliad 1.182; Iliad 1.64
+ἔχω,0,16,1,,check; seĝh; sáhate; sigis,lsj,Ἀχαιός χείρ Ἀπόλλων γέρας ἔρχομαι ναῦς ἄποινα ἑκηβόλος θοός λύω θυγάτηρ φέρω,Iliad 1.45; Iliad 1.14; Iliad 1.373; Iliad 1.356; Iliad 1.507
+ἔρχομαι,0,16,1,,"ibo; start, set out; was setting out; was",lsj,ναῦς Ἀχαιός ἔχω Ἀπόλλων Ζεύς Ὄλυμπος θοός λύω θυγάτηρ φέρω ἀπερείσιος ἄποινα,Iliad 1.152; Iliad 1.207; Iliad 1.371; Iliad 1.12; Iliad 1.168
+πείθω,0,16,1,,"persuade; obey; trust; prevail upon, persuade",lsj,οἴομαι πᾶς μῦθος ἀνήρ κρατέω Ἀχαιός ἔπος ἔρχομαι ἀμείνων χολόω μέγας Ἀργεῖος,Iliad 1.427; Iliad 1.150; Iliad 1.296; Iliad 1.274; Iliad 1.214
+ἔπος,0,15,1,,"vácas; word; utterance; that which is uttered in words, speech, tale",lsj,Ζεύς πρόφρων ἔργον χείρ εἶπον πείθω ἔρχομαι μάχομαι Ὄλυμπος ὀνίνημι ὄμνυμι ἀρήγω,Iliad 1.77; Iliad 1.304; Iliad 1.211; Iliad 1.150; Iliad 1.519
+Ἀγαμέμνων,0,15,1,,Agamemnon; Agamemnonʼs son,lsj,Ἀτρείδης κρείων ἄναξ Δαναοί Ἀχαιός ἀτιμάω εὐρύς ἀνήρ ἁνδάνω θυμός εὔχομαι ἄριστος,Iliad 1.172; Iliad 1.130; Iliad 1.285; Iliad 1.102; Iliad 1.355
+φημί,0,15,1,,"say, affirm, assert; shall we say of; speak; think, deem, suppose",lsj,εὔχομαι δάκρυ χέω ἄγω Βρισηίς καλλιπάρηος εἶμι κλισία γέρας εἶδον ὅσος φέρτερος,Iliad 1.188; Iliad 1.511; Iliad 1.345; Iliad 1.595; Iliad 1.33
+εἶπον,0,14,1,,"said; avocam; vac; speak, say",lsj,μάντις Ζεύς Ἀπόλλων ἕζομαι εὔχομαι Δαναοί χείρ πολύς Ἀχαιός ἔπος πᾶς εἴρω2,Iliad 1.286; Iliad 1.108; Iliad 1.552; Iliad 1.543; Iliad 1.106
+ἄγω,0,14,1,,"lead, carry, fetch, bring; taking; take with one; carry off",lsj,δίδωμι καλλιπάρηος ἱερός ἑκατόμβη αἱρέω Ὀδυσσεύς Βρισηίς ἄναξ Δαναοί πατήρ φίλος κόρη,Iliad 1.323; Iliad 1.311; Iliad 1.338; Iliad 1.431; Iliad 1.443
+πολύς,0,14,1,,"many; often; frequent; much, mighty",lsj,Ἀχαιός Δαναοί ναῦς ἀράομαι Ἀπόλλων φίλος εὔχομαι χείρ εἶπον Φθία γέρας ἀφαιρέω,Iliad 1.167; Iliad 1.156; Iliad 1.3; Iliad 1.169; Iliad 1.112
+βαίνω,0,13,1,,"walk, step; on foot; on ground; he went to",lsj,θίς θάλασσα Ὄλυμπος Χρυσηίς δῶμα Ζεύς ἑκατόμβη ἕκαστος ἀκέων πολύφλοισβος κάρηνον χώομαι,Iliad 1.437; Iliad 1.439; Iliad 1.438; Iliad 1.310; Iliad 1.391
+γέρας,0,13,1,,"gift of honour; the last honours; privilege, prerogative; gift, present",lsj,δίδωμι Ἀχαιός ἔχω αἱρέω πᾶς μεγάθυμος εἶμι ἄγω πολύς υἱός ἴσος ἀπαυράω,Iliad 1.356; Iliad 1.507; Iliad 1.133; Iliad 1.161; Iliad 1.163
+Ἥρα,0,13,1,,Hera; nine; servo; inhabitants of Heraea,lsj,λευκώλενος θεά ἵημι ἄμφω θυμός φιλέω κήδω βοῶπις πότνια φρήν τίθημι πατήρ,Iliad 1.595; Iliad 1.55; Iliad 1.551; Iliad 1.195; Iliad 1.568
+Ὄλυμπος,0,12,1,,"Olympus; sky; to, towards Olympus; from O",lsj,Ζεύς ἔρχομαι θεός εἶμι βαίνω δῶμα ἔπος καλέω πᾶς δωδέκατος μέγας κάρηνον,Iliad 1.221; Iliad 1.425; Iliad 1.394; Iliad 1.497; Iliad 1.44
+οἶδα,0,12,1,,know; knew; Stadtrecht von Gortyn; Koische Forschungen,lsj,πᾶς ναῦς Ἀχαιός ἀγορεύω θεός ἕκαστος ἀνίστημι Κάλχας Θεστορίδης οἰωνοπόλος ἄριστος ἡγέομαι,Iliad 1.124; Iliad 1.546; Iliad 1.70; Iliad 1.515; Iliad 1.85
+υἱός,0,11,1,,Vasen mit Meister-signaturen; pitṛṣu; son; a son,lsj,Ἀχαιός Ζεύς δίδωμι γέρας Ἀχιλλεύς Λητώ παῖς λύω φίλος ἄποινα δέχομαι ἅζομαι,Iliad 1.237; Iliad 1.162; Iliad 1.392; Iliad 1.368; Iliad 1.276
+φρήν,0,11,1,,midriff; heart; very heart; sincere,lsj,μέγας τίθημι θεά λευκώλενος Ἥρα μένος ἀμφιμέλας πίμπλημι κακός φίλος μαντεύομαι Κλυταιμνήστρη,Iliad 1.474; Iliad 1.342; Iliad 1.297; Iliad 1.555; Iliad 1.55
+ἐθέλω,0,11,1,,to be willing; wish; wish to; wish that,lsj,πᾶς βασιλεύς ἔχω δίδωμι Ὀλύμπιος Ἀχαιός Δαναοί θεοπροπέω ἀγορεύω ἑκηβόλος ἄλγος τεύχω,Iliad 1.580; Iliad 1.549; Iliad 1.408; Iliad 1.116; Iliad 1.133
+λαός,0,11,1,,men; foot and horse; foot; a land army,lsj,Ἀτρείδης Ἀχαιός λίσσομαι πᾶς κοσμήτωρ εἶδον ὀλέκω Χρύσης ἀτιμάζω ἀρητήρ δέκατος ἀγορά,Iliad 1.313; Iliad 1.54; Iliad 1.375; Iliad 1.16; Iliad 1.117
+εἶδον,0,10,1,,see; to be seen; seem; know,lsj,Ἀχιλλεύς τοῖος ἀνήρ οἷος Πειρίθοος Δρύας ποιμήν λαός Καινεύς Ἐξάδιος ἀντίθεος Πολύφημος,Iliad 1.262; Iliad 1.203; Iliad 1.587; Iliad 1.262; Iliad 1.537
+πατήρ,0,10,1,,pitṛṣu; father; grandfather; by the fatherʼs side,lsj,φίλος μήτηρ Ζεύς ἀεικής λοιγός ἄγω ἀθάνατος θεός παράφημι νοέω ἐπίηρα φέρω,Iliad 1.578; Iliad 1.441; Iliad 1.534; Iliad 1.98; Iliad 1.396
+ἅλς1,0,10,1,,salt; rock-salt; brine; sugar,lsj (homograph 1),θίς ναῦς Ἀτρείδης ἀτρύγετος πολιός Ἀχαιός μέλας ἐρύω1 δῖος θοός προερύω λῦμα,Iliad 1.327; Iliad 1.141; Iliad 1.532; Iliad 1.350; Iliad 1.316
+ἄναξ,0,10,1,,"lord, master; sons; brothers of kings; lord",lsj,ἀνήρ Ἀγαμέμνων ἄγω Ἀχιλλεύς Ἀπόλλων Ζεύς Χρύσης πέμπω παῖς Φοῖβος ἱερός ἑκατόμβη,Iliad 1.172; Iliad 1.502; Iliad 1.506; Iliad 1.7; Iliad 1.442
+μάχομαι,0,10,1,,fight; fight with; against; with thy help,lsj,ἔπος Ἀχαιός ἔρχομαι Τρώς Πρίαμος θεός ἔρις συνίημι ἀναίδεια ἐπιέννυμι κερδαλεόφρων πρόφρων,Iliad 1.272; Iliad 1.298; Iliad 1.8; Iliad 1.344; Iliad 1.271
+μῦθος,0,10,1,,"word, speech; mere word; public speech; plea",lsj,κρατερός τέλλω πείθω ἀπιθέω Ἀθήνη ἀνίστημι ἀπειλέω τελέω Ἥρα πᾶς ἐπέλπομαι οἶδα,Iliad 1.25; Iliad 1.326; Iliad 1.379; Iliad 1.33; Iliad 1.273
+ἑκατόμβη,0,10,1,,an offering of a hundred oxen; sacrifice; eye-salve,lsj,ἱερός Ἀπόλλων ἄγω Φοῖβος εὐχωλή ἐπιμέμφομαι αἴξ λοιγός Ἀγαμέμνων Δαναοί Χρύση βαίνω,Iliad 1.438; Iliad 1.309; Iliad 1.431; Iliad 1.142; Iliad 1.447
+πρόσφημι,0,9,1,,"speak to, address",lsj,ἀπαμείβομαι πούς ὠκύς Ἀχιλλεύς νεφεληγερέτα Ζεύς κρείων Ἀγαμέμνων εἶδον βαρύς στενάχω μέγας,Iliad 1.215; Iliad 1.84; Iliad 1.560; Iliad 1.364; Iliad 1.130
+οἴομαι,0,9,1,,"forebode, presage; expect; suspect; fear",lsj,πᾶς πείθω Ἀχαιός κρατέω Ἀτρείδης παλιμπλάζομαι ἀπονοστέω θάνατος φεύγω πόλεμος δαμάζω λοιμός,Iliad 1.427; Iliad 1.204; Iliad 1.296; Iliad 1.170; Iliad 1.59
+ἱκνέομαι,0,9,1,,"come; came; arrive at; reach, attain to",lsj,Ἀχαιός ναῦς μέλας Ἀτρείδης ἐυκνήμις θεός δίδωμι Ὀλύμπιος δῶμα ἔχω ἐκπέρθω Πρίαμος,Iliad 1.166; Iliad 1.240; Iliad 1.317; Iliad 1.139; Iliad 1.19
+βασιλεύς,0,9,1,,"king, chief; captain; judge; hereditary king",lsj,ἐθέλω Πηλείδης ἐρίζω ὁμοῖος μείρομαι τιμή σκηπτοῦχος Ζεύς κῦδος δίδωμι Ἀχαιός χολόω,Iliad 1.277; Iliad 1.340; Iliad 1.331; Iliad 1.9; Iliad 1.410
+Δαναοί,0,9,1,,the Danaäns; the Greeks; the sons; descendants of Danaus,lsj,εὔχομαι φίλος Ἀγαμέμνων πολύς Ἀπόλλων Ζεύς Κάλχας θεοπροπία ἀναφαίνω ζάω χθών δέρκομαι,Iliad 1.456; Iliad 1.97; Iliad 1.56; Iliad 1.87; Iliad 1.258
+αἱρέω,0,9,1,,"take with the hand, grasp, seize; to take; having taken up; take away",lsj,γέρας δίδωμι ἄγω Αἴας εἶμι Ὀδυσσεύς καλλιπάρηος ἔχω ἀπαυράω ξανθός κόμη Πηλείων,Iliad 1.356; Iliad 1.507; Iliad 1.139; Iliad 1.324; Iliad 1.137
+τίθημι,0,9,1,,"l), Alc; set, put, place; set; set for oneself",lsj,χείρ Ἀχαιός φίλος μυρίος ἄλγος φρήν θεά λευκώλενος Ἥρα ἑκατόμβη αἰχμητής θεός,Iliad 1.446; Iliad 1.509; Iliad 1.55; Iliad 1.143; Iliad 1.441
+εὔχομαι,0,9,1,,pray; to utter; in prayer; pray that,lsj,Δαναοί φημί Ἀπόλλων φίλος χείρ Ζεύς Κάλχας θεοπροπία ἀναφαίνω ζάω χθών δέρκομαι,Iliad 1.43; Iliad 1.457; Iliad 1.381; Iliad 1.87; Iliad 1.453
+θεά,0,9,1,,goddess,lsj,λευκώλενος Ἥρα θυμός ἵημι ἄμφω φιλέω κήδω καλέω μῆνις ἀείδω Πηλείδης Ἀχιλλεύς,Iliad 1.208; Iliad 1.55; Iliad 1.195; Iliad 1.595; Iliad 1.206
+πόλεμος,0,8,1,,"war; battle, fight; single combat; War, Battle",lsj,Ἀχαιός Ἀτρείδης παλιμπλάζομαι οἴομαι ἀπονοστέω θάνατος φεύγω δαμάζω λοιμός πλείων πολυάιξ χείρ,Iliad 1.492; Iliad 1.61; Iliad 1.177; Iliad 1.422; Iliad 1.491
+μήτηρ,0,8,1,,mother; dam; mother-bird; queen,lsj,φίλος πατήρ χείρ Ζεύς ἐπίηρα φέρω καρτερός θεά γείνομαι φέρτατος πλείων ἀνάσσω,Iliad 1.351; Iliad 1.572; Iliad 1.585; Iliad 1.577; Iliad 1.357
+γέρων,0,8,1,,"old man; Elders, Chiefs; Senators; old",lsj,δείδω ἀργυρόπεζος Θέτις θυγάτηρ ἅλιος κοῖλος ναῦς κιχάνω δηθύνω ὕστερος εἶμι χραισμέω,Iliad 1.462; Iliad 1.380; Iliad 1.358; Iliad 1.556; Iliad 1.538
+Ὀλύμπιος,0,8,1,,"Olympian, of Olympus, dwelling on Olympus; of Olympus",lsj,Ζεύς ἐθέλω ἀστεροπητής Ἀτρείδης ἐυκνήμις Ἀχαιός θεός δίδωμι δῶμα ἔχω ἐκπέρθω Πρίαμος,Iliad 1.583; Iliad 1.353; Iliad 1.580; Iliad 1.609; Iliad 1.589
+κόρη,0,7,1,,girl; maiden; nymphs; bride,lsj,δίδωμι Δαναοί ἄγω ἀφαιρέω ἀεικής λοιγός ἀπωθέω πατήρ φίλος ἑλικῶπις ἀπρίατος ἀνάποινος,Iliad 1.275; Iliad 1.298; Iliad 1.98; Iliad 1.336; Iliad 1.392
+κακός,0,7,1,,"bad; ugly; ill-born, mean; craven, base",lsj,βασιλεύς χολόω νόσος στρατός ὄρνυμι Κάλχας πρώτιστος ὄσσομαι προσεῖπον μάντις κρήγυος εἶπον,Iliad 1.418; Iliad 1.10; Iliad 1.284; Iliad 1.105; Iliad 1.107
+Πηλείδης,0,7,1,,,none,Ἀχιλλεύς ἀνήρ βασιλεύς κλισία μῆνις ἀείδω θεά οὐλόμενος εἷς ἀρχός βουληφόρος Αἴας,Iliad 1.223; Iliad 1.245; Iliad 1.306; Iliad 1.322; Iliad 1.1
+Τρώς,0,7,1,,Tros; Trojans; Trojan men,lsj,Ἀχαιός μάχομαι μέγας χαίρω τιμή Πρίαμος πᾶς ἀρήγω τίνω ἔρχομαι αἰχμητής αἴτιος,Iliad 1.521; Iliad 1.408; Iliad 1.509; Iliad 1.152; Iliad 1.164
+εὐρύς,0,7,1,,"wide, broad; loose; far-reaching, far-spread; várīyān",lsj,Ἀχαιός στρατός Ἀτρείδης κρείων Ἀγαμέμνων ἀνίστημι ἥρως ἄχνυμαι πολύς λωίων δῶρον ἀφαιρέω,Iliad 1.478; Iliad 1.384; Iliad 1.484; Iliad 1.229; Iliad 1.355
+ἀνάσσω,0,7,1,,"to be lord, master; to be lord, hold sway in; to be lord of; to be master of",lsj,πᾶς κλύω ἀργυρότοξος Χρύση ἀμφιβαίνω Κίλλα ζάθεος Τένεδος εἶμι ναῦς ἑταῖρος Μυρμιδόνες,Iliad 1.452; Iliad 1.231; Iliad 1.38; Iliad 1.281; Iliad 1.252
+τελέω,0,7,1,,"fulfil, accomplish, execute, perform; did it; perform; fulfil",lsj,Ζεύς βουλή χόλος καταπέσσω ἔχω κότος στῆθος ἐσθλός εἶπον ἔπος οἴομαι ἀνίστημι,Iliad 1.204; Iliad 1.523; Iliad 1.212; Iliad 1.82; Iliad 1.108
+πρῶτος,0,7,1,,,none,Ἀχιλλεύς διίστημι ἐρίζω Ἀτρείδης ἄναξ ἀνήρ δῖος ὀρεύς ἐποίχομαι κύων ἀργός σκῆπτρον,Iliad 1.276; Iliad 1.6; Iliad 1.50; Iliad 1.235; Iliad 1.459
+κλισία,0,7,1,,"place for lying down; reclining; hut, shed, booth; cot, cabin",lsj,ναῦς ἄγω Βρισηίς καλλιπάρηος εἶμι ἴσος Πηλείδης γέρας εἶδον ὅσος φέρτερος στυγέω,Iliad 1.306; Iliad 1.322; Iliad 1.328; Iliad 1.329; Iliad 1.346
+ἀνίστημι,0,7,1,,"make to stand up, raise up; raised; raisefrom sleep, wake up; raise from the dead",lsj,Ἀτρείδης ἀγείρω ὁμηγερής γίγνομαι μετάφημι πούς ὠκύς Ἀχιλλεύς Κάλχας Θεστορίδης οἰωνοπόλος ἄριστος,Iliad 1.101; Iliad 1.68; Iliad 1.533; Iliad 1.58; Iliad 1.387
+ἀμείβω,0,7,1,,"change, exchange; changing; give in exchange; take in exchange",lsj,δῖος Ἀχιλλεύς ἀνήρ ποδάρκης ἄναξ Ἀγαμέμνων Θέτις δάκρυ χέω πατήρ θεός βοῶπις,Iliad 1.172; Iliad 1.121; Iliad 1.551; Iliad 1.413; Iliad 1.544
+παῖς,0,7,1,,child; son; daughter; adopted son,lsj,δέχομαι φίλος Πρίαμος χαίρω Δαναοί ἄναξ λύω ἄποινα ἅζομαι Ζεύς υἱός ἑκηβόλος,Iliad 1.393; Iliad 1.496; Iliad 1.447; Iliad 1.20; Iliad 1.596
+στρατός,0,7,1,,"army, host; the commons, people; band; body",lsj,εὐρύς Ἀχαιός κῆλον θεός βασιλεύς χολόω νόσος ὄρνυμι κακός οἴχομαι πολύς λωίων,Iliad 1.384; Iliad 1.229; Iliad 1.484; Iliad 1.53; Iliad 1.10
+πούς,0,7,1,,foot; talons; arms; feelers,lsj,ὠκύς Ἀχιλλεύς πρόσφημι ἀπαμείβομαι ἀγείρω ὁμηγερής γίγνομαι ἀνίστημι μετάφημι εἶδον βαρύς στενάχω,Iliad 1.148; Iliad 1.215; Iliad 1.84; Iliad 1.364; Iliad 1.58
+δῶμα,0,7,1,,"house; chief room, hall; a single house; housetop",lsj,Ζεύς θεός Ὄλυμπος βαίνω Ἥφαιστος ἕκαστος Ἀτρείδης ἐυκνήμις Ἀχαιός δίδωμι Ὀλύμπιος ἔχω,Iliad 1.533; Iliad 1.222; Iliad 1.600; Iliad 1.570; Iliad 1.18
+ἄποινα,0,7,1,,ransom; price paid; to recover oneʼs freedom; to save oneʼs life,lsj,Ἀχαιός ἑκηβόλος Ἀπόλλων δέχομαι λύω θυγάτηρ ἔχω ἱερεύς ἀγλαός ἔρχομαι θοός ναῦς,Iliad 1.23; Iliad 1.377; Iliad 1.13; Iliad 1.372; Iliad 1.95
+κλύω,0,7,1,,hear; from; hear of; have heard,lsj,ἀργυρότοξος Χρύση ἀμφιβαίνω Κίλλα ζάθεος Τένεδος ἀνάσσω Φοῖβος Ἀπόλλων θεός ἐπιπείθομαι πότνια,Iliad 1.457; Iliad 1.43; Iliad 1.357; Iliad 1.453; Iliad 1.218
+προσεῖπον,0,7,1,,"speak to; address, accost; address; addressed",lsj,Κάλχας πρώτιστος κακός ὄσσομαι θεά γλαυκῶπις Ἀθήνη Πηλείδης ἀταρτηρός ἔπος Ἀτρείδης Ταλθύβιος,Iliad 1.585; Iliad 1.224; Iliad 1.105; Iliad 1.320; Iliad 1.206
+χώομαι,0,7,1,,to be angry; to be angry at; about; because of,lsj,ὦμος θυμός βαίνω Ὄλυμπος κάρηνον κῆρ τόξον ἔχω ἀμφηρεφής φαρέτρα κλάζω ὀιστός,Iliad 1.244; Iliad 1.44; Iliad 1.429; Iliad 1.380; Iliad 1.46
+ὠκύς,0,6,1,,"quick, swift, fleet; quickness, sharpness; shrill",lsj,πούς Ἀχιλλεύς πρόσφημι ἀπαμείβομαι ἀγείρω ὁμηγερής γίγνομαι ἀνίστημι μετάφημι εἶδον βαρύς στενάχω,Iliad 1.148; Iliad 1.84; Iliad 1.215; Iliad 1.364; Iliad 1.58
+ἔργον,0,6,1,,weorc; varəza; work; tasks,lsj,Ζεύς ἔπος ὀνίνημι λοίγιος Κλυταιμνήστρη προβέβουλα κουρίδιος ἄλοχος χείρων δέμας φυή φρήν,Iliad 1.115; Iliad 1.504; Iliad 1.395; Iliad 1.573; Iliad 1.294
+φέρω,0,6,1,,fero; beran; bhárati; náśati,lsj,θοός ναῦς Ἀπόλλων ἔρχομαι Ἀχαιός λύω θυγάτηρ ἀπερείσιος ἄποινα στέμμα ἔχω χείρ,Iliad 1.13; Iliad 1.372; Iliad 1.572; Iliad 1.578; Iliad 1.592
+καλλιπάρηος,0,6,1,,beautiful-cheeked,lsj,ἄγω Χρυσηίς Βρισηίς κλισία αἱρέω βαίνω εἶμι γέρας εἶδον ὅσος φέρτερος στυγέω,Iliad 1.143; Iliad 1.323; Iliad 1.346; Iliad 1.369; Iliad 1.310
+τίνω,0,6,1,,pay a price; pay; acquit oneself of; render,lsj,Ἀχαιός ἄριστος Τρώς Δαναοί δάκρυον βέλος θυμός ἀμύσσω χώομαι τυτθός μιμνήσκω παρέζομαι,Iliad 1.244; Iliad 1.354; Iliad 1.412; Iliad 1.510; Iliad 1.508
+Χρυσηίς,0,6,1,,,none,καλλιπάρηος βαίνω ναῦς Δαναοί θεοπροπέω ἀγορεύω ἑκηβόλος ἄλγος τεύχω κόρη ἀγλαός ἄποινα,Iliad 1.143; Iliad 1.310; Iliad 1.369; Iliad 1.182; Iliad 1.439
+ἧμαι,0,6,1,,"āste; to be seated, sit; sit still, sit idle; encamp",lsj,εὑρίσκω ναῦς ἐθέλω ἔχω γέρας δεύω2 κλισία μέλας κλύω πότνια μήτηρ βένθος,Iliad 1.330; Iliad 1.134; Iliad 1.416; Iliad 1.512; Iliad 1.498
+λίσσομαι,0,6,1,,"beg, pray; pray; prays; that",lsj,πᾶς Ἀχαιός Ζεύς Ἀτρείδης κοσμήτωρ λαός μένω Ἀχιλλεύς μεθίημι χόλος μέγας ἕρκος,Iliad 1.15; Iliad 1.374; Iliad 1.174; Iliad 1.283; Iliad 1.394
+δαίς1,0,6,1,,"meal, banquet; duly shared; banquet; sacrificial feast",lsj (homograph 1),θυμός δέω ἴσος Ζεύς παύω πόνος τεύχω δαίνυμι πατήρ Ὠκεανός ἀμύμων Αἰθίοψ,Iliad 1.602; Iliad 1.468; Iliad 1.575; Iliad 1.424; Iliad 1.579
+ἵημι,0,6,1,,Ja-c-io; sēmen; véti; vyánti,lsj,θεά λευκώλενος Ἥρα ἄμφω θυμός φιλέω κήδω ἰός Ἀργεῖος κακός βέλος πόσις2,Iliad 1.195; Iliad 1.208; Iliad 1.48; Iliad 1.479; Iliad 1.382
+εἴρω2,0,6,1,,"say, speak, tell; is said; ask",lsj (homograph 2),Ζεύς μάντις ἱερεύς ὀνειροπόλος ὄναρ εἶπον τόσος χώομαι Φοῖβος Ἀπόλλων εὐχωλή ἐπιμέμφομαι,Iliad 1.297; Iliad 1.204; Iliad 1.76; Iliad 1.419; Iliad 1.233
+γίγνομαι,0,6,1,,come into a new state of being; come into being; to be born; born,lsj,ἄνθρωπος θεός δεινός κλαγγή ἀργύρεος βιός ἀγείρω ὁμηγερής ἀνίστημι μετάφημι πούς ὠκύς,Iliad 1.49; Iliad 1.493; Iliad 1.188; Iliad 1.57; Iliad 1.341
+ἱερός,0,6,1,,"filled with; manifesting divine power, supernatural; great; holy",lsj,ἑκατόμβη ἄγω ἀνήρ Δαναοί Χρύση Ὀδυσσεύς ἱλάσκομαι ῥέζω ἄναξ ἀεικής λοιγός ἀπωθέω,Iliad 1.431; Iliad 1.443; Iliad 1.447; Iliad 1.99; Iliad 1.366
+Φοῖβος,0,6,1,,,none,Ἀπόλλων κλύω ἑκατόμβη ναῦς πέμπω ἄναξ μάντις εἴρω2 ἱερεύς ὀνειροπόλος ὄναρ Ζεύς,Iliad 1.457; Iliad 1.43; Iliad 1.182; Iliad 1.64; Iliad 1.72
+ἑκηβόλος,0,6,1,,attaining his aim; far-shooting,lsj,Ἀπόλλων ἄποινα λύω ἔχω ἔρχομαι θοός ναῦς Ἀχαιός θυγάτηρ φέρω ἀπερείσιος στέμμα,Iliad 1.21; Iliad 1.438; Iliad 1.14; Iliad 1.96; Iliad 1.373
+δέχομαι,0,6,1,,"take, accept, receive; receive; at the hand of; accept",lsj,ἄποινα παῖς ἀγλαός φίλος ἑκηβόλος πᾶς ἐπευφημέω Ἀχαιός αἰδέομαι ἱερεύς λύω ἅζομαι,Iliad 1.23; Iliad 1.377; Iliad 1.446; Iliad 1.112; Iliad 1.20
+ἀθάνατος,0,6,1,,,none,εἶδον πατήρ τοῖος ἀνήρ οἷος Πειρίθοος Δρύας ποιμήν λαός Καινεύς Ἐξάδιος ἀντίθεος,Iliad 1.503; Iliad 1.525; Iliad 1.520; Iliad 1.398; Iliad 1.265
+κρείων,0,5,1,,"ruler, lord, master; queen",lsj,Ἀγαμέμνων Ἀτρείδης εὐρύς ἀπαμείβομαι πρόσφημι Ἀχαιός ἀνίστημι ἥρως ἄχνυμαι ἀτιμάω μιμνήσκω παρέζομαι,Iliad 1.102; Iliad 1.355; Iliad 1.130; Iliad 1.285; Iliad 1.411
+ἀφαιρέω,0,5,1,,take away from; took; from; relieve,lsj,πολύς δίδωμι Ἀχαιός κόρη γέρας ἀπειλέω μογέω υἱός Χρυσηίς Φοῖβος Ἀπόλλων ναῦς,Iliad 1.230; Iliad 1.275; Iliad 1.161; Iliad 1.182; Iliad 1.299
+βάλλω,0,5,1,,"throw; throw so as to hit, hit; striking; smote upon",lsj,βέλος ἐχεπευκής ἐφίημι σκῆπτρον γαῖα χρύσεος ἧλος πείρω φρήν ἅλς1 λῦμα εὐνή,Iliad 1.314; Iliad 1.436; Iliad 1.245; Iliad 1.52; Iliad 1.297
+Θέτις,0,5,1,,Thetis,lsj,ἀργυρόπεζος θυγάτηρ ἅλιος γέρων ἀμείβω δάκρυ χέω λανθάνω ἐφετμή παῖς ἅπτω γόνυ,Iliad 1.556; Iliad 1.538; Iliad 1.413; Iliad 1.512; Iliad 1.495
+ἕζομαι,0,5,1,,"seat oneself, sit; sank; crouch; sink",lsj,εἶπον ναῦς Ἀχιλλεύς δακρύω ἑταῖρος λιάζομαι θίς ἅλς1 πολιός ὁράω ἀπείρων πόντος,Iliad 1.68; Iliad 1.101; Iliad 1.349; Iliad 1.246; Iliad 1.48
+Κρονίων,0,5,1,,son of Cronos; Zeus,lsj,Ζεύς πατήρ μέγαρον ἀκούω εὔχομαι φημί κελαινεφής οἶος ἀθάνατος ἀεικής λοιγός ἀμύνω,Iliad 1.539; Iliad 1.502; Iliad 1.405; Iliad 1.397; Iliad 1.528
+ἀπαμείβομαι,0,5,1,,"reply, answer",lsj,πρόσφημι πούς ὠκύς Ἀχιλλεύς κρείων Ἀγαμέμνων νεφεληγερέτα Ζεύς,Iliad 1.84; Iliad 1.215; Iliad 1.130; Iliad 1.285; Iliad 1.560
+νοέω,0,5,1,,"Excerpta e libris Herodiani; perceive by the eyes, observe; perceive by the mind, apprehend; take notice",lsj,πατήρ οἶδα ναῦς σῶς μάχομαι Ἀχαιός ἀποστείχω Ἥρα πρόφρων τλάω εἶπον ἔπος,Iliad 1.543; Iliad 1.522; Iliad 1.549; Iliad 1.343; Iliad 1.577
+Ἀθήνη,0,5,1,,Athene; casting vote,lsj,Παλλάς ὁρμαίνω φρήν θυμός ἕλκω κολεόν μέγας ξίφος ἔρχομαι γιγνώσκω προσεῖπον θεά,Iliad 1.206; Iliad 1.194; Iliad 1.400; Iliad 1.200; Iliad 1.221
+ἑταῖρος,0,5,1,,"comrade, companion; comrades-in-arms; messmate; fellowslave",lsj,ναῦς εἶμι Μυρμιδόνες ἀνάσσω ἀφαιρέω Χρυσηίς Φοῖβος Ἀπόλλων πέμπω Πηλείδης κλισία ἴσος,Iliad 1.179; Iliad 1.307; Iliad 1.183; Iliad 1.345; Iliad 1.349
+ἵστημι,0,5,1,,make to stand; stand; sthā; á-sthā-t,lsj,ταρβέω αἰδέομαι βασιλεύς θεός ἱερός ἑκατόμβη εὔδμητος βωμός ἱστός ἱστίον λευκός πετάννυμι,Iliad 1.535; Iliad 1.448; Iliad 1.480; Iliad 1.197; Iliad 1.332
+βουλή,0,5,1,,"will, determination; counsel, design; counsel, advice; ground of argument",lsj,Πρίαμος συμφράζομαι Ζεύς τελέω γηθέω παῖς Τρώς μέγας χαίρω θυμός πᾶς πυνθάνομαι,Iliad 1.540; Iliad 1.5; Iliad 1.537; Iliad 1.273; Iliad 1.258
+λοιγός,0,5,1,,"ruin, havoc; destruction; pa-liegti",lsj,ἀμύνω ἀεικής ἑκατόμβη Δαναοί πατήρ μάντις εἴρω2 ἱερεύς ὀνειροπόλος ὄναρ Ζεύς εἶπον,Iliad 1.341; Iliad 1.456; Iliad 1.398; Iliad 1.97; Iliad 1.67
+δῖος,0,5,1,,heavenly; noble; noblest; excellent,lsj,ἀνήρ Ἀχιλλεύς ἀμείβω πρῶτος διίστημι ἐρίζω Ἀτρείδης ἄναξ ποδάρκης ναῦς μέλας ἐρύω1,Iliad 1.121; Iliad 1.7; Iliad 1.292; Iliad 1.145; Iliad 1.141
+Χρύσης,0,5,1,,,none,Ἀπόλλων θοός ναῦς Ἀχαιός χείρ πέμπω ἄναξ ὀλέκω λαός ἀτιμάζω ἀρητήρ Ἀτρείδης,Iliad 1.450; Iliad 1.11; Iliad 1.390; Iliad 1.442; Iliad 1.370
+Ὀδυσσεύς,0,5,1,,Odysseus; games in honour of Odysseus; temple of Odysseus,lsj,ἄγω αἱρέω Αἴας ἀρχός ἀνήρ ἱερός πολύμητις δίδωμι εἶμι γέρας εἷς βουληφόρος,Iliad 1.430; Iliad 1.440; Iliad 1.311; Iliad 1.145; Iliad 1.138
+θοός,0,5,1,,"quick, nimble; swift; hasty; in haste",lsj,ναῦς Ἀχαιός φέρω Ἀπόλλων ἔρχομαι λύω θυγάτηρ ἀπερείσιος ἄποινα στέμμα ἔχω χείρ,Iliad 1.371; Iliad 1.12; Iliad 1.308; Iliad 1.389; Iliad 1.300
+λύω,0,5,1,,"luo; re-luo, solvo; se-luo), solūtus; loosen",lsj,Ἀπόλλων ναῦς Ἀχαιός ἄποινα ἑκηβόλος ἔρχομαι θοός θυγάτηρ φέρω ἀπερείσιος στέμμα ἔχω,Iliad 1.13; Iliad 1.372; Iliad 1.305; Iliad 1.29; Iliad 1.20
+θυγάτηρ,0,5,1,,"daughter; maidservant, slave; duhitár",lsj,ἄποινα Ἀπόλλων ἔρχομαι θοός ναῦς Ἀχαιός λύω φέρω ἀπερείσιος στέμμα ἔχω χείρ,Iliad 1.13; Iliad 1.372; Iliad 1.95; Iliad 1.556; Iliad 1.538
+χόλος,0,5,1,,"gall, bile; gall, bitter anger, wrath; rage; anger towards",lsj,στῆθος καταπέσσω ἔχω κότος τελέω ἦτορ λάσιος μερμηρίζω φάσγανον ὀξύς ἐρύω1 μηρός,Iliad 1.81; Iliad 1.192; Iliad 1.283; Iliad 1.224; Iliad 1.387
+μέλας,0,5,1,,"black, dark; dark; pitched over; dark, swarthy",lsj,ναῦς ἐρύω1 ἱκνέομαι ἅλς1 δῖος θοός φέρω ἀναιρέω ἀέκων εὑρίσκω κλισία ἧμαι,Iliad 1.329; Iliad 1.433; Iliad 1.300; Iliad 1.141; Iliad 1.485
+σκῆπτρον,0,5,1,,staff; stick; staffs; supports,lsj,ναῦς στέμμα Ἀπόλλων χρύσεος ἔρχομαι θοός Ἀχαιός λύω θυγάτηρ φέρω ἀπερείσιος ἄποινα,Iliad 1.245; Iliad 1.15; Iliad 1.28; Iliad 1.374; Iliad 1.234
+ἴσος,0,5,1,,equal; like; copy; the same,lsj,δαίς1 ἔχω γέρας εἶμι κλισία θυμός δέω Ἀχαιός Τρώς ἐκπέρθω ναίω πτολίεθρον,Iliad 1.602; Iliad 1.468; Iliad 1.306; Iliad 1.163; Iliad 1.187
+ἱλάσκομαι,0,5,1,,,none,ἀνήρ Ἑκάεργος ἱερός ῥέζω θεός ἄναξ πείθω εἷς ἀρχός βουληφόρος Αἴας Ἰδομενεύς,Iliad 1.386; Iliad 1.147; Iliad 1.472; Iliad 1.444; Iliad 1.100
+καλέω,0,5,1,,"call, summon; they had been summoned; demand, require; call to oneself",lsj,πᾶς ἔρχομαι θεά ὑπολύω δεσμός ἑκατόγχειρος μακρός Ὄλυμπος Βριάρεως θεός ἀνήρ Αἰγαίων,Iliad 1.54; Iliad 1.402; Iliad 1.270; Iliad 1.293; Iliad 1.403
+λευκώλενος,0,5,1,,white-armed,lsj,Ἥρα θεά ἵημι ἄμφω θυμός φιλέω κήδω φρήν τίθημι Ἥφαιστος κλυτοτέχνης ἄρχω,Iliad 1.55; Iliad 1.595; Iliad 1.195; Iliad 1.208; Iliad 1.572
+κήδω,0,4,1,,"trouble, distress; to be concerned, care for; mourn for; caring for",lsj,ἵημι θεά λευκώλενος Ἥρα ἄμφω θυμός φιλέω Δαναοί θνήσκω ὁράω ἀνέχω φίλος,Iliad 1.196; Iliad 1.209; Iliad 1.586; Iliad 1.56
+ἐφίημι,0,4,1,,"send to; sent; set on, incite; throw",lsj,ἄναξ βέλος ἐχεπευκής βάλλω Χρύσης πέμπω ἀνήρ Ἀγαμέμνων παῖς ἄγω Φοῖβος ἱερός,Iliad 1.445; Iliad 1.518; Iliad 1.51; Iliad 1.567
+τλάω,0,4,1,,"suffer, undergo; hold out, endure, be patient, submit; I submitted; bore up under",lsj,οἰνοβαρής κύων ὄμμα ἔχω καρδία ἔλαφος πόλεμος λαός θωρήσσω λόχος εἶμι ἀριστεύς,Iliad 1.543; Iliad 1.228; Iliad 1.586; Iliad 1.534
+ἄμφω,0,4,1,,both,lsj,ἵημι θεά λευκώλενος Ἥρα θυμός φιλέω κήδω νέος ἐξαυδάω κεύθω νόος οἶδα,Iliad 1.196; Iliad 1.209; Iliad 1.259; Iliad 1.363
+ἄριστος,0,4,1,,best; noblest; a chief; bravest,lsj,Ἀχαιός Κάλχας ναῦς Ἀπόλλων εὔχομαι Δαναοί Ἀγαμέμνων τίνω ἀνίστημι Θεστορίδης οἰωνοπόλος οἶδα,Iliad 1.412; Iliad 1.91; Iliad 1.244; Iliad 1.69
+ἀμύνω,0,4,1,,"keep off, ward off; to be kept off; for; from whom",lsj,λοιγός ἀεικής μάντις εἴρω2 ἱερεύς ὀνειροπόλος ὄναρ Ζεύς εἶπον τόσος χώομαι Φοῖβος,Iliad 1.341; Iliad 1.398; Iliad 1.67; Iliad 1.456
+Ἀργεῖος,0,4,1,,"from Argos, Argive; the Greeks; Argolis; womenʼs shoes",lsj,ἀνήρ ἄναξ οἴομαι χολόω μέγας πᾶς κρατέω πείθω Ἀχαιός γέρας ἑτοιμάζω οἶος,Iliad 1.382; Iliad 1.79; Iliad 1.445; Iliad 1.119
+ἀεικής,0,4,1,,"unseemly, shameful; inconvenience; meagre; strange",lsj,λοιγός ἀμύνω Δαναοί πατήρ ἀπωθέω φίλος δίδωμι ἑλικῶπις κόρη ἀπρίατος ἀνάποινος ἄγω,Iliad 1.456; Iliad 1.398; Iliad 1.97; Iliad 1.341
+κατανεύω,0,4,1,,"nod assent; grant, promise; consent to; make a signbynoddingthehead",lsj,κεφαλή νημερτής ὑπισχνέομαι ἀπεῖπον δέος οἶδα ὅσος πᾶς ἄτιμος θεός πείθω παλινάγρετος,Iliad 1.524; Iliad 1.527; Iliad 1.514; Iliad 1.558
+γιγνώσκω,0,4,1,,"come to know, perceive; know; know by reflection; know by observation",lsj,Ἀχαιός Παλλάς Ἀθήνη πειράω φρήν μιμνήσκω παρέζομαι λαμβάνω γόνυ ἐθέλω Τρώς ἀρήγω,Iliad 1.333; Iliad 1.199; Iliad 1.302; Iliad 1.411
+χαίρω,0,4,1,,"rejoice, be glad; to rejoice; rejoice at, take pleasure in; express oneʼs joy",lsj,μέγας Τρώς Πρίαμος παῖς ἀναιδής ἕπομαι τιμή ἄρνυμαι Μενέλαος κυνώπης γηθέω θυμός,Iliad 1.158; Iliad 1.334; Iliad 1.256; Iliad 1.446
+μάντις,0,4,1,,"diviner, seer, prophet; prophet; presager, foreboder; prophetic",lsj,εἶπον εἴρω2 ἱερεύς ὀνειροπόλος ὄναρ Ζεύς τόσος χώομαι Φοῖβος Ἀπόλλων εὐχωλή ἐπιμέμφομαι,Iliad 1.92; Iliad 1.384; Iliad 1.62; Iliad 1.106
+καίω,0,4,1,,"kindle; they lighted them; to be lighted, burn; which blaze",lsj,Σμινθεύς χαρίεις ναός ἐρέφω πίων μηρία ταῦρος αἴξ κραίνω ἔλδωρ πυρή νέκυς,Iliad 1.462; Iliad 1.52; Iliad 1.464; Iliad 1.40
+τιμάω,0,4,1,,"honour, revere, reverence; bestow honours; reward; will honour",lsj,Ἀχαιός μητίετα Ζεύς μέγας ἴπτομαι λαός υἱός ὠκύμορος πέλω οἴομαι κατανεύω ἐτήτυμος,Iliad 1.454; Iliad 1.559; Iliad 1.505; Iliad 1.175
+δύναμαι,0,4,1,,"to be able, strong enough; canst; powerful, mighty; multum valet",lsj,ἄχνυμαι χραισμέω πολύς Ἕκτωρ ἀνδροφόνος θνήσκω πίπτω περιέχω παῖς ἐύς πράσσω,Iliad 1.562; Iliad 1.241; Iliad 1.588; Iliad 1.393
+τιμή,0,4,1,,"worship, esteem, honour; honours; due regard; paid to them by",lsj,Τρώς βασιλεύς Ζεύς ὀφέλλω μέγας ἀναιδής ἕπομαι χαίρω ἄρνυμαι Μενέλαος κυνώπης Πηλείδης,Iliad 1.353; Iliad 1.159; Iliad 1.278; Iliad 1.510
+θάλασσα,0,4,1,,sea; salt lake; maritime affairs; a sea,lsj,βαίνω ἀκέων θίς πολύφλοισβος βοῦς ἐλαύνω ἵππος Φθία ἐριβῶλαξ βωτιάνειρα καρπός1 δηλέομαι,Iliad 1.437; Iliad 1.34; Iliad 1.496; Iliad 1.157
+ἀγλαός,0,4,1,,"splendid, shining, bright; splendid, beautiful; noble, glorious; beautiful",lsj,δέχομαι ἄποινα πᾶς ἐπευφημέω Ἀχαιός αἰδέομαι ἱερεύς Δαναοί θεοπροπέω ἀγορεύω ἑκηβόλος ἄλγος,Iliad 1.23; Iliad 1.377; Iliad 1.213; Iliad 1.111
+Βρισηίς,0,4,1,,,none,ἄγω καλλιπάρηος κλισία εἶμι γέρας εἶδον ὅσος φέρτερος στυγέω ἴσος φημί ὁμοιόω,Iliad 1.323; Iliad 1.346; Iliad 1.184; Iliad 1.336
+ἀκέων,0,4,1,,"softly, silently",lsj,κάθημαι βαίνω θίς πολύφλοισβος θάλασσα ἧμαι ἐπιγνάμπτω φίλος κῆρ,Iliad 1.565; Iliad 1.569; Iliad 1.512; Iliad 1.34
+δέω,0,4,1,,"bind, tie, fetter; to bind; tie; bind, keep in bonds",lsj,δαίς1 θυμός ἴσος πρυμνήσιος παύω πόνος τεύχω δαίνυμι φόρμιγξ περικαλλής ἔχω Ἀπόλλων,Iliad 1.602; Iliad 1.468; Iliad 1.406; Iliad 1.436
+ἀμείνων,0,4,1,,"better; stouter, stronger, braver; the better sort; ʼtis better",lsj,πείθω ἐθέλω δίδωμι βία πατήρ,Iliad 1.116; Iliad 1.274; Iliad 1.217; Iliad 1.404
+ἥλιος,0,4,1,,"sun; the light of life, live; East; eastern",lsj,καταδύω ἕκαστος κνέφας ἔρχομαι κοιμάω πρυμνήσιος ναῦς καταπίπτω Λῆμνος πρόπας ἦμαρ δαίνυμι,Iliad 1.475; Iliad 1.601; Iliad 1.592; Iliad 1.605
+χραισμέω,0,4,1,,ward off; from one; keep; off,lsj,εἶμι θεός δύναμαι ἄχνυμαι γέρων κοῖλος ναῦς κιχάνω δηθύνω ὕστερος σκῆπτρον στέμμα,Iliad 1.589; Iliad 1.242; Iliad 1.566; Iliad 1.28
+ἀέκων,0,4,1,,"involuntary, constrained; invito Jove; unwillingly; involuntary",lsj,γυνή θοός ναῦς μέλας φέρω ἀναιρέω βαίνω θίς ἅλς1 ἀτρύγετος κίω λείπω,Iliad 1.430; Iliad 1.301; Iliad 1.348; Iliad 1.327
+λαμβάνω,0,4,1,,"take; receive; take hold of, grasp, seize; caught",lsj,γόνυ Ἀχαιός Ἀτρεΐων χόλος μιμνήσκω παρέζομαι ἐθέλω Τρώς ἀρήγω πρύμνα ἅλς1 εἴλω,Iliad 1.557; Iliad 1.500; Iliad 1.407; Iliad 1.387
+ἀκούω,0,4,1,,"hear; hear of, hear tell of; hear of; from",lsj,εὔχομαι Ἀπόλλων φίλος πατήρ μέγαρον φημί κελαινεφής Κρονίων οἶος ἀθάνατος ἀεικής λοιγός,Iliad 1.381; Iliad 1.547; Iliad 1.396; Iliad 1.474
+ἱερεύς,0,4,1,,"priest, sacrificer, diviner; pontifex; pont. maximus; a minister",lsj,Ἀχαιός ἄποινα Ἀπόλλων πᾶς ἐπευφημέω αἰδέομαι ἀγλαός δέχομαι μάντις εἴρω2 ὀνειροπόλος ὄναρ,Iliad 1.23; Iliad 1.377; Iliad 1.62; Iliad 1.370
+πόλις,0,4,1,,city; the citadel; the city of; oneʼs city,lsj,Ἀχαιός δίδωμι ἐκπέρθω Ἀτρείδης ἐυκνήμις θεός Ὀλύμπιος δῶμα ἔχω Πρίαμος ἱκνέομαι δατέομαι,Iliad 1.129; Iliad 1.19; Iliad 1.366; Iliad 1.125
+ἐρύω1,0,4,1,,"drag, draw; drag; away, rescue; off for plunder, ransom",lsj (homograph 1),ναῦς μέλας ἅλς1 δῖος ἦτορ στῆθος λάσιος μερμηρίζω φάσγανον ὀξύς μηρός ἀνίστημι,Iliad 1.485; Iliad 1.141; Iliad 1.190; Iliad 1.466
+καθέζομαι,0,4,1,,"sit down, take oneʼs seat; preside; taking their seats; sit down in, occupy",lsj,δάκρυ χέω χείρ καταρρέζω ἔπος φημί ὀνομάζω Κρονίων κῦδος γαίω θρόνος,Iliad 1.500; Iliad 1.405; Iliad 1.360; Iliad 1.536
+καταδύω,0,4,1,,"go down, sink, set; to be sunk; disabled; duck",lsj,ἥλιος ἕκαστος κνέφας ἔρχομαι κοιμάω πρυμνήσιος ναῦς καταπίπτω Λῆμνος πρόπας ἦμαρ δαίνυμι,Iliad 1.475; Iliad 1.592; Iliad 1.605; Iliad 1.601
+χολόω,0,4,1,,"anger, provoke; to anger; to be angered; provoked to anger",lsj,βασιλεύς νόσος στρατός ὄρνυμι κακός οἴομαι ἀνήρ μέγας πᾶς Ἀργεῖος κρατέω πείθω,Iliad 1.139; Iliad 1.217; Iliad 1.78; Iliad 1.9
+ἔρις,0,4,1,,"strife, quarrel, contention; battle-strife; quarrel, strife; discord",lsj,λήγω θεός συνίημι μάχομαι φίλος πόλεμος μάχη Ἀγαμέμνων πρῶτος ἐπαπειλέω Ἀχιλλεύς,Iliad 1.210; Iliad 1.319; Iliad 1.8; Iliad 1.177
+θίς,0,4,1,,"heap; sand-banks; sandy deserts; beach, shore",lsj,ἅλς1 βαίνω ἀτρύγετος ἀκέων πολύφλοισβος θάλασσα ἔρδω Ἀπόλλων τελήεις ἑκατόμβη ταῦρος αἴξ,Iliad 1.327; Iliad 1.316; Iliad 1.350; Iliad 1.34
+παύω,0,4,1,,"make to end; bring to an end, check; stop; silence",lsj,Ἀτρείδης θυμός μένος δαίς1 ἦτορ στῆθος λάσιος μερμηρίζω φάσγανον ὀξύς ἐρύω1 μηρός,Iliad 1.192; Iliad 1.467; Iliad 1.207; Iliad 1.282
+γόνυ,0,4,1,,knee; clasping the knees; on my knees; the knee,lsj,λαμβάνω Ἀχαιός μιμνήσκω παρέζομαι ἐθέλω Τρώς ἀρήγω πρύμνα ἅλς1 εἴλω κτείνω πᾶς,Iliad 1.500; Iliad 1.557; Iliad 1.512; Iliad 1.407
+τίκτω,0,4,1,,"bring into the world, engender; beget; bring forth; parents",lsj,πολύς κίω ἀράομαι γεραιός Ἀπόλλων ἄναξ εὔκομος Λητώ μήτηρ μινυνθάδιος τιμή ὀφέλλω,Iliad 1.418; Iliad 1.36; Iliad 1.352; Iliad 1.414
+Χρύση,0,4,1,,,none,κλύω ἀργυρότοξος ἀμφιβαίνω Κίλλα ζάθεος Τένεδος ἀνάσσω ἄγω ἱερός ἑκατόμβη Δαναοί ἀεικής,Iliad 1.451; Iliad 1.37; Iliad 1.431; Iliad 1.100
+ἀγορεύω,0,4,1,,"speak in the assembly, harangue; address; to address the house?; counsel",lsj,οἶδα Δαναοί θεοπροπέω ἑκηβόλος ἄλγος τεύχω κόρη Χρυσηίς ἀγλαός ἄποινα ἐθέλω δέχομαι,Iliad 1.365; Iliad 1.571; Iliad 1.385; Iliad 1.109
+γαῖα,0,3,1,,"land, country; land; earth; the earth",lsj,σκῆπτρον βάλλω χρύσεος ἧλος πείρω μέγας πένθος Ἀχαιΐς ἱκάνω μεθομιλέω Πύλος ἔρχομαι,Iliad 1.270; Iliad 1.254; Iliad 1.245
+φωνέω,0,3,1,,produce a sound; tone; speak loud; clearly,lsj,ἔπος πτερόεις προσαυδάω ἀποβαίνω,Iliad 1.201; Iliad 1.428; Iliad 1.333
+φαίνω,0,3,1,,"bring to light, cause to appear; make; appear; show by baring",lsj,ξανθός κόμη αἱρέω Πηλείων οἶος δεινός ὄσσε ἠριγένεια ῥοδοδάκτυλος ἠώς ἀνάγω στρατός,Iliad 1.200; Iliad 1.477; Iliad 1.198
+ἄνθρωπος,0,3,1,,"man; gods; the men; the ideal man, humanity",lsj,γίγνομαι θεός γενεά μέροψ φθίω τρέφω Πύλος ἠγάθεος μάρτυρος μάκαρ θνητός βασιλεύς,Iliad 1.339; Iliad 1.250; Iliad 1.548
+πότνια,0,3,1,,"mistress, queen; queen; revered, august",lsj,βοῶπις Ἥρα κλύω μήτηρ ἧμαι βένθος ἅλς1 πατήρ γέρων ἀμείβω δείδω,Iliad 1.568; Iliad 1.551; Iliad 1.357
+ἀρήγω,0,3,1,,"aid, succour; succour in war; help, succour; to be good for",lsj,Τρώς Ἀχαιός ὄμνυμι πρόφρων ἔπος χείρ μιμνήσκω παρέζομαι λαμβάνω γόνυ ἐθέλω πρύμνα,Iliad 1.521; Iliad 1.77; Iliad 1.408
+ἔλδωρ,0,3,1,,"wish, longing, desire",lsj,κραίνω Σμινθεύς χαρίεις ναός ἐρέφω πίων μηρία καίω ταῦρος αἴξ ἐπικραίνω Ζεύς,Iliad 1.504; Iliad 1.455; Iliad 1.41
+δῶρον,0,3,1,,"gift, present, gift of honour; votive gift; offering; the gifts of",lsj,τόσος πάρειμι ἀγλαός ὕβρις πολύς λωίων στρατός εὐρύς Ἀχαιός ἀφαιρέω ἀντίος εἶπον,Iliad 1.390; Iliad 1.213; Iliad 1.230
+πλείων,0,3,1,,more; the majority; greater; further,lsj,πολυάιξ πόλεμος χείρ διέπω καρτερός θεά γείνομαι μήτηρ φέρτατος ἀνάσσω δίδωμι αἱρέω,Iliad 1.281; Iliad 1.325; Iliad 1.165
+κῆρυξ,0,3,1,,"herald, pursuivant; public messenger, envoy; messengers between nations at war; crier",lsj,Ταλθύβιος Εὐρυβάτης προσεῖπον ὀτρηρός θεράπων χαίρω Ζεύς ἄγγελος ἀνήρ νέος βαίνω ἄγω,Iliad 1.334; Iliad 1.391; Iliad 1.321
+ἱκάνω,0,3,1,,"come; to come to; reach, attain to; are fulfilled",lsj,μέγας πένθος Ἀχαιΐς γαῖα Ὀδυσσεύς Χρύση ἄγω ἱερός ἑκατόμβη κοιμάω γλυκύς ὕπνος,Iliad 1.610; Iliad 1.254; Iliad 1.431
+στέμμα,0,3,1,,"wreath, garland, chaplet; shrine with chaplcts decked; crowns of office; wreaths of wool",lsj,ναῦς Ἀπόλλων σκῆπτρον ἔρχομαι θοός Ἀχαιός λύω θυγάτηρ φέρω ἀπερείσιος ἄποινα ἔχω,Iliad 1.373; Iliad 1.14; Iliad 1.28
+κῦμα,0,3,1,,"anything swollen; pregnant; wave, billow; swell",lsj,στεῖρα πορφύρεος μέγας ἰάχω ναῦς εἶμι θέω διαπράσσω κέλευθος ἀναδύνω θάλασσα,Iliad 1.496; Iliad 1.483; Iliad 1.481
+χρύσεος,0,3,1,,golden; enriched; adorned with gold; gold,lsj,Ἀπόλλων σκῆπτρον ἔρχομαι θοός ναῦς Ἀχαιός λύω θυγάτηρ φέρω ἀπερείσιος ἄποινα στέμμα,Iliad 1.15; Iliad 1.374; Iliad 1.246
+νέος,0,3,1,,"young, youthful; youths; youth upwards; youth",lsj,ἄμφω βαίνω κῆρυξ ἄγω κόρη Βρισεύς δίδωμι υἱός Ἀχαιός ἔχω πεμπώβολον χείρ,Iliad 1.259; Iliad 1.463; Iliad 1.391
+κνῖσα,0,3,1,,steam and odour of fat; smell; savour of a burnt sacrifice; odour of savoury meat,lsj,μάντις εἴρω2 ἱερεύς ὀνειροπόλος ὄναρ Ζεύς εἶπον τόσος χώομαι Φοῖβος Ἀπόλλων εὐχωλή,Iliad 1.460; Iliad 1.66; Iliad 1.317
+ἔρομαι,0,3,1,,"ask, inquire; learn by inquiry; ask after; for",lsj,δεύτερος μεταλλάω,Iliad 1.513; Iliad 1.553; Iliad 1.332
+βούλομαι,0,3,1,,"will, wish, be willing; wish is will; willed; that supports",lsj,μάντις εἴρω2 ἱερεύς ὀνειροπόλος ὄναρ Ζεύς εἶπον τόσος χώομαι Φοῖβος Ἀπόλλων εὐχωλή,Iliad 1.112; Iliad 1.67; Iliad 1.117
+ἄλγος,0,3,1,,pain; sufferings; grief; grief for,lsj,δίδωμι ἑκηβόλος μυρίος Ἀχαιός τίθημι Δαναοί θεοπροπέω ἀγορεύω τεύχω κόρη Χρυσηίς ἀγλαός,Iliad 1.96; Iliad 1.2; Iliad 1.110
+πρόφρων,0,3,1,,"with forward mind; of oneʼs free will; fain; kindly, gracious, willing",lsj,ἔπος ὄμνυμι χείρ ἀρήγω ἀναίδεια ἐπιέννυμι κερδαλεόφρων πείθω Ἀχαιός ὁδός ἔρχομαι ἀνήρ,Iliad 1.77; Iliad 1.150; Iliad 1.543
+κέλομαι,0,3,1,,"urge, exhort, command; commands; advise; constrained",lsj,Ἀχιλλεύς Ζεύς φίλος μυθέομαι μῆνις Ἀπόλλων ἑκατηβελέτης ἄναξ ἀποδίδωμι πρῶτος θεός ἱλάσκομαι,Iliad 1.74; Iliad 1.134; Iliad 1.386
+ἀτιμάω,0,3,1,,"dishonour, disdain",lsj,Ἀγαμέμνων εὐχωλή ἐπιμέμφομαι ἑκατόμβη ἀρητήρ Ἀτρείδης εὐρύς κρείων ἄναξ ἀνήρ,Iliad 1.356; Iliad 1.507; Iliad 1.94
+προίημι,0,3,1,,"send forth, send forward; send; forward; will allow",lsj (relaxed match),θεός εἶπον ἐπαίτιος Ἀγαμέμνων Βρισηίς κόρη,Iliad 1.336; Iliad 1.326; Iliad 1.127
+φρονέω,0,3,1,,"to be minded; have understanding, be wise, prudent; counsel; to be",lsj,ἀγοράομαι μετεῖπον φίλος κρυπτάδιος δικάζω,Iliad 1.73; Iliad 1.253; Iliad 1.542
+ἕκαστος,0,3,1,,each; every one; every single; all and each severally,lsj,καταδύω λαμπρός φάος ἥλιος κατακείω βαίνω οἶκος δῶμα περικλυτός ἀμφιγυήεις Ἥφαιστος ποιέω,Iliad 1.607; Iliad 1.606; Iliad 1.550
+ξίφος,0,3,1,,sword; power of life and death; jus gladii; sword-shaped bone,lsj,ἕλκω κολεόν μέγας ὁρμαίνω φρήν θυμός ἔρχομαι Ἀθήνη χείρ ὠθέω,Iliad 1.194; Iliad 1.220; Iliad 1.210
+νεφεληγερέτα,0,3,1,,cloud-gatherer,lsj,πρόσφημι Ζεύς μέγας ὀχθέω ἀπαμείβομαι,Iliad 1.517; Iliad 1.560; Iliad 1.511
+χέω,0,3,1,,"pour; pour out, let flow; snows; gush forth",lsj,δάκρυ φημί καθέζομαι χείρ καταρρέζω ἔπος ὀνομάζω ἀμείβω Θέτις,Iliad 1.357; Iliad 1.360; Iliad 1.413
+μάκαρ,0,3,1,,"blessed, happy; the blessed ones; gods; blest, fortunate",lsj,θεός μάρτυρος θνητός ἄνθρωπος βασιλεύς ἀπηνής χρεώ γίγνομαι ἀεικής λοιγός ἀμύνω ὑποδείδω,Iliad 1.339; Iliad 1.406; Iliad 1.599
+ἀπαυράω,0,3,1,,,none,αἱρέω ἔχω γέρας λείπω χώομαι θυμός εὔζωνος γυνή βία ἀέκων,Iliad 1.356; Iliad 1.507; Iliad 1.430
+τεύχω,0,3,1,,"make ready, make; produce by work; art; make, build",lsj,δαίς1 ἑλώριον κύων οἰωνός πᾶς Δαναοί θεοπροπέω ἀγορεύω ἑκηβόλος ἄλγος κόρη Χρυσηίς,Iliad 1.4; Iliad 1.110; Iliad 1.467
+φέρτατος,0,3,1,,"bravest, best; the best; least bad; best",lsj,εἶμι πολύς Φθία ναῦς κορωνίς καρτερός θεά γείνομαι μήτηρ πλείων ἀνάσσω,Iliad 1.281; Iliad 1.169; Iliad 1.581
+κύων,0,3,1,,"dog, bitch; shepherds’ dogs; watch-dogs; hounds",lsj,ἑλώριον τεύχω οἰωνός πᾶς ὀρεύς πρῶτος ἐποίχομαι ἀργός οἰνοβαρής ὄμμα ἔχω καρδία,Iliad 1.50; Iliad 1.225; Iliad 1.4
+Κάλχας,0,3,1,,Calchas,lsj,ἄριστος ναῦς Ἀχαιός Ἀπόλλων εὔχομαι Δαναοί ἀνίστημι Θεστορίδης οἰωνοπόλος οἶδα ἡγέομαι Ἴλιος,Iliad 1.69; Iliad 1.105; Iliad 1.86
+δάκρυ,0,3,1,,Ev. Luc; tear; drop; lacruma,lsj,χέω φημί καθέζομαι χείρ καταρρέζω ἔπος ὀνομάζω ἀμείβω Θέτις,Iliad 1.360; Iliad 1.357; Iliad 1.413
+λήγω,0,3,1,,"stay, abate; would stay; from; leave off, cease",lsj,ἔρις χόλος Ἀγαμέμνων πρῶτος ἐπαπειλέω Ἀχιλλεύς,Iliad 1.319; Iliad 1.210; Iliad 1.224
+ἐκπέρθω,0,3,1,,"destroy utterly, sack; take as booty from",lsj,Ἀχαιός ἔχω πόλις Ἀτρείδης ἐυκνήμις θεός δίδωμι Ὀλύμπιος δῶμα Πρίαμος ἱκνέομαι δατέομαι,Iliad 1.164; Iliad 1.19; Iliad 1.125
+βαρύς,0,3,1,,"heavy in weight; strength and force; bushy; heavy with age, infirmity",lsj,εὔχομαι Δαναοί χείρ Ἀπόλλων Ζεύς φίλος Κάλχας θεοπροπία ἀναφαίνω ζάω χθών δέρκομαι,Iliad 1.89; Iliad 1.219; Iliad 1.364
+πέλω,0,3,1,,"come into existence, become, be; was; when once in being; become",lsj,πᾶς ὠκύμορος λίσσομαι Ἀχιλλεύς μεθίημι χόλος μέγας ἕρκος Ἀχαιός πόλεμος κακός ὀιζυρός,Iliad 1.506; Iliad 1.418; Iliad 1.284
+ἱστός,0,3,1,,"anything set upright; mast; the mast; rod, pole",lsj,γῆρας ἔπειμι οἶκος Ἄργος πάτρη ἐποίχομαι λέχος ἀντιάω ἱστοδόκη πελάζω πρότονοι ὑφίημι,Iliad 1.480; Iliad 1.31; Iliad 1.434
+ἄχνυμαι,0,3,1,,,none,δύναμαι χραισμέω ἀνίστημι ἥρως Ἀτρείδης εὐρύς κρείων Ἀγαμέμνων πολύς Ἕκτωρ ἀνδροφόνος θνήσκω,Iliad 1.588; Iliad 1.241; Iliad 1.103
+μένος,0,3,1,,"might, force; strength, fierceness; spirit; force, might",lsj,παύω μέγας φρήν ἀμφιμέλας πίμπλημι ἔρχομαι πείθω Ἀτρείδης,Iliad 1.207; Iliad 1.282; Iliad 1.103
+ἀπειλέω,0,3,1,,"keep away; brought; forced; unroll, roll off",lsj,γέρας ἀφαιρέω πολύς μογέω δίδωμι υἱός Ἀχαιός ἀνίστημι μῦθος τελέω,Iliad 1.181; Iliad 1.388; Iliad 1.161
+ἐποίχομαι,0,3,1,,"go towards, approach; draw near to; approach with hostile purpose, attack; go over, traverse",lsj,γῆρας ἔπειμι οἶκος Ἄργος πάτρη ἱστός λέχος ἀντιάω ὀρεύς πρῶτος κύων ἀργός,Iliad 1.50; Iliad 1.383; Iliad 1.31
+κῆρ,0,3,1,,"heart; with all the heart, heartily; exceedingly; throughout",lsj,φίλος βαίνω Ὄλυμπος κάρηνον χώομαι τόξον ὦμος ἔχω ἀμφηρεφής φαρέτρα φθινύθω μένω,Iliad 1.569; Iliad 1.491; Iliad 1.44
+γλυκύς,0,3,1,,"sweet to the taste; smell; pleasant, delightful; sweet, fresh",lsj,Νέστωρ ἡδυεπής ἀνορούω λιγύς Πύλιος ἀγορητής γλῶσσα μέλι ῥέω αὐδή θεός ἐνδέξιος,Iliad 1.598; Iliad 1.610; Iliad 1.249
+σῶς,0,3,1,,"safe and sound, alive and well; safe, whole; preserved, extant; intact",lsj,ἐρεθίζω νέομαι βούλομαι λαός ἀπόλλυμι οἶδα νοέω ναῦς μάχομαι Ἀχαιός,Iliad 1.32; Iliad 1.344; Iliad 1.117
+πέμπω,0,3,1,,send; over; send for; send to,lsj,Φοῖβος ναῦς Χρύσης ἄναξ ἀφαιρέω Χρυσηίς Ἀπόλλων ἑταῖρος θοός ἑλίκωψ Ἀχαιός ἀνήρ,Iliad 1.390; Iliad 1.184; Iliad 1.442
+δείδω,0,3,1,,"fear; to be alarmed, anxious; fear to do; fear, dread",lsj,γέρων φρήν παρεῖπον ἀργυρόπεζος Θέτις θυγάτηρ ἅλιος βοῶπις πότνια Ἥρα,Iliad 1.33; Iliad 1.568; Iliad 1.555
+ἱστίον,0,3,1,,"web, cloth, sheet; hangings; piece; sail",lsj,λιμήν πολυβενθής ἱκνέομαι στέλλω τίθημι ναῦς μέλας ἱστός ἵστημι λευκός πετάννυμι ἄνεμος,Iliad 1.480; Iliad 1.433; Iliad 1.481
+μηνίω,0,3,1,,"cherish wrath, be wroth against; because of",lsj,ναῦς πάρημαι ὠκύπορος Ἀτρείδης Ἀχαιός διογενής Πηλεύς υἱός πούς ὠκύς Ἀχιλλεύς,Iliad 1.488; Iliad 1.247; Iliad 1.422
+εἴκω1,0,3,1,,"to be like, seem likely",lsj (homograph 1),εἶμι νύξ ὄσσε πῦρ λαμπετάω γέρας ἑτοιμάζω οἶος Ἀργεῖος ἀγέραστος,Iliad 1.104; Iliad 1.47; Iliad 1.119
+Ἑκάεργος,0,3,1,,nine,lsj,ἀνήρ ἱλάσκομαι εἷς ἀρχός βουληφόρος Αἴας Ἰδομενεύς δῖος Ὀδυσσεύς Πηλείδης πᾶς ἔκπαγλος,Iliad 1.474; Iliad 1.147; Iliad 1.479
+μένω,0,3,1,,"stay, wait; stand fast; stay at home, stay where one is; lodge, stay",lsj,λίσσομαι φθινύθω φίλος κῆρ τλάω ἐπέρχομαι,Iliad 1.174; Iliad 1.492; Iliad 1.535
+κράτιστος,0,3,1,,,none,ἐπιχθόνιος τρέφω ἀνήρ μάχομαι φήρ ὀρεσκῷος,Iliad 1.267; Iliad 1.266; Iliad 1.267
+χείρων,0,3,1,,"meaner, inferior; worse than others; knave; worse",lsj,κρείσσων βασιλεύς χώομαι ἀνήρ Κλυταιμνήστρη προβέβουλα κουρίδιος ἄλοχος δέμας φυή φρήν ἔργον,Iliad 1.576; Iliad 1.114; Iliad 1.80
+Πρίαμος,0,3,1,,priam; like Priam,lsj,γηθέω παῖς Τρώς μέγας χαίρω θυμός πᾶς πυνθάνομαι μάρναμαι βουλή Δαναοί μάχομαι,Iliad 1.19; Iliad 1.255; Iliad 1.255
+οἶος,0,3,1,,"alone, lonely; alone; naught but; only",lsj,γέρας ἑτοιμάζω Ἀργεῖος ἀγέραστος εἴκω1 ξανθός κόμη αἱρέω Πηλείων φαίνω πατήρ μέγαρον,Iliad 1.198; Iliad 1.398; Iliad 1.118
+ὅσος,0,3,1,,"as great as, how great; as much as, how much; as far as, how far; as long as, how long",lsj,εἶμι θεός ἄγω Βρισηίς καλλιπάρηος κλισία γέρας εἶδον φέρτερος στυγέω ἴσος φημί,Iliad 1.186; Iliad 1.516; Iliad 1.566
+ἀναβαίνω,0,3,1,,"go up, mount; go up to; goes up among; to trample on",lsj,ἐπιπλέω ὑγρός κέλευθος ἠέριος μέγας οὐρανός Ὄλυμπος καθεύδω,Iliad 1.312; Iliad 1.611; Iliad 1.497
+Ἥφαιστος,0,3,1,,Hephaestus; Volcanus; Plah; nine,lsj,δῶμα ἕκαστος κλυτοτέχνης ἄρχω ἀγορεύω μήτηρ φίλος ἐπίηρα φέρω λευκώλενος Ἥρα ἄσβεστος,Iliad 1.608; Iliad 1.571; Iliad 1.600
+αἰδέομαι,0,3,1,,"to be ashamed; from a sense of shame; stand in awe of, fear; show a sense of regard",lsj,πᾶς ἐπευφημέω Ἀχαιός ἱερεύς ἀγλαός δέχομαι ἄποινα ταρβέω βασιλεύς ἵστημι,Iliad 1.23; Iliad 1.377; Iliad 1.331
+ἐπιπείθομαι,0,3,1,,"to be persuaded; trust; to, put faith in; comply with, obey",lsj,θεός κλύω Πάτροκλος φίλος ἑταῖρος μῦθος χραισμέω ὅσος Ὄλυμπος εἶμι ἄαπτος χείρ,Iliad 1.345; Iliad 1.565; Iliad 1.218
+βέλος,0,3,1,,"missile; arrow, dart; hurled; thrown",lsj,τίνω Δαναοί δάκρυον ἐχεπευκής ἐφίημι βάλλω ἵημι Ἀργεῖος κακός,Iliad 1.51; Iliad 1.382; Iliad 1.42
+ὁράω,0,3,1,,"Inscr. des tombeaux des rois; I know; a)ware; see, look",lsj,κήδω Δαναοί θνήσκω Ἀχιλλεύς δακρύω ἑταῖρος ἕζομαι λιάζομαι θίς ἅλς1 πολιός ἀπείρων,Iliad 1.56; Iliad 1.198; Iliad 1.350
+τρέφω,0,3,1,,"thicken; congeal; curdle; curdle, congeal",lsj,γενεά μέροψ ἄνθρωπος φθίω γίγνομαι Πύλος ἠγάθεος κράτιστος ἐπιχθόνιος ἀνήρ τέκνον αἰνός,Iliad 1.266; Iliad 1.251; Iliad 1.414
+θνήσκω,0,3,1,,Papers of the Amer. School; die; to be dead; dead,lsj (relaxed match),κήδω Δαναοί ὁράω δύναμαι ἄχνυμαι χραισμέω πολύς Ἕκτωρ ἀνδροφόνος πίπτω λαός ἐπασσύτερος,Iliad 1.243; Iliad 1.56; Iliad 1.383
+αἴξ,0,3,1,,goat; ibex; the star Capella; goose,lsj,ταῦρος Ἀπόλλων ἑκατόμβη Σμινθεύς χαρίεις ναός ἐρέφω πίων μηρία καίω κραίνω ἔλδωρ,Iliad 1.41; Iliad 1.316; Iliad 1.66
+κρατερός,0,3,1,,"strong, stout, mighty; stern, harsh; mighty, fierce; hard",lsj,μῦθος τέλλω,Iliad 1.379; Iliad 1.25; Iliad 1.326
+τέλλω,0,3,1,,accomplish; perform; come into being; turns,lsj,κρατερός μῦθος,Iliad 1.379; Iliad 1.25; Iliad 1.326
+ἀγορά,0,3,1,,assembly; of the People; Amphictyonic Council; conventus agere,lsj,δέκατος καλέω λαός Ἀχιλλεύς λύω ναῦς Ἀχαιός πωλέομαι κυδιάνειρα πόλεμος,Iliad 1.305; Iliad 1.54; Iliad 1.490
+ἀείδω,0,3,1,,Il.Parv; sing; crow; hoot,lsj,καλός μῆνις θεά Πηλείδης Ἀχιλλεύς οὐλόμενος πανημέριος μολπή θεός ἱλάσκομαι παιάν κοῦρος,Iliad 1.604; Iliad 1.1; Iliad 1.473
+οἴχομαι,0,3,1,,"come; go, go away, go off; he has gone, departed; he had gone",lsj,στρατός κῆλον θεός Θήβη ἱερός πόλις Ἠετίων χώομαι γέρων,Iliad 1.380; Iliad 1.53; Iliad 1.366
+μητίετα,0,2,1,,counsellor; all-wise,lsj,Ζεύς τιμάω τίνω Ὀλύμπιος,Iliad 1.175; Iliad 1.508
+ἄρχω,0,2,1,,"to be first; begin, make a beginning; to be the aggressor; to begin oneʼs",lsj,Ζεύς Ἥφαιστος κλυτοτέχνης ἀγορεύω μήτηρ φίλος ἐπίηρα φέρω λευκώλενος Ἥρα,Iliad 1.571; Iliad 1.495
+ἀφύσσω,0,2,1,,draw; was drawn from; draw full draughts of; heap it up,lsj,οἴομαι ἄτιμος ἄφενος πλοῦτος θεός ἐνδέξιος πᾶς οἰνοχοέω γλυκύς νέκταρ κρατήρ,Iliad 1.171; Iliad 1.598
+λανθάνω,0,2,1,,escape notice; escape; notice; donʼt know,lsj,Θέτις ἐφετμή παῖς,Iliad 1.561; Iliad 1.495
+νόος,0,2,1,,"mind; sense, wit; prudently; senselessly",lsj,ἀγαθός θεοείκελος Ἀχιλλεύς κλέπτω παρέρχομαι πείθω ἐξαυδάω κεύθω οἶδα ἄμφω,Iliad 1.363; Iliad 1.132
+Αἴας,0,2,1,,Ajax,lsj,αἱρέω Ὀδυσσεύς ἀνήρ δίδωμι εἶμι γέρας ἄγω εἷς ἀρχός βουληφόρος Ἰδομενεύς δῖος,Iliad 1.138; Iliad 1.145
+ἐρέτης,0,2,1,,rowers; oars; era; aritár,lsj,ἀγείρω κρίνω,Iliad 1.309; Iliad 1.142
+ἀρχός,0,2,1,,"leader, chief; ruler; dux Orientis; the rectum",lsj,ἀνήρ Ὀδυσσεύς εἷς βουληφόρος Αἴας Ἰδομενεύς δῖος Πηλείδης πᾶς ἔκπαγλος Ἑκάεργος ἱλάσκομαι,Iliad 1.144; Iliad 1.311
+Κρονίδης,0,2,1,,son of Cronos; Zeus; an aged man,lsj,εὑρίσκω εὐρύοπα ἧμαι ἄκρος κορυφή πολυδειράς Ὄλυμπος αἰνός ποῖος μῦθος εἶπον,Iliad 1.498; Iliad 1.552
+ἠέριος,0,2,1,,"early, at; with early morn; misty, dimly seen; high in air",lsj,ἀναβαίνω μέγας οὐρανός Ὄλυμπος παρέζομαι,Iliad 1.497; Iliad 1.557
+ῥέζω,0,2,1,,"do, act, deal; do, accomplish, make; if once done; wronged",lsj,ἀνήρ ἱλάσκομαι ἱερός ἄναξ εἷς ἀρχός βουληφόρος Αἴας Ἰδομενεύς δῖος Ὀδυσσεύς Πηλείδης,Iliad 1.444; Iliad 1.147
+μάχη,0,2,1,,,none,ἔρις φίλος πόλεμος φημί Τρώς ἀρήγω,Iliad 1.521; Iliad 1.177
+ἠώς,0,2,1,,"dawn; light of day; morning; at morn, early",lsj,ἠριγένεια φαίνω ῥοδοδάκτυλος ἀνάγω στρατός εὐρύς Ἀχαιός δωδέκατος γίγνομαι Ὄλυμπος εἶμι θεός,Iliad 1.477; Iliad 1.493
+αἰχμητής,0,2,1,,"spearman, warrior; pointed; spear-wielding; warlike",lsj,Τρώς ἔρχομαι μάχομαι αἴτιος τίθημι θεός προτίθημι ὄνειδος μυθέομαι,Iliad 1.290; Iliad 1.152
+ἐλαύνω,0,2,1,,"drive, set in motion; drive; ride; row",lsj,βοῦς ἵππος Φθία ἐριβῶλαξ βωτιάνειρα καρπός1 δηλέομαι πολύς ὄρος σκιόεις θάλασσα ἠχήεις,Iliad 1.154; Iliad 1.575
+Φθία,0,2,1,,Phthia; to Phthia; at Phthia; a man of Phthia,lsj,πολύς εἶμι βοῦς ἐλαύνω ἵππος ἐριβῶλαξ βωτιάνειρα καρπός1 δηλέομαι ὄρος σκιόεις θάλασσα,Iliad 1.155; Iliad 1.169
+ὄρος,0,2,1,,"mountain, hill; canton, parish; desert",lsj,βοῦς ἐλαύνω ἵππος Φθία ἐριβῶλαξ βωτιάνειρα καρπός1 δηλέομαι πολύς σκιόεις θάλασσα ἠχήεις,Iliad 1.235; Iliad 1.157
+ἕπομαι,0,2,1,,sacate; sequor; sèkti; saśc(a)-),lsj,μέγας ἀναιδής χαίρω τιμή ἄρνυμαι Μενέλαος κυνώπης Τρώς θεός πᾶς,Iliad 1.158; Iliad 1.424
+ἀλεγίζω,0,2,1,,"trouble oneself about; care for, mind, heed",lsj,,Iliad 1.180; Iliad 1.160
+ὀλίγος,0,2,1,,"little, small; small, low; not copious; slight",lsj,φίλος ἔρχομαι ἔχω ναῦς κάμνω πολεμίζω θυμός ἔνειμι,Iliad 1.167; Iliad 1.593
+ἄτιμος,0,2,1,,"unhonoured, dishonoured; dishonourable; without the honour of.., not deemed worthy of; unworthy",lsj,οἴομαι ἄφενος πλοῦτος ἀφύσσω νημερτής ὑπισχνέομαι κατανεύω ἀπεῖπον δέος οἶδα ὅσος πᾶς,Iliad 1.516; Iliad 1.171
+κοιμάω,0,2,1,,"lull, put to sleep; put to bed; still, calm; soothe, assuage",lsj,ἥλιος καταδύω κνέφας ἔρχομαι πρυμνήσιος ναῦς γλυκύς ὕπνος ἱκάνω,Iliad 1.610; Iliad 1.476
+μῆνις,0,2,1,,wrath; revengeful temper,lsj,Ἀχιλλεύς ἀείδω θεά Πηλείδης οὐλόμενος κέλομαι Ζεύς φίλος μυθέομαι Ἀπόλλων ἑκατηβελέτης ἄναξ,Iliad 1.75; Iliad 1.1
+καρτερός,0,2,1,,"strong, staunch; the strongest; possessed of, in control of, master of; steadfast, patient",lsj,θεός δίδωμι θεά γείνομαι μήτηρ φέρτατος πλείων ἀνάσσω,Iliad 1.178; Iliad 1.280
+ὀνίνημι,0,2,1,,"profit, benefit, help; gratify, delight; benefit; will",lsj,Ζεύς ἔπος ἔργον ἔρχομαι Ὄλυμπος λίσσομαι καρδία πατήρ ἀθάνατος κραίνω ἔλδωρ,Iliad 1.395; Iliad 1.503
+ὠκύπορος,0,2,1,,,none,ναῦς πάρημαι μηνίω Ἀχαιός διογενής Πηλεύς υἱός πούς ὠκύς Ἀχιλλεύς,Iliad 1.421; Iliad 1.488
+γηθέω,0,2,1,,rejoice; will rejoice; rejoice in doing; impune,lsj,Πρίαμος παῖς Τρώς μέγας χαίρω θυμός πᾶς πυνθάνομαι μάρναμαι βουλή Δαναοί μάχομαι,Iliad 1.330; Iliad 1.255
+πάρημαι,0,2,1,,to be seated beside; seated by; seated at; dwell beside,lsj,ναῦς ὠκύπορος μηνίω Ἀχαιός διογενής Πηλεύς υἱός πούς ὠκύς Ἀχιλλεύς,Iliad 1.421; Iliad 1.488
+ὠκύμορος,0,2,1,,,none,πέλω ὀιζυρός πᾶς τιμάω υἱός,Iliad 1.417; Iliad 1.505
+αἶσα,0,2,1,,,none,ὀφείλω ναῦς ἀδάκρυτος ἀπήμων ἧμαι κακός τίκτω μέγαρον,Iliad 1.416; Iliad 1.418
+αἰνός,0,2,1,,"dread, horrible; dread, terrible; terribly; strangely, exceedingly",lsj,τέκνον τρέφω τίκτω Κρονίδης ποῖος μῦθος εἶπον,Iliad 1.414; Iliad 1.552
+ἐπιχθόνιος,0,2,1,,"upon the earth, earthly; earthly ones, men on earth; who haunt the earth; natives",lsj,κράτιστος τρέφω ἀνήρ βροτός μάχομαι,Iliad 1.266; Iliad 1.272
+παρέζομαι,0,2,1,,sit beside,lsj,Ἀχαιός μιμνήσκω λαμβάνω γόνυ ἐθέλω Τρώς ἀρήγω πρύμνα ἅλς1 εἴλω κτείνω πᾶς,Iliad 1.407; Iliad 1.557
+βία,0,2,1,,"bodily strength, force; act of violence; against; will, in spite of",lsj,πατήρ ἀμείνων λείπω χώομαι θυμός εὔζωνος γυνή ἀέκων ἀπαυράω,Iliad 1.430; Iliad 1.404
+μακρός,0,2,1,,long; ships of war; the longer sides; length-wise,lsj,καλέω ἔρχομαι θεά ὑπολύω δεσμός ἑκατόγχειρος Ὄλυμπος Βριάρεως θεός ἀνήρ πᾶς Αἰγαίων,Iliad 1.486; Iliad 1.402
+κῦδος,0,2,1,,"glory, renown; glory",lsj,βασιλεύς Πηλείδης ἐθέλω ἐρίζω ὁμοῖος μείρομαι τιμή σκηπτοῦχος Ζεύς δίδωμι Κρονίων καθέζομαι,Iliad 1.279; Iliad 1.405
+σημαίνω,0,2,1,,"show by a sign, indicate, point out; after indicating; you have; shown you",lsj,πᾶς κρατέω ἐθέλω ἀνάσσω πείθω οἴομαι,Iliad 1.296; Iliad 1.289
+μέγαρον,0,2,1,,"large room, hall; the chief room; womenʼs apartment; bedchamber",lsj,πατήρ ἀκούω εὔχομαι φημί κελαινεφής Κρονίων οἶος ἀθάνατος ἀεικής λοιγός ἀμύνω συνδέω,Iliad 1.418; Iliad 1.396
+ἀναιρέω,0,2,1,,"take up; having raised; take up and carry off, bear away; make away with, destroy",lsj,θοός ναῦς μέλας φέρω ἀέκων χερνίπτομαι οὐλοχύται,Iliad 1.449; Iliad 1.301
+Πύλος,0,2,1,,Pylos,lsj,γενεά μέροψ ἄνθρωπος φθίω τρέφω γίγνομαι ἠγάθεος μεθομιλέω ἔρχομαι ἄπιος γαῖα,Iliad 1.269; Iliad 1.252
+πολύμητις,0,2,1,,of many counsels,lsj,Ὀδυσσεύς ἀρχός βαίνω βωμός ἄγω πατήρ φίλος χείρ τίθημι,Iliad 1.311; Iliad 1.440
+κέλευθος,0,2,1,,"road, path; the streets; paths, orbits; path",lsj,ἀναβαίνω ἐπιπλέω ὑγρός θέω κῦμα διαπράσσω,Iliad 1.483; Iliad 1.312
+ἀπολυμαίνομαι,0,2,1,,cleanse oneself by bathing; from an,lsj,λαός Ἀτρείδης ἄνωγα,Iliad 1.313; Iliad 1.314
+ἀτρύγετος,0,2,1,,"unharvested, barren; never worn out, unresting",lsj,θίς ἅλς1 ἔρδω Ἀπόλλων τελήεις ἑκατόμβη ταῦρος αἴξ ἀέκων βαίνω,Iliad 1.327; Iliad 1.316
+οὐρανός,0,2,1,,"heaven; vault; firmament of heaven, sky; Heaven",lsj,κνῖσα ἱκνέομαι ἑλίσσω καπνός ἠέριος ἀναβαίνω μέγας Ὄλυμπος,Iliad 1.497; Iliad 1.317
+τέκνον,0,2,1,,"child; my son, my child; young",lsj,κλαίω τρέφω αἰνός τίκτω,Iliad 1.414; Iliad 1.362
+ἀναδύνω,0,2,1,,come to the top of the water; emerge,lsj,πολιός ἅλς1 ὀμίχλη κῦμα θάλασσα,Iliad 1.359; Iliad 1.496
+ῥίγιον,0,2,1,,,none,,Iliad 1.563; Iliad 1.325
+εὑρίσκω,0,2,1,,"find; find that; found; find means, be able",lsj,ἧμαι κλισία ναῦς μέλας εὐρύοπα Κρονίδης ἄκρος κορυφή πολυδειράς Ὄλυμπος,Iliad 1.329; Iliad 1.498
+διογενής,0,2,1,,sprung from Zeus; ordained and upheld by Zeus; divine,lsj,Πάτροκλος ἐξάγω κόρη μηνίω ναῦς πάρημαι ὠκύπορος Πηλεύς υἱός πούς ὠκύς Ἀχιλλεύς,Iliad 1.489; Iliad 1.337
+Πάτροκλος,0,2,1,,Patroclus,lsj,διογενής ἐξάγω κόρη φίλος ἐπιπείθομαι ἑταῖρος,Iliad 1.337; Iliad 1.345
+θνητός,0,2,1,,"liable to death, mortal; mortals; mortal women; mortal creatures",lsj,θεός μάρτυρος μάκαρ ἄνθρωπος βασιλεύς ἀπηνής χρεώ γίγνομαι ἀεικής λοιγός ἀμύνω λοίγιος,Iliad 1.339; Iliad 1.574
+ὀφέλλω,0,2,1,,"increase, enlarge, strengthen; raises high; multiply; add to",lsj,τιμή μήτηρ τίκτω μινυνθάδιος Ὀλύμπιος ἐγγυαλίζω Ζεύς ὑψιβρεμέτης Τρώς τίθημι κράτος Ἀχαιός,Iliad 1.510; Iliad 1.353
+γυνή,0,2,1,,"woman; man; mistress, lady; the lasses",lsj,ἀέκων κίω λείπω χώομαι θυμός εὔζωνος βία ἀπαυράω,Iliad 1.429; Iliad 1.348
+πένθος,0,2,1,,"grief, sorrow; for; mourning; a public mourning",lsj,μέγας Ἀχαιΐς γαῖα ἱκάνω φρήν ἱκνέομαι,Iliad 1.362; Iliad 1.254
+δωδέκατος,0,2,1,,twelfth,lsj,Ὄλυμπος ἔρχομαι γίγνομαι ἠώς εἶμι θεός πᾶς,Iliad 1.493; Iliad 1.425
+Μυρμιδόνες,0,2,1,,,none,ναῦς εἶμι ἑταῖρος ἀνάσσω κλισία ἱκνέομαι,Iliad 1.328; Iliad 1.180
+ὄλλυμι,0,2,1,,"destroy, make an end of; kill; doing away with; lose",lsj,ὑπεροπλία θυμός οἴομαι κατανεύω ἐτήτυμος Ἀχιλλεύς τιμάω πολύς ναῦς Ἀχαιός,Iliad 1.559; Iliad 1.205
+Πηλείων,0,2,1,,,none,ἄχος γίγνομαι ξανθός κόμη αἱρέω οἶος φαίνω,Iliad 1.188; Iliad 1.197
+καλός,0,2,1,,"beautiful; beauteous; fair, shapely; beauty",lsj,ἀείδω πανημέριος μολπή θεός ἱλάσκομαι παιάν κοῦρος Ἀχαιός μέλπω Ἑκάεργος θυμός δέω,Iliad 1.604; Iliad 1.473
+δέπας,0,2,1,,"beaker, goblet; bowl",lsj,πόσις2 ἐδητύς ἔρος ἵημι κοῦρος κρατήρ ἐπιστέφω ποτός νωμάω πᾶς ἐπάρχω ἀναίσσω,Iliad 1.584; Iliad 1.471
+μηρός,0,2,1,,thigh; his thigh; beside; thigh-bone,lsj,ἦτορ στῆθος λάσιος μερμηρίζω φάσγανον ὀξύς ἐρύω1 ἀνίστημι Ἀτρείδης ἐναρίζω χόλος παύω,Iliad 1.460; Iliad 1.190
+κρατήρ,0,2,1,,"mixing vessel; bowl, in which wine was mixed with water; bowls of wine; a bowl of wine",lsj,πᾶς πόσις2 ἐδητύς ἔρος ἵημι κοῦρος ἐπιστέφω ποτός νωμάω ἐπάρχω δέπας θεός,Iliad 1.598; Iliad 1.470
+ἕλκω,0,2,1,,"sulcus; velkù; draw, drag; began to drag",lsj,ξίφος ὁρμαίνω φρήν θυμός κολεόν μέγας ἔρχομαι Ἀθήνη χείρ,Iliad 1.210; Iliad 1.194
+κολεόν,0,2,1,,"sheath, scabbard; sheath, wing-case",lsj,μέγας ξίφος ὁρμαίνω φρήν θυμός ἕλκω ἔρχομαι Ἀθήνη ὠθέω,Iliad 1.220; Iliad 1.194
+φιλέω,0,2,1,,"love, regard with affection; sexual love; friends; to be beloved",lsj,ἵημι θεά λευκώλενος Ἥρα ἄμφω θυμός κήδω,Iliad 1.196; Iliad 1.209
+κοῦρος,0,2,1,,"loppings, twigs stripped from a tree",lsj,πόσις2 ἐδητύς ἔρος ἵημι κρατήρ ἐπιστέφω ποτός νωμάω πᾶς ἐπάρχω δέπας πανημέριος,Iliad 1.473; Iliad 1.470
+Παλλάς,0,2,1,,Pallas; coin bearing the head of Pallas; maiden-priestess; five,lsj,Ἀθήνη γιγνώσκω πατήρ μέγαρον ἀκούω εὔχομαι φημί κελαινεφής Κρονίων οἶος ἀθάνατος ἀεικής,Iliad 1.400; Iliad 1.200
+δαίνυμι,0,2,1,,give a banquet; feast; to give; thou shalt be,lsj,δαίς1 παύω πόνος τεύχω θυμός δέω ἴσος πρόπας ἦμαρ ἥλιος καταδύω,Iliad 1.468; Iliad 1.602
+προσαυδάω,0,2,1,,"speak to, address, accost; speak; to one; speak of",lsj,φωνέω ἔπος πτερόεις κερτόμιος Ζεύς Κρονίων,Iliad 1.539; Iliad 1.201
+αἰγίοχος,0,2,1,,veho; aegis-bearing,lsj,Ζεύς τέκος ἔρχομαι Ὄλυμπος βαίνω δῶμα δαίμων,Iliad 1.202; Iliad 1.222
+ὕβρις,0,2,1,,"wanton violence; insolence; in wantonness; lust, lewdness",lsj,εἶδον Ἀγαμέμνων Ἀτρείδης τόσος πάρειμι ἀγλαός δῶρον,Iliad 1.203; Iliad 1.214
+ἐρύω2,0,2,1,,"se-srū; e-serū; protect, guard; lie in wait for",lsj (homograph 2),χρή σφωίτερος θεά ἔπος θυμός χολόω υἱός Ἀχαιός παλάμη φορέω δικασπόλος θέμις,Iliad 1.239; Iliad 1.216
+πείρω,0,2,1,,"pierce, run through; spitted; they stuck; ran",lsj,σκῆπτρον βάλλω γαῖα χρύσεος ἧλος μῆρα καίω σπλάγχνον πατέομαι μιστύλλω ὀβελός ὀπτάω,Iliad 1.465; Iliad 1.246
+ἠμί,0,2,1,,"say; spake; said; aio, ad-agium",lsj,,Iliad 1.219; Iliad 1.528
+ποιέω,0,2,1,,"make; make, produce; made; to be made with",lsj,ἕκαστος εὔχομαι οὐλοχύται προβάλλω αὐερύω πρῶτος σφάζω δέρω μηρός ἐκτέμνω κνῖσα καλύπτω,Iliad 1.461; Iliad 1.608
+καρδία,0,2,1,,heart; feelings?; freely; kindly,lsj,Ζεύς οἰνοβαρής κύων ὄμμα ἔχω ἔλαφος πόλεμος λαός θωρήσσω λόχος εἶμι ἀριστεύς,Iliad 1.395; Iliad 1.225
+ἀντίος,0,2,1,,"set against; face to face, opposite; to meet them; though she faced him",lsj,πολύς λωίων στρατός εὐρύς Ἀχαιός δῶρον ἀφαιρέω εἶπον ἵστημι ἅπας,Iliad 1.535; Iliad 1.230
+οὐτιδανός,0,2,1,,"of no account, worthless; reckless; quid; cid",lsj,δημοβόρος βασιλεύς ἀνάσσω δειλός καλέω πᾶς ἔργον ὑπείκω εἶπον,Iliad 1.293; Iliad 1.231
+ἀνέχω,0,2,1,,"hold up, lift up; held up; in fight; hold up",lsj,Χρύσης μέγας εὔχομαι χείρ κήδω φίλος ὀφθαλμός εἶδον θείνω,Iliad 1.450; Iliad 1.586
+ὅρκος,0,2,1,,the object by which one swears; oath; an oath by; an oath,lsj,μέγας ὄμνυμι,Iliad 1.233; Iliad 1.239
+φύλλον,0,2,1,,leaf; leaves; foliage; voting-papers,lsj,σκῆπτρον ὄζος φύω πρῶτος τομή ὄρος λείπω ἀναθηλέω χαλκός λέπω φλοιός,Iliad 1.234; Iliad 1.237
+οὐλοχύται,0,2,1,,barley-groats; coarsely-ground barley sprinkled,lsj,χερνίπτομαι ἀναιρέω εὔχομαι προβάλλω αὐερύω πρῶτος σφάζω δέρω μηρός ἐκτέμνω κνῖσα καλύπτω,Iliad 1.458; Iliad 1.449
+λείπω,0,2,1,,"leave, quit; is gone; leave behind, leave at home; leave",lsj,σκῆπτρον φύλλον ὄζος φύω πρῶτος τομή ὄρος ἀναθηλέω χώομαι θυμός εὔζωνος γυνή,Iliad 1.428; Iliad 1.235
+βωμός,0,2,1,,"raised platform, stand; base; altar with a base; tomb, cairn",lsj,ἄγω πολύμητις Ὀδυσσεύς πατήρ φίλος χείρ τίθημι θεός ἱερός ἑκατόμβη ἵστημι εὔδμητος,Iliad 1.448; Iliad 1.440
+πρυμνήσιος,0,2,1,,of a stern; stern-cables,lsj,δέω ἥλιος καταδύω κνέφας ἔρχομαι κοιμάω ναῦς,Iliad 1.436; Iliad 1.476
+πίπτω,0,2,1,,Exc. ex libris Herodiani; fall down; cast oneself down; fall,lsj,δύναμαι ἄχνυμαι χραισμέω πολύς Ἕκτωρ ἀνδροφόνος θνήσκω Σίντιες ἀνήρ κομίζω,Iliad 1.243; Iliad 1.594
+ἀγαθός,0,2,1,,"good; well-born, gentle; aristocrats; brave, valiant",lsj,θεοείκελος Ἀχιλλεύς κλέπτω νόος παρέρχομαι πείθω ἀφαιρέω κόρη,Iliad 1.131; Iliad 1.275
+δατέομαι,0,2,1,,divide among themselves; they share; are alike filled with; tear,lsj,πόλις ἐκπέρθω υἱός Ἀχαιός,Iliad 1.125; Iliad 1.368
+πολιός,0,2,1,,"grey, grizzled, grisly; grey; greyhaired men; grey hairs",lsj,ἅλς1 Ἀχιλλεύς δακρύω ἑταῖρος ἕζομαι λιάζομαι θίς ὁράω ἀπείρων πόντος ἀναδύνω ὀμίχλη,Iliad 1.350; Iliad 1.359
+ἐπευφημέω,0,2,1,,"assent with a shout of applause; glorify, sing praises to; sing over; in furtherance of",lsj,πᾶς Ἀχαιός αἰδέομαι ἱερεύς ἀγλαός δέχομαι ἄποινα,Iliad 1.22; Iliad 1.376
+ἦμαρ,0,2,1,,day; by day; on that day; the day,lsj,πᾶς φέρω πρόπας ἥλιος καταδύω δαίνυμι,Iliad 1.601; Iliad 1.592
+ὄμνυμι,0,2,1,,swear; swear to; affirm; confirm by oath,lsj,πρόφρων ἔπος χείρ ἀρήγω μέγας ὅρκος,Iliad 1.76; Iliad 1.233
+ἀράομαι,0,2,1,,pray to; invoke; pray; prayed,lsj,πολύς κίω γεραιός Ἀπόλλων ἄναξ εὔκομος τίκτω Λητώ μήτηρ φίλος χείρ ὀρέγνυμι,Iliad 1.35; Iliad 1.351
+κρατέω,0,2,1,,"to be strong, powerful; rule, hold sway; sway; the ruler",lsj,πᾶς οἴομαι πείθω ἀνήρ χολόω μέγας Ἀργεῖος Ἀχαιός ἐθέλω ἀνάσσω σημαίνω,Iliad 1.288; Iliad 1.79
+κίω,0,2,1,,,none,πολύς ἀράομαι γεραιός Ἀπόλλων ἄναξ εὔκομος τίκτω Λητώ ἀέκων γυνή,Iliad 1.348; Iliad 1.35
+στῆθος,0,2,1,,breast; chest; breasts; the breast as the seat of feeling and thought,lsj,χόλος καταπέσσω ἔχω κότος τελέω ἦτορ λάσιος μερμηρίζω φάσγανον ὀξύς ἐρύω1 μηρός,Iliad 1.189; Iliad 1.83
+φράζω,0,2,1,,"point out, show; say, tell; show the way to, show where to find; showed",lsj,σώζω εὔκηλος ἐθέλω,Iliad 1.554; Iliad 1.83
+θαρσέω,0,2,1,,to be of good courage; to be over-bold; fear not!; with good courage,lsj,εἶπον θεοπρόπιον οἶδα,Iliad 1.85; Iliad 1.92
+ἀντιάω,0,2,1,,go for the purpose of meeting; receiving; go in quest of; hit,lsj,γῆρας ἔπειμι οἶκος Ἄργος πάτρη ἱστός ἐποίχομαι λέχος μάντις εἴρω2 ἱερεύς ὀνειροπόλος,Iliad 1.67; Iliad 1.31
+ἅλιος,0,2,1,,of the sea; sea,lsj,ἀργυρόπεζος Θέτις θυγάτηρ γέρων Ἥρα ἀγνοέω εἶδον συμφράζομαι βουλή δείδω φρήν παρεῖπον,Iliad 1.538; Iliad 1.556
+ἀργυρόπεζος,0,2,1,,,none,Θέτις θυγάτηρ ἅλιος γέρων Ἥρα ἀγνοέω εἶδον συμφράζομαι βουλή δείδω φρήν παρεῖπον,Iliad 1.538; Iliad 1.556
+συμφράζομαι,0,2,1,,"join in considering, take counsel with; imparted; contrive; mention at the same time",lsj,βουλή Ἥρα ἀγνοέω εἶδον ἀργυρόπεζος Θέτις θυγάτηρ ἅλιος γέρων δολομήτης θεός,Iliad 1.537; Iliad 1.540
+λέχος,0,2,1,,"couch, bed; bedstead; bier; marriage-bed",lsj,γῆρας ἔπειμι οἶκος Ἄργος πάτρη ἱστός ἐποίχομαι ἀντιάω Ζεύς εἶμι Ὀλύμπιος ἀστεροπητής,Iliad 1.609; Iliad 1.31
+σύμπας,0,2,1,,"all together, all at once; the whole; as a whole; general",lsj,εὔχομαι Δαναοί Ἀχαιός Ἀπόλλων Ζεύς φίλος Κάλχας θεοπροπία ἀναφαίνω ζάω χθών δέρκομαι,Iliad 1.241; Iliad 1.90
+μειδάω,0,2,1,,smile; laugh aloud; grinning; smáyati,lsj,θεά λευκώλενος Ἥρα παῖς δέχομαι χείρ κύπελλον,Iliad 1.596; Iliad 1.595
+ἀμύμων,0,2,1,,"blameless, noble, excellent; a physician",lsj,αὐδάω μάντις Ζεύς Ὠκεανός Αἰθίοψ χθιζός βαίνω δαίς1,Iliad 1.92; Iliad 1.423
+οἶκος,0,2,1,,house; built houses; any dwelling-place; cave,lsj,ἕκαστος γῆρας ἔπειμι Ἄργος πάτρη ἱστός ἐποίχομαι λέχος ἀντιάω καταδύω λαμπρός φάος,Iliad 1.606; Iliad 1.30
+ἕδος,0,2,1,,"sitting-place; seat, stool; straight-backed chair; seat, abode, dwelling-place",lsj,θεός πᾶς ἀνίστημι σφός πατήρ ἐθέλω Ὀλύμπιος ἀστεροπητής στυφελίζω,Iliad 1.581; Iliad 1.534
+ὄσσε,0,2,1,,the two eyes; oqṷ-ye,lsj,πῦρ λαμπετάω εἴκω1 δεινός φαίνω,Iliad 1.200; Iliad 1.104
+κοῖλος,0,2,1,,hollow; hold; vena cava; plate,lsj,ναῦς εὔχομαι Δαναοί γέρων κιχάνω δηθύνω ὕστερος εἶμι χραισμέω σκῆπτρον στέμμα θεός,Iliad 1.89; Iliad 1.26
+ἀφίημι,0,2,1,,"send forth, discharge; throw oneself; give oneself up; let loose",lsj,,Iliad 1.25; Iliad 1.379
+μυθέομαι,0,2,1,,speak; converse; say that; order,lsj,Ἀχιλλεύς κέλομαι Ζεύς φίλος μῆνις Ἀπόλλων ἑκατηβελέτης ἄναξ αἰχμητής τίθημι θεός προτίθημι,Iliad 1.291; Iliad 1.74
+μετεῖπον,0,2,1,,"speak among, address",lsj,φρονέω ἀγοράομαι,Iliad 1.73; Iliad 1.253
+ἀγοράομαι,0,2,1,,"meet in assembly, sit in debate; speak in the assembly, harangue; speak, utter; speak, talk with",lsj,φρονέω μετεῖπον,Iliad 1.73; Iliad 1.253
+φεύγω,0,2,1,,"flee, take flight; ran; flee; the purpose",lsj,Ἀτρείδης παλιμπλάζομαι οἴομαι ἀπονοστέω θάνατος πόλεμος δαμάζω λοιμός Ἀχαιός θυμός ἐπισεύω,Iliad 1.173; Iliad 1.60
+δεινός,0,2,1,,"fearful, terrible; fearful; awful; danger, suffering, horror",lsj,κλαγγή γίγνομαι ἀργύρεος βιός ὄσσε φαίνω,Iliad 1.200; Iliad 1.49
+ἀστεροπητής,0,2,1,,lightener,lsj,Ὀλύμπιος ἐθέλω ἕδος στυφελίζω Ζεύς λέχος εἶμι,Iliad 1.580; Iliad 1.609
+ἀργύρεος,0,2,1,,of silver; silver-plated; silver coin,lsj,δεινός κλαγγή γίγνομαι βιός κώπη ἔχω χείρ βαρύς,Iliad 1.219; Iliad 1.49
+ὦμος,0,2,1,,the shoulder with the upper arm; the lower; arms; the shoulder,lsj,χώομαι βαίνω Ὄλυμπος κάρηνον κῆρ τόξον ἔχω ἀμφηρεφής φαρέτρα κλάζω ὀιστός κινέω,Iliad 1.46; Iliad 1.45
+κῆλον,0,2,1,,shaft; arrow; the shafts; timbers,lsj,στρατός θεός οἴχομαι ἐποίχομαι εὐρύς Ἀχαιός,Iliad 1.383; Iliad 1.53
+ἐπίηρα,0,2,1,,acceptable; gifts; service; for the sake of,lsj,μήτηρ φίλος φέρω πατήρ Ἥφαιστος κλυτοτέχνης ἄρχω ἀγορεύω λευκώλενος Ἥρα παράφημι νοέω,Iliad 1.572; Iliad 1.578
+ἀγείρω,0,2,1,,"gather together; gather, assemble; herded; collect, gather",lsj,ὁμηγερής γίγνομαι ἀνίστημι μετάφημι πούς ὠκύς Ἀχιλλεύς ἐρέτης,Iliad 1.142; Iliad 1.57
+κραίνω,0,2,1,,"accomplish, fulfil; accomplish; give true; come true",lsj,ἔλδωρ Σμινθεύς χαρίεις ναός ἐρέφω πίων μηρία καίω ταῦρος αἴξ Ζεύς πατήρ,Iliad 1.504; Iliad 1.41
+ταῦρος,0,2,1,,bull; priest of Poseidon Taureios; the bull as a sign of the Zodiac; the pudenda muliebria,lsj,αἴξ Σμινθεύς χαρίεις ναός ἐρέφω πίων μηρία καίω κραίνω ἔλδωρ ἔρδω Ἀπόλλων,Iliad 1.41; Iliad 1.316
+κάθημαι,0,2,1,,"to be seated, sit; as he sat there; sate; sit on",lsj,ἀκέων ἐπιγνάμπτω φίλος κῆρ,Iliad 1.569; Iliad 1.565
+ἀργυρότοξος,0,2,1,,with silver bow; bearer of the silver bow,lsj,κλύω Χρύση ἀμφιβαίνω Κίλλα ζάθεος Τένεδος ἀνάσσω,Iliad 1.37; Iliad 1.451
+Τένεδος,0,2,1,,Tenedos,lsj,κλύω ἀργυρότοξος Χρύση ἀμφιβαίνω Κίλλα ζάθεος ἀνάσσω,Iliad 1.38; Iliad 1.452
+τόσος,0,2,1,,"so great, so vast; so long; so many; so loud",lsj,μάντις εἴρω2 ἱερεύς ὀνειροπόλος ὄναρ Ζεύς εἶπον χώομαι Φοῖβος Ἀπόλλων εὐχωλή ἐπιμέμφομαι,Iliad 1.213; Iliad 1.64
+εὐχωλή,0,2,1,,"prayer, vow; votive offering; boast, vaunt; shout of triumph",lsj,ἐπιμέμφομαι ἑκατόμβη μάντις εἴρω2 ἱερεύς ὀνειροπόλος ὄναρ Ζεύς εἶπον τόσος χώομαι Φοῖβος,Iliad 1.93; Iliad 1.65
+ἐπιμέμφομαι,0,2,1,,cast blame upon; find fault for; because of; complain of,lsj,εὐχωλή ἑκατόμβη μάντις εἴρω2 ἱερεύς ὀνειροπόλος ὄναρ Ζεύς εἶπον τόσος χώομαι Φοῖβος,Iliad 1.65; Iliad 1.93
+ζάθεος,0,2,1,,"very divine, sacred",lsj,κλύω ἀργυρότοξος Χρύση ἀμφιβαίνω Κίλλα Τένεδος ἀνάσσω,Iliad 1.452; Iliad 1.38
+Κίλλα,0,2,1,,,none,κλύω ἀργυρότοξος Χρύση ἀμφιβαίνω ζάθεος Τένεδος ἀνάσσω,Iliad 1.38; Iliad 1.452
+ἀμφιβαίνω,0,2,1,,go about; around; in his course had reached; bestride,lsj,κλύω ἀργυρότοξος Χρύση Κίλλα ζάθεος Τένεδος ἀνάσσω,Iliad 1.37; Iliad 1.451
+βοῶπις,0,2,1,,"ox-eyed; having large, full eyes",lsj,πότνια Ἥρα ἀμείβω δείδω,Iliad 1.551; Iliad 1.568
+μεταλλάω,0,2,1,,"search carefully, inquire diligently; inquire of, question; sought; out",lsj,θεός ἐθέλω νοέω ἕκαστος διείρομαι ἔρομαι,Iliad 1.550; Iliad 1.553
+ἁνδάνω,0,2,1,,"please, delight, gratify; pleased; with; the opinion",lsj,Ἀτρείδης Ἀγαμέμνων θυμός,Iliad 1.24; Iliad 1.378
+θεοπροπία,0,2,1,,"prophecy, oracle",lsj,εὔχομαι Δαναοί Ἀπόλλων Ζεύς φίλος Κάλχας ἀναφαίνω ζάω χθών δέρκομαι κοῖλος ναῦς,Iliad 1.385; Iliad 1.87
+κεφαλή,0,2,1,,head; in stature; down over the head; on the head,lsj,κατανεύω πείθω παλινάγρετος ἀπατηλός ἀτελεύτητος,Iliad 1.527; Iliad 1.524
+ὀχθέω,0,2,1,,"to be sorely angered, vexed in spirit",lsj,Ζεύς μέγας πρόσφημι νεφεληγερέτα δῶμα θεός οὐρανίωνες,Iliad 1.517; Iliad 1.570
+νεικέω,0,2,1,,"quarrel, wrangle with; quarrel; with; strove with him",lsj,πατήρ ἀθάνατος θεός μήτηρ παράφημι νοέω φίλος ἐπίηρα φέρω Ζεύς δαίς1 ταράσσω,Iliad 1.521; Iliad 1.579
+ἐρίζω,0,2,1,,"strive, wrangle, quarrel; contend; sophistical disputations; discord",lsj,βασιλεύς πρῶτος διίστημι Ἀτρείδης ἄναξ ἀνήρ δῖος Ἀχιλλεύς Πηλείδης ἐθέλω ὁμοῖος μείρομαι,Iliad 1.6; Iliad 1.277
+μεγάθυμος,0,2,1,,great-hearted,lsj,δίδωμι γέρας Ἀχαιός Ἀτρείδης κύδιστος φιλοκτέανος πᾶς ἀραρίσκω θυμός ἀντάξιος,Iliad 1.123; Iliad 1.135
+συνίημι,0,2,1,,bring; set together; shot; together,lsj,θεός ἔρις μάχομαι βουλή,Iliad 1.8; Iliad 1.273
+ἥρως,0,2,1,,"hero; the Fourth Age of men; heroes, as objects of worship; local deities",lsj,πολύς ἴφθιμος ψυχή Ἅιδης προιάπτω ἀνίστημι Ἀτρείδης εὐρύς κρείων Ἀγαμέμνων ἄχνυμαι,Iliad 1.102; Iliad 1.4
+ἀπόλλυμι,0,2,1,,"destroy utterly, kill; demolish, lay waste; will waste; sought to destroy",lsj,βούλομαι λαός σῶς,Iliad 1.117; Iliad 1.268
+Λητώ,0,2,1,,Leto; born from Leto; temple of L,lsj,Ζεύς υἱός πολύς κίω ἀράομαι γεραιός Ἀπόλλων ἄναξ εὔκομος τίκτω,Iliad 1.36; Iliad 1.9
+ἄλοχος,0,2,1,,"partner of oneʼs bed, wife; leman, concubine; unwedded",lsj,Κλυταιμνήστρη προβέβουλα κουρίδιος χείρων δέμας φυή φρήν ἔργον χαλεπός,Iliad 1.114; Iliad 1.546
+λοίγιος,0,2,1,,"pestilent, deadly; sorrow",lsj,ἔργον ἐχθοδοπέω ἐφίημι Ἥρα ἐρέθω ὀνείδειος ἔπος ἀνεκτός θνητός ἐριδαίνω θεός κολῳός,Iliad 1.518; Iliad 1.573
+ἀρητήρ,0,2,1,,one that prays; priest,lsj,ὀλέκω λαός Χρύσης ἀτιμάζω Ἀτρείδης εὐχωλή ἐπιμέμφομαι ἑκατόμβη ἀτιμάω Ἀγαμέμνων,Iliad 1.11; Iliad 1.94
+ἀπερείσιος,0,2,1,,countless,lsj,Ἀπόλλων ἔρχομαι θοός ναῦς Ἀχαιός λύω θυγάτηρ φέρω ἄποινα στέμμα ἔχω χείρ,Iliad 1.13; Iliad 1.372
+κοσμήτωρ,0,2,1,,"one who marshals an army, commander, leader; guide, director; one who adorns",lsj,λίσσομαι πᾶς Ἀχαιός Ἀτρείδης λαός,Iliad 1.16; Iliad 1.375
+ἐσθλός,0,2,1,,"good; brave, stout; noble; wellbred",lsj,εἶπον ἔπος τελέω δαίς1 ἦδος χείρων νικάω,Iliad 1.576; Iliad 1.108
+πελάζω,0,1,1,,"approach, draw near; draws to; come near; will",lsj,ἱστός ἱστοδόκη πρότονοι ὑφίημι,Iliad 1.434
+ἀμφικύπελλος,0,1,1,,double cup; two-handled,lsj,ἀναίσσω δέπας μήτηρ φίλος χείρ τίθημι,Iliad 1.584
+ἀποπαύω,0,1,1,,"stop; hinder from, make to cease from; hinder; leave off, cease from",lsj,πόλεμος,Iliad 1.422
+μέμαα,0,1,1,,,none,ἀλέξω ῥίπτω πούς τεταγών βηλός θεσπέσιος,Iliad 1.590
+ῥίπτω,0,1,1,,"throw, cast, hurl; throw; prostrate; lying",lsj,ἀλέξω μέμαα πούς τεταγών βηλός θεσπέσιος,Iliad 1.591
+τεταγών,0,1,1,,"having seized; tango, tetigi",lsj,ἀλέξω μέμαα ῥίπτω πούς βηλός θεσπέσιος,Iliad 1.591
+ὑψιβρεμέτης,0,1,1,,high-thundering,lsj,μήτηρ τίκτω μινυνθάδιος τιμή ὀφέλλω Ὀλύμπιος ἐγγυαλίζω Ζεύς,Iliad 1.354
+βηλός,0,1,1,,threshold,lsj,ἀλέξω μέμαα ῥίπτω πούς τεταγών θεσπέσιος,Iliad 1.591
+ὅρμος2,0,1,1,,"cord, chain; necklace, collar; anything strung like a necklace, wreath, chaplet; a string",lsj (homographs merged),προερέσσω ἐρετμόν,Iliad 1.435
+ἀμφιγυήεις,0,1,1,,"with both feet crooked, lame",lsj,ἕκαστος καταδύω λαμπρός φάος ἥλιος κατακείω βαίνω οἶκος δῶμα περικλυτός Ἥφαιστος ποιέω,Iliad 1.607
+θεσπέσιος,0,1,1,,"divinely sounding, divinely sweet; divinely uttered; decreed; oracular",lsj,ἀλέξω μέμαα ῥίπτω πούς τεταγών βηλός,Iliad 1.591
+ἀγάννιφος,0,1,1,,"much snowed on, snow-capt",lsj,εἴρω2 ἔπος Ζεύς τερπικέραυνος εἶμι Ὄλυμπος πείθω,Iliad 1.420
+καθεύδω,0,1,1,,"lie down to sleep, sleep; to sleep; pass the night; roost",lsj,ἀναβαίνω,Iliad 1.611
+καθάπτω,0,1,1,,"fasten; fix on, put upon; having made; fast",lsj,ἔπος μαλακός,Iliad 1.582
+περικλυτός,0,1,1,,"famous, renowned; excellent, noble",lsj,ἕκαστος καταδύω λαμπρός φάος ἥλιος κατακείω βαίνω οἶκος δῶμα ἀμφιγυήεις Ἥφαιστος ποιέω,Iliad 1.607
+τερπικέραυνος,0,1,1,,delighting in thunder,lsj,εἴρω2 ἔπος Ζεύς εἶμι Ὄλυμπος ἀγάννιφος πείθω,Iliad 1.419
+τυτθός,0,1,1,,"little, small, young; a little one; a little, a bit; little",lsj,τίνω,Iliad 1.354
+κατακείω,0,1,1,,,none,ἕκαστος καταδύω λαμπρός φάος ἥλιος βαίνω οἶκος δῶμα περικλυτός ἀμφιγυήεις Ἥφαιστος ποιέω,Iliad 1.606
+προερέσσω,0,1,1,,row forwards,lsj,ὅρμος2 ἐρετμόν,Iliad 1.435
+ὀιζυρός,0,1,1,,"woeful, miserable; wretch!; toilsome, dreary; sorry, wretched, poor",lsj (relaxed match),ὠκύμορος πᾶς πέλω,Iliad 1.417
+ὀρέγνυμι,0,1,1,,,none,πολύς μήτηρ φίλος ἀράομαι χείρ,Iliad 1.351
+ἐρετμόν,0,1,1,,oar,lsj,ὅρμος2 προερέσσω,Iliad 1.435
+εὐνή,0,1,1,,bed; bedding; abode; lair,lsj,βάλλω,Iliad 1.436
+φάος,0,1,1,,light; daylight; day; the light,lsj,ἕκαστος καταδύω λαμπρός ἥλιος κατακείω βαίνω οἶκος δῶμα περικλυτός ἀμφιγυήεις Ἥφαιστος ποιέω,Iliad 1.605
+πόντος,0,1,1,,sea; open sea; wide waters; the sea,lsj,Ἀχιλλεύς δακρύω ἑταῖρος ἕζομαι λιάζομαι θίς ἅλς1 πολιός ὁράω ἀπείρων,Iliad 1.350
+Ὠκεανός,0,1,1,,Oceanus; great River; the great Outward Sea; oceans,lsj,Ζεύς ἀμύμων Αἰθίοψ χθιζός βαίνω δαίς1,Iliad 1.423
+ἀλέξω,0,1,1,,"raákṣati; ward off, turn aside; will ward; off from",lsj,μέμαα ῥίπτω πούς τεταγών βηλός θεσπέσιος,Iliad 1.590
+ἐγγυαλίζω,0,1,1,,"put into the palm of the hand, put into the hand; will put; into; hands",lsj,μήτηρ τίκτω μινυνθάδιος τιμή ὀφέλλω Ὀλύμπιος Ζεύς ὑψιβρεμέτης,Iliad 1.353
+ἵλαος,0,1,1,,"propitious, gracious; propitious, blameless, atoned for; gracious, kindly",lsj,Ὀλύμπιος,Iliad 1.583
+ὀφθαλμός,0,1,1,,eye; eyes; to the eye; sight,lsj,ἀνέχω κήδω φίλος εἶδον θείνω,Iliad 1.587
+ἱστοδόκη,0,1,1,,mast-holder,lsj,ἱστός πελάζω πρότονοι ὑφίημι,Iliad 1.434
+στέλλω,0,1,1,,make ready; rig; fit; out,lsj,λιμήν πολυβενθής ἱκνέομαι ἱστίον τίθημι ναῦς μέλας,Iliad 1.433
+ὕπνος,0,1,1,,"sleep, slumber; the sleep of death; sleep; a dream",lsj,κοιμάω γλυκύς ἱκάνω,Iliad 1.610
+πολυβενθής,0,1,1,,very deep,lsj,λιμήν ἱκνέομαι ἱστίον στέλλω τίθημι ναῦς μέλας,Iliad 1.432
+λιμήν,0,1,1,,"harbour; havens of refuge from; haven, retreat, refuge; a haven of",lsj,πολυβενθής ἱκνέομαι ἱστίον στέλλω τίθημι ναῦς μέλας,Iliad 1.432
+εὔζωνος,0,1,1,,"well-girdled; girt up for exercise, active; well-equipped; well-girded",lsj,λείπω χώομαι θυμός γυνή βία ἀέκων ἀπαυράω,Iliad 1.429
+ἀποβαίνω,0,1,1,,"step off from; alight, disembark from; disembark; dismount",lsj,φωνέω,Iliad 1.428
+μινυνθάδιος,0,1,1,,short-lived; small,lsj,μήτηρ τίκτω τιμή ὀφέλλω Ὀλύμπιος ἐγγυαλίζω Ζεύς ὑψιβρεμέτης,Iliad 1.352
+ἀναίσσω,0,1,1,,start up; he rose to speak; gush forth; springing fresh,lsj (relaxed match),δέπας ἀμφικύπελλος μήτηρ φίλος χείρ τίθημι,Iliad 1.584
+πρότονοι,0,1,1,,"ropes from the masthead to the forepart of a ship, forestays; halyards",lsj,ἱστός ἱστοδόκη πελάζω ὑφίημι,Iliad 1.434
+Αἰθίοψ,0,1,1,,"Burnt-face; Ethiopian, negro; a fish; Ethiopian",lsj,Ζεύς Ὠκεανός ἀμύμων χθιζός βαίνω δαίς1,Iliad 1.423
+γουνάζομαι,0,1,1,,"clasp; knees; implore, entreat; implore",lsj,,Iliad 1.427
+θείνω,0,1,1,,strike; dashed; slay; slain,lsj,ἀνέχω κήδω φίλος ὀφθαλμός εἶδον,Iliad 1.588
+χαλκοβατής,0,1,1,,"standing on bronze, with brazen base; with floor of bronze",lsj,εἶμι Ζεύς δῶμα,Iliad 1.426
+ἀργαλέος,0,1,1,,"painful, troublous; difficult; troublesome, vexatious; hard",lsj,Ὀλύμπιος ἀντιφέρω,Iliad 1.589
+ἀδάκρυτος,0,1,1,,without tears; tearless; so that they weep not; abnormally dry,lsj,ὀφείλω ναῦς ἀπήμων ἧμαι αἶσα,Iliad 1.415
+μαλακός,0,1,1,,soft; fresh-ploughed; soft grassy; soft-fleeced,lsj,ἔπος καθάπτω,Iliad 1.582
+πραπίδες,0,1,1,,"midriff, diaphragm; understanding, mind; heart",lsj,ἕκαστος καταδύω λαμπρός φάος ἥλιος κατακείω βαίνω οἶκος δῶμα περικλυτός ἀμφιγυήεις Ἥφαιστος,Iliad 1.608
+ἀντιφέρω,0,1,1,,"set against; set oneself against, fight against; to oppose; match oneself with",lsj,ἀργαλέος Ὀλύμπιος,Iliad 1.589
+χθιζός,0,1,1,,of yesterday; yesterdayʼs; yesterday; yesterday!,lsj,Ζεύς Ὠκεανός ἀμύμων Αἰθίοψ βαίνω δαίς1,Iliad 1.424
+ὑφίημι,0,1,1,,"let down, lower; lower; put under; put",lsj,ἱστός ἱστοδόκη πελάζω πρότονοι,Iliad 1.434
+ἀπήμων,0,1,1,,"unharmed, unhurt; without sorrow; care; doing no harm",lsj,ὀφείλω ναῦς ἀδάκρυτος ἧμαι αἶσα,Iliad 1.415
+ἑκατηβόλος,0,1,1,,far-darting; shooting a hundred; hitting the mark at will,lsj,Ἀπόλλων Χρύσης ἱερεύς ἔρχομαι θοός ναῦς Ἀχαιός χαλκοχίτων λύω θυγάτηρ φέρω ἀπερείσιος,Iliad 1.370
+ὀφείλω,0,1,1,,"owe, have to pay; account for; do I owe?; to be debtor",lsj,ναῦς ἀδάκρυτος ἀπήμων ἧμαι αἶσα,Iliad 1.415
+ἐξαυδάω,0,1,1,,speak out,lsj,κεύθω νόος οἶδα ἄμφω,Iliad 1.363
+δεσμός,0,1,1,,"band, bond, anything for tying and fastening; halter; mooring-cable; door-latch",lsj,καλέω ἔρχομαι θεά ὑπολύω ἑκατόγχειρος μακρός Ὄλυμπος Βριάρεως θεός ἀνήρ πᾶς Αἰγαίων,Iliad 1.401
+ὑπολύω,0,1,1,,loosen beneath; below; made; give way under him,lsj,καλέω ἔρχομαι θεά δεσμός ἑκατόγχειρος μακρός Ὄλυμπος Βριάρεως θεός ἀνήρ πᾶς Αἰγαίων,Iliad 1.401
+κεύθω,0,1,1,,"custos; hýdan; cover, hide; covered",lsj,ἐξαυδάω νόος οἶδα ἄμφω,Iliad 1.363
+Ποσειδεών,0,1,1,,,none,πατήρ μέγαρον ἀκούω εὔχομαι φημί κελαινεφής Κρονίων οἶος ἀθάνατος ἀεικής λοιγός ἀμύνω,Iliad 1.400
+κύπελλον,0,1,1,,"big-bellied drinking-vessel, beaker, goblet; milk-vessel; fragments of bread left on table",lsj,μειδάω παῖς δέχομαι χείρ,Iliad 1.596
+συνδέω,0,1,1,,"bind; tie together; together, side by side; fasten",lsj,πατήρ μέγαρον ἀκούω εὔχομαι φημί κελαινεφής Κρονίων οἶος ἀθάνατος ἀεικής λοιγός ἀμύνω,Iliad 1.399
+ἐνδέξιος,0,1,1,,"towards the right hand, from left to right; from left to right; propitious; on the right",lsj,θεός πᾶς οἰνοχοέω γλυκύς νέκταρ κρατήρ ἀφύσσω,Iliad 1.597
+κελαινεφής,0,1,1,,"black with clouds; shrouded in dark clouds, cloud-wrapped; dark-coloured; black, rich",lsj,πατήρ μέγαρον ἀκούω εὔχομαι φημί Κρονίων οἶος ἀθάνατος ἀεικής λοιγός ἀμύνω συνδέω,Iliad 1.397
+οἰνοχοέω,0,1,1,,,none,θεός ἐνδέξιος πᾶς γλυκύς νέκταρ κρατήρ ἀφύσσω,Iliad 1.598
+νέκταρ,0,1,1,,nectar; wine; perfumed unguent,lsj,θεός ἐνδέξιος πᾶς οἰνοχοέω γλυκύς κρατήρ ἀφύσσω,Iliad 1.598
+στενάχω,0,1,1,,"groan, sigh, wail; groaning; bewail, lament",lsj,βαρύς πρόσφημι πούς ὠκύς Ἀχιλλεύς,Iliad 1.364
+ἄσβεστος,0,1,1,,"unquenchable, inextinguishable; not quenched; ceaseless; unslaked lime",lsj,ἐνόρνυμι γέλως μάκαρ θεός εἶδον Ἥφαιστος δῶμα ποιπνύω,Iliad 1.599
+ἐνόρνυμι,0,1,1,,"arouse, stir up in; arise in; among",lsj,ἄσβεστος γέλως μάκαρ θεός εἶδον Ἥφαιστος δῶμα ποιπνύω,Iliad 1.599
+ἐύς,0,1,1,,"good, brave, noble; good things, good fortune; thy",lsj (relaxed match),δύναμαι περιέχω παῖς,Iliad 1.393
+περιέχω,0,1,1,,"encompass, embrace, surround; envelope; encompasses; environment",lsj,δύναμαι παῖς ἐύς,Iliad 1.393
+Βρισεύς,0,1,1,,,none,νέος βαίνω κῆρυξ ἄγω κόρη δίδωμι υἱός Ἀχαιός,Iliad 1.392
+ἑλίκωψ,0,1,1,,,none,ναῦς θοός Ἀχαιός Χρύσης πέμπω,Iliad 1.389
+Θήβη,0,1,1,,,none,οἴχομαι ἱερός πόλις Ἠετίων,Iliad 1.366
+Ἠετίων,0,1,1,,,none,οἴχομαι Θήβη ἱερός πόλις,Iliad 1.366
+Ἀτρεΐων,0,1,1,,,none,χόλος λαμβάνω,Iliad 1.387
+ἕκατος,0,1,1,,,none,μάντις οἶδα ἀγορεύω θεοπροπία,Iliad 1.385
+ἐπασσύτερος,0,1,1,,"one upon another, one after another; one after another; upon; frequent, repeated",lsj,λαός θνήσκω,Iliad 1.383
+ποιπνύω,0,1,1,,bustle about; make haste and; labouring,lsj,ἄσβεστος ἐνόρνυμι γέλως μάκαρ θεός εἶδον Ἥφαιστος δῶμα,Iliad 1.600
+χαλκοχίτων,0,1,1,,bronze-clad,lsj,Ἀπόλλων Χρύσης ἱερεύς ἑκατηβόλος ἔρχομαι θοός ναῦς Ἀχαιός λύω θυγάτηρ φέρω ἀπερείσιος,Iliad 1.371
+γέλως,0,1,1,,laughter; ridiculous; joke; laugh,lsj,ἄσβεστος ἐνόρνυμι μάκαρ θεός εἶδον Ἥφαιστος δῶμα ποιπνύω,Iliad 1.599
+ἑκατόγχειρος,0,1,1,,hundred-handed,lsj,καλέω ἔρχομαι θεά ὑπολύω δεσμός μακρός Ὄλυμπος Βριάρεως θεός ἀνήρ πᾶς Αἰγαίων,Iliad 1.402
+κομίζω,0,1,1,,"take care of, provide for; receive, treat; attended to; attend, give heed to",lsj,Σίντιες ἀνήρ πίπτω,Iliad 1.594
+λαμπρός,0,1,1,,"bright, radiant; bright; toga candida; clear, limpid",lsj,ἕκαστος καταδύω φάος ἥλιος κατακείω βαίνω οἶκος δῶμα περικλυτός ἀμφιγυήεις Ἥφαιστος ποιέω,Iliad 1.605
+κλαίω,0,1,1,,"cry, wail, lament; crying; crying, howling; well beaten",lsj,τέκνον,Iliad 1.362
+ὄψ,0,1,1,,voice; word,lsj,θυμός δέω δαίς1 ἴσος φόρμιγξ περικαλλής ἔχω Ἀπόλλων Μοῦσα ἀείδω ἀμείβω καλός,Iliad 1.604
+διαπέρθω,0,1,1,,"destroy utterly, sack, waste",lsj,ἄγω πᾶς,Iliad 1.367
+βένθος,0,1,1,,depth,lsj,κλύω πότνια μήτηρ ἧμαι ἅλς1 πατήρ γέρων,Iliad 1.358
+ἄτη,0,1,1,,"bewilderment, infatuation; blindness; delusion; the goddess of mischief",lsj,Ἀχαιός μιμνήσκω παρέζομαι λαμβάνω γόνυ ἐθέλω Τρώς ἀρήγω πρύμνα ἅλς1 εἴλω κτείνω,Iliad 1.412
+ἐπαυρέω,0,1,1,,"partake of, share; enjoys; share; have had enjoyment of",lsj,Ἀχαιός μιμνήσκω παρέζομαι λαμβάνω γόνυ ἐθέλω Τρώς ἀρήγω πρύμνα ἅλς1 εἴλω κτείνω,Iliad 1.410
+κτείνω,0,1,1,,"kill, slay; seeks to kill; the slayer, murderer; put to death",lsj,Ἀχαιός μιμνήσκω παρέζομαι λαμβάνω γόνυ ἐθέλω Τρώς ἀρήγω πρύμνα ἅλς1 εἴλω πᾶς,Iliad 1.410
+εἴλω,0,1,1,,shut in; shut out; let them be shut out; ponded,lsj,Ἀχαιός μιμνήσκω παρέζομαι λαμβάνω γόνυ ἐθέλω Τρώς ἀρήγω πρύμνα ἅλς1 κτείνω πᾶς,Iliad 1.409
+πρύμνα,0,1,1,,"stern, poop; retire, draw back; the Acropolis; the vessel",lsj,Ἀχαιός μιμνήσκω παρέζομαι λαμβάνω γόνυ ἐθέλω Τρώς ἀρήγω ἅλς1 εἴλω κτείνω πᾶς,Iliad 1.409
+καταπίπτω,0,1,1,,"fall, drop; fell; base, contemptible; accidents",lsj,ἥλιος καταδύω Λῆμνος,Iliad 1.593
+Μοῦσα,0,1,1,,"Muse; music, song; strain; liberal arts, accomplishments",lsj,θυμός δέω δαίς1 ἴσος φόρμιγξ περικαλλής ἔχω Ἀπόλλων ἀείδω ἀμείβω ὄψ καλός,Iliad 1.604
+περικαλλής,0,1,1,,very beautiful,lsj,θυμός δέω δαίς1 ἴσος φόρμιγξ ἔχω Ἀπόλλων Μοῦσα ἀείδω ἀμείβω ὄψ καλός,Iliad 1.603
+Λῆμνος,0,1,1,,Lemnos; from Lemnos; Lemnian,lsj,ἥλιος καταδύω καταπίπτω,Iliad 1.593
+ἔνειμι,0,1,1,,sum; to be in; to be among; is in,lsj,ὀλίγος θυμός,Iliad 1.593
+μιμνήσκω,0,1,1,,"remind, put in mind; recalled; to memory, made; famous",lsj,Ἀχαιός παρέζομαι λαμβάνω γόνυ ἐθέλω Τρώς ἀρήγω πρύμνα ἅλς1 εἴλω κτείνω πᾶς,Iliad 1.407
+Σίντιες,0,1,1,,Sintians,lsj,ἀνήρ κομίζω πίπτω,Iliad 1.594
+ὑποδείδω,0,1,1,,"shrink in fear under, cower before; cower beneath; fear",lsj,μάκαρ θεός,Iliad 1.406
+ὀμίχλη,0,1,1,,"mist, fog; cloud-like darkness, gloom; the steam of cookery; miglà",lsj,ἀναδύνω πολιός ἅλς1,Iliad 1.359
+φόρμιγξ,0,1,1,,lyre; bow,lsj,θυμός δέω δαίς1 ἴσος περικαλλής ἔχω Ἀπόλλων Μοῦσα ἀείδω ἀμείβω ὄψ καλός,Iliad 1.603
+γαίω,0,1,1,,"rejoice, exult",lsj,Κρονίων καθέζομαι κῦδος,Iliad 1.405
+πρόπας,0,1,1,,all; long; together; utterly,lsj,ἦμαρ ἥλιος καταδύω δαίνυμι,Iliad 1.601
+καταρρέζω,0,1,1,,"pat, stroke, caress",lsj,καθέζομαι δάκρυ χέω χείρ ἔπος φημί ὀνομάζω,Iliad 1.361
+ῥηγμίν,0,1,1,,"Wiener Sitzb; sea breaking on the beach, surf; broken sea; at the seaʼs edge",lsj,βαίνω θάλασσα,Iliad 1.437
+Αἰγαίων,0,1,1,,Aegaeon; the Aegaean sea,lsj,καλέω ἔρχομαι θεά ὑπολύω δεσμός ἑκατόγχειρος μακρός Ὄλυμπος Βριάρεως θεός ἀνήρ πᾶς,Iliad 1.404
+ὀνομάζω,0,1,1,,"speak of by name, call; address by name; naming; name, specify",lsj,καθέζομαι δάκρυ χέω χείρ καταρρέζω ἔπος φημί,Iliad 1.361
+Βριάρεως,0,1,1,,Aegaeon,lsj,καλέω ἔρχομαι θεά ὑπολύω δεσμός ἑκατόγχειρος μακρός Ὄλυμπος θεός ἀνήρ πᾶς Αἰγαίων,Iliad 1.403
+στυφελίζω,0,1,1,,"strike hard; drives away; thrust; treat roughly, maltreat",lsj,ἐθέλω Ὀλύμπιος ἀστεροπητής ἕδος,Iliad 1.581
+ὑπισχνέομαι,0,1,1,,take upon oneself; undertake to do; promise; she makes promises,lsj,νημερτής κατανεύω ἀπεῖπον δέος οἶδα ὅσος πᾶς ἄτιμος θεός,Iliad 1.514
+ποντοπόρος,0,1,1,,seafaring,lsj,Χρυσηίς ναῦς βαίνω,Iliad 1.439
+κάρα,0,1,1,,"head; the face; peak, top; edge, brim",lsj,ἀμβρόσιος χαίτη ἐπιρρώομαι ἄναξ ἀθάνατος,Iliad 1.530
+πορφύρεος,0,1,1,,"heaving, surging; gushing; onrushing; lurid",lsj,κῦμα στεῖρα μέγας ἰάχω ναῦς εἶμι,Iliad 1.482
+ἰάχω,0,1,1,,"cry, shout; shriek; ring, resound; roar",lsj,κῦμα στεῖρα πορφύρεος μέγας ναῦς εἶμι,Iliad 1.482
+θέω,0,1,1,,dhávate; run; running; run and,lsj,κῦμα διαπράσσω κέλευθος,Iliad 1.483
+διαπράσσω,0,1,1,,pass over; made their way over; may finish; went through,lsj,θέω κῦμα κέλευθος,Iliad 1.483
+βουλεύω,0,1,1,,"take counsel, deliberate; determine; resolve after deliberation; in council",lsj,διατμήγω,Iliad 1.531
+ἐλελίζω,0,1,1,,whirl round; move in coils; spires; cause,lsj,μέγας Ὄλυμπος,Iliad 1.530
+ἤπειρος,0,1,1,,"terra firma, land; the sea; land; the mainland of Western Greece",lsj,ἱκνέομαι στρατός εὐρύς Ἀχαιός ναῦς μέλας ἐρύω1 ψάμαθος ἕρμα μακρός τανύω,Iliad 1.485
+πολύστονος,0,1,1,,"much-sighing, mournful; noisy; causing many sighs, mournful, grievous",lsj,ἄναξ Χρύσης πέμπω ἀνήρ Ἀγαμέμνων παῖς ἄγω Φοῖβος ἱερός ἑκατόμβη ῥέζω Δαναοί,Iliad 1.445
+ψάμαθος,0,1,1,,,none,ἱκνέομαι στρατός εὐρύς Ἀχαιός ναῦς μέλας ἤπειρος ἐρύω1 ἕρμα μακρός τανύω,Iliad 1.486
+ἕρμα,0,1,1,,"prop, support; props; prop; stay",lsj,ἱκνέομαι στρατός εὐρύς Ἀχαιός ναῦς μέλας ἤπειρος ἐρύω1 ψάμαθος μακρός τανύω,Iliad 1.486
+ἐπιρρώομαι,0,1,1,,apply oneʼs; strength to; work lustily at; worked with might and main at,lsj,ἀμβρόσιος χαίτη ἄναξ κάρα ἀθάνατος,Iliad 1.529
+τανύω,0,1,1,,"stretch, strain; string; having strung his; pull",lsj,ἱκνέομαι στρατός εὐρύς Ἀχαιός ναῦς μέλας ἤπειρος ἐρύω1 ψάμαθος ἕρμα μακρός,Iliad 1.486
+σκίδνημι,0,1,1,,"disperse; to be spread; scattered, disperse; began to spread his light",lsj,κλισία ναῦς,Iliad 1.487
+Πηλεύς,0,1,1,,Peleus; son of Peleus; to Peleus’ son,lsj,μηνίω ναῦς πάρημαι ὠκύπορος διογενής υἱός πούς ὠκύς Ἀχιλλεύς,Iliad 1.489
+διατμήγω,0,1,1,,cut in twain; having cut; in twain; distinguish,lsj,βουλεύω,Iliad 1.531
+ἅλλομαι,0,1,1,,"sal; sal-io; spring, leap; leap upon",lsj,ἅλς1 βαθύς αἰγλήεις Ὄλυμπος Ζεύς δῶμα,Iliad 1.532
+στεῖρα,0,1,1,,forepart of a shipʼs keel; stem; cutwater; bandage,lsj,κῦμα πορφύρεος μέγας ἰάχω ναῦς εἶμι,Iliad 1.482
+βαθύς,0,1,1,,deep; high; within a high fence; the deep,lsj,ἅλς1 ἅλλομαι αἰγλήεις Ὄλυμπος Ζεύς δῶμα,Iliad 1.532
+αἰγλήεις,0,1,1,,"dazzling, radiant",lsj,ἅλς1 ἅλλομαι βαθύς Ὄλυμπος Ζεύς δῶμα,Iliad 1.532
+μέσος,0,1,1,,"middle, in the middle; middle; zenith; mid",lsj,ἄνεμος πρήθω ἱστίον,Iliad 1.481
+πρήθω,0,1,1,,"burn; blow out, swell out by blowing; spout; spouted",lsj,ἄνεμος μέσος ἱστίον,Iliad 1.481
+ἄνεμος,0,1,1,,wind; a gale; the wind; to the winds,lsj,πρήθω μέσος ἱστίον,Iliad 1.481
+πετάννυμι,0,1,1,,fly; spread out; opening his doors; flutter,lsj,ἱστός ἵστημι ἱστίον λευκός,Iliad 1.480
+σφός,0,1,1,,"their, their own, belonging to them; his; her, his own; her own",lsj,θεός πᾶς ἀνίστημι ἕδος πατήρ,Iliad 1.534
+λευκός,0,1,1,,"light, bright, clear; glassy; clear, limpid; clear, distinct",lsj,ἱστός ἵστημι ἱστίον πετάννυμι,Iliad 1.480
+οὖρος,0,1,1,,fair wind; rough breeze; storm; the wind,lsj,ἴκμενος ἵημι Ἑκάεργος Ἀπόλλων,Iliad 1.479
+ἐπέρχομαι,0,1,1,,come upon; approach; come suddenly upon; come to for advice,lsj,τλάω μένω,Iliad 1.535
+ἴκμενος,0,1,1,,a fair; moist,lsj,οὖρος ἵημι Ἑκάεργος Ἀπόλλων,Iliad 1.479
+ἅπας,0,1,1,,"quite all, the whole; all together; in all things; all",lsj,ἀντίος ἵστημι,Iliad 1.535
+ἀνάγω,0,1,1,,"lead up; lead up to the high sea, carry by sea; conduct, carry to; put",lsj,ἠριγένεια φαίνω ῥοδοδάκτυλος ἠώς στρατός εὐρύς Ἀχαιός,Iliad 1.478
+θρόνος,0,1,1,,"seat, chair; throne, chair of state; kingʼs estate; dignity",lsj,καθέζομαι,Iliad 1.536
+πωλέομαι,0,1,1,,go up and down; to and fro; come frequently; she goes,lsj,ἀγορά κυδιάνειρα πόλεμος,Iliad 1.490
+χαίτη,0,1,1,,"loose, flowing hair; back hair; mane; crest",lsj,ἀμβρόσιος ἐπιρρώομαι ἄναξ κάρα ἀθάνατος,Iliad 1.529
+κυδιάνειρα,0,1,1,,"bringing men glory; renown; glorified by men, famous for men",lsj,ἀγορά πωλέομαι πόλεμος,Iliad 1.490
+ὀνείδειος,0,1,1,,reproachful; of reproach; dishonourable,lsj,λοίγιος ἔργον ἐχθοδοπέω ἐφίημι Ἥρα ἐρέθω ἔπος,Iliad 1.519
+δεύτερος,0,1,1,,second; next; comes in second; hereafter,lsj,ἔρομαι,Iliad 1.513
+ἐμφύω,0,1,1,,implant; planted; grow in; is implanted,lsj,Θέτις ἅπτω γόνυ ἔχω,Iliad 1.513
+ἀπεῖπον,0,1,1,,"speak out, tell out, declare; to give; full notice; to deliver",lsj,νημερτής ὑπισχνέομαι κατανεύω δέος οἶδα ὅσος πᾶς ἄτιμος θεός,Iliad 1.515
+ἅπτω,0,1,1,,fasten; bind to; having fastened; join,lsj,Θέτις γόνυ ἔχω ἐμφύω,Iliad 1.512
+δέος,0,1,1,,"fear, alarm; fear; fear of; to fear",lsj,νημερτής ὑπισχνέομαι κατανεύω ἀπεῖπον οἶδα ὅσος πᾶς ἄτιμος θεός,Iliad 1.515
+κράτος,0,1,1,,"strength, might; bodily strength; strength; all oneʼs might",lsj,Τρώς τίθημι Ἀχαιός υἱός τίνω ὀφέλλω τιμή,Iliad 1.509
+ἀνθερεών,0,1,1,,"chin; neck, throat; mouth",lsj,δεξιτερός αἱρέω λίσσομαι προσεῖπον Ζεύς Κρονίων ἄναξ,Iliad 1.501
+δεξιτερός,0,1,1,,right-hand of two; the right hand,lsj,ἀνθερεών αἱρέω λίσσομαι προσεῖπον Ζεύς Κρονίων ἄναξ,Iliad 1.501
+σκαιός,0,1,1,,"left, on the left hand; with the left hand; western, westward; West",lsj,λαμβάνω γόνυ,Iliad 1.501
+πολυδειράς,0,1,1,,with many ridges,lsj,εὑρίσκω εὐρύοπα Κρονίδης ἧμαι ἄκρος κορυφή Ὄλυμπος,Iliad 1.499
+ἀπείρων,0,1,1,,"without experience, ignorant",lsj,Ἀχιλλεύς δακρύω ἑταῖρος ἕζομαι λιάζομαι θίς ἅλς1 πολιός ὁράω πόντος,Iliad 1.350
+ἐχθοδοπέω,0,1,1,,"show enmity towards, engage in hostility with",lsj,λοίγιος ἔργον ἐφίημι Ἥρα ἐρέθω ὀνείδειος ἔπος,Iliad 1.518
+ἐρέθω,0,1,1,,"disquiet; raised; increase; explore, search",lsj,λοίγιος ἔργον ἐχθοδοπέω ἐφίημι Ἥρα ὀνείδειος ἔπος,Iliad 1.519
+κορυφή,0,1,1,,"head, top; crown, top of the head; top, peak; summit, top",lsj,εὑρίσκω εὐρύοπα Κρονίδης ἧμαι ἄκρος πολυδειράς Ὄλυμπος,Iliad 1.499
+ἀποστείχω,0,1,1,,"go away, go home",lsj,νοέω Ἥρα,Iliad 1.522
+ἀμβρόσιος,0,1,1,,"immortal, divine; belonging to gods; divine; divinely excellent",lsj,χαίτη ἐπιρρώομαι ἄναξ κάρα ἀθάνατος,Iliad 1.529
+μέλω,0,1,1,,"to be an object of care; thought; care for, take an interest in; am I in",lsj,τελέω,Iliad 1.523
+ἄκρος,0,1,1,,"at the farthest point; end; topmost, outermost; inmost",lsj,εὑρίσκω εὐρύοπα Κρονίδης ἧμαι κορυφή πολυδειράς Ὄλυμπος,Iliad 1.499
+τέκμαρ,0,1,1,,"fixed mark; boundary, goal, end; goal; an end",lsj,ἀθάνατος μέγας,Iliad 1.526
+εὐρύοπα,0,1,1,,wide-eyed; vox; far-sounding; thundering,lsj,εὑρίσκω Κρονίδης ἧμαι ἄκρος κορυφή πολυδειράς Ὄλυμπος,Iliad 1.498
+παλινάγρετος,0,1,1,,to be taken back; recalled; revocable; recoverable,lsj,ἀπατηλός ἀτελεύτητος κεφαλή κατανεύω,Iliad 1.526
+ἀπατηλός,0,1,1,,producing illusion; deceptive,lsj,παλινάγρετος ἀτελεύτητος κεφαλή κατανεύω,Iliad 1.526
+ἀτελεύτητος,0,1,1,,"not brought to an end; issue, unaccomplished; without an end, interminable; everlasting",lsj,παλινάγρετος ἀπατηλός κεφαλή κατανεύω,Iliad 1.527
+ἐφετμή,0,1,1,,"command, behest; behests; demands, prayers",lsj,Θέτις λανθάνω παῖς,Iliad 1.495
+κυάνεος,0,1,1,,,none,ὀφρύς νεύω Κρονίων,Iliad 1.528
+ὀφρύς,0,1,1,,,none,κυάνεος νεύω Κρονίων,Iliad 1.528
+ἀυτή,0,1,1,,"cry, shout; battle-shout, war-cry; blast; creaking",lsj (relaxed match),ποθέω πόλεμος,Iliad 1.492
+νεύω,0,1,1,,"incline in any direction; nod, beckon; beckon; nod",lsj,κυάνεος ὀφρύς Κρονίων,Iliad 1.528
+ποθέω,0,1,1,,"long for, yearn after; miss; regret; will miss",lsj,ἀυτή πόλεμος,Iliad 1.492
+φθινύθω,0,1,1,,"waste; cause; to pine away; waste away, decay, perish",lsj,φίλος κῆρ μένω,Iliad 1.491
+ῥοδοδάκτυλος,0,1,1,,rosy-fingered,lsj,ἠριγένεια φαίνω ἠώς ἀνάγω στρατός εὐρύς Ἀχαιός,Iliad 1.477
+ἠριγένεια,0,1,1,,"early-born, child of morn; morn; morning; a day",lsj,φαίνω ῥοδοδάκτυλος ἠώς ἀνάγω στρατός εὐρύς Ἀχαιός,Iliad 1.477
+ἀγνοέω,0,1,1,,not to perceive; recognize; he perceived; knew well,lsj,Ἥρα εἶδον συμφράζομαι βουλή ἀργυρόπεζος Θέτις θυγάτηρ ἅλιος γέρων,Iliad 1.537
+ἐκτέμνω,0,1,1,,cut out; cut; from; out,lsj,εὔχομαι οὐλοχύται προβάλλω αὐερύω πρῶτος σφάζω δέρω μηρός κνῖσα καλύπτω δίπτυχος ποιέω,Iliad 1.460
+σπλάγχνον,0,1,1,,inward parts; sacrificial feast; any part of the inwards; womb,lsj,μῆρα καίω πατέομαι μιστύλλω ὀβελός πείρω ὀπτάω ἐρύω1 πᾶς,Iliad 1.464
+ἐπιγνάμπτω,0,1,1,,"curve; bend; bow, bend to oneʼs purpose",lsj,ἀκέων κάθημαι φίλος κῆρ,Iliad 1.569
+μῆρα,0,1,1,,,none,καίω σπλάγχνον πατέομαι μιστύλλω ὀβελός πείρω ὀπτάω ἐρύω1 πᾶς,Iliad 1.464
+πεμπώβολον,0,1,1,,five-pronged fork,lsj,νέος ἔχω χείρ,Iliad 1.463
+λείβω,0,1,1,,"pour, pour forth; make a libation of; let flow, shed; liquefy",lsj,αἶθοψ οἶνος,Iliad 1.463
+οὐρανίωνες,0,1,1,,,none,ὀχθέω δῶμα Ζεύς θεός,Iliad 1.570
+κλυτοτέχνης,0,1,1,,famous for his art,lsj,Ἥφαιστος ἄρχω ἀγορεύω μήτηρ φίλος ἐπίηρα φέρω λευκώλενος Ἥρα,Iliad 1.571
+οἶνος,0,1,1,,wine; cups; wines; in vino veritas,lsj,αἶθοψ λείβω,Iliad 1.462
+αἶθοψ,0,1,1,,fiery-looking; flashing; sparkling; fiery,lsj,οἶνος λείβω,Iliad 1.462
+σχίζα,0,1,1,,"piece of wood cut off, lath, splinter; wood cleft small; firewood; shaft, dart",lsj,καίω γέρων,Iliad 1.462
+ὠμοθετέω,0,1,1,,place the raw pieces; sacrifice; raw; shoulder,lsj,,Iliad 1.461
+δίπτυχος,0,1,1,,"double-folded, doubled; a pair of; folding; having doubled",lsj,εὔχομαι οὐλοχύται προβάλλω αὐερύω πρῶτος σφάζω δέρω μηρός ἐκτέμνω κνῖσα καλύπτω ποιέω,Iliad 1.461
+ἀνεκτός,0,1,1,,"bearable, sufferable, tolerable; that can be endured; tolerable; more tolerable",lsj,λοίγιος ἔργον θνητός ἐριδαίνω θεός κολῳός ἐλαύνω,Iliad 1.573
+καλύπτω,0,1,1,,"oc-culo, celo; cover; to kill; covered, grasped",lsj,εὔχομαι οὐλοχύται προβάλλω αὐερύω πρῶτος σφάζω δέρω μηρός ἐκτέμνω κνῖσα δίπτυχος ποιέω,Iliad 1.460
+δέρω,0,1,1,,"skin, flay; to have oneʼs; flayed off; will make",lsj,εὔχομαι οὐλοχύται προβάλλω αὐερύω πρῶτος σφάζω μηρός ἐκτέμνω κνῖσα καλύπτω δίπτυχος ποιέω,Iliad 1.459
+μιστύλλω,0,1,1,,cut up,lsj,μῆρα καίω σπλάγχνον πατέομαι ὀβελός πείρω ὀπτάω ἐρύω1 πᾶς,Iliad 1.465
+νημερτής,0,1,1,,"unerring, infallible; sure; that will infallibly be put in force; sure truths",lsj,ὑπισχνέομαι κατανεύω ἀπεῖπον δέος οἶδα ὅσος πᾶς ἄτιμος θεός,Iliad 1.514
+ἐριδαίνω,0,1,1,,"wrangle, quarrel; strive; compete in",lsj,λοίγιος ἔργον ἀνεκτός θνητός θεός κολῳός ἐλαύνω,Iliad 1.574
+αὐερύω,0,1,1,,draw back; backwards; pulled; draw,lsj,εὔχομαι οὐλοχύται προβάλλω πρῶτος σφάζω δέρω μηρός ἐκτέμνω κνῖσα καλύπτω δίπτυχος ποιέω,Iliad 1.459
+προβάλλω,0,1,1,,"throw; lay before, throw to; put forward; present",lsj,εὔχομαι οὐλοχύται αὐερύω πρῶτος σφάζω δέρω μηρός ἐκτέμνω κνῖσα καλύπτω δίπτυχος ποιέω,Iliad 1.458
+κολῳός,0,1,1,,"brawling, wrangling",lsj,λοίγιος ἔργον ἀνεκτός θνητός ἐριδαίνω θεός ἐλαύνω,Iliad 1.575
+ἐπικραίνω,0,1,1,,"bring to pass, accomplish; may; fulfil; fulfilled",lsj,ἔλδωρ,Iliad 1.455
+ἦδος,0,1,1,,"delight, pleasure; delight; vinegar",lsj,δαίς1 ἐσθλός χείρων νικάω,Iliad 1.576
+ἴπτομαι,0,1,1,,"press hard, oppress; hurt, harm",lsj,τιμάω μέγας λαός Ἀχαιός,Iliad 1.454
+νικάω,0,1,1,,"conquer, prevail; conqueror; conquered; won the first prize",lsj,δαίς1 ἐσθλός ἦδος χείρων,Iliad 1.576
+παράφημι,0,1,1,,"speak gently to, advise; persuade, appease; speak deceitfully; insincerely",lsj,πατήρ μήτηρ νοέω φίλος ἐπίηρα φέρω Ζεύς νεικέω δαίς1 ταράσσω,Iliad 1.577
+ταράσσω,0,1,1,,"stir, trouble; troubling; mix; to wag",lsj,πατήρ μήτηρ παράφημι νοέω φίλος ἐπίηρα φέρω Ζεύς νεικέω δαίς1,Iliad 1.579
+χερνίπτομαι,0,1,1,,"wash oneʼs hands with holy water; sprinkle with holy water, purify; dedicate thereby; sacrifice",lsj,οὐλοχύται ἀναιρέω,Iliad 1.449
+εὔδμητος,0,1,1,,well-built,lsj,θεός ἱερός ἑκατόμβη ἵστημι βωμός,Iliad 1.448
+κῆδος,0,1,1,,"care about; matter; anxiety, grief; troubles",lsj,ἄναξ Χρύσης πέμπω ἀνήρ Ἀγαμέμνων παῖς ἄγω Φοῖβος ἱερός ἑκατόμβη ῥέζω Δαναοί,Iliad 1.445
+πατέομαι,0,1,1,,"eat; drink; eat of, partake of; eat, taste food",lsj,μῆρα καίω σπλάγχνον μιστύλλω ὀβελός πείρω ὀπτάω ἐρύω1 πᾶς,Iliad 1.464
+ἄαπτος,0,1,1,,"not to be touched, resistless, invincible",lsj,ἐπιπείθομαι μῦθος χραισμέω ὅσος θεός Ὄλυμπος εἶμι χείρ ἐφίημι,Iliad 1.567
+κνέφας,0,1,1,,"darkness; evening dusk, twilight; morning twilight; dawn",lsj,ἥλιος καταδύω ἔρχομαι κοιμάω πρυμνήσιος ναῦς,Iliad 1.475
+ποτός,0,1,1,,"drunk, for drinking; that which one drinks, drink; drink; drinking water",lsj,πόσις2 ἐδητύς ἔρος ἵημι κοῦρος κρατήρ ἐπιστέφω νωμάω πᾶς ἐπάρχω δέπας,Iliad 1.470
+κερτόμιος,0,1,1,,"mocking, taunting",lsj,Ζεύς Κρονίων προσαυδάω,Iliad 1.539
+δολομήτης,0,1,1,,,none,θεός συμφράζομαι βουλή,Iliad 1.540
+κρυπτάδιος,0,1,1,,"secret, clandestine",lsj,φίλος φρονέω δικάζω,Iliad 1.542
+δικάζω,0,1,1,,"Bis Acc; judge, sit in judgement; sit as a juror; give judgement on, decide, determine",lsj,φίλος κρυπτάδιος φρονέω,Iliad 1.542
+ἐπέλπομαι,0,1,1,,"have hopes of, hope; expect",lsj,Ἥρα πᾶς μῦθος οἶδα,Iliad 1.545
+τέρπω,0,1,1,,"delight, gladden, cheer; will give; pleasure; give delight",lsj,φρήν ἀκούω,Iliad 1.474
+μέλπω,0,1,1,,celebrate with song and dance; sing; let; sound,lsj,πανημέριος μολπή θεός ἱλάσκομαι καλός ἀείδω παιάν κοῦρος Ἀχαιός Ἑκάεργος,Iliad 1.474
+παιάν,0,1,1,,,none,πανημέριος μολπή θεός ἱλάσκομαι καλός ἀείδω κοῦρος Ἀχαιός μέλπω Ἑκάεργος,Iliad 1.473
+χαλεπός,0,1,1,,"difficult; hard to bear, painful, grievous; severity; hardships",lsj,ἄλοχος,Iliad 1.546
+μολπή,0,1,1,,dance; rhythmic movement with song; song; the note,lsj,πανημέριος θεός ἱλάσκομαι καλός ἀείδω παιάν κοῦρος Ἀχαιός μέλπω Ἑκάεργος,Iliad 1.472
+πανημέριος,0,1,1,,all day long; in a whole dayʼs sail; of the whole day,lsj,μολπή θεός ἱλάσκομαι καλός ἀείδω παιάν κοῦρος Ἀχαιός μέλπω Ἑκάεργος,Iliad 1.472
+ἐπάρχω,0,1,1,,"rule over; to be governor, commandant of; rule besides; pour the first drops",lsj,πόσις2 ἐδητύς ἔρος ἵημι κοῦρος κρατήρ ἐπιστέφω ποτός νωμάω πᾶς δέπας,Iliad 1.471
+νωμάω,0,1,1,,"deal out, distribute; pour; the several; direct, guide",lsj,πόσις2 ἐδητύς ἔρος ἵημι κοῦρος κρατήρ ἐπιστέφω ποτός πᾶς ἐπάρχω δέπας,Iliad 1.471
+ἐπιεικής,0,1,1,,"fitting, meet, suitable; meet; a fair; reasonable",lsj,ἀκούω θεός πρότερος οἶδα ἄνθρωπος,Iliad 1.547
+πρότερος,0,1,1,,"before, in front; fore; in front; former, earlier",lsj,ἐπιεικής ἀκούω θεός οἶδα ἄνθρωπος,Iliad 1.548
+ὀβελός,0,1,1,,"spit; pointed square pillar, obelisk; horizontal line",lsj,μῆρα καίω σπλάγχνον πατέομαι μιστύλλω πείρω ὀπτάω ἐρύω1 πᾶς,Iliad 1.465
+ἐπιστέφω,0,1,1,,filled; to be full; covered with; pour,lsj,πόσις2 ἐδητύς ἔρος ἵημι κοῦρος κρατήρ ποτός νωμάω πᾶς ἐπάρχω δέπας,Iliad 1.470
+διείρομαι,0,1,1,,,none,θεός ἐθέλω νοέω ἕκαστος μεταλλάω,Iliad 1.550
+ποῖος,0,1,1,,of what kind?; what manner of; what sort; every,lsj,αἰνός Κρονίδης μῦθος εἶπον,Iliad 1.552
+εὔκηλος,0,1,1,,"free from care, at oneʼs ease; without fear; still, silent; steady, even",lsj,φράζω ἐθέλω,Iliad 1.554
+παρεῖπον,0,1,1,,"talk over, win over; by thy persuasions; give; advice",lsj,δείδω φρήν ἀργυρόπεζος Θέτις θυγάτηρ ἅλιος γέρων,Iliad 1.555
+ἔρος,0,1,1,,"love, desire; Eros",lsj,πόσις2 ἐδητύς ἵημι κοῦρος κρατήρ ἐπιστέφω ποτός νωμάω πᾶς ἐπάρχω δέπας,Iliad 1.469
+ἐτήτυμος,0,1,1,,"true; the truth; truthful; genuine, real",lsj,οἴομαι κατανεύω Ἀχιλλεύς τιμάω ὄλλυμι πολύς ναῦς Ἀχαιός,Iliad 1.558
+ἐδητύς,0,1,1,,"meat, food",lsj,πόσις2 ἔρος ἵημι κοῦρος κρατήρ ἐπιστέφω ποτός νωμάω πᾶς ἐπάρχω δέπας,Iliad 1.469
+πόσις2,0,1,1,,"drinking, drink, beverage; carousal; over their cups; draught",lsj (homograph 2),ἐδητύς ἔρος ἵημι κοῦρος κρατήρ ἐπιστέφω ποτός νωμάω πᾶς ἐπάρχω δέπας,Iliad 1.469
+δαιμόνιος,0,1,1,,"belonging to a; miraculous, marvellous; good sir; lady",lsj,οἴομαι,Iliad 1.561
+πράσσω,0,1,1,,"pass through, pass over; experience certain for; tunes, fare; achieve, effect, accomplish",lsj,δύναμαι,Iliad 1.562
+μέλλω,0,1,1,,to be destined; likely to; belike; doubtless,lsj,φίλος,Iliad 1.564
+πόνος,0,1,1,,"work; hard work, toil; the toil of war; toil",lsj,δαίς1 παύω τεύχω δαίνυμι θυμός δέω ἴσος,Iliad 1.467
+ὀπτάω,0,1,1,,"roast, broil; roast; broil; fry",lsj,μῆρα καίω σπλάγχνον πατέομαι μιστύλλω ὀβελός πείρω ἐρύω1 πᾶς,Iliad 1.466
+σφάζω,0,1,1,,"slay, slaughter; by cutting the throat; slaughter; cut",lsj,εὔχομαι οὐλοχύται προβάλλω αὐερύω πρῶτος δέρω μηρός ἐκτέμνω κνῖσα καλύπτω δίπτυχος ποιέω,Iliad 1.459
+ἀταρτηρός,0,1,1,,"mischievous, baneful",lsj,Πηλείδης ἔπος Ἀτρείδης προσεῖπον,Iliad 1.223
+λιάζομαι,0,1,1,,"bend, incline; go aside, recoil, shrink; shrank; hast",lsj,Ἀχιλλεύς δακρύω ἑταῖρος ἕζομαι θίς ἅλς1 πολιός ὁράω ἀπείρων πόντος,Iliad 1.349
+λεύσσω,0,1,1,,"look; gaze upon, see; look, gaze; lives",lsj,πᾶς γέρας ἔρχομαι,Iliad 1.120
+Κλυταιμνήστρη,0,1,1,,,none,προβέβουλα κουρίδιος ἄλοχος χείρων δέμας φυή φρήν ἔργον,Iliad 1.113
+προβέβουλα,0,1,1,,prefer; make plans,lsj,Κλυταιμνήστρη κουρίδιος ἄλοχος χείρων δέμας φυή φρήν ἔργον,Iliad 1.113
+κουρίδιος,0,1,1,,"wedded; lawful, wedded wife; wedded wife; lawful marriage",lsj,Κλυταιμνήστρη προβέβουλα ἄλοχος χείρων δέμας φυή φρήν ἔργον,Iliad 1.114
+δέμας,0,1,1,,bodily frame; the living body; in stature; shoot,lsj,Κλυταιμνήστρη προβέβουλα κουρίδιος ἄλοχος χείρων φυή φρήν ἔργον,Iliad 1.115
+φυή,0,1,1,,"growth, stature; fine growth, noble stature; in size; growth",lsj,Κλυταιμνήστρη προβέβουλα κουρίδιος ἄλοχος χείρων δέμας φρήν ἔργον,Iliad 1.115
+ἑτοιμάζω,0,1,1,,"get ready, prepare; to those furnishing; cause to be prepared; prepare for oneself",lsj,γέρας οἶος Ἀργεῖος ἀγέραστος εἴκω1,Iliad 1.118
+ἀγέραστος,0,1,1,,"without a gift of honour, unrecompensed",lsj,γέρας ἑτοιμάζω οἶος Ἀργεῖος εἴκω1,Iliad 1.119
+ποδάρκης,0,1,1,,,none,ἀμείβω δῖος Ἀχιλλεύς,Iliad 1.121
+μαντεύομαι,0,1,1,,"divine, prophesy; draw divinations from; by means of; presage, forebode, surmise",lsj,κακός φίλος φρήν,Iliad 1.107
+κύδιστος,0,1,1,,"most honoured, noblest; greatest; profits it",lsj,Ἀτρείδης φιλοκτέανος πᾶς δίδωμι γέρας μεγάθυμος Ἀχαιός,Iliad 1.122
+φιλοκτέανος,0,1,1,,"loving possessions, greedy of gain, covetous",lsj,Ἀτρείδης κύδιστος πᾶς δίδωμι γέρας μεγάθυμος Ἀχαιός,Iliad 1.122
+ξυνήιος,0,1,1,,common; common stock,lsj (relaxed match),οἶδα κεῖμαι πολύς,Iliad 1.124
+κεῖμαι,0,1,1,,"śáyate; cunae; to be laid; lie, lie outstretched",lsj,οἶδα ξυνήιος πολύς,Iliad 1.124
+ἐπέοικε,0,1,1,,,none,λαός παλίλλογος ἐπαγείρω,Iliad 1.126
+παλίλλογος,0,1,1,,collected again,lsj,λαός ἐπέοικε ἐπαγείρω,Iliad 1.126
+ἐπαγείρω,0,1,1,,"gather together, collect; assemble",lsj,λαός ἐπέοικε παλίλλογος,Iliad 1.126
+θεοπροπέω,0,1,1,,prophesy; to be a,lsj,Δαναοί ἀγορεύω ἑκηβόλος ἄλγος τεύχω κόρη Χρυσηίς ἀγλαός ἄποινα ἐθέλω δέχομαι πολύς,Iliad 1.109
+κρήγυος,0,1,1,,"good, useful; agreeable; a good symptom; honourably",lsj,μάντις κακός εἶπον,Iliad 1.106
+δακρύω,0,1,1,,"weep, shed tears; with tears; to flood; to be in tears",lsj,Ἀχιλλεύς ἑταῖρος ἕζομαι λιάζομαι θίς ἅλς1 πολιός ὁράω ἀπείρων πόντος,Iliad 1.349
+ἀπωθέω,0,1,1,,"thrust away, push back; pushed; off; thrust away from oneself",lsj,Δαναοί ἀεικής λοιγός πατήρ φίλος δίδωμι ἑλικῶπις κόρη ἀπρίατος ἀνάποινος ἄγω ἱερός,Iliad 1.97
+ζάω,0,1,1,,,none,εὔχομαι Δαναοί Ἀπόλλων Ζεύς φίλος Κάλχας θεοπροπία ἀναφαίνω χθών δέρκομαι κοῖλος ναῦς,Iliad 1.88
+χθών,0,1,1,,earth; the surface of it; soil; the earth,lsj,εὔχομαι Δαναοί Ἀπόλλων Ζεύς φίλος Κάλχας θεοπροπία ἀναφαίνω ζάω δέρκομαι κοῖλος ναῦς,Iliad 1.88
+δέρκομαι,0,1,1,,"see clearly, see; having sight; alive, living; since she lives",lsj,εὔχομαι Δαναοί Ἀπόλλων Ζεύς φίλος Κάλχας θεοπροπία ἀναφαίνω ζάω χθών κοῖλος ναῦς,Iliad 1.88
+ἐπιφέρω,0,1,1,,"bring, put; lay upon; will lay; upon",lsj,εὔχομαι Δαναοί Ἀπόλλων Ζεύς φίλος Κάλχας θεοπροπία ἀναφαίνω ζάω χθών δέρκομαι κοῖλος,Iliad 1.89
+αὐδάω,0,1,1,,"utter sounds, speak; utter; speak, say; twas said",lsj,μάντις ἀμύμων,Iliad 1.92
+ἀπολύω,0,1,1,,"loose from; from; undo; set free, release, relieve from",lsj,θυγάτηρ ἀποδέχομαι ἄποινα,Iliad 1.95
+ἀποδέχομαι,0,1,1,,"accept; accept as a teacher, follow; admit; admitting into the mind",lsj,ἀπολύω θυγάτηρ ἄποινα,Iliad 1.95
+ἑλικῶπις,0,1,1,,,none,Δαναοί ἀεικής λοιγός ἀπωθέω πατήρ φίλος δίδωμι κόρη ἀπρίατος ἀνάποινος ἄγω ἱερός,Iliad 1.98
+ὄσσομαι,0,1,1,,"oqṷ-yo; see, look; Fr.anon; see in spirit",lsj,Κάλχας πρώτιστος κακός προσεῖπον,Iliad 1.105
+ἀπρίατος,0,1,1,,,none,Δαναοί ἀεικής λοιγός ἀπωθέω πατήρ φίλος δίδωμι ἑλικῶπις κόρη ἀνάποινος ἄγω ἱερός,Iliad 1.99
+ἀνάποινος,0,1,1,,without ransom,lsj,Δαναοί ἀεικής λοιγός ἀπωθέω πατήρ φίλος δίδωμι ἑλικῶπις κόρη ἀπρίατος ἄγω ἱερός,Iliad 1.99
+ἀμφιμέλας,0,1,1,,black all round; darkened on either side; coal-black,lsj,μένος μέγας φρήν πίμπλημι,Iliad 1.103
+πίμπλημι,0,1,1,,fill; fill full of; filled; full,lsj,μένος μέγας φρήν ἀμφιμέλας,Iliad 1.104
+πῦρ,0,1,1,,fire; funeral-fire; burn; sacrificial fire,lsj,ὄσσε λαμπετάω εἴκω1,Iliad 1.104
+λαμπετάω,0,1,1,,shine; shining,lsj,ὄσσε πῦρ εἴκω1,Iliad 1.104
+πρώτιστος,0,1,1,,"the very first; principal, primal; first of all; now that",lsj,Κάλχας κακός ὄσσομαι προσεῖπον,Iliad 1.105
+τριπλόος,0,1,1,,"triple, threefold; thrice repeated; compounded of three",lsj,Ἀχαιός τετραπλόος ἀποτίνω Ζεύς δίδωμι πόλις Τροία εὐτείχεος ἐξαλαπάζω,Iliad 1.128
+τετραπλόος,0,1,1,,fourfold,lsj,Ἀχαιός τριπλόος ἀποτίνω Ζεύς δίδωμι πόλις Τροία εὐτείχεος ἐξαλαπάζω,Iliad 1.128
+ἀποτίνω,0,1,1,,repay; pay for; may atone for; made atonement,lsj,Ἀχαιός τριπλόος τετραπλόος Ζεύς δίδωμι πόλις Τροία εὐτείχεος ἐξαλαπάζω,Iliad 1.128
+ἠχήεις,0,1,1,,"sounding, ringing, roaring; high, echoing",lsj,βοῦς ἐλαύνω ἵππος Φθία ἐριβῶλαξ βωτιάνειρα καρπός1 δηλέομαι πολύς ὄρος σκιόεις θάλασσα,Iliad 1.157
+βοῦς,0,1,1,,"bullock, bull, ox; cow; cattle; buffalo",lsj,ἐλαύνω ἵππος Φθία ἐριβῶλαξ βωτιάνειρα καρπός1 δηλέομαι πολύς ὄρος σκιόεις θάλασσα ἠχήεις,Iliad 1.154
+ἵππος,0,1,1,,horse; mare; team of chariot-horses; the chariot,lsj,βοῦς ἐλαύνω Φθία ἐριβῶλαξ βωτιάνειρα καρπός1 δηλέομαι πολύς ὄρος σκιόεις θάλασσα ἠχήεις,Iliad 1.154
+ἐριβῶλαξ,0,1,1,,with large clods; very fertile,lsj,βοῦς ἐλαύνω ἵππος Φθία βωτιάνειρα καρπός1 δηλέομαι πολύς ὄρος σκιόεις θάλασσα ἠχήεις,Iliad 1.155
+βωτιάνειρα,0,1,1,,"man-feeding, nurse of heroes",lsj,βοῦς ἐλαύνω ἵππος Φθία ἐριβῶλαξ καρπός1 δηλέομαι πολύς ὄρος σκιόεις θάλασσα ἠχήεις,Iliad 1.155
+καρπός1,0,1,1,,"fruit; the fruits of the earth, corn; harvest; crops",lsj (homograph 1),βοῦς ἐλαύνω ἵππος Φθία ἐριβῶλαξ βωτιάνειρα δηλέομαι πολύς ὄρος σκιόεις θάλασσα ἠχήεις,Iliad 1.156
+δηλέομαι,0,1,1,,"hurt, do a mischief to; did; a mischief; slew",lsj,βοῦς ἐλαύνω ἵππος Φθία ἐριβῶλαξ βωτιάνειρα καρπός1 πολύς ὄρος σκιόεις θάλασσα ἠχήεις,Iliad 1.156
+σκιόεις,0,1,1,,"shady, shadowy; shady; thickly wooded; dark",lsj,βοῦς ἐλαύνω ἵππος Φθία ἐριβῶλαξ βωτιάνειρα καρπός1 δηλέομαι πολύς ὄρος θάλασσα ἠχήεις,Iliad 1.157
+ἀναιδής,0,1,1,,"shameless; ruthless; the reckless, ruthless; greedy",lsj,μέγας ἕπομαι χαίρω τιμή ἄρνυμαι Μενέλαος κυνώπης Τρώς,Iliad 1.158
+Τροία,0,1,1,,Troy; ‘Troy-town’; the Troad; from Troy,lsj,Ἀχαιός τριπλόος τετραπλόος ἀποτίνω Ζεύς δίδωμι πόλις εὐτείχεος ἐξαλαπάζω,Iliad 1.129
+ἄρνυμαι,0,1,1,,"win, gain; striving; maintaining; trying to win, striving to secure",lsj,μέγας ἀναιδής ἕπομαι χαίρω τιμή Μενέλαος κυνώπης Τρώς,Iliad 1.159
+Μενέλαος,0,1,1,,Abiding-men,lsj,μέγας ἀναιδής ἕπομαι χαίρω τιμή ἄρνυμαι κυνώπης Τρώς,Iliad 1.159
+κυνώπης,0,1,1,,dog-eyed; shameless one,lsj,μέγας ἀναιδής ἕπομαι χαίρω τιμή ἄρνυμαι Μενέλαος Τρώς,Iliad 1.159
+μετατρέπομαι,0,1,1,,,none,,Iliad 1.160
+μογέω,0,1,1,,"toil, suffer; suffers; tired; with pain",lsj,γέρας ἀφαιρέω ἀπειλέω πολύς δίδωμι υἱός Ἀχαιός,Iliad 1.162
+ναίω,0,1,1,,"dwell, abide; dwell in, inhabit; to be inhabited; lie, be situated",lsj,ἴσος ἔχω γέρας Ἀχαιός Τρώς ἐκπέρθω πτολίεθρον,Iliad 1.164
+πτολίεθρον,0,1,1,,,none,ἴσος ἔχω γέρας Ἀχαιός Τρώς ἐκπέρθω ναίω,Iliad 1.164
+αἴτιος,0,1,1,,"culpable, responsible; the most guilty; the accused, the culprit; they who have sinned against",lsj,Τρώς ἔρχομαι αἰχμητής μάχομαι,Iliad 1.153
+ὁδός,0,1,1,,"way, road; course, channel; to truth; further on the way, forwards",lsj,ἀναίδεια ἐπιέννυμι κερδαλεόφρων πρόφρων ἔπος πείθω Ἀχαιός ἔρχομαι ἀνήρ μάχομαι,Iliad 1.151
+κερδαλεόφρων,0,1,1,,greedy of gain; crafty,lsj,ἀναίδεια ἐπιέννυμι πρόφρων ἔπος πείθω Ἀχαιός ὁδός ἔρχομαι ἀνήρ μάχομαι,Iliad 1.149
+ἐπιέννυμι,0,1,1,,put on besides; over; threw; clad in,lsj,ἀναίδεια κερδαλεόφρων πρόφρων ἔπος πείθω Ἀχαιός ὁδός ἔρχομαι ἀνήρ μάχομαι,Iliad 1.149
+εὐτείχεος,0,1,1,,well-walled,lsj,Ἀχαιός τριπλόος τετραπλόος ἀποτίνω Ζεύς δίδωμι πόλις Τροία ἐξαλαπάζω,Iliad 1.129
+ἐξαλαπάζω,0,1,1,,"sack, storm; empty; of its inhabitants, clear; out",lsj,Ἀχαιός τριπλόος τετραπλόος ἀποτίνω Ζεύς δίδωμι πόλις Τροία εὐτείχεος,Iliad 1.129
+θεοείκελος,0,1,1,,godlike,lsj,ἀγαθός Ἀχιλλεύς κλέπτω νόος παρέρχομαι πείθω,Iliad 1.131
+κλέπτω,0,1,1,,clèpere; hlifan; hliftus; steal,lsj,ἀγαθός θεοείκελος Ἀχιλλεύς νόος παρέρχομαι πείθω,Iliad 1.132
+παρέρχομαι,0,1,1,,"ibo; go by, beside; past, pass by; passed away",lsj,ἀγαθός θεοείκελος Ἀχιλλεύς κλέπτω νόος πείθω,Iliad 1.132
+δεύω2,0,1,1,,"miss, want; he missed, failed; feel the want; loss of, be without",lsj (homograph 2),ἐθέλω ἔχω γέρας ἧμαι,Iliad 1.134
+ἀποδίδωμι,0,1,1,,"give up; back, restore, return; render what is due, pay; give",lsj,κέλομαι,Iliad 1.134
+ἀραρίσκω,0,1,1,,"join, fit together; join together, fasten; knitted; pack up",lsj,δίδωμι γέρας μεγάθυμος Ἀχαιός θυμός ἀντάξιος,Iliad 1.136
+ἀντάξιος,0,1,1,,worth just as much as; worth; itself; worth as much as,lsj,δίδωμι γέρας μεγάθυμος Ἀχαιός ἀραρίσκω θυμός,Iliad 1.136
+μεταφράζω,0,1,1,,paraphrase; translate; consider after,lsj,,Iliad 1.140
+εἷς,0,1,1,,"sem; one, one; single man; single",lsj,ἀνήρ ἀρχός βουληφόρος Αἴας Ἰδομενεύς δῖος Ὀδυσσεύς Πηλείδης πᾶς ἔκπαγλος Ἑκάεργος ἱλάσκομαι,Iliad 1.144
+βουληφόρος,0,1,1,,"counselling, advising; like a counsellor",lsj,ἀνήρ εἷς ἀρχός Αἴας Ἰδομενεύς δῖος Ὀδυσσεύς Πηλείδης πᾶς ἔκπαγλος Ἑκάεργος ἱλάσκομαι,Iliad 1.144
+Ἰδομενεύς,0,1,1,,,none,ἀνήρ εἷς ἀρχός βουληφόρος Αἴας δῖος Ὀδυσσεύς Πηλείδης πᾶς ἔκπαγλος Ἑκάεργος ἱλάσκομαι,Iliad 1.145
+ἔκπαγλος,0,1,1,,"terrible, violent; terribly, vehemently, exceedingly; beyond all measure; marvellous, wondrous",lsj,ἀνήρ εἷς ἀρχός βουληφόρος Αἴας Ἰδομενεύς δῖος Ὀδυσσεύς Πηλείδης πᾶς Ἑκάεργος ἱλάσκομαι,Iliad 1.146
+ἀναίδεια,0,1,1,,shamelessness; unforgivingness,lsj,ἐπιέννυμι κερδαλεόφρων πρόφρων ἔπος πείθω Ἀχαιός ὁδός ἔρχομαι ἀνήρ μάχομαι,Iliad 1.149
+ἀναφαίνω,0,1,1,,"cause to give light, make to blaze up; bring to light, produce; show forth, make known, display; send forth a loud",lsj,εὔχομαι Δαναοί Ἀπόλλων Ζεύς φίλος Κάλχας θεοπροπία ζάω χθών δέρκομαι κοῖλος ναῦς,Iliad 1.87
+θεοπρόπιον,0,1,1,,,none,θαρσέω εἶπον οἶδα,Iliad 1.85
+σώζω,0,1,1,,"save, keep; save from death, keep alive; spare; to be saved, kept alive, preserved",lsj (relaxed match),φράζω,Iliad 1.83
+γεραιός,0,1,1,,"old; reverend sire; the elders, senators; eldest",lsj,πολύς κίω ἀράομαι Ἀπόλλων ἄναξ εὔκομος τίκτω Λητώ,Iliad 1.35
+ἔπειμι,0,1,1,,"sum; to be upon; to be upon, be set upon; to be attached",lsj,γῆρας οἶκος Ἄργος πάτρη ἱστός ἐποίχομαι λέχος ἀντιάω,Iliad 1.29
+Ἄργος,0,1,1,,,none,γῆρας ἔπειμι οἶκος πάτρη ἱστός ἐποίχομαι λέχος ἀντιάω,Iliad 1.30
+πάτρη,0,1,1,,,none,γῆρας ἔπειμι οἶκος Ἄργος ἱστός ἐποίχομαι λέχος ἀντιάω,Iliad 1.30
+ἐρεθίζω,0,1,1,,"rouse to anger, rouse to fight; challenge to; provoke to curiosity; excite, chafe",lsj,σῶς νέομαι,Iliad 1.32
+νέομαι,0,1,1,,come; go back; return; násate,lsj,ἐρεθίζω σῶς,Iliad 1.32
+πολύφλοισβος,0,1,1,,loud-roaring; confused,lsj,βαίνω ἀκέων θίς θάλασσα,Iliad 1.34
+εὔκομος,0,1,1,,lovely-haired; well-fleeced; with goodly foliage,lsj,πολύς κίω ἀράομαι γεραιός Ἀπόλλων ἄναξ τίκτω Λητώ,Iliad 1.36
+τόξον,0,1,1,,"bow; the bow; by guess; bowmanship, archery",lsj,βαίνω Ὄλυμπος κάρηνον χώομαι κῆρ ὦμος ἔχω ἀμφηρεφής φαρέτρα,Iliad 1.45
+Σμινθεύς,0,1,1,,the Sminthian; mouse-killer; games at festival of Apollo,lsj,χαρίεις ναός ἐρέφω πίων μηρία καίω ταῦρος αἴξ κραίνω ἔλδωρ,Iliad 1.39
+χαρίεις,0,1,1,,"graceful, beautiful; gracious; acceptable; elegant, accomplished",lsj,Σμινθεύς ναός ἐρέφω πίων μηρία καίω ταῦρος αἴξ κραίνω ἔλδωρ,Iliad 1.39
+ναός,0,1,1,,"temple; inmost part of a temple, shrine; portable shrine",lsj,Σμινθεύς χαρίεις ἐρέφω πίων μηρία καίω ταῦρος αἴξ κραίνω ἔλδωρ,Iliad 1.39
+ἐρέφω,0,1,1,,"cover with a roof; thatched; cover with a crown, crown; crown oneself",lsj,Σμινθεύς χαρίεις ναός πίων μηρία καίω ταῦρος αἴξ κραίνω ἔλδωρ,Iliad 1.39
+πίων,0,1,1,,"fat; rich; wealthy, abounding; plenteous",lsj,Σμινθεύς χαρίεις ναός ἐρέφω μηρία καίω ταῦρος αἴξ κραίνω ἔλδωρ,Iliad 1.40
+μηρία,0,1,1,,thigh-bones; thigh-bones in their fat; thighs,lsj,Σμινθεύς χαρίεις ναός ἐρέφω πίων καίω ταῦρος αἴξ κραίνω ἔλδωρ,Iliad 1.40
+δάκρυον,0,1,1,,"tear; that which drops like tears, gum, sap",lsj,τίνω Δαναοί βέλος,Iliad 1.42
+γῆρας,0,1,1,,"old age; cast skin, slough of a serpent",lsj,ἔπειμι οἶκος Ἄργος πάτρη ἱστός ἐποίχομαι λέχος ἀντιάω,Iliad 1.29
+ὕστερος,0,1,1,,"latter, last; úttaras, uttamás; latter; coming after, behind",lsj,γέρων κοῖλος ναῦς κιχάνω δηθύνω εἶμι χραισμέω σκῆπτρον στέμμα θεός,Iliad 1.27
+δηθύνω,0,1,1,,"tarry, delay; to be prolonged; to be slow",lsj,γέρων κοῖλος ναῦς κιχάνω ὕστερος εἶμι χραισμέω σκῆπτρον στέμμα θεός,Iliad 1.27
+κιχάνω,0,1,1,,"reach, hit; light upon, meet with; reach, overtake; shall reach",lsj,γέρων κοῖλος ναῦς δηθύνω ὕστερος εἶμι χραισμέω σκῆπτρον στέμμα θεός,Iliad 1.26
+οὐλόμενος,0,1,1,,"accursed; ruined, lost; unhappy, wretched",lsj,μῆνις ἀείδω θεά Πηλείδης Ἀχιλλεύς,Iliad 1.2
+μυρίος,0,1,1,,"numberless, countless, infinite; measureless, immense, in finite; boundless; all kinds of",lsj,Ἀχαιός ἄλγος τίθημι,Iliad 1.2
+ἴφθιμος,0,1,1,,"stout, strong; comely, stately; strong, powerful",lsj,πολύς ψυχή Ἅιδης προιάπτω ἥρως,Iliad 1.3
+ψυχή,0,1,1,,"life; lives; dear as life; departed spirit, ghost",lsj,πολύς ἴφθιμος Ἅιδης προιάπτω ἥρως,Iliad 1.3
+Ἅιδης,0,1,1,,Hades; nether; to the nether world; place of departed spirits,lsj,πολύς ἴφθιμος ψυχή προιάπτω ἥρως,Iliad 1.3
+προιάπτω,0,1,1,,"send forth, hurl away; project",lsj (relaxed match),πολύς ἴφθιμος ψυχή Ἅιδης ἥρως,Iliad 1.3
+ἑλώριον,0,1,1,,,none,τεύχω κύων οἰωνός πᾶς,Iliad 1.4
+οἰωνός,0,1,1,,"a large bird, bird of prey; birds; a bird of omen; augury",lsj,ἑλώριον τεύχω κύων πᾶς,Iliad 1.5
+διίστημι,0,1,1,,"set apart, separate; set; at variance with; divide",lsj (relaxed match),πρῶτος ἐρίζω Ἀτρείδης ἄναξ ἀνήρ δῖος Ἀχιλλεύς,Iliad 1.6
+νόσος,0,1,1,,"sickness, disease, plague; distress, anguish; disease of mind; madness",lsj,βασιλεύς χολόω στρατός ὄρνυμι κακός,Iliad 1.10
+ὄρνυμι,0,1,1,,"ārta; orior; stir, stir up; urge on, incite",lsj,βασιλεύς χολόω νόσος στρατός κακός,Iliad 1.10
+ὀλέκω,0,1,1,,"ruin, destroy, kill; prey; perish, die",lsj,λαός Χρύσης ἀτιμάζω ἀρητήρ Ἀτρείδης,Iliad 1.10
+ἀτιμάζω,0,1,1,,"hold in no honour, esteem lightly; bring dishonour upon; speakest in dishonour of; suffer dishonour, insult",lsj,ὀλέκω λαός Χρύσης ἀρητήρ Ἀτρείδης,Iliad 1.11
+ἐυκνήμις,0,1,1,,well-greaved; with goodly spokes,lsj (relaxed match),Ἀτρείδης Ἀχαιός θεός δίδωμι Ὀλύμπιος δῶμα ἔχω ἐκπέρθω Πρίαμος πόλις ἱκνέομαι,Iliad 1.17
+ἅζομαι,0,1,1,,"stand in awe of, esp. gods and oneʼs parents; respects; I fear; reverently, in holy fear",lsj,παῖς λύω φίλος ἄποινα δέχομαι Ζεύς υἱός ἑκηβόλος Ἀπόλλων,Iliad 1.21
+κάρηνον,0,1,1,,head; peaks,lsj,βαίνω Ὄλυμπος χώομαι κῆρ τόξον ὦμος ἔχω ἀμφηρεφής φαρέτρα,Iliad 1.44
+ἀμφηρεφής,0,1,1,,"covered on both sides, close-covered",lsj,βαίνω Ὄλυμπος κάρηνον χώομαι κῆρ τόξον ὦμος ἔχω φαρέτρα,Iliad 1.45
+κότος,0,1,1,,"grudge, rancour, ill-will; vengeance",lsj,χόλος καταπέσσω ἔχω τελέω στῆθος,Iliad 1.82
+οἰωνοπόλος,0,1,1,,"one busied with the flight and cries of birds, an augur; augur",lsj,ἀνίστημι Κάλχας Θεστορίδης ἄριστος οἶδα ναῦς ἡγέομαι Ἀχαιός Ἴλιος μαντοσύνη πόρω Φοῖβος,Iliad 1.69
+δαμάζω,0,1,1,,"overpower; tame, break in; work; clear",lsj,Ἀτρείδης παλιμπλάζομαι οἴομαι ἀπονοστέω θάνατος φεύγω πόλεμος λοιμός Ἀχαιός,Iliad 1.61
+λοιμός,0,1,1,,"plague; plague, pest; pestilent",lsj,Ἀτρείδης παλιμπλάζομαι οἴομαι ἀπονοστέω θάνατος φεύγω πόλεμος δαμάζω Ἀχαιός,Iliad 1.61
+ὀνειροπόλος,0,1,1,,interpreter of dreams; belonging to dreams,lsj,μάντις εἴρω2 ἱερεύς ὄναρ Ζεύς εἶπον τόσος χώομαι Φοῖβος Ἀπόλλων εὐχωλή ἐπιμέμφομαι,Iliad 1.63
+ὄναρ,0,1,1,,"dream, vision in sleep; dream; in a dream, in sleep; in a dream",lsj,μάντις εἴρω2 ἱερεύς ὀνειροπόλος Ζεύς εἶπον τόσος χώομαι Φοῖβος Ἀπόλλων εὐχωλή ἐπιμέμφομαι,Iliad 1.63
+ἀρνός,0,1,1,,,none,μάντις εἴρω2 ἱερεύς ὀνειροπόλος ὄναρ Ζεύς εἶπον τόσος χώομαι Φοῖβος Ἀπόλλων εὐχωλή,Iliad 1.66
+τέλειος,0,1,1,,"perfect; entire, without spot; blemish; perfect, of full tale",lsj,μάντις εἴρω2 ἱερεύς ὀνειροπόλος ὄναρ Ζεύς εἶπον τόσος χώομαι Φοῖβος Ἀπόλλων εὐχωλή,Iliad 1.66
+Θεστορίδης,0,1,1,,,none,ἀνίστημι Κάλχας οἰωνοπόλος ἄριστος οἶδα ναῦς ἡγέομαι Ἀχαιός Ἴλιος μαντοσύνη πόρω Φοῖβος,Iliad 1.69
+ἡγέομαι,0,1,1,,"go before, lead the way; precede; to go before; might guide",lsj,ἀνίστημι Κάλχας Θεστορίδης οἰωνοπόλος ἄριστος οἶδα ναῦς Ἀχαιός Ἴλιος μαντοσύνη πόρω Φοῖβος,Iliad 1.71
+φαρέτρα,0,1,1,,quiver; quiver-full of,lsj,βαίνω Ὄλυμπος κάρηνον χώομαι κῆρ τόξον ὦμος ἔχω ἀμφηρεφής,Iliad 1.45
+Ἴλιος,0,1,1,,"Ilios; Ilium, the city of Ilus, Troy; from Troy; before Troy",lsj,ἀνίστημι Κάλχας Θεστορίδης οἰωνοπόλος ἄριστος οἶδα ναῦς ἡγέομαι Ἀχαιός μαντοσύνη πόρω Φοῖβος,Iliad 1.71
+μαντοσύνη,0,1,1,,the art of divination,lsj,ἀνίστημι Κάλχας Θεστορίδης οἰωνοπόλος ἄριστος οἶδα ναῦς ἡγέομαι Ἀχαιός Ἴλιος πόρω Φοῖβος,Iliad 1.72
+πόρω,0,1,1,,,none,ἀνίστημι Κάλχας Θεστορίδης οἰωνοπόλος ἄριστος οἶδα ναῦς ἡγέομαι Ἀχαιός Ἴλιος μαντοσύνη Φοῖβος,Iliad 1.72
+ἑκατηβελέτης,0,1,1,,six,lsj,Ἀχιλλεύς κέλομαι Ζεύς φίλος μυθέομαι μῆνις Ἀπόλλων ἄναξ,Iliad 1.75
+συντίθημι,0,1,1,,place; put together; fold; together,lsj,,Iliad 1.76
+κρείσσων,0,1,1,,"stronger, mightier; having the upper hand, superior; prevail; better",lsj,βασιλεύς χώομαι ἀνήρ χείρων,Iliad 1.80
+καταπέσσω,0,1,1,,"digest; digest, keep from rising; bear; meekly",lsj,χόλος ἔχω κότος τελέω στῆθος,Iliad 1.81
+θάνατος,0,1,1,,death; the death threatened; to death; death-penalty,lsj,Ἀτρείδης παλιμπλάζομαι οἴομαι ἀπονοστέω φεύγω πόλεμος δαμάζω λοιμός Ἀχαιός,Iliad 1.60
+ἀπονοστέω,0,1,1,,"return, come home; when he returns from",lsj,Ἀτρείδης παλιμπλάζομαι οἴομαι θάνατος φεύγω πόλεμος δαμάζω λοιμός Ἀχαιός,Iliad 1.60
+παλιμπλάζομαι,0,1,1,,"foiled, driven back",lsj,Ἀτρείδης οἴομαι ἀπονοστέω θάνατος φεύγω πόλεμος δαμάζω λοιμός Ἀχαιός,Iliad 1.59
+μετάφημι,0,1,1,,speak among,lsj,ἀγείρω ὁμηγερής γίγνομαι ἀνίστημι πούς ὠκύς Ἀχιλλεύς,Iliad 1.58
+κλάζω,0,1,1,,"make a sharp piercing sound; scream; bark, bay; clash, rattle",lsj,ὀιστός ὦμος χώομαι κινέω,Iliad 1.46
+ὀιστός,0,1,1,,"arrow; arrow-head, Sagitta sagittifolia; Sagitta",lsj (relaxed match),κλάζω ὦμος χώομαι κινέω,Iliad 1.46
+κινέω,0,1,1,,set in motion; move; rock; remove,lsj,κλάζω ὀιστός ὦμος χώομαι,Iliad 1.47
+νύξ,0,1,1,,night; mght-season; a night; by night,lsj,εἶμι εἴκω1,Iliad 1.47
+ἰός,0,1,1,,arrow,lsj,ἵημι,Iliad 1.48
+κλαγγή,0,1,1,,any sharp sound; twang; scream; confused cries of a throng,lsj,δεινός γίγνομαι ἀργύρεος βιός,Iliad 1.49
+βιός,0,1,1,,bow; jiyā´; gijà,lsj,δεινός κλαγγή γίγνομαι ἀργύρεος,Iliad 1.49
+ὀρεύς,0,1,1,,mule,lsj,πρῶτος ἐποίχομαι κύων ἀργός,Iliad 1.50
+ἀργός,0,1,1,,"shining, glistening; swift-footed; white; Swift-foot",lsj,ὀρεύς πρῶτος ἐποίχομαι κύων,Iliad 1.50
+ἐχεπευκής,0,1,1,,"pungo) sharp, piercing; bitter",lsj,βέλος ἐφίημι βάλλω,Iliad 1.51
+πυρή,0,1,1,,,none,νέκυς καίω θαμέες,Iliad 1.52
+νέκυς,0,1,1,,corpse; dead person; spirits of the dead; dead,lsj,πυρή καίω θαμέες,Iliad 1.52
+θαμέες,0,1,1,,"crowded, close-set; frequent",lsj,πυρή νέκυς καίω,Iliad 1.52
+δέκατος,0,1,1,,"tenth; tenth part, tithe; of the tenth; the tenth day",lsj,ἀγορά καλέω λαός Ἀχιλλεύς,Iliad 1.54
+ὁμηγερής,0,1,1,,assembled; all assembled,lsj,ἀγείρω γίγνομαι ἀνίστημι μετάφημι πούς ὠκύς Ἀχιλλεύς,Iliad 1.57
+πολυάιξ,0,1,1,,,none,πλείων πόλεμος χείρ διέπω,Iliad 1.165
+διέπω,0,1,1,,"manage, conduct; drove; away; traverse",lsj,πλείων πολυάιξ πόλεμος χείρ,Iliad 1.166
+δασμός,0,1,1,,division of spoil; tribute; tribute paid,lsj,ἱκνέομαι γέρας πολύς μέγας,Iliad 1.166
+βροτός,0,1,1,,mortal man; dead; mṛtás; morior,lsj,ἐπιχθόνιος μάχομαι,Iliad 1.272
+Θησεύς,0,1,1,,Theseus,lsj,εἶδον τοῖος ἀνήρ οἷος Πειρίθοος Δρύας ποιμήν λαός Καινεύς Ἐξάδιος ἀντίθεος Πολύφημος,Iliad 1.265
+Αἰγείδης,0,1,1,,,none,εἶδον τοῖος ἀνήρ οἷος Πειρίθοος Δρύας ποιμήν λαός Καινεύς Ἐξάδιος ἀντίθεος Πολύφημος,Iliad 1.265
+ἐπιείκελος,0,1,1,,like,lsj,εἶδον τοῖος ἀνήρ οἷος Πειρίθοος Δρύας ποιμήν λαός Καινεύς Ἐξάδιος ἀντίθεος Πολύφημος,Iliad 1.265
+φήρ,0,1,1,,the Centaurs; Satyrs,lsj,κράτιστος μάχομαι ὀρεσκῷος,Iliad 1.268
+ὀρεσκῷος,0,1,1,,"lying on mountains, mountain-bred, wild",lsj,κράτιστος μάχομαι φήρ,Iliad 1.268
+μεθομιλέω,0,1,1,,hold converse with,lsj,Πύλος ἔρχομαι ἄπιος γαῖα,Iliad 1.269
+ἄπιος,0,1,1,,"pear-tree, Pyrus communis; pear; Euphorbia Apios, tuberous spurge",lsj,μεθομιλέω Πύλος ἔρχομαι γαῖα,Iliad 1.270
+ἐάω,0,1,1,,"suffer, permit; leave; alone; should be given up",lsj,πρῶτος δίδωμι γέρας υἱός Ἀχαιός,Iliad 1.276
+ὄνειδος,0,1,1,,"reproach, rebuke, censure, blame; in disgrace; reproach; with censures",lsj,αἰχμητής τίθημι θεός προτίθημι μυθέομαι,Iliad 1.291
+ὁμοῖος,0,1,1,,,none,βασιλεύς Πηλείδης ἐθέλω ἐρίζω μείρομαι τιμή σκηπτοῦχος Ζεύς κῦδος δίδωμι,Iliad 1.278
+μείρομαι,0,1,1,,receive as oneʼs portion; oneʼs due; take; as thy due,lsj,βασιλεύς Πηλείδης ἐθέλω ἐρίζω ὁμοῖος τιμή σκηπτοῦχος Ζεύς κῦδος δίδωμι,Iliad 1.278
+σκηπτοῦχος,0,1,1,,"bearing a staff, baton; sceptre; sceptred; wand-bearer",lsj,βασιλεύς Πηλείδης ἐθέλω ἐρίζω ὁμοῖος μείρομαι τιμή Ζεύς κῦδος δίδωμι,Iliad 1.279
+γείνομαι,0,1,1,,to be born; at oneʼs birth; beget; bring forth,lsj,καρτερός θεά μήτηρ φέρτατος πλείων ἀνάσσω,Iliad 1.280
+μεθίημι,0,1,1,,"set loose, let go; release; let; depart",lsj,λίσσομαι Ἀχιλλεύς χόλος μέγας πᾶς ἕρκος Ἀχαιός πέλω πόλεμος κακός,Iliad 1.283
+ἕρκος,0,1,1,,"fence, enclosure; the place enclosed, court-yard; enclosure; wall for defence",lsj,λίσσομαι Ἀχιλλεύς μεθίημι χόλος μέγας πᾶς Ἀχαιός πέλω πόλεμος κακός,Iliad 1.284
+μοῖρα,0,1,1,,part; portion; division; party,lsj,πᾶς γέρων εἶπον,Iliad 1.286
+Πολύφημος,0,1,1,,,none,εἶδον τοῖος ἀνήρ οἷος Πειρίθοος Δρύας ποιμήν λαός Καινεύς Ἐξάδιος ἀντίθεος Θησεύς,Iliad 1.264
+ἀντίθεος,0,1,1,,"equal to the gods, godlike; contrary to God; hostile deity; disguised as a god",lsj,εἶδον τοῖος ἀνήρ οἷος Πειρίθοος Δρύας ποιμήν λαός Καινεύς Ἐξάδιος Πολύφημος Θησεύς,Iliad 1.264
+Ἐξάδιος,0,1,1,,,none,εἶδον τοῖος ἀνήρ οἷος Πειρίθοος Δρύας ποιμήν λαός Καινεύς ἀντίθεος Πολύφημος Θησεύς,Iliad 1.264
+Καινεύς,0,1,1,,,none,εἶδον τοῖος ἀνήρ οἷος Πειρίθοος Δρύας ποιμήν λαός Ἐξάδιος ἀντίθεος Πολύφημος Θησεύς,Iliad 1.264
+μέροψ,0,1,1,,"dividing the voice; articulate; bee-eater, Merops apiaster",lsj,γενεά ἄνθρωπος φθίω τρέφω γίγνομαι Πύλος ἠγάθεος,Iliad 1.250
+φθίω,0,1,1,,"kṣiṇā´ti, kṣiṇóti; Kṣīyante; ákṣitas; kṣeṣya",lsj,γενεά μέροψ ἄνθρωπος τρέφω γίγνομαι Πύλος ἠγάθεος,Iliad 1.251
+ἠγάθεος,0,1,1,,most holy,lsj,γενεά μέροψ ἄνθρωπος φθίω τρέφω γίγνομαι Πύλος,Iliad 1.252
+τρίτατος,0,1,1,,in the third place,lsj,ἀνάσσω,Iliad 1.252
+Ἀχαιΐς,0,1,1,,the Achaian land; Achaian woman,lsj,μέγας πένθος γαῖα ἱκάνω,Iliad 1.254
+πυνθάνομαι,0,1,1,,learn; by hearsay; by inquiry; from,lsj,Πρίαμος γηθέω παῖς Τρώς μέγας χαίρω θυμός πᾶς μάρναμαι βουλή Δαναοί μάχομαι,Iliad 1.257
+μάρναμαι,0,1,1,,"fight, do battle; with, against; together with; on his side",lsj,Πρίαμος γηθέω παῖς Τρώς μέγας χαίρω θυμός πᾶς πυνθάνομαι βουλή Δαναοί μάχομαι,Iliad 1.257
+ἀρείων,0,1,1,,"better, stouter, braver; snail; slug",lsj,ἀνήρ ὁμιλέω,Iliad 1.260
+ὁμιλέω,0,1,1,,"to be in company with, consort with; consortest; joining in company; throng",lsj,ἀρείων ἀνήρ,Iliad 1.261
+ἀθερίζω,0,1,1,,make light of,lsj,,Iliad 1.261
+τοῖος,0,1,1,,"such, such-like; such as; fit; able",lsj,εἶδον ἀνήρ οἷος Πειρίθοος Δρύας ποιμήν λαός Καινεύς Ἐξάδιος ἀντίθεος Πολύφημος Θησεύς,Iliad 1.262
+οἷος,0,1,1,,"such as, of what sort; what a man; what; like as",lsj,εἶδον τοῖος ἀνήρ Πειρίθοος Δρύας ποιμήν λαός Καινεύς Ἐξάδιος ἀντίθεος Πολύφημος Θησεύς,Iliad 1.263
+Πειρίθοος,0,1,1,,,none,εἶδον τοῖος ἀνήρ οἷος Δρύας ποιμήν λαός Καινεύς Ἐξάδιος ἀντίθεος Πολύφημος Θησεύς,Iliad 1.263
+Δρύας,0,1,1,,,none,εἶδον τοῖος ἀνήρ οἷος Πειρίθοος ποιμήν λαός Καινεύς Ἐξάδιος ἀντίθεος Πολύφημος Θησεύς,Iliad 1.263
+ποιμήν,0,1,1,,"herdsman; shepherd; captain, chief; master, lord",lsj,εἶδον τοῖος ἀνήρ οἷος Πειρίθοος Δρύας λαός Καινεύς Ἐξάδιος ἀντίθεος Πολύφημος Θησεύς,Iliad 1.263
+προτίθημι,0,1,1,,"set before, set out; set before oneself, have set before one; cause; to be set before",lsj,αἰχμητής τίθημι θεός ὄνειδος μυθέομαι,Iliad 1.291
+δειλός,0,1,1,,"cowardly; vile, worthless; lowborn, mean; afraid of",lsj,οὐτιδανός καλέω πᾶς ἔργον ὑπείκω εἶπον,Iliad 1.293
+αὐδή,0,1,1,,"human voice, speech; sound; twang; report, account",lsj,Νέστωρ ἡδυεπής ἀνορούω λιγύς Πύλιος ἀγορητής γλῶσσα μέλι γλυκύς ῥέω,Iliad 1.249
+προσφωνέω,0,1,1,,"call; speak to, address; address; call by name",lsj,,Iliad 1.332
+πένομαι,0,1,1,,"toil, work; were busy; to have to work for oneʼs living; to be poor",lsj,στρατός,Iliad 1.318
+ἐπαπειλέω,0,1,1,,hold out as a threat to; threaten; threatened,lsj,Ἀγαμέμνων λήγω ἔρις πρῶτος Ἀχιλλεύς,Iliad 1.319
+Ταλθύβιος,0,1,1,,,none,Εὐρυβάτης προσεῖπον κῆρυξ ὀτρηρός θεράπων,Iliad 1.320
+Εὐρυβάτης,0,1,1,,,none,Ταλθύβιος προσεῖπον κῆρυξ ὀτρηρός θεράπων,Iliad 1.320
+ὀτρηρός,0,1,1,,"quick, nimble, busy, ready; sharp, cutting",lsj,Ταλθύβιος Εὐρυβάτης προσεῖπον κῆρυξ θεράπων,Iliad 1.321
+θεράπων,0,1,1,,,none,Ταλθύβιος Εὐρυβάτης προσεῖπον κῆρυξ ὀτρηρός,Iliad 1.321
+ταρβέω,0,1,1,,"to be frightened, alarmed; feels fear; a state of fear; from fear",lsj,αἰδέομαι βασιλεύς ἵστημι,Iliad 1.331
+ἄγγελος,0,1,1,,"messenger, envoy; one that announces; tells; angel",lsj,χαίρω κῆρυξ Ζεύς ἀνήρ,Iliad 1.334
+ὑπείκω,0,1,1,,"retire, withdraw, depart; from; retire from; for",lsj,δειλός οὐτιδανός καλέω πᾶς ἔργον εἶπον,Iliad 1.294
+ἐπαίτιος,0,1,1,,"blamed for; blameable, blameworthy; for; accused of",lsj,Ἀγαμέμνων προίημι Βρισηίς κόρη,Iliad 1.335
+ἐξάγω,0,1,1,,"lead out, lead away; having brought; out from; bring out of",lsj,διογενής Πάτροκλος κόρη,Iliad 1.337
+μάρτυρος,0,1,1,,,none,θεός μάκαρ θνητός ἄνθρωπος βασιλεύς ἀπηνής χρεώ γίγνομαι ἀεικής λοιγός ἀμύνω,Iliad 1.338
+ἀπηνής,0,1,1,,"ungentle, rough, hard; cruel; cruel thoughts; hard",lsj,μάρτυρος θεός μάκαρ θνητός ἄνθρωπος βασιλεύς χρεώ γίγνομαι ἀεικής λοιγός ἀμύνω,Iliad 1.340
+χρεώ,0,1,1,,"want, need; need; necessity; need of",lsj,μάρτυρος θεός μάκαρ θνητός ἄνθρωπος βασιλεύς ἀπηνής γίγνομαι ἀεικής λοιγός ἀμύνω,Iliad 1.341
+ὀλοός,0,1,1,,"destructive, deadly; ill; destroyed, lost",lsj,φρήν θύω,Iliad 1.342
+θύω,0,1,1,,"offer by burning; made an offering; sacrifice, slay; the flesh of the victim",lsj,ὀλοός φρήν,Iliad 1.342
+καπνός,0,1,1,,smoke; spray; trifles; on the smoking embers,lsj,κνῖσα οὐρανός ἱκνέομαι ἑλίσσω,Iliad 1.317
+ἑλίσσω,0,1,1,,Acut.(Sp; turn round; about; turning,lsj,κνῖσα οὐρανός ἱκνέομαι καπνός,Iliad 1.317
+τελήεις,0,1,1,,"perfect, complete; of full tale; number; of full-grown beasts",lsj,ἔρδω Ἀπόλλων ἑκατόμβη ταῦρος αἴξ θίς ἅλς1 ἀτρύγετος,Iliad 1.315
+ἔρδω,0,1,1,,to do; harm; let; practise,lsj,Ἀπόλλων τελήεις ἑκατόμβη ταῦρος αἴξ θίς ἅλς1 ἀτρύγετος,Iliad 1.315
+ἐπιτέλλω,0,1,1,,"enjoin, prescribe, command; spake; command; enjoined, prescribed",lsj,,Iliad 1.295
+πειράω,0,1,1,,"attempt, endeavour, try; make trial of; make an attempt on; make an attempt",lsj,γιγνώσκω,Iliad 1.302
+αἷμα,0,1,1,,blood; streams of blood; anything like blood; dye,lsj,κελαινός ἐρωέω δόρυ,Iliad 1.303
+κελαινός,0,1,1,,"black, dark; swarthy; black with blood-stains; dark, murky",lsj,αἷμα ἐρωέω δόρυ,Iliad 1.303
+ἐρωέω,0,1,1,,"rush, rush forth; started back; escape harm; draw back",lsj,αἷμα κελαινός δόρυ,Iliad 1.303
+δόρυ,0,1,1,,"stem, tree; plank; beam; mast",lsj,αἷμα κελαινός ἐρωέω,Iliad 1.303
+ἀντίβιος,0,1,1,,opposing force to force; wrangling; hostile; enemy,lsj,μάχομαι ἔπος ἀνίστημι,Iliad 1.304
+Μενοιτιάδης,0,1,1,,,none,Πηλείδης κλισία ναῦς ἴσος εἶμι ἑταῖρος,Iliad 1.307
+προερύω,0,1,1,,draw on; forward; drew; move,lsj,Ἀτρείδης ναῦς θοός ἅλς1,Iliad 1.308
+κρίνω,0,1,1,,"separate, put asunder, distinguish; pick out, choose; to choose; to be chosen out, distinguished",lsj,ἐρέτης,Iliad 1.309
+ἵζω,0,1,1,,"si-sd-ō; e-sed-s; make to sit, seat, place, set; set",lsj,Χρυσηίς καλλιπάρηος ἄγω,Iliad 1.311
+ἐπιπλέω,0,1,1,,"sail upon; over; sail against, attack by sea; sail on",lsj,ἀναβαίνω ὑγρός κέλευθος,Iliad 1.312
+ὑγρός,0,1,1,,"wet, moist, fluid; raw; liquid; moist",lsj,ἀναβαίνω ἐπιπλέω κέλευθος,Iliad 1.312
+ἄνωγα,0,1,1,,"command, order; advise, urge; bade; bids, prompts",lsj,λαός Ἀτρείδης ἀπολυμαίνομαι,Iliad 1.313
+λῦμα,0,1,1,,"water used in washing; dirt removed by washing, offscourings; purgations; offscourings, refuse",lsj,ἅλς1 βάλλω,Iliad 1.314
+γενεά,0,1,1,,"race, family; by birth; blood; younger",lsj,μέροψ ἄνθρωπος φθίω τρέφω γίγνομαι Πύλος ἠγάθεος,Iliad 1.250
+ῥέω,0,1,1,,"flow, run, stream, gush; runs with; a full stream; derive its stream",lsj,Νέστωρ ἡδυεπής ἀνορούω λιγύς Πύλιος ἀγορητής γλῶσσα μέλι γλυκύς αὐδή,Iliad 1.249
+κάμνω,0,1,1,,work; wrought; build; win by toil,lsj,ὀλίγος φίλος ἔρχομαι ἔχω ναῦς πολεμίζω,Iliad 1.168
+πτερόεις,0,1,1,,"feathered, winged; fluttering; winged",lsj,φωνέω ἔπος προσαυδάω,Iliad 1.201
+ἐναρίζω,0,1,1,,strip a slain foe of his arms; slay in fight; slay; when dying,lsj,ἦτορ στῆθος λάσιος μερμηρίζω φάσγανον ὀξύς ἐρύω1 μηρός ἀνίστημι Ἀτρείδης χόλος παύω,Iliad 1.191
+ἐρητύω,0,1,1,,"restrain, check; parts; to keep away from; prevent",lsj,ἦτορ στῆθος λάσιος μερμηρίζω φάσγανον ὀξύς ἐρύω1 μηρός ἀνίστημι Ἀτρείδης ἐναρίζω χόλος,Iliad 1.192
+ὁρμαίνω,0,1,1,,"turn over; revolve anxiously in the mind, debate, ponder; ponder over, meditate; think, muse",lsj,φρήν θυμός ἕλκω κολεόν μέγας ξίφος ἔρχομαι Ἀθήνη,Iliad 1.193
+ξανθός,0,1,1,,"yellow; brown, auburn; fair, golden; golden",lsj,κόμη αἱρέω Πηλείων οἶος φαίνω,Iliad 1.197
+κόμη,0,1,1,,"hair of the head; the hair; hair, wig; unkempt",lsj,ξανθός αἱρέω Πηλείων οἶος φαίνω,Iliad 1.197
+θαμβέω,0,1,1,,to be astounded; to be astonished at; alarm; PMag. Leid.W,lsj,Ἀχιλλεύς,Iliad 1.199
+τρέπω,0,1,1,,Studien zum griech. Perf; turn; direct; show,lsj,,Iliad 1.199
+τέκος,0,1,1,,the young,lsj,αἰγίοχος Ζεύς ἔρχομαι,Iliad 1.202
+κώπη,0,1,1,,handle; handle of an oar; the oar; oars,lsj,ἀργύρεος ἔχω χείρ βαρύς,Iliad 1.219
+ὑπεροπλία,0,1,1,,"insolence, presumptuousness; high courage",lsj,θυμός ὄλλυμι,Iliad 1.205
+γλαυκῶπις,0,1,1,,with gleaming eyes,lsj,προσεῖπον θεά Ἀθήνη,Iliad 1.206
+ὀνειδίζω,0,1,1,,"cast in; teeth, make a reproach; make a reproach; to be made a reproach",lsj,ἔπος,Iliad 1.211
+ἐξείρω,0,1,1,,put forth; pull out,lsj,,Iliad 1.212
+πάρειμι,0,1,1,,sum; to be by; present; near,lsj,τόσος ἀγλαός δῶρον ὕβρις,Iliad 1.213
+ἴσχω,0,1,1,,"keep back, restrain; keep; back; to keep",lsj,,Iliad 1.214
+χρή,0,1,1,,"sum; it is necessary; it must needs, one must; ought",lsj,σφωίτερος θεά ἔπος ἐρύω2 θυμός χολόω,Iliad 1.216
+ὀξύς,0,1,1,,"wood sorrel, Oxalis Acetosella; great sea-rush, Juncus acutus; sorrel, Rumex acetosa",lsj,ἦτορ στῆθος λάσιος μερμηρίζω φάσγανον ἐρύω1 μηρός ἀνίστημι Ἀτρείδης ἐναρίζω χόλος παύω,Iliad 1.190
+φάσγανον,0,1,1,,"sword; corn-flag, Gladiolus segetum",lsj,ἦτορ στῆθος λάσιος μερμηρίζω ὀξύς ἐρύω1 μηρός ἀνίστημι Ἀτρείδης ἐναρίζω χόλος παύω,Iliad 1.190
+μερμηρίζω,0,1,1,,"to be anxious; thoughtful, to be in doubt; was debating; debated anxiously",lsj,ἦτορ στῆθος λάσιος φάσγανον ὀξύς ἐρύω1 μηρός ἀνίστημι Ἀτρείδης ἐναρίζω χόλος παύω,Iliad 1.189
+λάσιος,0,1,1,,"shaggy, woolly; hairiness; bushy, overgrown; overgrown with",lsj,ἦτορ στῆθος μερμηρίζω φάσγανον ὀξύς ἐρύω1 μηρός ἀνίστημι Ἀτρείδης ἐναρίζω χόλος παύω,Iliad 1.189
+πολεμίζω,0,1,1,,"wage war, fight; with; jointly with; war",lsj,ὀλίγος φίλος ἔρχομαι ἔχω ναῦς κάμνω,Iliad 1.168
+κορωνίς,0,1,1,,crook-beaked; curved; with crumpled horns; anything curved,lsj,εἶμι Φθία πολύς φέρτατος ναῦς,Iliad 1.170
+ἄφενος,0,1,1,,"revenue, riches, wealth, abundance; wealth",lsj,οἴομαι ἄτιμος πλοῦτος ἀφύσσω,Iliad 1.171
+πλοῦτος,0,1,1,,"wealth, riches; treasures; treasure; Plutus",lsj,οἴομαι ἄτιμος ἄφενος ἀφύσσω,Iliad 1.171
+ἐπισεύω,0,1,1,,"put in motion; against, set on; hurry; hasten to",lsj,φεύγω θυμός,Iliad 1.173
+ἔχθιστος,0,1,1,,most hateful; most hostile; bitterest enemies,lsj,διοτρεφής βασιλεύς,Iliad 1.176
+διοτρεφής,0,1,1,,"fostered, cherished by Zeus; fed by rain",lsj,ἔχθιστος βασιλεύς,Iliad 1.176
+ὄθομαι,0,1,1,,take heed; regard,lsj,κοτέω,Iliad 1.181
+κοτέω,0,1,1,,"bear; a grudge, be angry at; angry at; angry",lsj,ὄθομαι,Iliad 1.181
+φέρτερος,0,1,1,,,none,ἄγω Βρισηίς καλλιπάρηος εἶμι κλισία γέρας εἶδον ὅσος στυγέω ἴσος φημί ὁμοιόω,Iliad 1.186
+στυγέω,0,1,1,,"hate, abhor; to show hatred; hate; fear",lsj,ἄγω Βρισηίς καλλιπάρηος εἶμι κλισία γέρας εἶδον ὅσος φέρτερος ἴσος φημί ὁμοιόω,Iliad 1.186
+ὁμοιόω,0,1,1,,"make like; makes; correspond; to be made like, become like",lsj,ἄγω Βρισηίς καλλιπάρηος εἶμι κλισία γέρας εἶδον ὅσος φέρτερος στυγέω ἴσος φημί,Iliad 1.187
+ἄχος,0,1,1,,"pain, distress",lsj,Πηλείων γίγνομαι,Iliad 1.188
+ἦτορ,0,1,1,,"heart; my heart; the seat of life, life; the seat of feeling, passion, desire",lsj,στῆθος λάσιος μερμηρίζω φάσγανον ὀξύς ἐρύω1 μηρός ἀνίστημι Ἀτρείδης ἐναρίζω χόλος παύω,Iliad 1.188
+σφωίτερος,0,1,1,,"of you two; of them two; both of them; your own, your",lsj (relaxed match),χρή θεά ἔπος ἐρύω2 θυμός χολόω,Iliad 1.216
+ὠθέω,0,1,1,,"thrust, push; he kept pushing; pushed; rush",lsj,κολεόν μέγας ξίφος,Iliad 1.220
+μέλι,0,1,1,,honey; sweet gum; manna; milip,lsj,Νέστωρ ἡδυεπής ἀνορούω λιγύς Πύλιος ἀγορητής γλῶσσα γλυκύς ῥέω αὐδή,Iliad 1.249
+ἀμύσσω,0,1,1,,"scratch, tear, lacerate; tear in pieces, mangle; prick; sting",lsj,θυμός χώομαι ἄριστος Ἀχαιός τίνω,Iliad 1.243
+παλάμη,0,1,1,,,none,υἱός Ἀχαιός φορέω δικασπόλος θέμις Ζεύς ἐρύω2,Iliad 1.238
+φορέω,0,1,1,,"repeated; habitual; bear to and fro, bear along; conveyed",lsj,υἱός Ἀχαιός παλάμη δικασπόλος θέμις Ζεύς ἐρύω2,Iliad 1.238
+δικασπόλος,0,1,1,,"qṷel; one who gives law, judge",lsj,υἱός Ἀχαιός παλάμη φορέω θέμις Ζεύς ἐρύω2,Iliad 1.238
+θέμις,0,1,1,,"that which is laid down; established, law; as established by custom; meet and right",lsj,υἱός Ἀχαιός παλάμη φορέω δικασπόλος Ζεύς ἐρύω2,Iliad 1.238
+ποθή,0,1,1,,"longing, desire for; from longing after; want",lsj,Ἀχιλλεύς ἱκνέομαι υἱός Ἀχαιός σύμπας,Iliad 1.240
+Ἕκτωρ,0,1,1,,,none,δύναμαι ἄχνυμαι χραισμέω πολύς ἀνδροφόνος θνήσκω πίπτω,Iliad 1.242
+ἀνδροφόνος,0,1,1,,man-slaying; homicide; murderous; slaughter in battle,lsj,δύναμαι ἄχνυμαι χραισμέω πολύς Ἕκτωρ θνήσκω πίπτω,Iliad 1.242
+ἧλος,0,1,1,,"nail-head, stud; nail; acutus; spur",lsj,σκῆπτρον βάλλω γαῖα χρύσεος πείρω,Iliad 1.246
+ἀπιθέω,0,1,1,,disobeyed; fail to persuade,lsj,μῦθος Ἀθήνη,Iliad 1.220
+Νέστωρ,0,1,1,,Nestor,lsj,ἡδυεπής ἀνορούω λιγύς Πύλιος ἀγορητής γλῶσσα μέλι γλυκύς ῥέω αὐδή,Iliad 1.247
+ἡδυεπής,0,1,1,,sweet-speaking; sweet-sounding,lsj,Νέστωρ ἀνορούω λιγύς Πύλιος ἀγορητής γλῶσσα μέλι γλυκύς ῥέω αὐδή,Iliad 1.248
+ἀνορούω,0,1,1,,"start up, leap up; went swiftly up",lsj,Νέστωρ ἡδυεπής λιγύς Πύλιος ἀγορητής γλῶσσα μέλι γλυκύς ῥέω αὐδή,Iliad 1.248
+λιγύς,0,1,1,,"clear, shrill; clear, sweet; clear-toned; clear-voiced",lsj,Νέστωρ ἡδυεπής ἀνορούω Πύλιος ἀγορητής γλῶσσα μέλι γλυκύς ῥέω αὐδή,Iliad 1.248
+Πύλιος,0,1,1,,,none,Νέστωρ ἡδυεπής ἀνορούω λιγύς ἀγορητής γλῶσσα μέλι γλυκύς ῥέω αὐδή,Iliad 1.248
+ἀγορητής,0,1,1,,speaker; public auctioneer,lsj,Νέστωρ ἡδυεπής ἀνορούω λιγύς Πύλιος γλῶσσα μέλι γλυκύς ῥέω αὐδή,Iliad 1.248
+γλῶσσα,0,1,1,,tongue; larynx; of talking; frankness of speech,lsj,Νέστωρ ἡδυεπής ἀνορούω λιγύς Πύλιος ἀγορητής μέλι γλυκύς ῥέω αὐδή,Iliad 1.249
+φλοιός,0,1,1,,bark; smooth bark; husk; skin,lsj,χαλκός λέπω φύλλον,Iliad 1.237
+λέπω,0,1,1,,"strip off the rind; husks, peel, bark; give a hiding to; thrash",lsj,χαλκός φύλλον φλοιός,Iliad 1.236
+χαλκός,0,1,1,,copper; bronze; anything made of metal; the spear of bronze,lsj,λέπω φύλλον φλοιός,Iliad 1.236
+ἀναθηλέω,0,1,1,,sprout afresh,lsj,σκῆπτρον φύλλον ὄζος φύω πρῶτος τομή ὄρος λείπω,Iliad 1.236
+δαίμων,0,1,1,,"god, goddess; the Divine power; the Deity; chance",lsj,Ὄλυμπος βαίνω δῶμα αἰγίοχος Ζεύς,Iliad 1.222
+οἰνοβαρής,0,1,1,,heavy with wine,lsj,κύων ὄμμα ἔχω καρδία ἔλαφος πόλεμος λαός θωρήσσω λόχος εἶμι ἀριστεύς Ἀχαιός,Iliad 1.225
+ὄμμα,0,1,1,,eye; straight; look; expression,lsj,οἰνοβαρής κύων ἔχω καρδία ἔλαφος πόλεμος λαός θωρήσσω λόχος εἶμι ἀριστεύς Ἀχαιός,Iliad 1.225
+ἔλαφος,0,1,1,,"deer, Cervus elaphus; hart; stag; hind",lsj,οἰνοβαρής κύων ὄμμα ἔχω καρδία πόλεμος λαός θωρήσσω λόχος εἶμι ἀριστεύς Ἀχαιός,Iliad 1.225
+θωρήσσω,0,1,1,,"arm with a; arm; arm oneself, put oneʼs harness on; to arm yourselves withal",lsj,οἰνοβαρής κύων ὄμμα ἔχω καρδία ἔλαφος πόλεμος λαός λόχος εἶμι ἀριστεύς Ἀχαιός,Iliad 1.226
+λόχος,0,1,1,,ambush; place for lying in wait; ambuscade; an ambush,lsj,οἰνοβαρής κύων ὄμμα ἔχω καρδία ἔλαφος πόλεμος λαός θωρήσσω εἶμι ἀριστεύς Ἀχαιός,Iliad 1.227
+ἀριστεύς,0,1,1,,those who excel in valour; chiefs,lsj,οἰνοβαρής κύων ὄμμα ἔχω καρδία ἔλαφος πόλεμος λαός θωρήσσω λόχος εἶμι Ἀχαιός,Iliad 1.227
+κήρ,0,1,1,,,none,εἶδον,Iliad 1.228
+λωίων,0,1,1,,"more desirable, more agreeable, better; my good friend",lsj (relaxed match),πολύς στρατός εὐρύς Ἀχαιός δῶρον ἀφαιρέω ἀντίος εἶπον,Iliad 1.229
+δημοβόρος,0,1,1,,devourer of the common stock,lsj,βασιλεύς οὐτιδανός ἀνάσσω,Iliad 1.231
+ὕστατος,0,1,1,,,none,Ἀτρείδης λωβάομαι,Iliad 1.232
+λωβάομαι,0,1,1,,"outrage, maltreat; despite; maim, mutilate; brings",lsj,Ἀτρείδης ὕστατος,Iliad 1.232
+ὄζος,0,1,1,,"bough, branch, twig; knot; eye; eyes, mere knots",lsj,σκῆπτρον φύλλον φύω πρῶτος τομή ὄρος λείπω ἀναθηλέω,Iliad 1.234
+φύω,0,1,1,,"bring forth, produce, put forth; made; grow; beget, engender",lsj,σκῆπτρον φύλλον ὄζος πρῶτος τομή ὄρος λείπω ἀναθηλέω,Iliad 1.235
+τομή,0,1,1,,"end left after cutting, stump; the ends; left by cutting away; end",lsj,σκῆπτρον φύλλον ὄζος φύω πρῶτος ὄρος λείπω ἀναθηλέω,Iliad 1.235
+χρυσόθρονος,0,1,1,,with throne of gold,lsj,Ἥρα,Iliad 1.611

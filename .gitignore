@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Trained fastText embeddings — regenerable, and the .npy files (~800 MB)
+# exceed GitHub's 100 MB file limit
+*.model
+*.model.wv.vectors_ngrams.npy
+*.npy
+
+# Local editor/OS noise
+.ipynb_checkpoints/
+Thumbs.db
+
+# Claude Code machine-local settings
+.claude/settings.local.json

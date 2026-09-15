@@ -1,0 +1,9 @@
+{
+  "model": "bowphs/GreBerta",
+  "sentences": 14354,
+  "tokens": 189774,
+  "lemmas_embedded": 8780,
+  "lemmas_clustered": 3144,
+  "hdbscan_clusters": 238,
+  "hdbscan_noise": 877
+}

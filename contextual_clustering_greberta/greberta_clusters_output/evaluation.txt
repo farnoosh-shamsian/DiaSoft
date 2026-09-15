@@ -1,0 +1,111 @@
+3144 lemmas, 768d, freq range 5-1020
+
+========================================================================
+1. SEPARATION  (measured in the 768d vector space, not the UMAP space,
+   so HDBSCAN gets no home-field advantage from having clustered there)
+========================================================================
+partition        k      n  silhouette   random       CH     DB
+hdbscan        238   2267       0.088   -0.114      5.3   2.52
+ward_40         40   3144       0.019   -0.042     11.1   4.22
+ward_80         80   3144       0.039   -0.061      8.8   3.51
+ward_150       150   3144       0.051   -0.096      6.6   2.96
+
+Silhouette on high-dimensional embedding spaces is always low in absolute
+terms; what matters is the gap to the shuffled-label baseline.
+
+========================================================================
+2. AGREEMENT  (HDBSCAN clusters in 15d UMAP space; Ward clusters directly
+   on cosine distance in 768d. Agreement means the groups are in the data,
+   not in the algorithm.)
+========================================================================
+hdbscan vs ward_40   ARI=0.122  AMI=0.506   (on the 2267 non-noise lemmas)
+hdbscan vs ward_80   ARI=0.226  AMI=0.574   (on the 2267 non-noise lemmas)
+hdbscan vs ward_150  ARI=0.318  AMI=0.616   (on the 2267 non-noise lemmas)
+
+========================================================================
+3. STABILITY
+========================================================================
+
+(a) HDBSCAN under different UMAP seeds -- pairwise ARI:
+    seed 1: 243 clusters, 883 noise
+    seed 7: 227 clusters, 782 noise
+    seed 13: 251 clusters, 899 noise
+    seed 21: 247 clusters, 901 noise
+    mean pairwise ARI = 0.366  (min 0.327, max 0.406)
+    vs the shipped run: ARI = 0.379
+
+(b) Ward-80 under 90% lemma subsampling -- ARI on the shared lemmas:
+    mean ARI = 0.539  (min 0.478, max 0.578)
+
+========================================================================
+4. FORM CONFOUND  (the thing I flagged qualitatively -- now counted)
+========================================================================
+hdbscan       41/238  clusters (17%) are form-driven: dominated by a shared prefix or ending beyond chance
+    worst offenders:
+      cluster  99 (n= 5, ending 'εις' 100%): αἱματόεις  βροτόεις  θυσανόεις  ἀστερόεις  ὀκριόεις
+      cluster 100 (n= 5, ending 'εις' 100%): δινήεις  νιφόεις  πετρήεις  ποιήεις  ὀξυόεις
+      cluster   2 (n=10, ending 'τος' 90%): δέκατος  δωδέκατος  εἰκοστός  εἰναετής  πέμπτος  τέταρτος
+      cluster  53 (n= 8, ending 'εος' 88%): δαιδάλεος  κήλεος  κυάνεος  πορφύρεος  σιδήρεος  χάλκειος
+      cluster 205 (n=13, prefix 'αμφ' 85%): περιχέω  προβάλλω  ἀμφιάζω  ἀμφιέλισσα  ἀμφιέπω  ἀμφιβάλλω
+      cluster  38 (n= 6, ending 'ιος' 83%): δάιος  νήιος  παρήιον  πολεμήιος  ἄρειος  ὁμοίιος
+      cluster  48 (n= 5, ending 'τηρ' 80%): θηρατήρ  μήστωρ  ἀλκτήρ  ἰατήρ  ῥυτήρ
+      cluster  64 (n= 5, prefix 'αργ' 80%): ταλαεργός  ἀργής  ἀργεννός  ἀργιόδους  ἀργός
+      cluster 184 (n= 5, prefix 'υπο' 80%): ὑπείκω  ὑποδέχομαι  ὑπομένω  ὑπόδρα  ὑπότροπος
+      cluster 235 (n=10, ending 'μαι' 80%): γουνάζομαι  γουνόομαι  λίσσομαι  λιλαίομαι  λιτανεύω  ποτιπτύσσω
+ward_40        0/40   clusters (0%) are form-driven: dominated by a shared prefix or ending beyond chance
+ward_80        1/80   clusters (1%) are form-driven: dominated by a shared prefix or ending beyond chance
+ward_150      12/149  clusters (8%) are form-driven: dominated by a shared prefix or ending beyond chance
+
+Note: a shared 3-char ENDING is often just part of speech (-ω verbs, -ος
+nouns), and semantic fields are usually within one part of speech anyway,
+so the ending flag over-counts. The prefix flag (ευ-, αμφι-, α-privative)
+is the one that marks a genuinely non-semantic cluster.
+
+========================================================================
+5. FREQUENCY CONFOUND  (is a cluster just a frequency band?)
+========================================================================
+hdbscan      AMI(cluster, freq-decile) = 0.020   mean within-cluster sd of log10 freq = 0.35 (corpus-wide sd = 0.44)
+ward_40      AMI(cluster, freq-decile) = 0.007   mean within-cluster sd of log10 freq = 0.41 (corpus-wide sd = 0.44)
+ward_80      AMI(cluster, freq-decile) = 0.014   mean within-cluster sd of log10 freq = 0.40 (corpus-wide sd = 0.44)
+ward_150     AMI(cluster, freq-decile) = 0.017   mean within-cluster sd of log10 freq = 0.37 (corpus-wide sd = 0.44)
+
+AMI near 0 and within-cluster spread near the corpus-wide spread mean the
+clusters are not frequency bands.
+
+========================================================================
+6. WHICH CLUSTERS TO TRUST  (HDBSCAN, ranked by centroid coherence,
+   excluding those flagged as form-driven)
+========================================================================
+
+197 of 238 clusters survive the form filter. Top 12 by coherence:
+  [0.836] cluster 117 (n= 5): δέκα  πεντήκοντα  τεσσαράκοντα  ἑκατόν  ἕνδεκα
+  [0.802] cluster 116 (n= 5): δυοκαίδεκα  δώδεκα  ἐννέα  ἕξ  ἥμισυς
+  [0.796] cluster 169 (n= 6): διώκω  νόημα  πολίτης  σίδηρος  σιωπή  ἐργάζομαι
+  [0.789] cluster 140 (n= 5): κατόπισθεν  μετόπισθε  ἀπάνευθε  ἀπόπροθεν  ἄνευθε
+  [0.768] cluster  92 (n= 6): εἴσω  ἐκτός  ἐντός  ἔνδον  ἔξω  ἔσω
+  [0.760] cluster  20 (n= 5): Βρισηίς  Χρυσηίς  Ἀνδρομάχη  Ἑκάβη  Ἑλένη
+  [0.752] cluster   7 (n= 7): Ἀΐδης  Ἀίδης  Ἀτρεύς  Ἄδρηστος  Ἄρητος  Ἄσιος  ᾍδης
+  [0.749] cluster 209 (n= 6): καταχεύω  οἰνοχοέω  συγχέω  χέω  ἐκχέω  ἐπιχέω
+  [0.747] cluster 196 (n= 5): δύω2  καταδύω  ἀναδύνω  ἐκδύω  ὑποδύομαι
+  [0.746] cluster 139 (n= 6): κενός  λιπαρός  μαλακός  πυκινός  πυκνός  στερεός
+  [0.739] cluster 193 (n= 5): καίνυμαι  κεάζω  κεδάννυμι  πυκάζω  σκεδάννυμι
+  [0.736] cluster  60 (n= 5): δένδρεον  καρπός  φυτόν  φύλλον  ἄνθος
+
+Bottom 8 by coherence (the ones to distrust):
+  [0.507] cluster  44 (n=17): γέρων  γεραιός  δειλός  δύστηνος  νέος  ξένος  ξένος2  πάλαι  πάρος
+  [0.505] cluster 207 (n=19): αἰδώς  δίκαιος  δίκη  δόσις  θέμις  κομιδή  λώβη  μοῖρα  μῆνις
+  [0.502] cluster 191 (n=11): γυμνόω  δηιόω  δηλέομαι  κακόω  λοχάω  μαιμάω  σκιάω  χολόω  ἰδνόομαι
+  [0.498] cluster   8 (n= 6): διακρίνω  κατέδω  κρίνω  σώζω  ἁλίσκομαι  ἄλαλκε
+  [0.475] cluster  58 (n=20): δήν  δηθά  δηθύνω  δηρός  μίνυνθα  μινυνθάδιος  πάγχυ  πανημέριος  παννύχιος
+  [0.474] cluster 214 (n=18): γιγνώσκω  δάω  εἰσείδω  εἴδω  εἶδον  εὑρίσκω  νοέω  οἶδα  προεῖδον
+  [0.445] cluster  78 (n=31): Στύξ  αἶα  γαῖα  γῆ  θάλασσα  κυβερνήτης  κῦμα  λίμνη  λιμήν
+  [0.436] cluster 180 (n=14): προκαλέω  προκαλίζομαι  πωλέομαι  ἀλάλημαι  ἀλάομαι  ἀλέομαι  ἀλέω  ἀλιταίνω  ἀπονίναμαι
+
+coherence distribution: median 0.643, 10th pct 0.547, 90th pct 0.724
+
+========================================================================
+COVERAGE
+========================================================================
+HDBSCAN leaves 877/3144 lemmas (28%) unassigned.
+Those unassigned lemmas carry 28,649 of 104,577 tokens (27%).
+Ward partitions everything by construction, so nothing is lost there.

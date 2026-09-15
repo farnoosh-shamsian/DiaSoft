@@ -1,0 +1,19 @@
+Sense-level semantic fields — report
+============================================
+
+Model              : bowphs/GreBerta (contextual, per-occurrence)
+Senses clustered   : 939
+Lemmas             : 939
+Polysemous lemmas  : 0
+HDBSCAN fields     : 40  (noise 320, 34%)
+Field silhouette   : 0.0391 (cosine, noise excluded)
+Polysemy spread    : 0 lemmas have senses in >=2 fields (the payoff of sense-level clustering)
+ARI vs FastText run: 0.2293 over 79 shared lemmas (largest sense per lemma vs lemma_clusters.csv)
+
+Ward cuts          : [12, 25, 50, 100]
+
+Method: word senses (GreBERTa occurrence clusters) embedded by
+their centroid, clustered with the same UMAP+HDBSCAN / Ward /
+c-TF-IDF pipeline as the lemma-type field runs, so results are
+directly comparable. Fields are the participant inventory that
+frame slots draw from (see 'frame_induction/').

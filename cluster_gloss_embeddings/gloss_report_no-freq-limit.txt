@@ -1,0 +1,18 @@
+Gloss-embedding clustering — emergent semantic fields in Homer
+================================================================
+vocabulary: 8784 content lemmas (freq >= 1); 7051 glossed and clustered, 1733 excluded (no gloss; mostly proper names — see unglossed_lemmas.txt)
+gloss sources: 6855 LSJ (first 4 English senses), 196 Ancient Greek WordNet fallback
+embeddings: all-MiniLM-L6-v2 over English glosses, unit-normalized
+
+UMAP(15d, cosine) + HDBSCAN(min_cluster_size=8, leaf): 314 fields, 1812 outliers (26%)
+Ward hierarchy cuts: K=12, K=25, K=50, K=100, K=150, K=200, K=250 (same vectors, nested taxonomy — pick the granularity you like)
+
+Caveats:
+ - An LSJ gloss covers a word's whole history, not only Homer;
+   first senses are usually Homeric (LSJ orders historically),
+   but some anachronistic senses leak in.
+ - Treebank homograph digits are mapped to the Nth LSJ homograph
+   entry — a heuristic (see gloss_source column).
+ - AGWN fallback glosses are auto-projected and noisy.
+ - Proper names are mostly excluded (no lexicon gloss), which is
+   usually what you want for semantic fields.

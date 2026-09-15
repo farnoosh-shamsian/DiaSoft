@@ -1,0 +1,31 @@
+# DiaSoft — computational semantics for Homeric Greek
+# Install:  py -m pip install -r requirements.txt
+#
+# Core data / numerics
+numpy
+pandas
+scipy
+scikit-learn
+
+# Embeddings
+gensim                 # FastText (distributional + argument-filler vectors)
+sentence-transformers  # all-MiniLM-L6-v2 gloss embeddings
+transformers           # GreBERTa (bowphs/GreBerta) contextual occurrence vectors
+torch                  # backend for GreBERTa (word_sense_induction/, contextual_clustering_greberta/)
+
+# Dimensionality reduction / graph clustering
+umap-learn
+python-igraph          # Leiden community detection
+
+# Ancient Greek NLP
+cltk                   # text normalization (oxia/tonos) + grc stoplist
+
+# HTTP (Ancient Greek WordNet REST API)
+requests
+
+# --- optional -------------------------------------------------------------
+# corextopic          # anchored/seeded topic modeling (topic_models.py)
+# groq                # LLM cluster labelling (set GROQ_API_KEY) — sibling scripts
+#
+# Standard library (no install): xml.etree.ElementTree parses the AGLDT
+# treebanks in frame_induction/treebank.py.
