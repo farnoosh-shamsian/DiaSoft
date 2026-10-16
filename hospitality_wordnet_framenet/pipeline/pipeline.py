@@ -1338,8 +1338,6 @@ def cmd_index(exps):
                 f["lus"] |= {u["lemma"] for u in p["lexical_units"]}
     cols = [(st["exp"], key) for st in stats for _, _, key in RUN_NAMES]
     n_runs = sum(1 for st in stats for _, _, k in RUN_NAMES if st["runs"][k])
-    total_new = sum(len(st["runs"][k]["proposed"]) for st in stats
-                    for _, _, k in RUN_NAMES if st["runs"][k])
     h = ['<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">'
          '<meta name="viewport" content="width=device-width,initial-scale=1">',
          '<title>Homeric Hospitality Frames</title>', FONTS,
@@ -1358,8 +1356,7 @@ def cmd_index(exps):
          f'<div class="tile"><div class="n">{n_runs}</div><div class="l">'
          'runs (with / without WordNet)</div></div>',
          f'<div class="tile new"><div class="n">{len(frames)}</div><div '
-         f'class="l">distinct new frames proposed ({total_new} across all '
-         'runs)</div></div>']
+         'class="l">distinct new frames overall</div></div>']
     for st in stats:
         h.append(f'<div class="tile"><div class="n">{len(st["lemmas"])}</div>'
                  f'<div class="l">lemmas in cluster {st["exp"].cfg["cluster_id"]}'
