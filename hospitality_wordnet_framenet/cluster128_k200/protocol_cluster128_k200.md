@@ -17,7 +17,7 @@ Model: Claude Opus 5.5 (`claude-opus-5-5`), run in Claude Code.
 | Cluster | Ward k=200 gloss-embedding clustering, no frequency limit; cluster 128 (20 entries) | `common/cluster.txt`; settings in `experiment.json` |
 | Greek senses | The cluster's LSJ glosses, truncated at about 90 characters | `common/lemmas.csv` |
 | Homeric text | AGLDT treebanks of the Iliad and Odyssey, version 2.1 | `../../homer_corpus/` |
-| Ancient Greek WordNet | SQL dump from GitHub `jcuenod/greekwordnet`, branch `master`, downloaded Oct 15, 2026 (commit not recorded) | No. Download URLs in `../README.md` |
+| Ancient Greek WordNet | SQL dump from GitHub `jcuenod/greekwordnet`, branch `master`, downloaded Oct 15, 2026 (commit not recorded) | No. Downloaded into `../agwn_dump/` (URLs in `../README.md`), which is ignored by git |
 | Sense flags | core / plausible / noise flags from the WordNet check | `../wordnet_check_cluster128/` |
 | Princeton WordNet | 3.0, through NLTK 3.10.0 | No (`nltk.download("wordnet")`) |
 | FrameNet | Berkeley FrameNet 1.7, through NLTK 3.10.0 | No (`nltk.download("framenet_v17")`) |
@@ -136,7 +136,7 @@ The WordNet layers differ too: on the 482 AGWN synsets that both contain, this e
 
 ## Reproducing
 
-1. Download the AGWN dump (`../README.md`) and the NLTK data for WordNet 3.0 and FrameNet 1.7.
+1. Download the AGWN dump into `../agwn_dump/` (URLs in `../README.md`) and the NLTK data for WordNet 3.0 and FrameNet 1.7.
 2. Stages 1 and 2, run from `hospitality_wordnet_framenet/`: `py pipeline/pipeline.py prepare cluster128_k200`, then the same with `passages`, `extract`, `resolve` and `links`. The flags come from `AGWN_PWN/sense_flags.csv`.
 3. Stages 3 and 4: start two fresh agents with the prompts in `common/run_prompts.md`, pointing them at copies of `common/` (and, for run B, of the two WordNet layer files). Claude Code exposes no temperature or random seed, so new runs will not reproduce these frames exactly. To reproduce the results, reuse the run folders.
 4. Stage 5: `render` each run, then `compare` with the original experiment's files, then `index`.

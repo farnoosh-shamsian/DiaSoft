@@ -16,7 +16,7 @@ Model: Claude Opus 5.5 (`claude-opus-5-5`), run in Claude Code.
 | --- | --- | --- |
 | Cluster | Ward k=200 gloss-embedding clustering, no frequency limit; cluster 128 (20 entries) | `input/clusters_ward_k200_no-freq-limit.txt`, `input/cluster_128.txt` |
 | Lemma list | The 18 lemmas after merging, with groups and AGWN spellings | `input/lemmas.csv` |
-| Ancient Greek WordNet | SQL dump from GitHub `jcuenod/greekwordnet`, branch `master`: `greek_index.sql`, `english_synset.sql`, `common_relation.sql` (MultiWordNet 1.5 format). Downloaded Oct 15, 2026; the commit was not recorded. | No. Download URLs in `../README.md`; the folder `input/agwn_dump/` is ignored by git |
+| Ancient Greek WordNet | SQL dump from GitHub `jcuenod/greekwordnet`, branch `master`: `greek_index.sql`, `english_synset.sql`, `common_relation.sql` (MultiWordNet 1.5 format). Downloaded Oct 15, 2026; the commit was not recorded. | No. Download URLs in `../README.md`; downloaded into `../agwn_dump/`, which is ignored by git |
 | Reference flags | `greek_hospitality_wordnet_annotated.csv` from the original protocol (9 lemmas, 365 rows) | No, shared within the team |
 | Software | Python 3.12.5, standard library only | `extract_synsets.py`, `build_flagged_csv.py` |
 
@@ -127,7 +127,7 @@ As in the original protocol, AGWN attached every sense of a polysemous English g
 
 ## Reproducing
 
-1. Download the three AGWN SQL files into `input/agwn_dump/` (URLs in `../README.md`).
+1. Download the three AGWN SQL files into `../agwn_dump/` (URLs in `../README.md`).
 2. `py extract_synsets.py` writes `output/cluster128_synsets_raw.csv`.
 3. `py build_flagged_csv.py` merges it with `output/agent_flags.csv` into `output/cluster128_wordnet_flagged.csv`. It rewrites `output/summary.txt` with the stage 5 comparison only if the original protocol's CSV is placed in `input/`; otherwise it leaves the summary as it is.
 

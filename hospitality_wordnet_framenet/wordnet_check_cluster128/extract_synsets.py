@@ -1,6 +1,6 @@
 """Extract every AGWN synset linked to the cluster-128 lemmas.
 
-Reads the AGWN SQL dump in input/agwn_dump/ (greek_index, english_synset,
+Reads the AGWN SQL dump in ../agwn_dump/ (greek_index, english_synset,
 common_relation; from github.com/jcuenod/greekwordnet, MultiWordNet 1.5
 format) as plain text, and writes output/cluster128_synsets_raw.csv: one row
 per (lemma, synset) with English words, gloss and hypernym. Lemmas are matched
@@ -14,7 +14,7 @@ import unicodedata
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
-DUMP = HERE / "input" / "agwn_dump"
+DUMP = HERE.parent / "agwn_dump"
 LEMMAS = HERE / "input" / "lemmas.csv"
 OUT = HERE / "output" / "cluster128_synsets_raw.csv"
 

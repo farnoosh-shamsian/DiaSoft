@@ -16,7 +16,7 @@ The Ancient Greek hospitality WordNet & FrameNet experiment (July 2026), redone 
 | [`index.html`](index.html) | Overview page: summary, new frames proposed, links to every page and data file |
 | [`cluster128_k200/`](cluster128_k200/) | Cluster 128 of the Ward k=200 clustering — "guest, hospitality, escort, attendant", 18 lemmas |
 | [`cluster98_k150/`](cluster98_k150/) | Cluster 98 of the Ward k=150 clustering — "gift, guest, receive, hospitality", 50 lemmas (contains all of cluster 128) |
-| [`wordnet_check_cluster128/`](wordnet_check_cluster128/) | The first step: the WordNet check (core / plausible / noise) on cluster 128, and the AGWN database dump used by all steps |
+| [`wordnet_check_cluster128/`](wordnet_check_cluster128/) | The first step: the WordNet check (core / plausible / noise) on cluster 128 |
 | [`pipeline/`](pipeline/) | `pipeline.py` (all mechanical steps), `check_frames.py` (FrameNet 1.7 lookup and validation), `FORMAT_SPEC_template.md` (the output format given to the runs) |
 
 Each cluster folder has the same layout: `experiment.json` (lemmas, merges, groups, passages), `common/` (the inputs given to both runs), `AGWN_PWN/` (WordNet layer), `A_without_wordnet/`, `B_with_wordnet/`, `comparison/`, a README and a protocol.
@@ -32,7 +32,7 @@ Requirements: Python 3.12 with `nltk` (WordNet 3.0 and FrameNet 1.7 data: `nltk.
 
 ## Data not included
 
-- **Ancient Greek WordNet dump** (needed for `extract`). Download the three SQL files from GitHub `jcuenod/greekwordnet` (GPL-3.0) into `wordnet_check_cluster128/input/agwn_dump/` (ignored by git):
+- **Ancient Greek WordNet dump** (needed for `extract`). Download the three SQL files from GitHub `jcuenod/greekwordnet` (GPL-3.0) into `agwn_dump/` in this folder (ignored by git); every cluster's `extract` step reads it from there:
 
   ```
   https://raw.githubusercontent.com/jcuenod/greekwordnet/master/greekwordnet/db/greek/greek_index.sql

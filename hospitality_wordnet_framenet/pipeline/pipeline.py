@@ -37,7 +37,7 @@ from pathlib import Path
 HERE = Path(__file__).resolve().parent
 PROJECT = HERE.parent          # hospitality_wordnet_framenet/
 REPO = PROJECT.parent
-DUMP = PROJECT / "wordnet_check_cluster128" / "input" / "agwn_dump"
+DUMP = PROJECT / "agwn_dump"
 TREEBANKS = [REPO / "homer_corpus" / "iliad_treebank.xml",
              REPO / "homer_corpus" / "odyssey_treebank.xml"]
 POS = {"n": "n", "a": "a", "v": "v", "t": "v"}  # participles count as verbs
