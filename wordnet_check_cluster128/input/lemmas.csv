@@ -1,0 +1,19 @@
+lookup_lemma,cluster_forms,homer_count,subgroup,agwn_query_forms,note
+ξένος,ξένος;ξένος2,213,guest/hospitality,ξένος,homograph entries ξένος and ξένος2 merged (207 + 6)
+ξένιος,ξένιος,21,guest/hospitality,ξένιος,
+ξενίζω,ξενίζω,12,guest/hospitality,ξενίζω,
+ξενία,ξενία,2,guest/hospitality,ξενία,
+ξενοσύνη,ξενοσύνη,1,guest/hospitality,ξενοσύνη,
+ξεινήιον,ξεινήιον,9,guest/hospitality,ξεινήιον;ξεινήϊον;ξενήιον,Homeric (Ionic) spelling; AGWN spells it ξεινήϊον (diaeresis)
+ὑποδεξίη,ὑποδεξίη,1,guest/hospitality,ὑποδεξίη;ὑποδεξία,Ionic spelling; ὑποδεξία tried as fallback
+φιλόξενος,φιλόξενος,4,guest/hospitality,φιλόξενος,
+δαιτυμών,δαιτυμών,9,guest/hospitality,δαιτυμών,
+πομπή,πομπή,26,escort,πομπή,
+πομπός,πομπός,12,escort,πομπός,
+πομπεύς,πομπεύς,5,escort,πομπεύς,
+πομπεύω,πομπεύω,1,escort,πομπεύω,
+θεραπεύω,θεραπεύω,1,attendant/service,θεραπεύω,
+ἀμφιπολεύω,ἀμφιπολεύω,5,attendant/service,ἀμφιπολεύω,
+οἰνοχόος,οἰνοχόος,5,attendant/service,οἰνοχόος;οἰνόχοος,AGWN accents it οἰνόχοος
+ὑποδρηστήρ,ὑποδρηστήρ,1,attendant/service,ὑποδρηστήρ,
+ταμίας,τάμιας;ταμίας,3,attendant/service,ταμίας;ταμίης;τάμιας,accent variants τάμιας (2) and ταμίας (1) merged; Homeric ταμίης tried as fallback

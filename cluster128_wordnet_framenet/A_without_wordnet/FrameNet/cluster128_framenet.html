@@ -1,0 +1,274 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Cluster 128 hospitality field — FrameNet</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;500;600&family=Noto+Serif:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{--ink:#1a1a17;--mut:#6a6a63;--line:#e2e0d8;--bg:#faf9f5;--card:#fff;--acc:#534AB7;--teal:#0f6e56;--coral:#993c1d;--new:#7F77DD}
+*{box-sizing:border-box}body{font-family:'Noto Sans',system-ui,sans-serif;color:var(--ink);background:var(--bg);margin:0;line-height:1.55;font-size:15px}
+.wrap{max-width:980px;margin:0 auto;padding:32px 20px 80px}h1{font-weight:600;font-size:26px;margin:0 0 4px}h2{font-weight:600;font-size:20px;margin:34px 0 10px}
+.sub{color:var(--mut);margin:0 0 8px}
+.prov{background:#eeedfe;border:0.5px solid #cecbf6;border-radius:10px;padding:10px 14px;font-size:13px;color:#3c3489;margin:14px 0 22px}
+.bar{position:sticky;top:0;background:var(--bg);padding:12px 0;border-bottom:1px solid var(--line);display:flex;flex-wrap:wrap;gap:10px 16px;align-items:center;z-index:5;margin-bottom:8px}
+.bar input[type=search]{font:inherit;padding:7px 11px;border:1px solid var(--line);border-radius:8px;min-width:200px;background:var(--card)}
+.bar label{color:var(--mut);font-size:14px;display:flex;align-items:center;gap:5px;cursor:pointer}
+table.sum{width:100%;border-collapse:collapse;font-size:14px;margin:6px 0 10px}
+table.sum td,table.sum th{text-align:left;padding:6px 10px;border-top:1px solid var(--line)}
+table.sum th{color:var(--mut);font-size:12px;text-transform:uppercase;letter-spacing:.03em}
+details{background:var(--card);border:1px solid var(--line);border-radius:12px;margin:10px 0;overflow:hidden}
+summary{cursor:pointer;padding:13px 18px;list-style:none;display:flex;flex-wrap:wrap;align-items:baseline;gap:10px}
+summary::-webkit-details-marker{display:none}summary::before{content:'▸';color:var(--mut);font-size:13px}details[open] summary::before{content:'▾'}
+.lem{font-family:'Noto Serif',serif;font-weight:500;font-size:22px}.tr{color:var(--mut);font-style:italic}
+.tag{font-size:11px;padding:2px 8px;border-radius:20px;font-weight:500}.tag.guest{background:#e1f5ee;color:var(--teal)}.tag.escort{background:#eeedfe;color:var(--acc)}.tag.service{background:#f1efe8;color:var(--mut)}
+.pos{color:var(--mut);font-size:12.5px}.aright{margin-left:auto}
+.asg{padding:6px 18px 4px}.asg table{width:100%;border-collapse:collapse;font-size:13.5px}
+.asg td{padding:6px 10px;border-top:1px solid var(--line);vertical-align:top}
+.role-p{font-weight:500;color:var(--acc)}.role-a{color:var(--mut)}
+a{color:var(--acc);text-decoration:none}a:hover{text-decoration:underline}a.ext::after{content:' ↗';font-size:10px}
+.new{color:var(--new);font-weight:500}
+.fes{font-size:12.5px;color:var(--mut);padding:2px 18px 6px}
+.nt{font-size:12.5px;color:var(--mut);padding:0 18px 8px}
+.wn{padding:4px 18px 14px;font-size:13px;border-top:1px dashed var(--line);margin-top:2px}
+.wnh{font-weight:500;color:var(--teal)}
+.chip{display:inline-block;background:#f1efe8;color:#5f5e5a;border-radius:12px;padding:1px 9px;margin:3px 3px 0 0;font-size:12.5px;border:0.5px solid var(--line)}
+.chip.sh{background:#e1f5ee;color:var(--teal);border-color:#9fe1cb}
+.chip:hover{text-decoration:none;border-color:var(--teal)}
+.framecard{background:var(--card);border:1px solid var(--line);border-left:3px solid var(--new);border-radius:0 12px 12px 0;padding:16px 20px;margin:14px 0}
+.framecard h3{margin:0 0 6px;font-size:18px}
+.fetab{width:100%;border-collapse:collapse;font-size:13.5px;margin:8px 0}
+.fetab td{padding:5px 10px;border-top:1px solid var(--line);vertical-align:top}.fetab .fen{font-weight:500;white-space:nowrap}
+.ex{background:#faf9f5;border-radius:8px;padding:8px 12px;margin:6px 0;font-size:13.5px}
+.fe{background:#eeedfe;border-radius:4px;padding:0 3px}.fe sub{color:var(--acc);font-size:9px;vertical-align:2px;margin-left:1px}
+code{font-family:monospace;font-size:12px;background:#f1efe8;padding:1px 5px;border-radius:4px}
+footer{color:var(--mut);font-size:12.5px;margin-top:40px;border-top:1px solid var(--line);padding-top:16px}
+</style>
+</head><body><div class="wrap">
+<h1>Homeric hospitality cluster 128 <span style="color:var(--mut);font-weight:400">· FrameNet layer</span></h1>
+<p class="sub">18 Homeric lemmata from gloss-embedding cluster 128 mapped to FrameNet frames — 16 to existing Berkeley FrameNet 1.7 frames, 2 to newly proposed frames. Run: <b>without WordNet</b>.</p>
+<div class="prov"><b>Provenance.</b> Frames = Berkeley FrameNet (English); links open the frame on <code>framenet.icsi.berkeley.edu</code>. Existing frames and frame elements checked against the FrameNet 1.7 data. Greek senses = LSJ glosses of the cluster (no WordNet). Word-to-frame pairings are analytical proposals by Claude Opus 5.5. Frames marked <span class="new">🆕</span> are proposed here.</div>
+<h2>Primary frame per lemma</h2><table class="sum"><tr><th>Lemma</th><th>Primary frame</th><th>Status</th></tr>
+<tr><td class="lem" style="font-size:16px">ξένος <span class="tr" style="font-size:13px">xenos</span></td><td><a href="https://framenet.icsi.berkeley.edu/frames/Guest_and_host" target="_blank" class="ext">Guest_and_host</a></td><td class="pos">existing</td></tr>
+<tr><td class="lem" style="font-size:16px">ξένιος <span class="tr" style="font-size:13px">xenios</span></td><td><a href="https://framenet.icsi.berkeley.edu/frames/Hospitality" target="_blank" class="ext">Hospitality</a></td><td class="pos">existing</td></tr>
+<tr><td class="lem" style="font-size:16px">ξενίζω <span class="tr" style="font-size:13px">xenizo</span></td><td><a href="https://framenet.icsi.berkeley.edu/frames/Guest_and_host" target="_blank" class="ext">Guest_and_host</a></td><td class="pos">existing</td></tr>
+<tr><td class="lem" style="font-size:16px">ξενία <span class="tr" style="font-size:13px">xenia</span></td><td><a href="https://framenet.icsi.berkeley.edu/frames/Hospitality" target="_blank" class="ext">Hospitality</a></td><td class="pos">existing</td></tr>
+<tr><td class="lem" style="font-size:16px">ξενοσύνη <span class="tr" style="font-size:13px">xenosyne</span></td><td><a href="#frame-Guest_friendship">Guest_friendship</a> <span class="new">🆕</span></td><td class="pos">proposed</td></tr>
+<tr><td class="lem" style="font-size:16px">ξεινήιον <span class="tr" style="font-size:13px">xeineion</span></td><td><a href="https://framenet.icsi.berkeley.edu/frames/Giving" target="_blank" class="ext">Giving</a></td><td class="pos">existing</td></tr>
+<tr><td class="lem" style="font-size:16px">ὑποδεξίη <span class="tr" style="font-size:13px">hypodexie</span></td><td><a href="https://framenet.icsi.berkeley.edu/frames/Have_visitor_over" target="_blank" class="ext">Have_visitor_over</a></td><td class="pos">existing</td></tr>
+<tr><td class="lem" style="font-size:16px">φιλόξενος <span class="tr" style="font-size:13px">philoxenos</span></td><td><a href="https://framenet.icsi.berkeley.edu/frames/Hospitality" target="_blank" class="ext">Hospitality</a></td><td class="pos">existing</td></tr>
+<tr><td class="lem" style="font-size:16px">δαιτυμών <span class="tr" style="font-size:13px">daitymon</span></td><td><a href="https://framenet.icsi.berkeley.edu/frames/Social_event" target="_blank" class="ext">Social_event</a></td><td class="pos">existing</td></tr>
+<tr><td class="lem" style="font-size:16px">πομπή <span class="tr" style="font-size:13px">pompe</span></td><td><a href="https://framenet.icsi.berkeley.edu/frames/Sending" target="_blank" class="ext">Sending</a></td><td class="pos">existing</td></tr>
+<tr><td class="lem" style="font-size:16px">πομπός <span class="tr" style="font-size:13px">pompos</span></td><td><a href="https://framenet.icsi.berkeley.edu/frames/Cotheme" target="_blank" class="ext">Cotheme</a></td><td class="pos">existing</td></tr>
+<tr><td class="lem" style="font-size:16px">πομπεύς <span class="tr" style="font-size:13px">pompeus</span></td><td><a href="https://framenet.icsi.berkeley.edu/frames/Cotheme" target="_blank" class="ext">Cotheme</a></td><td class="pos">existing</td></tr>
+<tr><td class="lem" style="font-size:16px">πομπεύω <span class="tr" style="font-size:13px">pompeuo</span></td><td><a href="https://framenet.icsi.berkeley.edu/frames/Cotheme" target="_blank" class="ext">Cotheme</a></td><td class="pos">existing</td></tr>
+<tr><td class="lem" style="font-size:16px">θεραπεύω <span class="tr" style="font-size:13px">therapeuo</span></td><td><a href="https://framenet.icsi.berkeley.edu/frames/Subordinates_and_superiors" target="_blank" class="ext">Subordinates_and_superiors</a></td><td class="pos">existing</td></tr>
+<tr><td class="lem" style="font-size:16px">ἀμφιπολεύω <span class="tr" style="font-size:13px">amphipoleuo</span></td><td><a href="#frame-Tending">Tending</a> <span class="new">🆕</span></td><td class="pos">proposed</td></tr>
+<tr><td class="lem" style="font-size:16px">οἰνοχόος <span class="tr" style="font-size:13px">oinochoos</span></td><td><a href="https://framenet.icsi.berkeley.edu/frames/People_by_vocation" target="_blank" class="ext">People_by_vocation</a></td><td class="pos">existing</td></tr>
+<tr><td class="lem" style="font-size:16px">ὑποδρηστήρ <span class="tr" style="font-size:13px">hypodrester</span></td><td><a href="https://framenet.icsi.berkeley.edu/frames/Subordinates_and_superiors" target="_blank" class="ext">Subordinates_and_superiors</a></td><td class="pos">existing</td></tr>
+<tr><td class="lem" style="font-size:16px">ταμίας <span class="tr" style="font-size:13px">tamias</span></td><td><a href="https://framenet.icsi.berkeley.edu/frames/Being_in_control" target="_blank" class="ext">Being_in_control</a></td><td class="pos">existing</td></tr>
+</table>
+<div class="bar"><input type="search" id="q" placeholder="filter by word, frame or concept…"><label><input type="radio" name="role" value="all" checked> all</label><label><input type="radio" name="role" value="guest"> guest/hospitality</label><label><input type="radio" name="role" value="escort"> escort</label><label><input type="radio" name="role" value="service"> attendant/service</label></div>
+<h2>Frame assignments by lemma</h2>
+<details data-lemma="ξένος xenos" data-role="guest" data-txt="guest_and_host guest; stranger received as a guest guest_friendship guest-friend (lasting, often hereditary bond) indigenous_origin stranger, foreigner">
+<summary><span class="lem">ξένος</span> <span class="tr">xenos</span> <span class="tag guest">guest/hospitality</span> <span class="pos">n</span> <a class="aright ext" href="https://greekwordnet.chs.harvard.edu/api/lemmas/%CE%BE%CE%AD%CE%BD%CE%BF%CF%82/n/" target="_blank">AGWN entry</a></summary>
+<div class="asg"><table>
+<tr><td class="role-p">primary</td><td><a href="https://framenet.icsi.berkeley.edu/frames/Guest_and_host" target="_blank" class="ext">Guest_and_host</a></td><td><i>guest; stranger received as a guest</i></td><td class="pos">xenos = Guest (occasionally Host); receiving household = Host; house/megaron = Host_location</td></tr>
+<tr><td class="role-a">alt</td><td><a href="#frame-Guest_friendship">Guest_friendship</a> <span class="new">🆕</span></td><td><i>guest-friend (lasting, often hereditary bond)</i></td><td class="pos">xenos = Partner_2 (relational noun); the other party (e.g. μοι) = Partner_1</td></tr>
+<tr><td class="role-a">alt</td><td><a href="https://framenet.icsi.berkeley.edu/frames/Indigenous_origin" target="_blank" class="ext">Indigenous_origin</a></td><td><i>stranger, foreigner</i></td><td class="pos">xenos = Entity (not native to the place); home community = Origin</td></tr>
+</table></div>
+<div class="fes"><b>Core FEs of Guest_and_host:</b> Host, Guest, Host_location</div>
+<div class="nt">Guest_and_host: dominant Homeric sense, incl. the address ξεῖνε (Od. 1.123; 7.190; 7.192)<br>Guest_friendship: Il. 6.215, 6.224, 6.231 (treebank-verified)<br>Indigenous_origin: stranger.n is an LU of this frame</div>
+</details>
+<details data-lemma="ξένιος xenios" data-role="guest" data-txt="hospitality of or for guests; hospitable (ξενίη τράπεζα) giving τὰ ξείνια: gifts or fare given to a guest protecting ζεὺς ξείνιος: protector of guests">
+<summary><span class="lem">ξένιος</span> <span class="tr">xenios</span> <span class="tag guest">guest/hospitality</span> <span class="pos">a</span> <a class="aright ext" href="https://greekwordnet.chs.harvard.edu/api/lemmas/%CE%BE%CE%AD%CE%BD%CE%B9%CE%BF%CF%82/a/" target="_blank">AGWN entry</a></summary>
+<div class="asg"><table>
+<tr><td class="role-p">primary</td><td><a href="https://framenet.icsi.berkeley.edu/frames/Hospitality" target="_blank" class="ext">Hospitality</a></td><td><i>of or for guests; hospitable (ξενίη τράπεζα)</i></td><td class="pos">the host or what expresses his hospitality (e.g. the table) = Host / Expressor; guests = Guest</td></tr>
+<tr><td class="role-a">alt</td><td><a href="https://framenet.icsi.berkeley.edu/frames/Giving" target="_blank" class="ext">Giving</a></td><td><i>τὰ ξείνια: gifts or fare given to a guest</i></td><td class="pos">xeinia = Theme; host = Donor; guest = Recipient</td></tr>
+<tr><td class="role-a">alt</td><td><a href="https://framenet.icsi.berkeley.edu/frames/Protecting" target="_blank" class="ext">Protecting</a></td><td><i>Ζεὺς ξείνιος: protector of guests</i></td><td class="pos">Zeus = Protection; guests/suppliants = Asset; wrongs done to guests = Danger</td></tr>
+</table></div>
+<div class="fes"><b>Core FEs of Hospitality:</b> Host, Guest, Behavior, Topic, Expressor</div>
+<div class="nt">Hospitality: relational adjective; FN frame is evaluative, so the fit is approximate<br>Giving: substantivized neuter, the commonest Homeric use (e.g. Od. 9.229, 9.365, 15.188)<br>Protecting: Od. 9.271, 14.284, 14.389 (treebank-verified)</div>
+</details>
+<details data-lemma="ξενίζω xenizo" data-role="guest" data-txt="guest_and_host to receive and entertain as a guest have_visitor_over to have someone over, host a visit provide_lodging to lodge a guest for some days giving to present (a guest) with something experiencer_obj to strike as strange, surprise">
+<summary><span class="lem">ξενίζω</span> <span class="tr">xenizo</span> <span class="tag guest">guest/hospitality</span> <span class="pos">v</span> <a class="aright ext" href="https://greekwordnet.chs.harvard.edu/api/lemmas/%CE%BE%CE%B5%CE%BD%CE%AF%CE%B6%CF%89/v/" target="_blank">AGWN entry</a></summary>
+<div class="asg"><table>
+<tr><td class="role-p">primary</td><td><a href="https://framenet.icsi.berkeley.edu/frames/Guest_and_host" target="_blank" class="ext">Guest_and_host</a></td><td><i>to receive and entertain as a guest</i></td><td class="pos">subject = Host; object = Guest; ἐν μεγάροισι = Host_location</td></tr>
+<tr><td class="role-a">alt</td><td><a href="https://framenet.icsi.berkeley.edu/frames/Have_visitor_over" target="_blank" class="ext">Have_visitor_over</a></td><td><i>to have someone over, host a visit</i></td><td class="pos">subject = Host; object = Visitor</td></tr>
+<tr><td class="role-a">alt</td><td><a href="https://framenet.icsi.berkeley.edu/frames/Provide_lodging" target="_blank" class="ext">Provide_lodging</a></td><td><i>to lodge a guest for some days</i></td><td class="pos">subject = Host; object = Lodger; house = Residence</td></tr>
+<tr><td class="role-a">alt</td><td><a href="https://framenet.icsi.berkeley.edu/frames/Giving" target="_blank" class="ext">Giving</a></td><td><i>to present (a guest) with something</i></td><td class="pos">subject = Donor; guest = Recipient; dative of the gift = Theme</td></tr>
+<tr><td class="role-a">alt</td><td><a href="https://framenet.icsi.berkeley.edu/frames/Experiencer_obj" target="_blank" class="ext">Experiencer_obj</a></td><td><i>to strike as strange, surprise</i></td><td class="pos">the strange thing = Stimulus; the person surprised = Experiencer</td></tr>
+</table></div>
+<div class="fes"><b>Core FEs of Guest_and_host:</b> Host, Guest, Host_location</div>
+<div class="nt">Guest_and_host: verb LU added on the analogy of befriend.v in Personal_relationship; cf. Il. 6.217, Od. 7.190, 19.217<br>Have_visitor_over: event perspective; frame has no location FE<br>Provide_lodging: e.g. Il. 6.174 ἐννῆμαρ ξείνισσε<br>Giving: LSJ &#x27;to present with&#x27;; post-Homeric<br>Experiencer_obj: post-classical; from own knowledge (LSJ gloss in input is truncated)</div>
+</details>
+<details data-lemma="ξενία xenia" data-role="guest" data-txt="hospitality hospitality, entertainment of a guest guest_friendship guest-friendship, friendly relation">
+<summary><span class="lem">ξενία</span> <span class="tr">xenia</span> <span class="tag guest">guest/hospitality</span> <span class="pos">n</span> <a class="aright ext" href="https://greekwordnet.chs.harvard.edu/api/lemmas/%CE%BE%CE%B5%CE%BD%CE%AF%CE%B1/n/" target="_blank">AGWN entry</a></summary>
+<div class="asg"><table>
+<tr><td class="role-p">primary</td><td><a href="https://framenet.icsi.berkeley.edu/frames/Hospitality" target="_blank" class="ext">Hospitality</a></td><td><i>hospitality, entertainment of a guest</i></td><td class="pos">xenia = Behavior of the Host; host = Host; guest = Guest</td></tr>
+<tr><td class="role-a">alt</td><td><a href="#frame-Guest_friendship">Guest_friendship</a> <span class="new">🆕</span></td><td><i>guest-friendship, friendly relation</i></td><td class="pos">xenia = the bond; the two parties = Partners</td></tr>
+</table></div>
+<div class="fes"><b>Core FEs of Hospitality:</b> Host, Guest, Behavior, Topic, Expressor</div>
+<div class="nt">Hospitality: Od. 24.286 ξενίῃ ἀγαθῇ<br>Guest_friendship: Od. 24.314 μίξεσθαι ξενίῃ; later also between states</div>
+</details>
+<details data-lemma="ξενοσύνη xenosyne" data-role="guest" data-txt="guest_friendship guest-friendship (the bond) hospitality hospitality">
+<summary><span class="lem">ξενοσύνη</span> <span class="tr">xenosyne</span> <span class="tag guest">guest/hospitality</span> <span class="pos">n</span> <a class="aright ext" href="https://greekwordnet.chs.harvard.edu/api/lemmas/%CE%BE%CE%B5%CE%BD%CE%BF%CF%83%CF%8D%CE%BD%CE%B7/n/" target="_blank">AGWN entry</a></summary>
+<div class="asg"><table>
+<tr><td class="role-p">primary</td><td><a href="#frame-Guest_friendship">Guest_friendship</a> <span class="new">🆕</span></td><td><i>guest-friendship (the bond)</i></td><td class="pos">xenosyne = the bond; Odysseus / Iphitus = Partner_1 / Partner_2; sword and spear = Token</td></tr>
+<tr><td class="role-a">alt</td><td><a href="https://framenet.icsi.berkeley.edu/frames/Hospitality" target="_blank" class="ext">Hospitality</a></td><td><i>hospitality</i></td><td class="pos">xenosyne = Behavior; host = Host; guest = Guest</td></tr>
+</table></div>
+<div class="fes"><b>Core FEs of Guest_friendship:</b> Partner_1, Partner_2, Partners</div>
+<div class="nt">Guest_friendship: only attestation Od. 21.35 (treebank-verified)<br>Hospitality: LSJ gloss</div>
+</details>
+<details data-lemma="ξεινήιον xeineion" data-role="guest" data-txt="giving guest-gift given by a host supply provision or meal set before a guest guest_friendship token of guest-friendship">
+<summary><span class="lem">ξεινήιον</span> <span class="tr">xeineion</span> <span class="tag guest">guest/hospitality</span> <span class="pos">a</span> <a class="aright ext" href="https://greekwordnet.chs.harvard.edu/api/lemmas/%CE%BE%CE%B5%CE%B9%CE%BD%CE%AE%CF%8A%CE%BF%CE%BD/a/" target="_blank">AGWN entry</a></summary>
+<div class="asg"><table>
+<tr><td class="role-p">primary</td><td><a href="https://framenet.icsi.berkeley.edu/frames/Giving" target="_blank" class="ext">Giving</a></td><td><i>guest-gift given by a host</i></td><td class="pos">xeineion = Theme; host = Donor; guest = Recipient</td></tr>
+<tr><td class="role-a">alt</td><td><a href="https://framenet.icsi.berkeley.edu/frames/Supply" target="_blank" class="ext">Supply</a></td><td><i>provision or meal set before a guest</i></td><td class="pos">xeineia = Theme; host = Supplier; guest = Recipient; entertaining the guest = Imposed_purpose</td></tr>
+<tr><td class="role-a">alt</td><td><a href="#frame-Guest_friendship">Guest_friendship</a> <span class="new">🆕</span></td><td><i>token of guest-friendship</i></td><td class="pos">xeineion = Token; giver and receiver = Partners</td></tr>
+</table></div>
+<div class="fes"><b>Core FEs of Giving:</b> Donor, Recipient, Theme</div>
+<div class="nt">Giving: Il. 6.218; Od. 8.389, 9.267, 9.370<br>Supply: Od. 4.33 ξεινήια πολλὰ φαγόντε<br>Guest_friendship: Il. 6.218 ἀλλήλοισι πόρον ξεινήϊα καλά</div>
+</details>
+<details data-lemma="ὑποδεξίη hypodexie" data-role="guest" data-txt="have_visitor_over reception of a guest supply means of entertaining guests">
+<summary><span class="lem">ὑποδεξίη</span> <span class="tr">hypodexie</span> <span class="tag guest">guest/hospitality</span> <span class="pos">n</span> <a class="aright ext" href="https://greekwordnet.chs.harvard.edu/api/lemmas/%E1%BD%91%CF%80%CE%BF%CE%B4%CE%B5%CE%BE%CE%AF%CE%B7/n/" target="_blank">AGWN entry</a></summary>
+<div class="asg"><table>
+<tr><td class="role-p">primary</td><td><a href="https://framenet.icsi.berkeley.edu/frames/Have_visitor_over" target="_blank" class="ext">Have_visitor_over</a></td><td><i>reception of a guest</i></td><td class="pos">hypodexie = the hosting event; receiver = Host; guest = Visitor</td></tr>
+<tr><td class="role-a">alt</td><td><a href="https://framenet.icsi.berkeley.edu/frames/Supply" target="_blank" class="ext">Supply</a></td><td><i>means of entertaining guests</i></td><td class="pos">hypodexie = Theme (resources for hospitality); host = Supplier; guests = Recipient</td></tr>
+</table></div>
+<div class="fes"><b>Core FEs of Have_visitor_over:</b> Host, Visitor</div>
+<div class="nt">Have_visitor_over: deverbal from ὑποδέχομαι<br>Supply: Il. 9.73 πᾶσά τοί ἐσθ&#x27; ὑποδεξίη (treebank-verified)</div>
+</details>
+<details data-lemma="φιλόξενος philoxenos" data-role="guest" data-txt="hospitality loving strangers, hospitable">
+<summary><span class="lem">φιλόξενος</span> <span class="tr">philoxenos</span> <span class="tag guest">guest/hospitality</span> <span class="pos">a</span> <a class="aright ext" href="https://greekwordnet.chs.harvard.edu/api/lemmas/%CF%86%CE%B9%CE%BB%CF%8C%CE%BE%CE%B5%CE%BD%CE%BF%CF%82/a/" target="_blank">AGWN entry</a></summary>
+<div class="asg"><table>
+<tr><td class="role-p">primary</td><td><a href="https://framenet.icsi.berkeley.edu/frames/Hospitality" target="_blank" class="ext">Hospitality</a></td><td><i>loving strangers, hospitable</i></td><td class="pos">philoxenos = attribute of the Host (people judged); strangers = Guest (incorporated)</td></tr>
+</table></div>
+<div class="fes"><b>Core FEs of Hospitality:</b> Host, Guest, Behavior, Topic, Expressor</div>
+<div class="nt">Hospitality: formula ἦε φιλόξεινοι, Od. 6.121, 8.576, 9.176, 13.202</div>
+</details>
+<details data-lemma="δαιτυμών daitymon" data-role="guest" data-txt="social_event guest at a feast, banqueter guest_and_host one who is entertained, guest">
+<summary><span class="lem">δαιτυμών</span> <span class="tr">daitymon</span> <span class="tag guest">guest/hospitality</span> <span class="pos">n</span> <a class="aright ext" href="https://greekwordnet.chs.harvard.edu/api/lemmas/%CE%B4%CE%B1%CE%B9%CF%84%CF%85%CE%BC%CF%8E%CE%BD/n/" target="_blank">AGWN entry</a></summary>
+<div class="asg"><table>
+<tr><td class="role-p">primary</td><td><a href="https://framenet.icsi.berkeley.edu/frames/Social_event" target="_blank" class="ext">Social_event</a></td><td><i>guest at a feast, banqueter</i></td><td class="pos">daitymon = Attendee; the feast (δαίς, incorporated) = Social_event; host = Host</td></tr>
+<tr><td class="role-a">alt</td><td><a href="https://framenet.icsi.berkeley.edu/frames/Guest_and_host" target="_blank" class="ext">Guest_and_host</a></td><td><i>one who is entertained, guest</i></td><td class="pos">daitymon = Guest; host = Host; hall = Host_location</td></tr>
+</table></div>
+<div class="fes"><b>Core FEs of Social_event:</b> Attendee</div>
+<div class="nt">Social_event: Od. 7.102, 8.66, 9.7; LSJ &#x27;those who bring each his portion&#x27; (contributory feast) is post-Homeric, same frame</div>
+</details>
+<details data-lemma="πομπή pompe" data-role="escort" data-txt="sending sending home, conveyance (of a guest) cotheme conduct, escort, guidance bringing conveyance by ship (carrying) mass_motion procession">
+<summary><span class="lem">πομπή</span> <span class="tr">pompe</span> <span class="tag escort">escort</span> <span class="pos">n</span> <a class="aright ext" href="https://greekwordnet.chs.harvard.edu/api/lemmas/%CF%80%CE%BF%CE%BC%CF%80%CE%AE/n/" target="_blank">AGWN entry</a></summary>
+<div class="asg"><table>
+<tr><td class="role-p">primary</td><td><a href="https://framenet.icsi.berkeley.edu/frames/Sending" target="_blank" class="ext">Sending</a></td><td><i>sending home, conveyance (of a guest)</i></td><td class="pos">host (e.g. Alcinous) = Sender; guest = Theme; homeland = Goal; ship and crew = Transport_means</td></tr>
+<tr><td class="role-a">alt</td><td><a href="https://framenet.icsi.berkeley.edu/frames/Cotheme" target="_blank" class="ext">Cotheme</a></td><td><i>conduct, escort, guidance</i></td><td class="pos">escorting party or god = Theme; escorted person = Cotheme; destination = Goal</td></tr>
+<tr><td class="role-a">alt</td><td><a href="https://framenet.icsi.berkeley.edu/frames/Bringing" target="_blank" class="ext">Bringing</a></td><td><i>conveyance by ship (carrying)</i></td><td class="pos">crew = Agent; ship = Carrier; guest = Theme; homeland = Goal</td></tr>
+<tr><td class="role-a">alt</td><td><a href="https://framenet.icsi.berkeley.edu/frames/Mass_motion" target="_blank" class="ext">Mass_motion</a></td><td><i>procession</i></td><td class="pos">participants = Mass_theme; route = Path; shrine = Goal</td></tr>
+</table></div>
+<div class="fes"><b>Core FEs of Sending:</b> Sender, Goal, Theme, Transport_means, Recipient</div>
+<div class="nt">Sending: dominant Odyssean sense (Od. 7.191, 7.193, 8.31-33, 13.180); later also &#x27;mission&#x27;<br>Cotheme: Il. 6.171 θεῶν ὑπ&#x27; ἀμύμονι πομπῇ<br>Bringing: Od. 13.150 ἐκ πομπῆς ἀνιοῦσαν<br>Mass_motion: post-Homeric</div>
+</details>
+<details data-lemma="πομπός pompos" data-role="escort" data-txt="cotheme escort, guide bringing conveyor, carrier entourage attendants, guards (pl.)">
+<summary><span class="lem">πομπός</span> <span class="tr">pompos</span> <span class="tag escort">escort</span> <span class="pos">n</span> <a class="aright ext" href="https://greekwordnet.chs.harvard.edu/api/lemmas/%CF%80%CE%BF%CE%BC%CF%80%CF%8C%CF%82/n/" target="_blank">AGWN entry</a></summary>
+<div class="asg"><table>
+<tr><td class="role-p">primary</td><td><a href="https://framenet.icsi.berkeley.edu/frames/Cotheme" target="_blank" class="ext">Cotheme</a></td><td><i>escort, guide</i></td><td class="pos">pompos = Theme; escorted person = Cotheme; destination = Goal</td></tr>
+<tr><td class="role-a">alt</td><td><a href="https://framenet.icsi.berkeley.edu/frames/Bringing" target="_blank" class="ext">Bringing</a></td><td><i>conveyor, carrier</i></td><td class="pos">pompos = Agent/Carrier; the conveyed = Theme; destination = Goal</td></tr>
+<tr><td class="role-a">alt</td><td><a href="https://framenet.icsi.berkeley.edu/frames/Entourage" target="_blank" class="ext">Entourage</a></td><td><i>attendants, guards (pl.)</i></td><td class="pos">pompoi = Individuals forming the Entourage; escorted person = Attended_person</td></tr>
+</table></div>
+<div class="fes"><b>Core FEs of Cotheme:</b> Theme, Cotheme, Source, Path, Goal, Area, Road, Direction</div>
+<div class="nt">Cotheme: Hermes for Priam, Il. 24.153, 24.182, 24.437, 24.461; Athena, Od. 4.826<br>Bringing: Il. 16.671 (Sleep and Death); Od. 8.566, 13.174 (Phaeacians)<br>Entourage: LSJ</div>
+</details>
+<details data-lemma="πομπεύς pompeus" data-role="escort" data-txt="cotheme escort, conductor, guide bringing conveyor (crew, favouring winds) mass_motion one who takes part in a procession">
+<summary><span class="lem">πομπεύς</span> <span class="tr">pompeus</span> <span class="tag escort">escort</span> <span class="pos">n</span> <a class="aright ext" href="https://greekwordnet.chs.harvard.edu/api/lemmas/%CF%80%CE%BF%CE%BC%CF%80%CE%B5%CF%8D%CF%82/n/" target="_blank">AGWN entry</a></summary>
+<div class="asg"><table>
+<tr><td class="role-p">primary</td><td><a href="https://framenet.icsi.berkeley.edu/frames/Cotheme" target="_blank" class="ext">Cotheme</a></td><td><i>escort, conductor, guide</i></td><td class="pos">pompeus = Theme; escorted person = Cotheme; destination = Goal</td></tr>
+<tr><td class="role-a">alt</td><td><a href="https://framenet.icsi.berkeley.edu/frames/Bringing" target="_blank" class="ext">Bringing</a></td><td><i>conveyor (crew, favouring winds)</i></td><td class="pos">pompeus = Agent/Carrier; conveyed ship or goods = Theme</td></tr>
+<tr><td class="role-a">alt</td><td><a href="https://framenet.icsi.berkeley.edu/frames/Mass_motion" target="_blank" class="ext">Mass_motion</a></td><td><i>one who takes part in a procession</i></td><td class="pos">pompeus = member of the Mass_theme; route = Path</td></tr>
+</table></div>
+<div class="fes"><b>Core FEs of Cotheme:</b> Theme, Cotheme, Source, Path, Goal, Area, Road, Direction</div>
+<div class="nt">Cotheme: Od. 3.325, 3.376, 20.364<br>Bringing: Od. 4.362, 13.71<br>Mass_motion: post-Homeric</div>
+</details>
+<details data-lemma="πομπεύω pompeuo" data-role="escort" data-txt="cotheme to escort, conduct bringing to carry, convey mass_motion to march in or lead a procession">
+<summary><span class="lem">πομπεύω</span> <span class="tr">pompeuo</span> <span class="tag escort">escort</span> <span class="pos">v</span> <a class="aright ext" href="https://greekwordnet.chs.harvard.edu/api/lemmas/%CF%80%CE%BF%CE%BC%CF%80%CE%B5%CF%8D%CF%89/v/" target="_blank">AGWN entry</a></summary>
+<div class="asg"><table>
+<tr><td class="role-p">primary</td><td><a href="https://framenet.icsi.berkeley.edu/frames/Cotheme" target="_blank" class="ext">Cotheme</a></td><td><i>to escort, conduct</i></td><td class="pos">subject = Theme; object = Cotheme; destination = Goal</td></tr>
+<tr><td class="role-a">alt</td><td><a href="https://framenet.icsi.berkeley.edu/frames/Bringing" target="_blank" class="ext">Bringing</a></td><td><i>to carry, convey</i></td><td class="pos">subject = Agent; object = Theme</td></tr>
+<tr><td class="role-a">alt</td><td><a href="https://framenet.icsi.berkeley.edu/frames/Mass_motion" target="_blank" class="ext">Mass_motion</a></td><td><i>to march in or lead a procession</i></td><td class="pos">procession members = Mass_theme; route = Path</td></tr>
+</table></div>
+<div class="fes"><b>Core FEs of Cotheme:</b> Theme, Cotheme, Source, Path, Goal, Area, Road, Direction</div>
+<div class="nt">Cotheme: only Homeric instance Od. 13.422 αὐτή μιν πόμπευον<br>Bringing: LSJ &#x27;carry&#x27;<br>Mass_motion: post-Homeric</div>
+</details>
+<details data-lemma="θεραπεύω therapeuo" data-role="service" data-txt="subordinates_and_superiors to serve as an attendant (θεράπων) assistance to do service to, serve someone&#x27;s interests rite to worship (gods) tending to tend, take care of medical_intervention to treat medically">
+<summary><span class="lem">θεραπεύω</span> <span class="tr">therapeuo</span> <span class="tag service">attendant/service</span> <span class="pos">v</span> <a class="aright ext" href="https://greekwordnet.chs.harvard.edu/api/lemmas/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CF%8D%CF%89/v/" target="_blank">AGWN entry</a></summary>
+<div class="asg"><table>
+<tr><td class="role-p">primary</td><td><a href="https://framenet.icsi.berkeley.edu/frames/Subordinates_and_superiors" target="_blank" class="ext">Subordinates_and_superiors</a></td><td><i>to serve as an attendant (θεράπων)</i></td><td class="pos">subject = Subordinate; dative of the person served = Superior</td></tr>
+<tr><td class="role-a">alt</td><td><a href="https://framenet.icsi.berkeley.edu/frames/Assistance" target="_blank" class="ext">Assistance</a></td><td><i>to do service to, serve someone&#x27;s interests</i></td><td class="pos">subject = Helper; person served = Benefited_party</td></tr>
+<tr><td class="role-a">alt</td><td><a href="https://framenet.icsi.berkeley.edu/frames/Rite" target="_blank" class="ext">Rite</a></td><td><i>to worship (gods)</i></td><td class="pos">worshipper = Leader; the god has no FE in this frame (Object approximates)</td></tr>
+<tr><td class="role-a">alt</td><td><a href="#frame-Tending">Tending</a> <span class="new">🆕</span></td><td><i>to tend, take care of</i></td><td class="pos">subject = Caretaker; object (body, land, person) = Ward</td></tr>
+<tr><td class="role-a">alt</td><td><a href="https://framenet.icsi.berkeley.edu/frames/Medical_intervention" target="_blank" class="ext">Medical_intervention</a></td><td><i>to treat medically</i></td><td class="pos">physician = Medical_professional; disease = Medical_condition; the treatment = Intervention; sick person = Patient</td></tr>
+</table></div>
+<div class="fes"><b>Core FEs of Subordinates_and_superiors:</b> Superior, Subordinate</div>
+<div class="nt">Subordinates_and_superiors: Od. 13.265 οὐχ ᾧ πατρὶ χαριζόμενος θεράπευον<br>Rite: post-Homeric<br>Tending: post-Homeric<br>Medical_intervention: post-classical/medical; from own knowledge (not in the truncated gloss)</div>
+</details>
+<details data-lemma="ἀμφιπολεύω amphipoleuo" data-role="service" data-txt="tending to tend, look after, care for subordinates_and_superiors to serve as an attendant growing_food to tend an orchard serving_in_capacity to hold the office of (priest, priestess)">
+<summary><span class="lem">ἀμφιπολεύω</span> <span class="tr">amphipoleuo</span> <span class="tag service">attendant/service</span> <span class="pos">v</span> <a class="aright ext" href="https://greekwordnet.chs.harvard.edu/api/lemmas/%E1%BC%80%CE%BC%CF%86%CE%B9%CF%80%CE%BF%CE%BB%CE%B5%CF%8D%CF%89/v/" target="_blank">AGWN entry</a></summary>
+<div class="asg"><table>
+<tr><td class="role-p">primary</td><td><a href="#frame-Tending">Tending</a> <span class="new">🆕</span></td><td><i>to tend, look after, care for</i></td><td class="pos">subject = Caretaker; object (βίον, ὄρχατον) = Ward; owner = Principal</td></tr>
+<tr><td class="role-a">alt</td><td><a href="https://framenet.icsi.berkeley.edu/frames/Subordinates_and_superiors" target="_blank" class="ext">Subordinates_and_superiors</a></td><td><i>to serve as an attendant</i></td><td class="pos">subject = Subordinate; dative of the master = Superior</td></tr>
+<tr><td class="role-a">alt</td><td><a href="https://framenet.icsi.berkeley.edu/frames/Growing_food" target="_blank" class="ext">Growing_food</a></td><td><i>to tend an orchard</i></td><td class="pos">subject = Grower; trees/vines = Food; ὄρχατον = Ground</td></tr>
+<tr><td class="role-a">alt</td><td><a href="https://framenet.icsi.berkeley.edu/frames/Serving_in_capacity" target="_blank" class="ext">Serving_in_capacity</a></td><td><i>to hold the office of (priest, priestess)</i></td><td class="pos">subject = Agent; office = Role</td></tr>
+</table></div>
+<div class="fes"><b>Core FEs of Tending:</b> Caretaker, Ward</div>
+<div class="nt">Tending: Od. 18.254 = 19.127, 24.244, 24.257 (treebank-verified)<br>Subordinates_and_superiors: Od. 20.78 ἐρινύσιν ἀμφιπολεύειν<br>Growing_food: Od. 24.244, 24.257<br>Serving_in_capacity: post-Homeric</div>
+</details>
+<details data-lemma="οἰνοχόος oinochoos" data-role="service" data-txt="people_by_vocation wine-pourer, cupbearer subordinates_and_superiors household servant serving a lord">
+<summary><span class="lem">οἰνοχόος</span> <span class="tr">oinochoos</span> <span class="tag service">attendant/service</span> <span class="pos">n</span> <a class="aright ext" href="https://greekwordnet.chs.harvard.edu/api/lemmas/%CE%BF%E1%BC%B0%CE%BD%CF%8C%CF%87%CE%BF%CE%BF%CF%82/n/" target="_blank">AGWN entry</a></summary>
+<div class="asg"><table>
+<tr><td class="role-p">primary</td><td><a href="https://framenet.icsi.berkeley.edu/frames/People_by_vocation" target="_blank" class="ext">People_by_vocation</a></td><td><i>wine-pourer, cupbearer</i></td><td class="pos">oinochoos = Person; household = Place_of_employment; lord = Employer</td></tr>
+<tr><td class="role-a">alt</td><td><a href="https://framenet.icsi.berkeley.edu/frames/Subordinates_and_superiors" target="_blank" class="ext">Subordinates_and_superiors</a></td><td><i>household servant serving a lord</i></td><td class="pos">oinochoos = Subordinate; master = Superior</td></tr>
+</table></div>
+<div class="fes"><b>Core FEs of People_by_vocation:</b> Person</div>
+<div class="nt">People_by_vocation: Il. 2.128; Od. 9.10, 18.418, 21.263</div>
+</details>
+<details data-lemma="ὑποδρηστήρ hypodrester" data-role="service" data-txt="subordinates_and_superiors attendant, assistant, servant people_by_vocation attendant (as an occupation)">
+<summary><span class="lem">ὑποδρηστήρ</span> <span class="tr">hypodrester</span> <span class="tag service">attendant/service</span> <span class="pos">n</span> <a class="aright ext" href="https://greekwordnet.chs.harvard.edu/api/lemmas/%E1%BD%91%CF%80%CE%BF%CE%B4%CF%81%CE%B7%CF%83%CF%84%CE%AE%CF%81/n/" target="_blank">AGWN entry</a></summary>
+<div class="asg"><table>
+<tr><td class="role-p">primary</td><td><a href="https://framenet.icsi.berkeley.edu/frames/Subordinates_and_superiors" target="_blank" class="ext">Subordinates_and_superiors</a></td><td><i>attendant, assistant, servant</i></td><td class="pos">hypodrester = Subordinate; genitive (ἐκείνων) = Superior</td></tr>
+<tr><td class="role-a">alt</td><td><a href="https://framenet.icsi.berkeley.edu/frames/People_by_vocation" target="_blank" class="ext">People_by_vocation</a></td><td><i>attendant (as an occupation)</i></td><td class="pos">hypodrester = Person; household = Place_of_employment</td></tr>
+</table></div>
+<div class="fes"><b>Core FEs of Subordinates_and_superiors:</b> Superior, Subordinate</div>
+<div class="nt">Subordinates_and_superiors: Od. 15.330 ὑποδρηστῆρες ἐκείνων</div>
+</details>
+<details data-lemma="ταμίας tamias" data-role="service" data-txt="being_in_control dispenser, controller (of winds, of war) people_by_vocation steward; ship&#x27;s officer in charge of provisions supply dispenser of provisions">
+<summary><span class="lem">ταμίας</span> <span class="tr">tamias</span> <span class="tag service">attendant/service</span> <span class="pos">n</span> <a class="aright ext" href="https://greekwordnet.chs.harvard.edu/api/lemmas/%CF%84%CE%B1%CE%BC%CE%AF%CE%B1%CF%82/n/" target="_blank">AGWN entry</a></summary>
+<div class="asg"><table>
+<tr><td class="role-p">primary</td><td><a href="https://framenet.icsi.berkeley.edu/frames/Being_in_control" target="_blank" class="ext">Being_in_control</a></td><td><i>dispenser, controller (of winds, of war)</i></td><td class="pos">tamias = Controlling_entity; genitive (ἀνέμων, πολέμοιο) = Dependent_entity</td></tr>
+<tr><td class="role-a">alt</td><td><a href="https://framenet.icsi.berkeley.edu/frames/People_by_vocation" target="_blank" class="ext">People_by_vocation</a></td><td><i>steward; ship&#x27;s officer in charge of provisions</i></td><td class="pos">tamias = Person; ship or household = Place_of_employment</td></tr>
+<tr><td class="role-a">alt</td><td><a href="https://framenet.icsi.berkeley.edu/frames/Supply" target="_blank" class="ext">Supply</a></td><td><i>dispenser of provisions</i></td><td class="pos">tamias = Supplier; food = Theme; crew = Recipient</td></tr>
+</table></div>
+<div class="fes"><b>Core FEs of Being_in_control:</b> Controlling_entity, Dependent_entity</div>
+<div class="nt">Being_in_control: all cluster instances: Od. 10.21; Il. 4.84, 19.224<br>People_by_vocation: LSJ gloss in input<br>Supply: Il. 19.44 ταμίαι ... σίτοιο δοτῆρες (lemmatized ταμία in AGLDT)</div>
+</details>
+<h2>Proposed frames (full definitions)</h2>
+<div class="framecard" id="frame-Guest_friendship"><h3><span class="new">🆕</span> Guest_friendship</h3><p>Two individuals, Partner_1 and Partner_2 (jointly Partners), usually heads of households belonging to different communities, are bound by a lasting, reciprocal relationship of hospitality: each is obliged to receive, feed, protect, honour with gifts and send on the other (and often the other&#x27;s descendants) whenever he comes to his community. The bond is typically founded or renewed by an exchange of Tokens (guest-gifts), may be inherited (Source_of_relationship), and is held to be under divine Sanction. Unlike Guest_and_host, the relation is symmetric and outlasts any single visit; unlike Personal_relationship, it is defined by mutual obligations of hospitality rather than by affection or kinship.</p><p class="pos">Inherits from <a href="https://framenet.icsi.berkeley.edu/frames/Personal_relationship" target="_blank">Personal_relationship</a>; uses <a href="https://framenet.icsi.berkeley.edu/frames/Guest_and_host" target="_blank">Guest_and_host</a> and <a href="https://framenet.icsi.berkeley.edu/frames/Giving" target="_blank">Giving</a>.</p>
+<b style="font-size:13px">Core frame elements</b><table class="fetab"><tr><td class="fen">Partner_1</td><td>One party to the guest-friendship, typically expressed as subject, possessor or dative of reference.</td></tr><tr><td class="fen">Partner_2</td><td>The other party; with the relational noun ξένος &#x27;guest-friend&#x27; it is the referent of the noun itself.</td></tr><tr><td class="fen">Partners</td><td>Both parties expressed together, e.g. as a plural subject or with a reciprocal pronoun.</td></tr></table>
+<b style="font-size:13px">Selected non-core FEs</b><table class="fetab"><tr><td class="fen">Token</td><td>A gift exchanged to found, seal or later prove the bond (ξεινήιον, ξείνια).</td></tr><tr><td class="fen">Source_of_relationship</td><td>What the bond derives from, e.g. inheritance from fathers (πατρώϊος) or an earlier act of hospitality.</td></tr><tr><td class="fen">Duration</td><td>How long the bond has existed (e.g. παλαιός &#x27;of long standing&#x27;).</td></tr><tr><td class="fen">Descriptor</td><td>A characterization of the bond (e.g. προσκηδής &#x27;caring, affectionate&#x27;).</td></tr><tr><td class="fen">Sanction</td><td>The deity or norm that guarantees the bond (e.g. Ζεὺς ξείνιος, θέμις).</td></tr><tr><td class="fen">Place</td><td>The community or house in which the obligations of the bond are exercised.</td></tr></table>
+<b style="font-size:13px">Lexical units</b><table class="fetab"><tr><td class="fen" style="font-family:Noto Serif,serif">ξενοσύνη</td><td class="pos">N</td><td>guest-friendship (the bond itself)</td></tr><tr><td class="fen" style="font-family:Noto Serif,serif">ξένος</td><td class="pos">N</td><td>guest-friend (the partner; relational noun)</td></tr><tr><td class="fen" style="font-family:Noto Serif,serif">ξενία</td><td class="pos">N</td><td>guest-friendship, friendly relation</td></tr><tr><td class="fen" style="font-family:Noto Serif,serif">ξεινήιον</td><td class="pos">N</td><td>gift of guest-friendship (denotes the Token)</td></tr></table>
+<b style="font-size:13px">Annotated examples</b>
+<div class="ex">ἦ ῥά νύ <span class="fe">μοι<sub>Partner_1</sub></span> <span class="fe">ξεῖνος<sub>Partner_2</sub></span> <span class="fe">πατρώϊός<sub>Source_of_relationship</sub></span> ἐσσι <span class="fe">παλαιός<sub>Duration</sub></span> <span class="pos">(verified in the AGLDT treebank: Il. 6.215 (Diomedes to Glaukos); target ξεῖνος; FE labels are this proposal&#x27;s)</span></div>
+<div class="ex"><span class="fe">τῷ<sub>Partner_2</sub></span> δ&#x27; <span class="fe">Ὀδυσεὺς<sub>Partner_1</sub></span> <span class="fe">ξίφος ὀξὺ καὶ ἄλκιμον ἔγχος<sub>Token</sub></span> ἔδωκεν, ἀρχὴν ξεινοσύνης <span class="fe">προσκηδέος<sub>Descriptor</sub></span> <span class="pos">(verified in the AGLDT treebank: Od. 21.34-35 (Odysseus and Iphitus); target ξεινοσύνης; FE labels are this proposal&#x27;s)</span></div>
+<div class="ex"><span class="fe">οἳ<sub>Partners</sub></span> δὲ καὶ ἀλλήλοισι πόρον <span class="fe">ξεινήϊα καλά<sub>Token</sub></span> <span class="pos">(verified in the AGLDT treebank: Il. 6.218 (Oineus and Bellerophon); target ξεινήϊα; FE labels are this proposal&#x27;s)</span></div>
+</div>
+<div class="framecard" id="frame-Tending"><h3><span class="new">🆕</span> Tending</h3><p>A Caretaker gives sustained attention and work to a Ward (a person, a person&#x27;s life or livelihood, a household, animals, plants or other property) so as to keep it in good condition or meet its needs, often on behalf of a Principal who owns or is responsible for the Ward. Unlike Assistance, no particular Goal of a Benefited_party is profiled; unlike Subordinates_and_superiors, no relation of command is required; unlike Growing_food, the Ward need not be a crop.</p><p class="pos">Inherits from <a href="https://framenet.icsi.berkeley.edu/frames/Intentionally_act" target="_blank">Intentionally_act</a>; uses <a href="https://framenet.icsi.berkeley.edu/frames/Assistance" target="_blank">Assistance</a>.</p>
+<b style="font-size:13px">Core frame elements</b><table class="fetab"><tr><td class="fen">Caretaker</td><td>The person who does the tending.</td></tr><tr><td class="fen">Ward</td><td>The person, livelihood, animal, plant or property that is tended.</td></tr></table>
+<b style="font-size:13px">Selected non-core FEs</b><table class="fetab"><tr><td class="fen">Principal</td><td>The person on whose behalf or for whose benefit the Ward is tended, e.g. its owner.</td></tr><tr><td class="fen">Manner</td><td>The way the tending is carried out (e.g. well, carefully).</td></tr><tr><td class="fen">Duration</td><td>How long the tending lasts.</td></tr><tr><td class="fen">Place</td><td>Where the tending takes place.</td></tr><tr><td class="fen">Time</td><td>When the tending takes place.</td></tr><tr><td class="fen">Purpose</td><td>What the Caretaker intends to achieve by the tending.</td></tr></table>
+<b style="font-size:13px">Lexical units</b><table class="fetab"><tr><td class="fen" style="font-family:Noto Serif,serif">ἀμφιπολεύω</td><td class="pos">V</td><td>tend, look after, care for</td></tr><tr><td class="fen" style="font-family:Noto Serif,serif">θεραπεύω</td><td class="pos">V</td><td>tend, take care of (post-Homeric sense)</td></tr></table>
+<b style="font-size:13px">Annotated examples</b>
+<div class="ex">εἰ <span class="fe">κεῖνός<sub>Caretaker</sub></span> γ&#x27; ἐλθὼν <span class="fe">τὸν ἐμὸν βίον<sub>Ward</sub></span> ἀμφιπολεύοι <span class="pos">(verified in the AGLDT treebank: Od. 18.254 (= 19.127), Penelope of Odysseus; target ἀμφιπολεύοι)</span></div>
+<div class="ex"><span class="fe">τεῦ<sub>Principal</sub></span> δ&#x27; <span class="fe">ὄρχατον<sub>Ward</sub></span> ἀμφιπολεύεις; <span class="pos">(verified in the AGLDT treebank: Od. 24.257 (Odysseus to Laertes); target ἀμφιπολεύεις; Caretaker = CNI (2sg))</span></div>
+</div>
+<footer>Existing frames link to Berkeley FrameNet. Greek lemma links open the Ancient Greek WordNet API.</footer>
+<script>
+const q=document.getElementById('q');
+function role(){return document.querySelector('input[name=role]:checked').value}
+function apply(){const t=q.value.trim().toLowerCase(),rl=role();
+ document.querySelectorAll('details').forEach(d=>{const okR=rl==='all'||d.dataset.role===rl;const okT=!t||d.dataset.lemma.toLowerCase().includes(t)||d.dataset.txt.includes(t);d.style.display=(okR&&okT)?'':'none';if(t&&okR&&okT)d.open=true;});}
+q.addEventListener('input',apply);document.querySelectorAll('input[name=role]').forEach(r=>r.addEventListener('change',apply));
+</script>
+</div></body></html>

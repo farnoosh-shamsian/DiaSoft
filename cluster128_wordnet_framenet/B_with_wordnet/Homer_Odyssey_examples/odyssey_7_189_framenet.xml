@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- FrameNet-style fulltext annotation (approximates the Berkeley FrameNet annotation schema).
+     Passage: Homer, Odyssey 7.189-196 (public-domain text). Annotation: illustrative proposal, using only EXISTING FrameNet 1.7 frames. Offsets are 0-based character positions, end inclusive. -->
+<fullTextAnnotation>
+  <header><corpus name="Ancient_Greek_hospitality_cluster128"><document name="Odyssey"/></corpus></header>
+  <sentence ID="1" source="Homer, Odyssey 7.189-196">
+    <text>ἠῶθεν δὲ γέροντας ἐπὶ πλέονας καλέσαντες ξεῖνον ἐνὶ μεγάροις ξεινίσσομεν ἠδὲ θεοῖσιν ῥέξομεν ἱερὰ καλά, ἔπειτα δὲ καὶ περὶ πομπῆς μνησόμεθ&#x27;, ὥς χ&#x27; ὁ ξεῖνος ἄνευθε πόνου καὶ ἀνίης πομπῇ ὑφ&#x27; ἡμετέρῃ ἣν πατρίδα γαῖαν ἵκηται χαίρων καρπαλίμως, εἰ καὶ μάλα τηλόθεν ἐστί, μηδέ τι μεσσηγύς γε κακὸν καὶ πῆμα πάθῃσι, πρίν γε τὸν ἧς γαίης ἐπιβήμεναι·</text>
+    <annotationSet ID="1" luName="ἠῶθεν.adv" frameName="Calendric_unit" status="proposed">
+      <layer name="Target" rank="1">
+        <label name="Target" start="0" end="4"/>
+      </layer>
+      <layer name="FE" rank="1">
+        <label name="Unit" start="0" end="4"/>
+        <label name="Relative_time" itype="DNI"/>
+      </layer>
+    </annotationSet>
+    <annotationSet ID="2" luName="γέρων.n" frameName="People_by_age" status="proposed">
+      <layer name="Target" rank="1">
+        <label name="Target" start="9" end="16"/>
+      </layer>
+      <layer name="FE" rank="1">
+        <label name="Person" start="9" end="16"/>
+      </layer>
+    </annotationSet>
+    <annotationSet ID="3" luName="πλείων.a" frameName="Increment" status="proposed">
+      <layer name="Target" rank="1">
+        <label name="Target" start="22" end="28"/>
+      </layer>
+      <layer name="FE" rank="1">
+        <label name="Class" start="9" end="16"/>
+        <label name="Initial_set" itype="DNI"/>
+      </layer>
+    </annotationSet>
+    <annotationSet ID="4" luName="καλέω.v" frameName="Request" status="proposed">
+      <layer name="Target" rank="1">
+        <label name="Target" start="30" end="39"/>
+      </layer>
+      <layer name="FE" rank="1">
+        <label name="Speaker" itype="CNI"/>
+        <label name="Addressee" start="9" end="28"/>
+        <label name="Message" itype="INI"/>
+      </layer>
+    </annotationSet>
+    <annotationSet ID="5" luName="ξένος.n" frameName="Guest_and_host" status="proposed">
+      <layer name="Target" rank="1">
+        <label name="Target" start="41" end="46"/>
+      </layer>
+      <layer name="FE" rank="1">
+        <label name="Guest" start="41" end="46"/>
+        <label name="Host" itype="DNI"/>
+        <label name="Host_location" start="48" end="59"/>
+      </layer>
+    </annotationSet>
+    <annotationSet ID="6" luName="μέγαρον.n" frameName="Buildings" status="proposed">
+      <layer name="Target" rank="1">
+        <label name="Target" start="52" end="59"/>
+      </layer>
+      <layer name="FE" rank="1">
+        <label name="Building" start="52" end="59"/>
+      </layer>
+    </annotationSet>
+    <annotationSet ID="7" luName="ξενίζω.v" frameName="Have_visitor_over" status="proposed">
+      <layer name="Target" rank="1">
+        <label name="Target" start="61" end="71"/>
+      </layer>
+      <layer name="FE" rank="1">
+        <label name="Host" itype="CNI"/>
+        <label name="Visitor" start="41" end="46"/>
+      </layer>
+    </annotationSet>
+    <annotationSet ID="8" luName="ἱερόν.n" frameName="Rite" status="proposed">
+      <layer name="Target" rank="1">
+        <label name="Target" start="93" end="96"/>
+      </layer>
+      <layer name="FE" rank="1">
+        <label name="Type" start="93" end="96"/>
+        <label name="Leader" itype="CNI"/>
+      </layer>
+    </annotationSet>
+    <annotationSet ID="9" luName="καλός.a" frameName="Desirability" status="proposed">
+      <layer name="Target" rank="1">
+        <label name="Target" start="98" end="101"/>
+      </layer>
+      <layer name="FE" rank="1">
+        <label name="Evaluee" start="93" end="96"/>
+      </layer>
+    </annotationSet>
+    <annotationSet ID="10" luName="ἔπειτα.adv" frameName="Time_vector" status="proposed">
+      <layer name="Target" rank="1">
+        <label name="Target" start="104" end="109"/>
+      </layer>
+      <layer name="FE" rank="1">
+        <label name="Landmark_event" itype="DNI"/>
+        <label name="Event" start="118" end="138"/>
+      </layer>
+    </annotationSet>
+    <annotationSet ID="11" luName="πομπή.n" frameName="Sending" status="proposed">
+      <layer name="Target" rank="1">
+        <label name="Target" start="123" end="128"/>
+      </layer>
+      <layer name="FE" rank="1">
+        <label name="Sender" itype="DNI"/>
+        <label name="Theme" itype="DNI"/>
+        <label name="Goal" itype="DNI"/>
+        <label name="Transport_means" itype="DNI"/>
+      </layer>
+    </annotationSet>
+    <annotationSet ID="12" luName="μιμνήσκω.v" frameName="Cogitation" status="proposed">
+      <layer name="Target" rank="1">
+        <label name="Target" start="130" end="138"/>
+      </layer>
+      <layer name="FE" rank="1">
+        <label name="Cognizer" itype="CNI"/>
+        <label name="Topic" start="118" end="128"/>
+      </layer>
+    </annotationSet>
+    <annotationSet ID="13" luName="ξένος.n" frameName="Guest_and_host" status="proposed">
+      <layer name="Target" rank="1">
+        <label name="Target" start="149" end="154"/>
+      </layer>
+      <layer name="FE" rank="1">
+        <label name="Guest" start="149" end="154"/>
+        <label name="Host" itype="DNI"/>
+        <label name="Host_location" itype="DNI"/>
+      </layer>
+    </annotationSet>
+    <annotationSet ID="14" luName="ἄνευθε.prep" frameName="Negation" status="proposed">
+      <layer name="Target" rank="1">
+        <label name="Target" start="156" end="161"/>
+      </layer>
+      <layer name="FE" rank="1">
+        <label name="Negated_proposition" start="163" end="177"/>
+        <label name="Factual_situation" itype="DNI"/>
+      </layer>
+    </annotationSet>
+    <annotationSet ID="15" luName="πόνος.n" frameName="Predicament" status="proposed">
+      <layer name="Target" rank="1">
+        <label name="Target" start="163" end="167"/>
+      </layer>
+      <layer name="FE" rank="1">
+        <label name="Situation" start="163" end="167"/>
+        <label name="Experiencer" start="147" end="154"/>
+      </layer>
+    </annotationSet>
+    <annotationSet ID="16" luName="ἀνία.n" frameName="Emotion_directed" status="proposed">
+      <layer name="Target" rank="1">
+        <label name="Target" start="173" end="177"/>
+      </layer>
+      <layer name="FE" rank="1">
+        <label name="Experiencer" start="147" end="154"/>
+      </layer>
+    </annotationSet>
+    <annotationSet ID="17" luName="πομπή.n" frameName="Sending" status="proposed">
+      <layer name="Target" rank="1">
+        <label name="Target" start="179" end="183"/>
+      </layer>
+      <layer name="FE" rank="1">
+        <label name="Sender" start="189" end="195"/>
+        <label name="Theme" start="147" end="154"/>
+        <label name="Goal" start="197" end="212"/>
+        <label name="Transport_means" itype="DNI"/>
+      </layer>
+    </annotationSet>
+    <annotationSet ID="18" luName="πατρίς.a" frameName="Foreign_or_domestic_country" status="proposed">
+      <layer name="Target" rank="1">
+        <label name="Target" start="200" end="206"/>
+      </layer>
+      <layer name="FE" rank="1">
+        <label name="Current_country" start="208" end="212"/>
+        <label name="Discourse_salient_country" itype="DNI"/>
+      </layer>
+    </annotationSet>
+    <annotationSet ID="19" luName="γαῖα.n" frameName="Political_locales" status="proposed">
+      <layer name="Target" rank="1">
+        <label name="Target" start="208" end="212"/>
+      </layer>
+      <layer name="FE" rank="1">
+        <label name="Locale" start="208" end="212"/>
+        <label name="Descriptor" start="200" end="206"/>
+      </layer>
+    </annotationSet>
+    <annotationSet ID="20" luName="ἱκνέομαι.v" frameName="Arriving" status="proposed">
+      <layer name="Target" rank="1">
+        <label name="Target" start="214" end="219"/>
+      </layer>
+      <layer name="FE" rank="1">
+        <label name="Theme" start="147" end="154"/>
+        <label name="Goal" start="197" end="212"/>
+        <label name="Manner" start="156" end="177"/>
+        <label name="Means" start="179" end="195"/>
+        <label name="Depictive" start="221" end="226"/>
+        <label name="Manner" start="228" end="237"/>
+      </layer>
+    </annotationSet>
+    <annotationSet ID="21" luName="χαίρω.v" frameName="Emotion_directed" status="proposed">
+      <layer name="Target" rank="1">
+        <label name="Target" start="221" end="226"/>
+      </layer>
+      <layer name="FE" rank="1">
+        <label name="Experiencer" start="147" end="154"/>
+      </layer>
+    </annotationSet>
+    <annotationSet ID="22" luName="καρπαλίμως.adv" frameName="Speed_description" status="proposed">
+      <layer name="Target" rank="1">
+        <label name="Target" start="228" end="237"/>
+      </layer>
+      <layer name="FE" rank="1">
+        <label name="Entity" start="147" end="154"/>
+      </layer>
+    </annotationSet>
+    <annotationSet ID="23" luName="εἰ.prep" frameName="Concessive" status="proposed">
+      <layer name="Target" rank="1">
+        <label name="Target" start="240" end="245"/>
+      </layer>
+      <layer name="FE" rank="1">
+        <label name="Conceded_state_of_affairs" start="247" end="263"/>
+        <label name="Main_assertion" start="197" end="237"/>
+      </layer>
+    </annotationSet>
+    <annotationSet ID="24" luName="τηλόθεν.adv" frameName="Gradable_proximity" status="proposed">
+      <layer name="Target" rank="1">
+        <label name="Target" start="252" end="258"/>
+      </layer>
+      <layer name="FE" rank="1">
+        <label name="Figure" itype="CNI"/>
+        <label name="Ground" itype="DNI"/>
+        <label name="Degree" start="247" end="250"/>
+      </layer>
+    </annotationSet>
+    <annotationSet ID="25" luName="κακός.a" frameName="Desirability" status="proposed">
+      <layer name="Target" rank="1">
+        <label name="Target" start="286" end="290"/>
+      </layer>
+      <layer name="FE" rank="1">
+        <label name="Evaluee" start="271" end="272"/>
+      </layer>
+    </annotationSet>
+    <annotationSet ID="26" luName="πῆμα.n" frameName="Catastrophe" status="proposed">
+      <layer name="Target" rank="1">
+        <label name="Target" start="296" end="299"/>
+      </layer>
+      <layer name="FE" rank="1">
+        <label name="Undesirable_event" start="296" end="299"/>
+        <label name="Patient" itype="DNI"/>
+      </layer>
+    </annotationSet>
+    <annotationSet ID="27" luName="πάσχω.v" frameName="Catastrophe" status="proposed">
+      <layer name="Target" rank="1">
+        <label name="Target" start="301" end="306"/>
+      </layer>
+      <layer name="FE" rank="1">
+        <label name="Patient" itype="CNI"/>
+        <label name="Undesirable_event" start="286" end="299"/>
+        <label name="Time" start="274" end="281"/>
+      </layer>
+    </annotationSet>
+    <annotationSet ID="28" luName="πρίν.prep" frameName="Time_vector" status="proposed">
+      <layer name="Target" rank="1">
+        <label name="Target" start="309" end="312"/>
+      </layer>
+      <layer name="FE" rank="1">
+        <label name="Event" start="286" end="306"/>
+        <label name="Landmark_event" start="317" end="339"/>
+      </layer>
+    </annotationSet>
+    <annotationSet ID="29" luName="γαῖα.n" frameName="Political_locales" status="proposed">
+      <layer name="Target" rank="1">
+        <label name="Target" start="324" end="328"/>
+      </layer>
+      <layer name="FE" rank="1">
+        <label name="Locale" start="324" end="328"/>
+      </layer>
+    </annotationSet>
+    <annotationSet ID="30" luName="ἐπιβαίνω.v" frameName="Arriving" status="proposed">
+      <layer name="Target" rank="1">
+        <label name="Target" start="330" end="339"/>
+      </layer>
+      <layer name="FE" rank="1">
+        <label name="Theme" start="317" end="319"/>
+        <label name="Goal" start="321" end="328"/>
+      </layer>
+    </annotationSet>
+  </sentence>
+</fullTextAnnotation>

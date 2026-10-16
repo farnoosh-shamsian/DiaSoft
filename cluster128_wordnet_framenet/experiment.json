@@ -1,0 +1,259 @@
+{
+ "title": "Homeric hospitality cluster 128",
+ "slug": "cluster128",
+ "page_title": "Cluster 128 hospitality field",
+ "cluster_file": "cluster_gloss_embeddings/clusters_ward_k200_no-freq-limit.txt",
+ "cluster_id": 128,
+ "clustering": "Ward k=200",
+ "groups": {
+  "guest/hospitality": "guest",
+  "escort": "escort",
+  "attendant/service": "service"
+ },
+ "lemmas": [
+  {
+   "lemma": "ξένος",
+   "translit": "xenos",
+   "group": "guest/hospitality",
+   "cluster_forms": [
+    "ξένος",
+    "ξένος2"
+   ],
+   "agwn_forms": [
+    "ξένος"
+   ],
+   "note": "homograph entries ξένος and ξένος2 merged (207 + 6)"
+  },
+  {
+   "lemma": "ξένιος",
+   "translit": "xenios",
+   "group": "guest/hospitality",
+   "cluster_forms": [
+    "ξένιος"
+   ],
+   "agwn_forms": [
+    "ξένιος"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "ξενίζω",
+   "translit": "xenizo",
+   "group": "guest/hospitality",
+   "cluster_forms": [
+    "ξενίζω"
+   ],
+   "agwn_forms": [
+    "ξενίζω"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "ξενία",
+   "translit": "xenia",
+   "group": "guest/hospitality",
+   "cluster_forms": [
+    "ξενία"
+   ],
+   "agwn_forms": [
+    "ξενία"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "ξενοσύνη",
+   "translit": "xenosyne",
+   "group": "guest/hospitality",
+   "cluster_forms": [
+    "ξενοσύνη"
+   ],
+   "agwn_forms": [
+    "ξενοσύνη"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "ξεινήιον",
+   "translit": "xeineion",
+   "group": "guest/hospitality",
+   "cluster_forms": [
+    "ξεινήιον"
+   ],
+   "agwn_forms": [
+    "ξεινήιον",
+    "ξεινήϊον",
+    "ξενήιον"
+   ],
+   "note": "Homeric (Ionic) spelling; AGWN spells it ξεινήϊον (diaeresis)"
+  },
+  {
+   "lemma": "ὑποδεξίη",
+   "translit": "hypodexie",
+   "group": "guest/hospitality",
+   "cluster_forms": [
+    "ὑποδεξίη"
+   ],
+   "agwn_forms": [
+    "ὑποδεξίη",
+    "ὑποδεξία"
+   ],
+   "note": "Ionic spelling; ὑποδεξία tried as fallback"
+  },
+  {
+   "lemma": "φιλόξενος",
+   "translit": "philoxenos",
+   "group": "guest/hospitality",
+   "cluster_forms": [
+    "φιλόξενος"
+   ],
+   "agwn_forms": [
+    "φιλόξενος"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "δαιτυμών",
+   "translit": "daitymon",
+   "group": "guest/hospitality",
+   "cluster_forms": [
+    "δαιτυμών"
+   ],
+   "agwn_forms": [
+    "δαιτυμών"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "πομπή",
+   "translit": "pompe",
+   "group": "escort",
+   "cluster_forms": [
+    "πομπή"
+   ],
+   "agwn_forms": [
+    "πομπή"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "πομπός",
+   "translit": "pompos",
+   "group": "escort",
+   "cluster_forms": [
+    "πομπός"
+   ],
+   "agwn_forms": [
+    "πομπός"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "πομπεύς",
+   "translit": "pompeus",
+   "group": "escort",
+   "cluster_forms": [
+    "πομπεύς"
+   ],
+   "agwn_forms": [
+    "πομπεύς"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "πομπεύω",
+   "translit": "pompeuo",
+   "group": "escort",
+   "cluster_forms": [
+    "πομπεύω"
+   ],
+   "agwn_forms": [
+    "πομπεύω"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "θεραπεύω",
+   "translit": "therapeuo",
+   "group": "attendant/service",
+   "cluster_forms": [
+    "θεραπεύω"
+   ],
+   "agwn_forms": [
+    "θεραπεύω"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "ἀμφιπολεύω",
+   "translit": "amphipoleuo",
+   "group": "attendant/service",
+   "cluster_forms": [
+    "ἀμφιπολεύω"
+   ],
+   "agwn_forms": [
+    "ἀμφιπολεύω"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "οἰνοχόος",
+   "translit": "oinochoos",
+   "group": "attendant/service",
+   "cluster_forms": [
+    "οἰνοχόος"
+   ],
+   "agwn_forms": [
+    "οἰνοχόος",
+    "οἰνόχοος"
+   ],
+   "note": "AGWN accents it οἰνόχοος"
+  },
+  {
+   "lemma": "ὑποδρηστήρ",
+   "translit": "hypodrester",
+   "group": "attendant/service",
+   "cluster_forms": [
+    "ὑποδρηστήρ"
+   ],
+   "agwn_forms": [
+    "ὑποδρηστήρ"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "ταμίας",
+   "translit": "tamias",
+   "group": "attendant/service",
+   "cluster_forms": [
+    "τάμιας",
+    "ταμίας"
+   ],
+   "agwn_forms": [
+    "ταμίας",
+    "ταμίης",
+    "τάμιας"
+   ],
+   "note": "accent variants τάμιας (2) and ταμίας (1) merged; Homeric ταμίης tried as fallback"
+  }
+ ],
+ "passages": [
+  {
+   "source": "Homer, Odyssey 1.123-124",
+   "work": "tlg0012.tlg002",
+   "cites": [
+    "1.123",
+    "1.124"
+   ],
+   "text": "χαῖρε, ξεῖνε· παρ' ἄμμι φιλήσεαι· αὐτὰρ ἔπειτα δείπνου πασσάμενος μυθήσεαι ὅττεό σε χρή.",
+   "text_source": "as annotated in the original experiment (AGLDT treebank punctuation differs slightly)"
+  },
+  {
+   "source": "Homer, Odyssey 7.189-196",
+   "work": "tlg0012.tlg002",
+   "cites": [
+    "7.189"
+   ],
+   "text_source": "AGLDT 2.1 treebank (Perseus); verify against a critical edition"
+  }
+ ]
+}

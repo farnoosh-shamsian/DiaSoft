@@ -1,0 +1,21 @@
+cluster 128  |  20 lemmas  |  guest, hospitality, escort, attendant
+  ξένιος (21): belonging to friendship and hospitality, hospitable; protector of the rights of hospitalit
+  ξενίζω (12): receive; entertain as a guest; to present with; with
+  ξένος (207): guest-friend; guest; visitor; guests
+  ξένος2 (6): guest-friend; guest; visitor; guests
+  θεραπεύω (1): to be an attendant, do service; do service to; serve; worship
+  δαιτυμών (9): one that is entertained, guest; those who bring each his portion
+  ξενοσύνη (1): hospitality
+  ξενία (2): hospitality shown to a guest, entertainment; hospitii causa; as a guest; friendly relation
+  τάμιας (2): the ship's officer who is in charge of provisions and dining arrangements
+  ταμίας (1): the ship's officer who is in charge of provisions and dining arrangements
+  πομπή (26): conduct, escort; an escort; sending away, sending home; mission
+  ὑποδεξίη (1): reception of a guest, means of entertainment
+  ἀμφιπολεύω (5): serve as an attendant, tend, care for; serve, have the care of; hold the; office of
+  ξεινήιον (9): hostʼs gift; provision made for a guest; gifts of (guest-) friendship
+  οἰνοχόος (5): the attendant (usually an officer of a nobleman's household) whose duty is to fill and ser
+  ὑποδρηστήρ (1): attendant, assistant
+  φιλόξενος (4): loving strangers, hospitable; of hospitality
+  πομπεύς (5): one who attends; escorts, conductor, guide; one who takes part in a procession
+  πομπός (12): conductor, escort, guide; attendants, guards; conductress; conveyor, carrier of
+  πομπεύω (1): conduct, escort; carry; in procession; lead a procession

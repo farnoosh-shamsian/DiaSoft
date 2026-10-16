@@ -1,0 +1,60 @@
+[
+  {
+    "name": "Guest_friendship",
+    "definition": "Two Partners (Partner_1 and Partner_2, or jointly Partners), normally members of different communities, are bound in a lasting and reciprocal relationship of ritualised friendship (Greek xenia). The bond is typically created when one Partner receives the other as a guest and the two exchange gifts (Token); it outlasts the visit, may be inherited by the Partners' descendants (Origin_of_bond), and obliges each Partner to receive, protect and help the other or the other's kin whenever they come, under the sanction of a Guarantor deity. Unlike Guest_and_host, the relationship is not temporary and both Partners can play either role; unlike Personal_relationship, it is defined by hospitality and gift exchange rather than by affection or kinship.",
+    "inherits": ["Personal_relationship"],
+    "uses": ["Guest_and_host", "Exchange"],
+    "core_FEs": [
+      {"name": "Partner_1", "definition": "One of the two guest-friends, when the Partners are expressed separately."},
+      {"name": "Partner_2", "definition": "The other guest-friend, when the Partners are expressed separately."},
+      {"name": "Partners", "definition": "Both guest-friends expressed together (often with a reciprocal pronoun)."}
+    ],
+    "noncore_FEs": [
+      {"name": "Origin_of_bond", "definition": "How or through whom the bond arose, e.g. inherited from the Partners' fathers (πατρώιος) or begun by a particular visit."},
+      {"name": "Token", "definition": "The gift(s) exchanged that create, renew or attest the bond (ξεινήιον, δῶρα)."},
+      {"name": "Guarantor", "definition": "The deity under whose protection the bond stands (Ζεὺς ξείνιος)."},
+      {"name": "Duration", "definition": "How long the bond has lasted (παλαιός 'of old')."},
+      {"name": "Manner", "definition": "The quality of the bond (προσκηδής 'affectionate, caring')."}
+    ],
+    "lexical_units": [
+      {"lemma": "ξένος", "pos": "N", "gloss": "guest-friend (either partner of the bond)"},
+      {"lemma": "ξενοσύνη", "pos": "N", "gloss": "guest-friendship, the bond itself"},
+      {"lemma": "ξενία", "pos": "N", "gloss": "relation of guest-friendship between persons or states"},
+      {"lemma": "ξένιος", "pos": "A", "gloss": "belonging to guest-friendship"}
+    ],
+    "examples": [
+      {"text": "ἦ ῥά νύ [μοι|Partner_1] ξεῖνος [πατρώϊός|Origin_of_bond] ἐσσι [παλαιός|Duration]", "note": "Homer, Iliad 6.215, verified in the AGLDT Iliad treebank. Target ξεῖνος; Partner_2 (Glaucus) is the unexpressed subject of ἐσσι (CNI)."},
+      {"text": "ξεῖνοι δ' ἀλλήλων [πατρώιοι|Origin_of_bond] εὐχόμεθ' εἶναι", "note": "Homer, Odyssey 1.187, verified in the AGLDT Odyssey treebank. Target ξεῖνοι; Partners = 'we', subject of εὐχόμεθ' (CNI), with reciprocal ἀλλήλων."},
+      {"text": "[τῷ|Partner_2] δ' [Ὀδυσεὺς|Partner_1] [ξίφος ὀξὺ καὶ ἄλκιμον ἔγχος|Token] ἔδωκεν, ἀρχὴν ξεινοσύνης [προσκηδέος|Manner]", "note": "Homer, Odyssey 21.34-35, verified in the AGLDT Odyssey treebank. Target ξεινοσύνης; the Partners and the Token are arguments of ἔδωκεν, which here creates the bond."},
+      {"text": "Because of the ξενία between [their fathers|Origin_of_bond], [Glaucus|Partner_1] and [Diomedes|Partner_2] exchanged [armour|Token] instead of fighting.", "note": "illustrative (English paraphrase of the Iliad 6 episode, not a quotation)"}
+    ]
+  },
+  {
+    "name": "Tending",
+    "definition": "A Caretaker attends, on an ongoing basis, to the needs or condition of a Charge — a person, animal, plant, piece of land, household or livelihood — so as to keep it in good condition or improve its well-being. The Caretaker is often a servant or dependant acting on behalf of an Owner of the Charge. The frame differs from Assistance (help towards a specific Goal of a Benefited_party), from Agriculture (cultivation of Food) and from Cure (healing an Affliction) in profiling continuous care and upkeep rather than a goal, a crop or a cure.",
+    "inherits": ["Intentionally_act"],
+    "uses": ["Assistance"],
+    "core_FEs": [
+      {"name": "Caretaker", "definition": "The person who looks after the Charge."},
+      {"name": "Charge", "definition": "The person, animal, plant, land, household or livelihood that is looked after."}
+    ],
+    "noncore_FEs": [
+      {"name": "Owner", "definition": "The person to whom the Charge belongs and on whose behalf the Caretaker acts."},
+      {"name": "Manner", "definition": "How the tending is done (well, with skill, carelessly)."},
+      {"name": "Means", "definition": "The action by which the Caretaker tends the Charge."},
+      {"name": "Place", "definition": "Where the tending takes place."},
+      {"name": "Duration", "definition": "How long the tending lasts."},
+      {"name": "Purpose", "definition": "What the Caretaker aims to achieve by the tending."}
+    ],
+    "lexical_units": [
+      {"lemma": "ἀμφιπολεύω", "pos": "V", "gloss": "tend, look after (orchard, livelihood), busy oneself about"},
+      {"lemma": "θεραπεύω", "pos": "V", "gloss": "take care of, tend (body, animals, land); post-Homeric in this sense"}
+    ],
+    "examples": [
+      {"text": "[τεῦ|Owner] δ' [ὄρχατον|Charge] ἀμφιπολεύεις ;", "note": "Homer, Odyssey 24.257, verified in the AGLDT Odyssey treebank. Caretaker = 'you' (Laertes), unexpressed subject (CNI)."},
+      {"text": "ὦ γέρον, οὐκ ἀδαημονίη [σ'|Caretaker] ἔχει ἀμφιπολεύειν [ὄρχατον|Charge]", "note": "Homer, Odyssey 24.244-245, verified in the AGLDT Odyssey treebank."},
+      {"text": "εἰ [κεῖνός|Caretaker] γ' ἐλθὼν [τὸν ἐμὸν βίον|Charge] ἀμφιπολεύοι", "note": "Homer, Odyssey 18.254 (= 19.127), verified in the AGLDT Odyssey treebank."},
+      {"text": "[ὁ ἱπποκόμος|Caretaker] θεραπεύει [τοὺς ἵππους|Charge] [τοῦ δεσπότου|Owner]", "note": "illustrative (constructed, not a citation)"}
+    ]
+  }
+]

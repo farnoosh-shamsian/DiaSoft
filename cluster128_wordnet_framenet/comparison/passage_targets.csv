@@ -1,0 +1,38 @@
+passage,target,start,end,A_frame,B_frame,A_FEs,B_FEs
+"Homer, Odyssey 1.123-124",ξεῖνε,7,11,Guest_and_host,Guest_and_host,Guest; Host,Guest; Host; Host_location
+"Homer, Odyssey 1.123-124",φιλήσεαι,24,31,Guest_and_host,Have_visitor_over,Guest; Host,Host; Visitor
+"Homer, Odyssey 1.123-124",ἔπειτα,40,45,Time_vector,Time_vector,Event; Landmark_event,Event; Landmark_event
+"Homer, Odyssey 1.123-124",δείπνου,47,53,Food,Social_event,Food,Attendee
+"Homer, Odyssey 1.123-124",πασσάμενος,55,64,Ingestion,Ingestion,Ingestibles; Ingestor,Ingestibles; Ingestor
+"Homer, Odyssey 1.123-124",μυθήσεαι,66,73,Statement,Telling,Message; Speaker,Addressee; Message; Speaker
+"Homer, Odyssey 1.123-124",χρή,84,86,Needing,Needing,Cognizer; Dependent; Requirement,Cognizer; Dependent; Requirement
+"Homer, Odyssey 7.189-196",ἠῶθεν,0,4,Calendric_unit,Calendric_unit,Relative_time; Unit,Relative_time; Unit
+"Homer, Odyssey 7.189-196",γέροντας,9,16,People_by_age,People_by_age,Person,Person
+"Homer, Odyssey 7.189-196",πλέονας,22,28,Increment,Increment,Class; Initial_set,Class; Initial_set
+"Homer, Odyssey 7.189-196",καλέσαντες,30,39,Request,Request,Addressee; Message; Speaker; Time,Addressee; Message; Speaker
+"Homer, Odyssey 7.189-196",ξεῖνον,41,46,Guest_and_host,Guest_and_host,Guest; Host,Guest; Host; Host_location
+"Homer, Odyssey 7.189-196",μεγάροις,52,59,Buildings,Buildings,Building,Building
+"Homer, Odyssey 7.189-196",ξεινίσσομεν,61,71,Guest_and_host,Have_visitor_over,Guest; Host; Host_location; Time,Host; Visitor
+"Homer, Odyssey 7.189-196",ἱερὰ,93,96,Rite,Rite,Leader,Leader; Type
+"Homer, Odyssey 7.189-196",καλά,98,101,Desirability,Desirability,Evaluee,Evaluee
+"Homer, Odyssey 7.189-196",ἔπειτα,104,109,Time_vector,Time_vector,Event; Landmark_event,Event; Landmark_event
+"Homer, Odyssey 7.189-196",πομπῆς,123,128,Sending,Sending,Goal; Sender; Theme,Goal; Sender; Theme; Transport_means
+"Homer, Odyssey 7.189-196",μνησόμεθ',130,138,Memory,Cogitation,Cognizer; Topic,Cognizer; Topic
+"Homer, Odyssey 7.189-196",ξεῖνος,149,154,Guest_and_host,Guest_and_host,Guest; Host,Guest; Host; Host_location
+"Homer, Odyssey 7.189-196",ἄνευθε,156,161,–,Negation,,Factual_situation; Negated_proposition
+"Homer, Odyssey 7.189-196",πόνου,163,167,Predicament,Predicament,Experiencer; Situation,Experiencer; Situation
+"Homer, Odyssey 7.189-196",ἀνίης,173,177,Emotion_directed,Emotion_directed,Experiencer; Stimulus,Experiencer
+"Homer, Odyssey 7.189-196",πομπῇ,179,183,Sending,Sending,Goal; Sender; Theme,Goal; Sender; Theme; Transport_means
+"Homer, Odyssey 7.189-196",πατρίδα,200,206,–,Foreign_or_domestic_country,,Current_country; Discourse_salient_country
+"Homer, Odyssey 7.189-196",γαῖαν,208,212,Political_locales,Political_locales,Descriptor; Locale,Descriptor; Locale
+"Homer, Odyssey 7.189-196",ἵκηται,214,219,Arriving,Arriving,Circumstances; Depictive; Goal; Manner; Means; Theme,Depictive; Goal; Manner; Means; Theme
+"Homer, Odyssey 7.189-196",χαίρων,221,226,Emotions_by_stimulus,Emotion_directed,Experiencer; Stimulus,Experiencer
+"Homer, Odyssey 7.189-196",καρπαλίμως,228,237,Taking_time,Speed_description,Activity,Entity
+"Homer, Odyssey 7.189-196",εἰ καὶ,240,245,–,Concessive,,Conceded_state_of_affairs; Main_assertion
+"Homer, Odyssey 7.189-196",τηλόθεν,252,258,Gradable_proximity,Gradable_proximity,Degree; Figure; Ground,Degree; Figure; Ground
+"Homer, Odyssey 7.189-196",κακὸν,286,290,–,Desirability,,Evaluee
+"Homer, Odyssey 7.189-196",πῆμα,296,299,Catastrophe,Catastrophe,Patient; Undesirable_event,Patient; Undesirable_event
+"Homer, Odyssey 7.189-196",πάθῃσι,301,306,Catastrophe,Catastrophe,Patient; Time; Undesirable_event,Patient; Time; Undesirable_event
+"Homer, Odyssey 7.189-196",πρίν,309,312,Time_vector,Time_vector,Event; Landmark_event,Event; Landmark_event
+"Homer, Odyssey 7.189-196",γαίης,324,328,Political_locales,Political_locales,Locale,Locale
+"Homer, Odyssey 7.189-196",ἐπιβήμεναι,330,339,Arriving,Arriving,Goal; Theme,Goal; Theme

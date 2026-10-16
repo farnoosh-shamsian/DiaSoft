@@ -1,0 +1,157 @@
+[
+  {
+    "name": "Guest_friendship",
+    "definition": "Two individuals, Partner_1 and Partner_2 (jointly Partners), usually heads of households belonging to different communities, are bound by a lasting, reciprocal relationship of hospitality: each is obliged to receive, feed, protect, honour with gifts and send on the other (and often the other's descendants) whenever he comes to his community. The bond is typically founded or renewed by an exchange of Tokens (guest-gifts), may be inherited (Source_of_relationship), and is held to be under divine Sanction. Unlike Guest_and_host, the relation is symmetric and outlasts any single visit; unlike Personal_relationship, it is defined by mutual obligations of hospitality rather than by affection or kinship.",
+    "inherits": [
+      "Personal_relationship"
+    ],
+    "uses": [
+      "Guest_and_host",
+      "Giving"
+    ],
+    "core_FEs": [
+      {
+        "name": "Partner_1",
+        "definition": "One party to the guest-friendship, typically expressed as subject, possessor or dative of reference."
+      },
+      {
+        "name": "Partner_2",
+        "definition": "The other party; with the relational noun ξένος 'guest-friend' it is the referent of the noun itself."
+      },
+      {
+        "name": "Partners",
+        "definition": "Both parties expressed together, e.g. as a plural subject or with a reciprocal pronoun."
+      }
+    ],
+    "noncore_FEs": [
+      {
+        "name": "Token",
+        "definition": "A gift exchanged to found, seal or later prove the bond (ξεινήιον, ξείνια)."
+      },
+      {
+        "name": "Source_of_relationship",
+        "definition": "What the bond derives from, e.g. inheritance from fathers (πατρώϊος) or an earlier act of hospitality."
+      },
+      {
+        "name": "Duration",
+        "definition": "How long the bond has existed (e.g. παλαιός 'of long standing')."
+      },
+      {
+        "name": "Descriptor",
+        "definition": "A characterization of the bond (e.g. προσκηδής 'caring, affectionate')."
+      },
+      {
+        "name": "Sanction",
+        "definition": "The deity or norm that guarantees the bond (e.g. Ζεὺς ξείνιος, θέμις)."
+      },
+      {
+        "name": "Place",
+        "definition": "The community or house in which the obligations of the bond are exercised."
+      }
+    ],
+    "lexical_units": [
+      {
+        "lemma": "ξενοσύνη",
+        "pos": "N",
+        "gloss": "guest-friendship (the bond itself)"
+      },
+      {
+        "lemma": "ξένος",
+        "pos": "N",
+        "gloss": "guest-friend (the partner; relational noun)"
+      },
+      {
+        "lemma": "ξενία",
+        "pos": "N",
+        "gloss": "guest-friendship, friendly relation"
+      },
+      {
+        "lemma": "ξεινήιον",
+        "pos": "N",
+        "gloss": "gift of guest-friendship (denotes the Token)"
+      }
+    ],
+    "examples": [
+      {
+        "text": "ἦ ῥά νύ [μοι|Partner_1] [ξεῖνος|Partner_2] [πατρώϊός|Source_of_relationship] ἐσσι [παλαιός|Duration]",
+        "note": "verified in the AGLDT treebank: Il. 6.215 (Diomedes to Glaukos); target ξεῖνος; FE labels are this proposal's"
+      },
+      {
+        "text": "[τῷ|Partner_2] δ' [Ὀδυσεὺς|Partner_1] [ξίφος ὀξὺ καὶ ἄλκιμον ἔγχος|Token] ἔδωκεν, ἀρχὴν ξεινοσύνης [προσκηδέος|Descriptor]",
+        "note": "verified in the AGLDT treebank: Od. 21.34-35 (Odysseus and Iphitus); target ξεινοσύνης; FE labels are this proposal's"
+      },
+      {
+        "text": "[οἳ|Partners] δὲ καὶ ἀλλήλοισι πόρον [ξεινήϊα καλά|Token]",
+        "note": "verified in the AGLDT treebank: Il. 6.218 (Oineus and Bellerophon); target ξεινήϊα; FE labels are this proposal's"
+      }
+    ]
+  },
+  {
+    "name": "Tending",
+    "definition": "A Caretaker gives sustained attention and work to a Ward (a person, a person's life or livelihood, a household, animals, plants or other property) so as to keep it in good condition or meet its needs, often on behalf of a Principal who owns or is responsible for the Ward. Unlike Assistance, no particular Goal of a Benefited_party is profiled; unlike Subordinates_and_superiors, no relation of command is required; unlike Growing_food, the Ward need not be a crop.",
+    "inherits": [
+      "Intentionally_act"
+    ],
+    "uses": [
+      "Assistance"
+    ],
+    "core_FEs": [
+      {
+        "name": "Caretaker",
+        "definition": "The person who does the tending."
+      },
+      {
+        "name": "Ward",
+        "definition": "The person, livelihood, animal, plant or property that is tended."
+      }
+    ],
+    "noncore_FEs": [
+      {
+        "name": "Principal",
+        "definition": "The person on whose behalf or for whose benefit the Ward is tended, e.g. its owner."
+      },
+      {
+        "name": "Manner",
+        "definition": "The way the tending is carried out (e.g. well, carefully)."
+      },
+      {
+        "name": "Duration",
+        "definition": "How long the tending lasts."
+      },
+      {
+        "name": "Place",
+        "definition": "Where the tending takes place."
+      },
+      {
+        "name": "Time",
+        "definition": "When the tending takes place."
+      },
+      {
+        "name": "Purpose",
+        "definition": "What the Caretaker intends to achieve by the tending."
+      }
+    ],
+    "lexical_units": [
+      {
+        "lemma": "ἀμφιπολεύω",
+        "pos": "V",
+        "gloss": "tend, look after, care for"
+      },
+      {
+        "lemma": "θεραπεύω",
+        "pos": "V",
+        "gloss": "tend, take care of (post-Homeric sense)"
+      }
+    ],
+    "examples": [
+      {
+        "text": "εἰ [κεῖνός|Caretaker] γ' ἐλθὼν [τὸν ἐμὸν βίον|Ward] ἀμφιπολεύοι",
+        "note": "verified in the AGLDT treebank: Od. 18.254 (= 19.127), Penelope of Odysseus; target ἀμφιπολεύοι"
+      },
+      {
+        "text": "[τεῦ|Principal] δ' [ὄρχατον|Ward] ἀμφιπολεύεις;",
+        "note": "verified in the AGLDT treebank: Od. 24.257 (Odysseus to Laertes); target ἀμφιπολεύεις; Caretaker = CNI (2sg)"
+      }
+    ]
+  }
+]

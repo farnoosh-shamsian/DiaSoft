@@ -1,0 +1,713 @@
+{
+  "corpus": "Ancient_Greek_hospitality_cluster128",
+  "document": "Homer, Odyssey",
+  "provenance": {
+    "text": "public-domain (Homer, Odyssey 7.189-196)",
+    "translation": "author's",
+    "annotation": "illustrative proposal, using existing Berkeley FrameNet 1.7 frames only",
+    "offsets": "0-based character positions, end inclusive",
+    "caveats": [
+      "χαῖρε (Od. 1.123) left unannotated: FrameNet 1.7 has no Greeting frame (no LU for greet, hello, welcome or hail as a greeting).",
+      "θεοῖσιν (Od. 7.190) left unannotated: FrameNet 1.7 has no frame with god.n or deity.n; the Rite frame has no FE for the deity who receives a sacrifice, so θεοῖσιν is not given an FE in the ἱερά set either.",
+      "ῥέξομεν (Od. 7.191) is treated as a support verb of ἱερά (ῥέζειν ἱερά 'to perform sacrifices'); ἱερά is the target in Rite (sacrifice.n), and the unexpressed 1pl subject of the support verb is the Leader (CNI).",
+      "φιλήσεαι (Od. 1.123) is annotated in Guest_and_host for the Homeric hospitality sense of φιλέω ('be received kindly as a guest'); FrameNet has no LU for this sense. Treating_and_mistreating (treat.v) would be the fallback.",
+      "ξεινίσσομεν (Od. 7.190) is annotated in Guest_and_host, which has only noun LUs (guest.n, host.n); a verb LU is assumed on the analogy of befriend.v in Personal_relationship. The frame was chosen over Have_visitor_over because it has the Host_location FE that the Homeric phrase ἐν μεγάροισι fills.",
+      "πομπή (Od. 7.191, 7.193) is annotated in Sending. FrameNet has no frame for a host's conveyance of a departing guest; the escort component (Cotheme) and the fact that this conveyance is owed as hospitality are not represented.",
+      "Non-local FEs: in the sets for πομπῇ, ἵκηται and χαίρων the clause subject ὁ ξεῖνος is marked as an overt FE (it is the conveyed Theme, the arriving Theme, and the controller of the participle). The Goal ἣν πατρίδα γαῖαν is shared by the Sending (πομπῇ) and Arriving (ἵκηται) sets. In the γαῖα set πατρίδα is treated as a Descriptor; Foreign_or_domestic_country (homeland.n) would be an alternative.",
+      "ἵκηται has two Depictive spans (ἄνευθε πόνου καὶ ἀνίης; χαίρων); the concessive clause εἰ καὶ μάλα τηλόθεν ἐστί is marked as Circumstances, because Arriving has no Concessive FE.",
+      "δείπνου is assigned to Food, because FrameNet has no meal.n LU. γέροντας is assigned to People_by_age, which covers 'old men' but not the institutional sense 'elders, council members'. τηλόθεν ('from afar') is reduced to distance in Gradable_proximity; its ablatival (source) meaning is lost. καρπαλίμως is annotated in Taking_time (quickly.adv), with luName given in its adverbial form.",
+      "μεσσηγύς is marked only as the Time FE of πάθῃσι, and κακόν only inside the Undesirable_event span. Neither is a separate target.",
+      "Function words (δέ, καί, ἠδέ, αὐτάρ, ὡς, ἄν, εἰ, μή, γε, the article), pronouns, possessive adjectives (ἡμέτερος, ἑός), the copula ἐστί and the prepositions (παρά, ἐν, ἐπί, περί, ὑπό, ἄνευθε) are not separate targets. Prepositions are included in the spans of the FEs they head.",
+      "Null instantiations: pro-dropped and controlled subjects are CNI. Only conceptually required core FEs are marked as null instantiations. Where FrameNet groups FEs in a core set (Host/Host_location, Sender/Transport_means, Recipient/Goal, Whole/Relative_time, Dependent/Consequences), only one member is marked. FEs incorporated in the target (e.g. Age for γέροντας) are not marked.",
+      "Text of Od. 1.123-124 is as annotated in the original experiment; text of Od. 7.189-196 is from the AGLDT 2.1 treebank. The treebank tokenizes μηδέ as μη + δέ; the Event span of πρίν uses the running-text offsets. Both texts should be checked against a critical edition."
+    ]
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "source": "Homer, Odyssey 7.189-196",
+      "text": "ἠῶθεν δὲ γέροντας ἐπὶ πλέονας καλέσαντες ξεῖνον ἐνὶ μεγάροις ξεινίσσομεν ἠδὲ θεοῖσιν ῥέξομεν ἱερὰ καλά, ἔπειτα δὲ καὶ περὶ πομπῆς μνησόμεθ', ὥς χ' ὁ ξεῖνος ἄνευθε πόνου καὶ ἀνίης πομπῇ ὑφ' ἡμετέρῃ ἣν πατρίδα γαῖαν ἵκηται χαίρων καρπαλίμως, εἰ καὶ μάλα τηλόθεν ἐστί, μηδέ τι μεσσηγύς γε κακὸν καὶ πῆμα πάθῃσι, πρίν γε τὸν ἧς γαίης ἐπιβήμεναι·",
+      "translation": "At dawn we will call together more of the elders, entertain the stranger in the halls and perform fine sacrifices to the gods; and after that we will also turn our minds to his conveyance, so that under our escort the stranger may reach his native land without toil or distress, joyfully and quickly, even if he comes from very far away, and suffer no evil or harm on the way before he sets foot on his own land.",
+      "annotationSets": [
+        {
+          "id": 1,
+          "luName": "ἠῶθεν.adv",
+          "frameName": "Calendric_unit",
+          "frameStatus": "existing",
+          "target": {
+            "name": "Target",
+            "start": 0,
+            "end": 4,
+            "text": "ἠῶθεν"
+          },
+          "FEs": [
+            {
+              "name": "Unit",
+              "start": 0,
+              "end": 4,
+              "text": "ἠῶθεν"
+            },
+            {
+              "name": "Relative_time",
+              "itype": "DNI"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "luName": "γέρων.n",
+          "frameName": "People_by_age",
+          "frameStatus": "existing",
+          "target": {
+            "name": "Target",
+            "start": 9,
+            "end": 16,
+            "text": "γέροντας"
+          },
+          "FEs": [
+            {
+              "name": "Person",
+              "start": 9,
+              "end": 16,
+              "text": "γέροντας"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "luName": "πλείων.a",
+          "frameName": "Increment",
+          "frameStatus": "existing",
+          "target": {
+            "name": "Target",
+            "start": 22,
+            "end": 28,
+            "text": "πλέονας"
+          },
+          "FEs": [
+            {
+              "name": "Class",
+              "start": 9,
+              "end": 16,
+              "text": "γέροντας"
+            },
+            {
+              "name": "Initial_set",
+              "itype": "DNI"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "luName": "καλέω.v",
+          "frameName": "Request",
+          "frameStatus": "existing",
+          "target": {
+            "name": "Target",
+            "start": 30,
+            "end": 39,
+            "text": "καλέσαντες"
+          },
+          "FEs": [
+            {
+              "name": "Speaker",
+              "itype": "CNI"
+            },
+            {
+              "name": "Addressee",
+              "start": 9,
+              "end": 28,
+              "text": "γέροντας ἐπὶ πλέονας"
+            },
+            {
+              "name": "Message",
+              "itype": "INI"
+            },
+            {
+              "name": "Time",
+              "start": 0,
+              "end": 4,
+              "text": "ἠῶθεν"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "luName": "ξένος.n",
+          "frameName": "Guest_and_host",
+          "frameStatus": "existing",
+          "target": {
+            "name": "Target",
+            "start": 41,
+            "end": 46,
+            "text": "ξεῖνον"
+          },
+          "FEs": [
+            {
+              "name": "Guest",
+              "start": 41,
+              "end": 46,
+              "text": "ξεῖνον"
+            },
+            {
+              "name": "Host",
+              "itype": "DNI"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "luName": "μέγαρον.n",
+          "frameName": "Buildings",
+          "frameStatus": "existing",
+          "target": {
+            "name": "Target",
+            "start": 52,
+            "end": 59,
+            "text": "μεγάροις"
+          },
+          "FEs": [
+            {
+              "name": "Building",
+              "start": 52,
+              "end": 59,
+              "text": "μεγάροις"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "luName": "ξενίζω.v",
+          "frameName": "Guest_and_host",
+          "frameStatus": "existing",
+          "target": {
+            "name": "Target",
+            "start": 61,
+            "end": 71,
+            "text": "ξεινίσσομεν"
+          },
+          "FEs": [
+            {
+              "name": "Host",
+              "itype": "CNI"
+            },
+            {
+              "name": "Guest",
+              "start": 41,
+              "end": 46,
+              "text": "ξεῖνον"
+            },
+            {
+              "name": "Host_location",
+              "start": 48,
+              "end": 59,
+              "text": "ἐνὶ μεγάροις"
+            },
+            {
+              "name": "Time",
+              "start": 0,
+              "end": 4,
+              "text": "ἠῶθεν"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "luName": "ἱερόν.n",
+          "frameName": "Rite",
+          "frameStatus": "existing",
+          "target": {
+            "name": "Target",
+            "start": 93,
+            "end": 96,
+            "text": "ἱερὰ"
+          },
+          "FEs": [
+            {
+              "name": "Leader",
+              "itype": "CNI"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "luName": "καλός.a",
+          "frameName": "Desirability",
+          "frameStatus": "existing",
+          "target": {
+            "name": "Target",
+            "start": 98,
+            "end": 101,
+            "text": "καλά"
+          },
+          "FEs": [
+            {
+              "name": "Evaluee",
+              "start": 93,
+              "end": 96,
+              "text": "ἱερὰ"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "luName": "ἔπειτα.adv",
+          "frameName": "Time_vector",
+          "frameStatus": "existing",
+          "target": {
+            "name": "Target",
+            "start": 104,
+            "end": 109,
+            "text": "ἔπειτα"
+          },
+          "FEs": [
+            {
+              "name": "Landmark_event",
+              "start": 41,
+              "end": 101,
+              "text": "ξεῖνον ἐνὶ μεγάροις ξεινίσσομεν ἠδὲ θεοῖσιν ῥέξομεν ἱερὰ καλά"
+            },
+            {
+              "name": "Event",
+              "start": 118,
+              "end": 138,
+              "text": "περὶ πομπῆς μνησόμεθ'"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "luName": "πομπή.n",
+          "frameName": "Sending",
+          "frameStatus": "existing",
+          "target": {
+            "name": "Target",
+            "start": 123,
+            "end": 128,
+            "text": "πομπῆς"
+          },
+          "FEs": [
+            {
+              "name": "Sender",
+              "itype": "DNI"
+            },
+            {
+              "name": "Theme",
+              "itype": "DNI"
+            },
+            {
+              "name": "Goal",
+              "itype": "DNI"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "luName": "μιμνήσκω.v",
+          "frameName": "Memory",
+          "frameStatus": "existing",
+          "target": {
+            "name": "Target",
+            "start": 130,
+            "end": 138,
+            "text": "μνησόμεθ'"
+          },
+          "FEs": [
+            {
+              "name": "Cognizer",
+              "itype": "CNI"
+            },
+            {
+              "name": "Topic",
+              "start": 118,
+              "end": 128,
+              "text": "περὶ πομπῆς"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "luName": "ξένος.n",
+          "frameName": "Guest_and_host",
+          "frameStatus": "existing",
+          "target": {
+            "name": "Target",
+            "start": 149,
+            "end": 154,
+            "text": "ξεῖνος"
+          },
+          "FEs": [
+            {
+              "name": "Guest",
+              "start": 149,
+              "end": 154,
+              "text": "ξεῖνος"
+            },
+            {
+              "name": "Host",
+              "itype": "DNI"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "luName": "πόνος.n",
+          "frameName": "Predicament",
+          "frameStatus": "existing",
+          "target": {
+            "name": "Target",
+            "start": 163,
+            "end": 167,
+            "text": "πόνου"
+          },
+          "FEs": [
+            {
+              "name": "Situation",
+              "start": 163,
+              "end": 167,
+              "text": "πόνου"
+            },
+            {
+              "name": "Experiencer",
+              "itype": "DNI"
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "luName": "ἀνία.n",
+          "frameName": "Emotion_directed",
+          "frameStatus": "existing",
+          "target": {
+            "name": "Target",
+            "start": 173,
+            "end": 177,
+            "text": "ἀνίης"
+          },
+          "FEs": [
+            {
+              "name": "Experiencer",
+              "itype": "DNI"
+            },
+            {
+              "name": "Stimulus",
+              "itype": "INI"
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "luName": "πομπή.n",
+          "frameName": "Sending",
+          "frameStatus": "existing",
+          "target": {
+            "name": "Target",
+            "start": 179,
+            "end": 183,
+            "text": "πομπῇ"
+          },
+          "FEs": [
+            {
+              "name": "Sender",
+              "start": 189,
+              "end": 195,
+              "text": "ἡμετέρῃ"
+            },
+            {
+              "name": "Theme",
+              "start": 147,
+              "end": 154,
+              "text": "ὁ ξεῖνος"
+            },
+            {
+              "name": "Goal",
+              "start": 197,
+              "end": 212,
+              "text": "ἣν πατρίδα γαῖαν"
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "luName": "γαῖα.n",
+          "frameName": "Political_locales",
+          "frameStatus": "existing",
+          "target": {
+            "name": "Target",
+            "start": 208,
+            "end": 212,
+            "text": "γαῖαν"
+          },
+          "FEs": [
+            {
+              "name": "Locale",
+              "start": 208,
+              "end": 212,
+              "text": "γαῖαν"
+            },
+            {
+              "name": "Descriptor",
+              "start": 200,
+              "end": 206,
+              "text": "πατρίδα"
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "luName": "ἱκνέομαι.v",
+          "frameName": "Arriving",
+          "frameStatus": "existing",
+          "target": {
+            "name": "Target",
+            "start": 214,
+            "end": 219,
+            "text": "ἵκηται"
+          },
+          "FEs": [
+            {
+              "name": "Theme",
+              "start": 147,
+              "end": 154,
+              "text": "ὁ ξεῖνος"
+            },
+            {
+              "name": "Depictive",
+              "start": 156,
+              "end": 177,
+              "text": "ἄνευθε πόνου καὶ ἀνίης"
+            },
+            {
+              "name": "Means",
+              "start": 179,
+              "end": 195,
+              "text": "πομπῇ ὑφ' ἡμετέρῃ"
+            },
+            {
+              "name": "Goal",
+              "start": 197,
+              "end": 212,
+              "text": "ἣν πατρίδα γαῖαν"
+            },
+            {
+              "name": "Depictive",
+              "start": 221,
+              "end": 226,
+              "text": "χαίρων"
+            },
+            {
+              "name": "Manner",
+              "start": 228,
+              "end": 237,
+              "text": "καρπαλίμως"
+            },
+            {
+              "name": "Circumstances",
+              "start": 240,
+              "end": 263,
+              "text": "εἰ καὶ μάλα τηλόθεν ἐστί"
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "luName": "χαίρω.v",
+          "frameName": "Emotions_by_stimulus",
+          "frameStatus": "existing",
+          "target": {
+            "name": "Target",
+            "start": 221,
+            "end": 226,
+            "text": "χαίρων"
+          },
+          "FEs": [
+            {
+              "name": "Experiencer",
+              "start": 147,
+              "end": 154,
+              "text": "ὁ ξεῖνος"
+            },
+            {
+              "name": "Stimulus",
+              "itype": "DNI"
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "luName": "καρπαλίμως.adv",
+          "frameName": "Taking_time",
+          "frameStatus": "existing",
+          "target": {
+            "name": "Target",
+            "start": 228,
+            "end": 237,
+            "text": "καρπαλίμως"
+          },
+          "FEs": [
+            {
+              "name": "Activity",
+              "start": 214,
+              "end": 219,
+              "text": "ἵκηται"
+            }
+          ]
+        },
+        {
+          "id": 21,
+          "luName": "τηλόθεν.adv",
+          "frameName": "Gradable_proximity",
+          "frameStatus": "existing",
+          "target": {
+            "name": "Target",
+            "start": 252,
+            "end": 258,
+            "text": "τηλόθεν"
+          },
+          "FEs": [
+            {
+              "name": "Figure",
+              "itype": "CNI"
+            },
+            {
+              "name": "Degree",
+              "start": 247,
+              "end": 250,
+              "text": "μάλα"
+            },
+            {
+              "name": "Ground",
+              "itype": "DNI"
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "luName": "πάσχω.v",
+          "frameName": "Catastrophe",
+          "frameStatus": "existing",
+          "target": {
+            "name": "Target",
+            "start": 301,
+            "end": 306,
+            "text": "πάθῃσι"
+          },
+          "FEs": [
+            {
+              "name": "Patient",
+              "itype": "CNI"
+            },
+            {
+              "name": "Time",
+              "start": 274,
+              "end": 281,
+              "text": "μεσσηγύς"
+            },
+            {
+              "name": "Undesirable_event",
+              "start": 286,
+              "end": 299,
+              "text": "κακὸν καὶ πῆμα"
+            }
+          ]
+        },
+        {
+          "id": 23,
+          "luName": "πῆμα.n",
+          "frameName": "Catastrophe",
+          "frameStatus": "existing",
+          "target": {
+            "name": "Target",
+            "start": 296,
+            "end": 299,
+            "text": "πῆμα"
+          },
+          "FEs": [
+            {
+              "name": "Undesirable_event",
+              "start": 296,
+              "end": 299,
+              "text": "πῆμα"
+            },
+            {
+              "name": "Patient",
+              "itype": "CNI"
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "luName": "πρίν.adv",
+          "frameName": "Time_vector",
+          "frameStatus": "existing",
+          "target": {
+            "name": "Target",
+            "start": 309,
+            "end": 312,
+            "text": "πρίν"
+          },
+          "FEs": [
+            {
+              "name": "Event",
+              "start": 266,
+              "end": 306,
+              "text": "μηδέ τι μεσσηγύς γε κακὸν καὶ πῆμα πάθῃσι"
+            },
+            {
+              "name": "Landmark_event",
+              "start": 317,
+              "end": 339,
+              "text": "τὸν ἧς γαίης ἐπιβήμεναι"
+            }
+          ]
+        },
+        {
+          "id": 25,
+          "luName": "γαῖα.n",
+          "frameName": "Political_locales",
+          "frameStatus": "existing",
+          "target": {
+            "name": "Target",
+            "start": 324,
+            "end": 328,
+            "text": "γαίης"
+          },
+          "FEs": [
+            {
+              "name": "Locale",
+              "start": 324,
+              "end": 328,
+              "text": "γαίης"
+            }
+          ]
+        },
+        {
+          "id": 26,
+          "luName": "ἐπιβαίνω.v",
+          "frameName": "Arriving",
+          "frameStatus": "existing",
+          "target": {
+            "name": "Target",
+            "start": 330,
+            "end": 339,
+            "text": "ἐπιβήμεναι"
+          },
+          "FEs": [
+            {
+              "name": "Theme",
+              "start": 317,
+              "end": 319,
+              "text": "τὸν"
+            },
+            {
+              "name": "Goal",
+              "start": 321,
+              "end": 328,
+              "text": "ἧς γαίης"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

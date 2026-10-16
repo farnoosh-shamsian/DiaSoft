@@ -1,0 +1,53 @@
+cluster 98  |  52 lemmas  |  gift, guest, receive, hospitality
+  ξενίζω (12): receive; entertain as a guest; to present with; with
+  δῶρον (126): gift, present, gift of honour; votive gift; offering; the gifts of
+  ἐπίηρα (2): acceptable; gifts; service; for the sake of
+  γεραίρω (3): honour, reward; honour; present as an honorary gift; celebrate
+  πρεσβεῖον (1): gift of honour; privilege of age; privilege; prerogatives
+  γέρας (42): gift of honour; the last honours; privilege, prerogative; gift, present
+  δωρητός (1): open to gifts; presents; freely given
+  προσδέχομαι (15): receive favourably, accept; receive hospitably; admit; admit into oneʼs presence
+  κτέρας (2): possession; gift
+  ξεινήιον (9): hostʼs gift; provision made for a guest; gifts of (guest-) friendship
+  δίδωμι (483): give freely; to be ready to give, offer; things offered; grant, assign
+  ἐπιδίδωμι (5): give besides; administer; give afterwards; give in dowry
+  προσάγω (1): bring to; upon; furnish, supply; put to, add
+  δωτίνη (4): gift, present; as a free gift; rent in kind
+  ξένιος (21): belonging to friendship and hospitality, hospitable; protector of the rights of hospitalit
+  προίξ (2): gift, present; of his bounty, without reimbursement; with impunity; gift
+  πομπή (26): conduct, escort; an escort; sending away, sending home; mission
+  ὑποδέχομαι (18): receive into oneʼs house, welcome; received; who had received him; harbour
+  ἀγέραστος (1): without a gift of honour, unrecompensed
+  δωρέω (1): give, present; present; with; to be given
+  δαιτυμών (9): one that is entertained, guest; those who bring each his portion
+  θεραπεύω (1): to be an attendant, do service; do service to; serve; worship
+  παρέχω (16): hand over; furnish, supply; will provide; finds
+  δόσις (5): giving; licence, permission; ramming; gift
+  ξενοσύνη (1): hospitality
+  ἀναδέχομαι (2): take up, catch, receive; receive, entertain; take upon oneself, submit to; acknowledge
+  πομπεύω (1): conduct, escort; carry; in procession; lead a procession
+  φιλόξενος (4): loving strangers, hospitable; of hospitality
+  ξένος (207): guest-friend; guest; visitor; guests
+  ξένος2 (6): guest-friend; guest; visitor; guests
+  δέχομαι (78): take, accept, receive; receive; at the hand of; accept
+  ξενία (2): hospitality shown to a guest, entertainment; hospitii causa; as a guest; friendly relation
+  ἐπαμείβω (2): exchange, barter; come one after another, come in turn to
+  ἀμφιπολεύω (5): serve as an attendant, tend, care for; serve, have the care of; hold the; office of
+  ἀμοιβός (1): one who exchanges; soldiers that relieve others; in requital; exchange for
+  τάμιας (2): the ship's officer who is in charge of provisions and dining arrangements
+  ταμίας (1): the ship's officer who is in charge of provisions and dining arrangements
+  οἰνοχόος (5): the attendant (usually an officer of a nobleman's household) whose duty is to fill and ser
+  πομπός (12): conductor, escort, guide; attendants, guards; conductress; conveyor, carrier of
+  ὑποδεξίη (1): reception of a guest, means of entertainment
+  πομπεύς (5): one who attends; escorts, conductor, guide; one who takes part in a procession
+  νέμω (45): deal out, dispense; distribute; leave; pay
+  ὑποδρηστήρ (1): attendant, assistant
+  κτῆμα (61): anything gotten, piece of property, possession; possessions; heirlooms; property
+  ἄθυρμα (3): plaything, toy; beautiful objects, adornments; delight, joy; pastimes
+  ἐπίμαστος (1): sought out, brought in
+  ἀφήκω (1): arrive at or have arrived; is a case; depart
+  δοτήρ (1): giver, dispenser
+  εἰσφέρω (2): carry in; bring in, contribute; pay the propertytax; bring in
+  γλῆνος (1): gaudy things, playthings, trinkets; stars
+  ἀποδέχομαι (1): accept; accept as a teacher, follow; admit; admitting into the mind
+  κειμήλιον (18): anything stored up as valuable, treasure, heirloom; relic

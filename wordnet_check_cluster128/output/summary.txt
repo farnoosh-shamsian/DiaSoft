@@ -1,0 +1,30 @@
+lemma        group              synsets  core plaus.  noise
+ξένος        guest/hospitality      150     4     17    129
+ξένιος       guest/hospitality       64     1      5     58
+ξενίζω       guest/hospitality      233     5      8    220
+ξενία        guest/hospitality       78     4     12     62
+ξενοσύνη     guest/hospitality        1     1      0      0
+ξεινήιον     guest/hospitality       11     1      2      8
+ὑποδεξίη     guest/hospitality        0     0      0      0
+φιλόξενος    guest/hospitality       10     0      3      7
+δαιτυμών     guest/hospitality       21     2      3     16
+πομπή        escort                  64     3      6     55
+πομπός       escort                  74     3     10     61
+πομπεύς      escort                  41     2      4     35
+πομπεύω      escort                 383     4      8    371
+θεραπεύω     attendant/service      774     6     37    731
+ἀμφιπολεύω   attendant/service      263     5     11    247
+οἰνοχόος     attendant/service        1     1      0      0
+ὑποδρηστήρ   attendant/service        0     0      0      0
+ταμίας       attendant/service        0     0      0      0
+TOTAL                              2168    42    126   2000
+
+ξενία vs. protocol (manual flags): 78 shared synsets, 73 same flag (94%)
+   protocol noise     -> agent plausible 2
+   protocol plausible -> agent noise     3
+
+ξένος vs. protocol (heuristic flags): 150 shared synsets, 116 same flag (77%)
+   protocol core      -> agent noise     2
+   protocol core      -> agent plausible 6
+   protocol noise     -> agent plausible 10
+   protocol plausible -> agent noise     16

@@ -1,0 +1,588 @@
+{
+ "sentences": [
+  {
+   "id": 1,
+   "source": "Homer, Odyssey 1.123-124",
+   "text_source": "as annotated in the original experiment (AGLDT treebank punctuation differs slightly)",
+   "text": "χαῖρε, ξεῖνε· παρ' ἄμμι φιλήσεαι· αὐτὰρ ἔπειτα δείπνου πασσάμενος μυθήσεαι ὅττεό σε χρή.",
+   "tokens": [
+    {
+     "form": "χαῖρε",
+     "lemma": "χαίρω",
+     "postag": "v2spma---",
+     "cite": "1.123",
+     "start": 0,
+     "end": 4
+    },
+    {
+     "form": "ξεῖνε",
+     "lemma": "ξένος",
+     "postag": "n-s---mv-",
+     "cite": "1.123",
+     "start": 7,
+     "end": 11
+    },
+    {
+     "form": "παρ'",
+     "lemma": "παρά",
+     "postag": "r--------",
+     "cite": "1.123",
+     "start": 14,
+     "end": 17
+    },
+    {
+     "form": "ἄμμι",
+     "lemma": "ἐγώ",
+     "postag": "p1p---md-",
+     "cite": "1.123",
+     "start": 19,
+     "end": 22
+    },
+    {
+     "form": "φιλήσεαι",
+     "lemma": "φιλέω",
+     "postag": "v2sfie---",
+     "cite": "1.123",
+     "start": 24,
+     "end": 31
+    },
+    {
+     "form": "αὐτὰρ",
+     "lemma": "ἀτάρ",
+     "postag": "g--------",
+     "cite": "1.123",
+     "start": 34,
+     "end": 38
+    },
+    {
+     "form": "ἔπειτα",
+     "lemma": "ἔπειτα",
+     "postag": "d--------",
+     "cite": "1.123",
+     "start": 40,
+     "end": 45
+    },
+    {
+     "form": "δείπνου",
+     "lemma": "δεῖπνον",
+     "postag": "n-s---ng-",
+     "cite": "1.124",
+     "start": 47,
+     "end": 53
+    },
+    {
+     "form": "πασσάμενος",
+     "lemma": "πατέομαι",
+     "postag": "v-sap-mn-",
+     "cite": "1.124",
+     "start": 55,
+     "end": 64
+    },
+    {
+     "form": "μυθήσεαι",
+     "lemma": "μυθέομαι",
+     "postag": "v2sfie---",
+     "cite": "1.124",
+     "start": 66,
+     "end": 73
+    },
+    {
+     "form": "ὅττεό",
+     "lemma": "ὅστις",
+     "postag": "p-s---ng-",
+     "cite": "1.124",
+     "start": 75,
+     "end": 79
+    },
+    {
+     "form": "σε",
+     "lemma": "σύ",
+     "postag": "p2s----a-",
+     "cite": "1.124",
+     "start": 81,
+     "end": 82
+    },
+    {
+     "form": "χρή",
+     "lemma": "χρή",
+     "postag": "v3spia---",
+     "cite": "1.124",
+     "start": 84,
+     "end": 86
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "source": "Homer, Odyssey 7.189-196",
+   "text_source": "AGLDT 2.1 treebank (Perseus); verify against a critical edition",
+   "text": "ἠῶθεν δὲ γέροντας ἐπὶ πλέονας καλέσαντες ξεῖνον ἐνὶ μεγάροις ξεινίσσομεν ἠδὲ θεοῖσιν ῥέξομεν ἱερὰ καλά, ἔπειτα δὲ καὶ περὶ πομπῆς μνησόμεθ', ὥς χ' ὁ ξεῖνος ἄνευθε πόνου καὶ ἀνίης πομπῇ ὑφ' ἡμετέρῃ ἣν πατρίδα γαῖαν ἵκηται χαίρων καρπαλίμως, εἰ καὶ μάλα τηλόθεν ἐστί, μηδέ τι μεσσηγύς γε κακὸν καὶ πῆμα πάθῃσι, πρίν γε τὸν ἧς γαίης ἐπιβήμεναι·",
+   "tokens": [
+    {
+     "form": "ἠῶθεν",
+     "lemma": "ἠῶθεν",
+     "postag": "d--------",
+     "cite": "7.189",
+     "start": 0,
+     "end": 4
+    },
+    {
+     "form": "δὲ",
+     "lemma": "δέ",
+     "postag": "g--------",
+     "cite": "7.189",
+     "start": 6,
+     "end": 7
+    },
+    {
+     "form": "γέροντας",
+     "lemma": "γέρων",
+     "postag": "n-p---ma-",
+     "cite": "7.189",
+     "start": 9,
+     "end": 16
+    },
+    {
+     "form": "ἐπὶ",
+     "lemma": "ἐπί",
+     "postag": "r--------",
+     "cite": "7.189",
+     "start": 18,
+     "end": 20
+    },
+    {
+     "form": "πλέονας",
+     "lemma": "πλείων",
+     "postag": "a-p---mac",
+     "cite": "7.189",
+     "start": 22,
+     "end": 28
+    },
+    {
+     "form": "καλέσαντες",
+     "lemma": "καλέω",
+     "postag": "v-papamn-",
+     "cite": "7.189",
+     "start": 30,
+     "end": 39
+    },
+    {
+     "form": "ξεῖνον",
+     "lemma": "ξένος",
+     "postag": "n-s---ma-",
+     "cite": "7.190",
+     "start": 41,
+     "end": 46
+    },
+    {
+     "form": "ἐνὶ",
+     "lemma": "ἐν",
+     "postag": "r--------",
+     "cite": "7.190",
+     "start": 48,
+     "end": 50
+    },
+    {
+     "form": "μεγάροις",
+     "lemma": "μέγαρον",
+     "postag": "n-p---nd-",
+     "cite": "7.190",
+     "start": 52,
+     "end": 59
+    },
+    {
+     "form": "ξεινίσσομεν",
+     "lemma": "ξενίζω",
+     "postag": "v1pfia---",
+     "cite": "7.190",
+     "start": 61,
+     "end": 71
+    },
+    {
+     "form": "ἠδὲ",
+     "lemma": "ἠδέ",
+     "postag": "c--------",
+     "cite": "7.190",
+     "start": 73,
+     "end": 75
+    },
+    {
+     "form": "θεοῖσιν",
+     "lemma": "θεός",
+     "postag": "n-p---md-",
+     "cite": "7.190",
+     "start": 77,
+     "end": 83
+    },
+    {
+     "form": "ῥέξομεν",
+     "lemma": "ῥέζω",
+     "postag": "v1pfia---",
+     "cite": "7.191",
+     "start": 85,
+     "end": 91
+    },
+    {
+     "form": "ἱερὰ",
+     "lemma": "ἱερόν",
+     "postag": "n-p---na-",
+     "cite": "7.191",
+     "start": 93,
+     "end": 96
+    },
+    {
+     "form": "καλά",
+     "lemma": "καλός",
+     "postag": "a-p---na-",
+     "cite": "7.191",
+     "start": 98,
+     "end": 101
+    },
+    {
+     "form": "ἔπειτα",
+     "lemma": "ἔπειτα",
+     "postag": "d--------",
+     "cite": "7.191",
+     "start": 104,
+     "end": 109
+    },
+    {
+     "form": "δὲ",
+     "lemma": "δέ",
+     "postag": "g--------",
+     "cite": "7.191",
+     "start": 111,
+     "end": 112
+    },
+    {
+     "form": "καὶ",
+     "lemma": "καί",
+     "postag": "d--------",
+     "cite": "7.191",
+     "start": 114,
+     "end": 116
+    },
+    {
+     "form": "περὶ",
+     "lemma": "περί",
+     "postag": "r--------",
+     "cite": "7.191",
+     "start": 118,
+     "end": 121
+    },
+    {
+     "form": "πομπῆς",
+     "lemma": "πομπή",
+     "postag": "n-s---fg-",
+     "cite": "7.191",
+     "start": 123,
+     "end": 128
+    },
+    {
+     "form": "μνησόμεθ'",
+     "lemma": "μιμνήσκω",
+     "postag": "v1pfim---",
+     "cite": "7.192",
+     "start": 130,
+     "end": 138
+    },
+    {
+     "form": "ὥς",
+     "lemma": "ὡς",
+     "postag": "c--------",
+     "cite": "7.192",
+     "start": 141,
+     "end": 142
+    },
+    {
+     "form": "χ'",
+     "lemma": "ἄν",
+     "postag": "g--------",
+     "cite": "7.192",
+     "start": 144,
+     "end": 145
+    },
+    {
+     "form": "ὁ",
+     "lemma": "ὁ",
+     "postag": "l-s---mn-",
+     "cite": "7.192",
+     "start": 147,
+     "end": 147
+    },
+    {
+     "form": "ξεῖνος",
+     "lemma": "ξένος",
+     "postag": "n-s---mn-",
+     "cite": "7.192",
+     "start": 149,
+     "end": 154
+    },
+    {
+     "form": "ἄνευθε",
+     "lemma": "ἄνευθε",
+     "postag": "r--------",
+     "cite": "7.192",
+     "start": 156,
+     "end": 161
+    },
+    {
+     "form": "πόνου",
+     "lemma": "πόνος",
+     "postag": "n-s---mg-",
+     "cite": "7.192",
+     "start": 163,
+     "end": 167
+    },
+    {
+     "form": "καὶ",
+     "lemma": "καί",
+     "postag": "c--------",
+     "cite": "7.192",
+     "start": 169,
+     "end": 171
+    },
+    {
+     "form": "ἀνίης",
+     "lemma": "ἀνία",
+     "postag": "n-s---fg-",
+     "cite": "7.192",
+     "start": 173,
+     "end": 177
+    },
+    {
+     "form": "πομπῇ",
+     "lemma": "πομπή",
+     "postag": "n-s---fd-",
+     "cite": "7.193",
+     "start": 179,
+     "end": 183
+    },
+    {
+     "form": "ὑφ'",
+     "lemma": "ὑπό",
+     "postag": "r--------",
+     "cite": "7.193",
+     "start": 185,
+     "end": 187
+    },
+    {
+     "form": "ἡμετέρῃ",
+     "lemma": "ἡμέτερος",
+     "postag": "a-s---fd-",
+     "cite": "7.193",
+     "start": 189,
+     "end": 195
+    },
+    {
+     "form": "ἣν",
+     "lemma": "ἑός",
+     "postag": "a-s---fa-",
+     "cite": "7.193",
+     "start": 197,
+     "end": 198
+    },
+    {
+     "form": "πατρίδα",
+     "lemma": "πατρίς",
+     "postag": "a-s---fa-",
+     "cite": "7.193",
+     "start": 200,
+     "end": 206
+    },
+    {
+     "form": "γαῖαν",
+     "lemma": "γαῖα",
+     "postag": "n-s---fa-",
+     "cite": "7.193",
+     "start": 208,
+     "end": 212
+    },
+    {
+     "form": "ἵκηται",
+     "lemma": "ἱκνέομαι",
+     "postag": "v3sase---",
+     "cite": "7.193",
+     "start": 214,
+     "end": 219
+    },
+    {
+     "form": "χαίρων",
+     "lemma": "χαίρω",
+     "postag": "v-sppamn-",
+     "cite": "7.194",
+     "start": 221,
+     "end": 226
+    },
+    {
+     "form": "καρπαλίμως",
+     "lemma": "καρπάλιμος",
+     "postag": "d--------",
+     "cite": "7.194",
+     "start": 228,
+     "end": 237
+    },
+    {
+     "form": "εἰ",
+     "lemma": "εἰ",
+     "postag": "c--------",
+     "cite": "7.194",
+     "start": 240,
+     "end": 241
+    },
+    {
+     "form": "καὶ",
+     "lemma": "καί",
+     "postag": "d--------",
+     "cite": "7.194",
+     "start": 243,
+     "end": 245
+    },
+    {
+     "form": "μάλα",
+     "lemma": "μάλα",
+     "postag": "d--------",
+     "cite": "7.194",
+     "start": 247,
+     "end": 250
+    },
+    {
+     "form": "τηλόθεν",
+     "lemma": "τηλόθεν",
+     "postag": "d--------",
+     "cite": "7.194",
+     "start": 252,
+     "end": 258
+    },
+    {
+     "form": "ἐστί",
+     "lemma": "εἰμί",
+     "postag": "v3spia---",
+     "cite": "7.194",
+     "start": 260,
+     "end": 263
+    },
+    {
+     "form": "μη",
+     "lemma": "μή",
+     "postag": "g--------",
+     "cite": "7.195",
+     "start": 266,
+     "end": 267
+    },
+    {
+     "form": "δέ",
+     "lemma": "δέ",
+     "postag": "g--------",
+     "cite": "7.195",
+     "start": 268,
+     "end": 269
+    },
+    {
+     "form": "τι",
+     "lemma": "τις",
+     "postag": "p-s---na-",
+     "cite": "7.195",
+     "start": 271,
+     "end": 272
+    },
+    {
+     "form": "μεσσηγύς",
+     "lemma": "μεσηγύ",
+     "postag": "d--------",
+     "cite": "7.195",
+     "start": 274,
+     "end": 281
+    },
+    {
+     "form": "γε",
+     "lemma": "γε",
+     "postag": "g--------",
+     "cite": "7.195",
+     "start": 283,
+     "end": 284
+    },
+    {
+     "form": "κακὸν",
+     "lemma": "κακός",
+     "postag": "a-s---na-",
+     "cite": "7.195",
+     "start": 286,
+     "end": 290
+    },
+    {
+     "form": "καὶ",
+     "lemma": "καί",
+     "postag": "c--------",
+     "cite": "7.195",
+     "start": 292,
+     "end": 294
+    },
+    {
+     "form": "πῆμα",
+     "lemma": "πῆμα",
+     "postag": "n-s---na-",
+     "cite": "7.195",
+     "start": 296,
+     "end": 299
+    },
+    {
+     "form": "πάθῃσι",
+     "lemma": "πάσχω",
+     "postag": "v3sasa---",
+     "cite": "7.195",
+     "start": 301,
+     "end": 306
+    },
+    {
+     "form": "πρίν",
+     "lemma": "πρίν",
+     "postag": "c--------",
+     "cite": "7.196",
+     "start": 309,
+     "end": 312
+    },
+    {
+     "form": "γε",
+     "lemma": "γε",
+     "postag": "g--------",
+     "cite": "7.196",
+     "start": 314,
+     "end": 315
+    },
+    {
+     "form": "τὸν",
+     "lemma": "ὁ",
+     "postag": "p-s---ma-",
+     "cite": "7.196",
+     "start": 317,
+     "end": 319
+    },
+    {
+     "form": "ἧς",
+     "lemma": "ἑός",
+     "postag": "a-s---fg-",
+     "cite": "7.196",
+     "start": 321,
+     "end": 322
+    },
+    {
+     "form": "γαίης",
+     "lemma": "γαῖα",
+     "postag": "n-s---fg-",
+     "cite": "7.196",
+     "start": 324,
+     "end": 328
+    },
+    {
+     "form": "ἐπιβήμεναι",
+     "lemma": "ἐπιβαίνω",
+     "postag": "v--ana---",
+     "cite": "7.196",
+     "start": 330,
+     "end": 339
+    }
+   ]
+  }
+ ]
+}

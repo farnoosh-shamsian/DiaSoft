@@ -1,0 +1,236 @@
+{
+ "sentences": [
+  {
+   "id": 1,
+   "source": "Homer, Odyssey 1.123-124",
+   "text_source": "as annotated in the original experiment (AGLDT treebank punctuation differs slightly)",
+   "text": "χαῖρε, ξεῖνε· παρ' ἄμμι φιλήσεαι· αὐτὰρ ἔπειτα δείπνου πασσάμενος μυθήσεαι ὅττεό σε χρή.",
+   "tokens": [
+    {
+     "form": "χαῖρε",
+     "lemma": "χαίρω",
+     "postag": "v2spma---",
+     "cite": "1.123",
+     "start": 0,
+     "end": 4
+    },
+    {
+     "form": "ξεῖνε",
+     "lemma": "ξένος",
+     "postag": "n-s---mv-",
+     "cite": "1.123",
+     "start": 7,
+     "end": 11
+    },
+    {
+     "form": "παρ'",
+     "lemma": "παρά",
+     "postag": "r--------",
+     "cite": "1.123",
+     "start": 14,
+     "end": 17
+    },
+    {
+     "form": "ἄμμι",
+     "lemma": "ἐγώ",
+     "postag": "p1p---md-",
+     "cite": "1.123",
+     "start": 19,
+     "end": 22
+    },
+    {
+     "form": "φιλήσεαι",
+     "lemma": "φιλέω",
+     "postag": "v2sfie---",
+     "cite": "1.123",
+     "start": 24,
+     "end": 31
+    },
+    {
+     "form": "αὐτὰρ",
+     "lemma": "ἀτάρ",
+     "postag": "g--------",
+     "cite": "1.123",
+     "start": 34,
+     "end": 38
+    },
+    {
+     "form": "ἔπειτα",
+     "lemma": "ἔπειτα",
+     "postag": "d--------",
+     "cite": "1.123",
+     "start": 40,
+     "end": 45
+    },
+    {
+     "form": "δείπνου",
+     "lemma": "δεῖπνον",
+     "postag": "n-s---ng-",
+     "cite": "1.124",
+     "start": 47,
+     "end": 53
+    },
+    {
+     "form": "πασσάμενος",
+     "lemma": "πατέομαι",
+     "postag": "v-sap-mn-",
+     "cite": "1.124",
+     "start": 55,
+     "end": 64
+    },
+    {
+     "form": "μυθήσεαι",
+     "lemma": "μυθέομαι",
+     "postag": "v2sfie---",
+     "cite": "1.124",
+     "start": 66,
+     "end": 73
+    },
+    {
+     "form": "ὅττεό",
+     "lemma": "ὅστις",
+     "postag": "p-s---ng-",
+     "cite": "1.124",
+     "start": 75,
+     "end": 79
+    },
+    {
+     "form": "σε",
+     "lemma": "σύ",
+     "postag": "p2s----a-",
+     "cite": "1.124",
+     "start": 81,
+     "end": 82
+    },
+    {
+     "form": "χρή",
+     "lemma": "χρή",
+     "postag": "v3spia---",
+     "cite": "1.124",
+     "start": 84,
+     "end": 86
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "source": "Homer, Odyssey 8.544-545",
+   "text_source": "AGLDT 2.1 treebank (Perseus); verify against a critical edition",
+   "text": "εἵνεκα γὰρ ξείνοιο τάδ' αἰδοίοιο τέτυκται, πομπὴ καὶ φίλα δῶρα, τά οἱ δίδομεν φιλέοντες.",
+   "tokens": [
+    {
+     "form": "εἵνεκα",
+     "lemma": "ἕνεκα",
+     "postag": "r--------",
+     "cite": "8.544",
+     "start": 0,
+     "end": 5
+    },
+    {
+     "form": "γὰρ",
+     "lemma": "γάρ",
+     "postag": "g--------",
+     "cite": "8.544",
+     "start": 7,
+     "end": 9
+    },
+    {
+     "form": "ξείνοιο",
+     "lemma": "ξένος",
+     "postag": "n-s---mg-",
+     "cite": "8.544",
+     "start": 11,
+     "end": 17
+    },
+    {
+     "form": "τάδ'",
+     "lemma": "ὅδε",
+     "postag": "p-p---nn-",
+     "cite": "8.544",
+     "start": 19,
+     "end": 22
+    },
+    {
+     "form": "αἰδοίοιο",
+     "lemma": "αἰδοῖος",
+     "postag": "a-s---mg-",
+     "cite": "8.544",
+     "start": 24,
+     "end": 31
+    },
+    {
+     "form": "τέτυκται",
+     "lemma": "τεύχω",
+     "postag": "v3srie---",
+     "cite": "8.544",
+     "start": 33,
+     "end": 40
+    },
+    {
+     "form": "πομπὴ",
+     "lemma": "πομπή",
+     "postag": "n-s---fn-",
+     "cite": "8.545",
+     "start": 43,
+     "end": 47
+    },
+    {
+     "form": "καὶ",
+     "lemma": "καί",
+     "postag": "c--------",
+     "cite": "8.545",
+     "start": 49,
+     "end": 51
+    },
+    {
+     "form": "φίλα",
+     "lemma": "φίλος",
+     "postag": "a-p---nn-",
+     "cite": "8.545",
+     "start": 53,
+     "end": 56
+    },
+    {
+     "form": "δῶρα",
+     "lemma": "δῶρον",
+     "postag": "n-p---nn-",
+     "cite": "8.545",
+     "start": 58,
+     "end": 61
+    },
+    {
+     "form": "τά",
+     "lemma": "ὁ",
+     "postag": "p-p---na-",
+     "cite": "8.545",
+     "start": 64,
+     "end": 65
+    },
+    {
+     "form": "οἱ",
+     "lemma": "ἕ",
+     "postag": "p-s---md-",
+     "cite": "8.545",
+     "start": 67,
+     "end": 68
+    },
+    {
+     "form": "δίδομεν",
+     "lemma": "δίδωμι",
+     "postag": "v1piia---",
+     "cite": "8.545",
+     "start": 70,
+     "end": 76
+    },
+    {
+     "form": "φιλέοντες",
+     "lemma": "φιλέω",
+     "postag": "v-pppamn-",
+     "cite": "8.545",
+     "start": 78,
+     "end": 86
+    }
+   ]
+  }
+ ]
+}
