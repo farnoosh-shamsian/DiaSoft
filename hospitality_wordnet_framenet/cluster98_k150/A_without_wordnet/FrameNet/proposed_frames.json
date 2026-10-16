@@ -1,0 +1,237 @@
+[
+ {
+  "name": "Guest_friendship",
+  "definition": "Two individuals (or their houses) belonging to different communities, the Guest_friends (or Guest_friend_1 and Guest_friend_2), are bound by a lasting, reciprocal and often hereditary relationship of hospitality. The bond is typically initiated when one party is received in the other's house and is sealed by an exchange of Tokens (guest-gifts); it obliges each party, and often their descendants, to receive, protect and give gifts to the other whenever he comes, and it may be sanctioned by a divine Guarantor. Unlike Guest_and_host, the relationship outlasts any single visit and is symmetrical: each party is potentially both host and guest.",
+  "inherits": [
+   "Relation_between_individuals"
+  ],
+  "uses": [
+   "Guest_and_host",
+   "Exchange",
+   "Giving"
+  ],
+  "core_FEs": [
+   {
+    "name": "Guest_friend_1",
+    "definition": "One party to the bond, typically the one in focus (e.g. the referent of ξένος)."
+   },
+   {
+    "name": "Guest_friend_2",
+    "definition": "The other party to the bond, to whom Guest_friend_1 is a guest-friend."
+   },
+   {
+    "name": "Guest_friends",
+    "definition": "Both parties expressed together (e.g. as a plural subject or with a reciprocal)."
+   }
+  ],
+  "noncore_FEs": [
+   {
+    "name": "Token",
+    "definition": "The gift(s) exchanged that establish or attest the bond (ξεινήια, δῶρα)."
+   },
+   {
+    "name": "Origin_event",
+    "definition": "The reception or meeting at which the bond began."
+   },
+   {
+    "name": "Guarantor",
+    "definition": "The deity who sanctions the bond and punishes its violation (Ζεὺς ξείνιος)."
+   },
+   {
+    "name": "Duration",
+    "definition": "How long the bond has lasted, including its hereditary standing (παλαιός)."
+   },
+   {
+    "name": "Descriptor",
+    "definition": "A characterization of the bond or of a party as a guest-friend (πατρώϊος 'ancestral', προσκηδής 'caring')."
+   }
+  ],
+  "lexical_units": [
+   {
+    "lemma": "ξενοσύνη",
+    "pos": "N",
+    "gloss": "guest-friendship, the bond itself"
+   },
+   {
+    "lemma": "ξενία",
+    "pos": "N",
+    "gloss": "guest-friendship, friendly relation between persons or states"
+   },
+   {
+    "lemma": "ξένος",
+    "pos": "N",
+    "gloss": "guest-friend, a party to the bond"
+   },
+   {
+    "lemma": "ξεινήιον",
+    "pos": "N",
+    "gloss": "gift exchanged as Token of the bond"
+   }
+  ],
+  "examples": [
+   {
+    "text": "[τῷ|Guest_friend_2] δ' [Ὀδυσεὺς|Guest_friend_1] [ξίφος ὀξὺ καὶ ἄλκιμον ἔγχος|Token] ἔδωκεν, ἀρχὴν ξεινοσύνης [προσκηδέος|Descriptor]",
+    "note": "verified: Homer, Odyssey 21.34-35 (AGLDT treebank); target ξεινοσύνης; τῷ = Iphitus"
+   },
+   {
+    "text": "ἦ ῥά νύ [μοι|Guest_friend_2] ξεῖνος [πατρώϊός|Descriptor] ἐσσι [παλαιός|Duration]",
+    "note": "verified: Homer, Iliad 6.215 (AGLDT treebank); target ξεῖνος; Guest_friend_1 (Glaucus, 2nd person subject) is CNI"
+   },
+   {
+    "text": "[οἳ|Guest_friends] δὲ καὶ ἀλλήλοισι πόρον [ξεινήϊα καλά|Token]",
+    "note": "verified: Homer, Iliad 6.218 (AGLDT treebank); target ξεινήϊα (Oeneus and Bellerophon)"
+   },
+   {
+    "text": "θυμὸς δ' ἔτι [νῶϊν|Guest_friends] ἐώλπει μίξεσθαι ξενίῃ ἠδ' [ἀγλαὰ δῶρα|Token] διδώσειν",
+    "note": "verified: Homer, Odyssey 24.313-314 (AGLDT treebank); target ξενίῃ"
+   }
+  ]
+ },
+ {
+  "name": "Honorific_prerogative",
+  "definition": "A Grantor (a community, an army in assembly, a leader or a host) allots to a Recipient a Prerogative: a material share set apart from what is common (a prize from the spoils, a choice portion of meat, a funeral mound) or a standing privilege, as public acknowledgment of the Recipient's status, age or merit (the Basis). Holding the Prerogative constitutes honour; being without it is public dishonour. Unlike Rewards_and_punishments, no judgment of a specific action is presupposed, and unlike plain Giving the transfer is evaluative and status-marking.",
+  "inherits": [],
+  "uses": [
+   "Giving",
+   "Possession",
+   "Judgment",
+   "Rewards_and_punishments"
+  ],
+  "core_FEs": [
+   {
+    "name": "Recipient",
+    "definition": "The person honoured with (or lacking) the Prerogative."
+   },
+   {
+    "name": "Prerogative",
+    "definition": "The honorific share, prize or privilege."
+   },
+   {
+    "name": "Grantor",
+    "definition": "The person or group that allots the Prerogative."
+   }
+  ],
+  "noncore_FEs": [
+   {
+    "name": "Basis",
+    "definition": "The status, age, rank or merit for which the Prerogative is due."
+   },
+   {
+    "name": "Occasion",
+    "definition": "The event at which it is allotted (division of spoils, sacrifice, funeral)."
+   },
+   {
+    "name": "Manner",
+    "definition": "How the allotment is made."
+   },
+   {
+    "name": "Time",
+    "definition": "When the allotment is made."
+   }
+  ],
+  "lexical_units": [
+   {
+    "lemma": "γέρας",
+    "pos": "N",
+    "gloss": "gift of honour, prize, prerogative; last honours"
+   },
+   {
+    "lemma": "πρεσβεῖον",
+    "pos": "N",
+    "gloss": "gift of honour; (later) privilege of age"
+   },
+   {
+    "lemma": "ἀγέραστος",
+    "pos": "A",
+    "gloss": "without a gift of honour (Recipient lacking the Prerogative)"
+   },
+   {
+    "lemma": "γεραίρω",
+    "pos": "V",
+    "gloss": "to honour someone by allotting a portion of honour"
+   }
+  ],
+  "examples": [
+   {
+    "text": "αὐτὰρ [ἐμοὶ|Recipient] [γέρας|Prerogative] [αὐτίχ'|Time] ἑτοιμάσατ', ὄφρα μὴ οἶος Ἀργείων ἀγέραστος ἔω",
+    "note": "verified: Homer, Iliad 1.118-119 (AGLDT treebank); target γέρας; Grantor (the Achaeans, 2nd pl. subject) is CNI"
+   },
+   {
+    "text": "[νώτοισιν|Prerogative] δ' [Ὀδυσῆα|Recipient] [διηνεκέεσσι|Prerogative] γέραιρεν",
+    "note": "verified: Homer, Odyssey 14.437 (AGLDT treebank); target γέραιρεν; discontinuous Prerogative; Grantor (Eumaeus) is CNI"
+   },
+   {
+    "text": "[τὸ|Prerogative] γὰρ γέρας ἐστὶ [θανόντων|Recipient]",
+    "note": "verified: Homer, Iliad 16.457 (AGLDT treebank); target γέρας; τὸ refers to burial with mound and stele"
+   },
+   {
+    "text": "[πρώτῳ τοι μετ' ἐμὲ|Recipient] πρεσβήϊον ἐν χερὶ θήσω",
+    "note": "verified: Homer, Iliad 8.289 (AGLDT treebank); target πρεσβήϊον; Grantor (Agamemnon, 1st sg.) is CNI; μετ' ἐμὲ also indicates the Basis (rank)"
+   }
+  ]
+ },
+ {
+  "name": "Plaything",
+  "definition": "An object, the Plaything, is made, kept or given for the amusement of a User (prototypically a child) rather than for practical use. It is valued for the Delight it affords and is often a small, attractive object (a trinket) that may be given as a present or traded.",
+  "inherits": [
+   "Artifact"
+  ],
+  "uses": [
+   "Stimulus_focus"
+  ],
+  "core_FEs": [
+   {
+    "name": "Plaything",
+    "definition": "The object used for play or amusement."
+   },
+   {
+    "name": "User",
+    "definition": "The one who plays with or enjoys the Plaything."
+   }
+  ],
+  "noncore_FEs": [
+   {
+    "name": "Maker",
+    "definition": "Who makes the Plaything."
+   },
+   {
+    "name": "Material",
+    "definition": "What the Plaything is made of."
+   },
+   {
+    "name": "Delight",
+    "definition": "The pleasure or amusement the Plaything affords."
+   },
+   {
+    "name": "Manner",
+    "definition": "The manner of making or of playing."
+   },
+   {
+    "name": "Descriptor",
+    "definition": "A characterization of the Plaything."
+   }
+  ],
+  "lexical_units": [
+   {
+    "lemma": "ἄθυρμα",
+    "pos": "N",
+    "gloss": "plaything, toy; trinket"
+   },
+   {
+    "lemma": "γλῆνος",
+    "pos": "N",
+    "gloss": "playthings, trinkets"
+   }
+  ],
+  "examples": [
+   {
+    "text": "[ὅς|User] τ' ἐπεὶ οὖν ποιήσῃ ἀθύρματα [νηπιέῃσιν|Manner]",
+    "note": "verified: Homer, Iliad 15.363 (AGLDT treebank); target ἀθύρματα; ὅς = the boy (πάϊς, 15.362), who is also the Maker"
+   },
+   {
+    "text": "δίδου δ' ἄρ' ἀθύρματα [θυμῷ|Delight]",
+    "note": "verified: Homer, Odyssey 18.323 (AGLDT treebank); target ἀθύρματα; User (Melantho) is DNI"
+   }
+  ]
+ }
+]

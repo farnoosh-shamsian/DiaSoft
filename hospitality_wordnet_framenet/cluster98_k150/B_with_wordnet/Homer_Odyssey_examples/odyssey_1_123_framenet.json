@@ -1,0 +1,229 @@
+{
+  "corpus": "Ancient_Greek_hospitality_cluster98_k150",
+  "document": "Homer, Odyssey",
+  "provenance": {
+    "text": "public-domain (Homer, Odyssey 1.123-124)",
+    "translation": "author's",
+    "annotation": "illustrative proposal, using existing Berkeley FrameNet 1.7 frames only",
+    "offsets": "0-based character positions, end inclusive",
+    "caveats": [
+      "Only existing Berkeley FrameNet 1.7 frames are used. Greek LUs (luName) are proposed additions to those frames; none of them exists in FrameNet.",
+      "Offsets are 0-based with the end inclusive, so text[start:end+1] equals the span. The passage texts are taken exactly from passages.json.",
+      "Sentence 1: χαῖρε is left unannotated because FrameNet 1.7 has no Greeting frame. αὐτὰρ (connective), ἄμμι, ὅττεό and σε (pronouns) are not targets; ἄμμι, ὅττεό and σε are marked only as FEs.",
+      "Sentence 1, ξεῖνε: the target denotes the Guest (incorporated FE). The Host (Telemachus and his household, 'us') appears in the next clause (παρ' ἄμμι) and is marked DNI here.",
+      "Sentence 1, φιλήσεαι: φιλέω is read in its Homeric hospitality sense 'entertain kindly' (cf. Il. 3.207 ἐξείνισσα καὶ ἐν μεγάροισι φίλησα; Od. 19.194, 24.271 ἐξείνισσα ... ἐνδυκέως φιλέων). Have_visitor_over (have over.v) is the closest frame. The passive subject (the guest, 2sg) is the Visitor (CNI), and παρ' ἄμμι 'at our house' is marked as Host, because the frame has no location FE. An Experiencer_focus ('you will be loved') reading is possible but weaker.",
+      "Sentence 1, δείπνου: annotated with Food because it is the food tasted (partitive genitive of πασσάμενος). Social_event (dinner.n) would be the alternative reading 'the dinner (as occasion)'.",
+      "Sentence 1, μυθήσεαι: Telling is used (Statement is the alternative). ὅττεό σε χρή 'what you need' is the Message; the Addressee (the hosts) is DNI. The Speaker of Telling, the Ingestor of Ingestion and the Figure of Locative_relation are the pro-dropped 2sg subject (CNI).",
+      "Sentence 1, χρή: Needing. σε (accusative of the person) is the Cognizer and ὅττεό (genitive of the thing needed) is the Requirement.",
+      "Sentence 2: εἵνεκα 'for the sake of' is left unannotated as a target: FrameNet 1.7 has no LU for 'for the sake of', and Causation (because of.prep) would misrepresent the beneficiary/purpose reading. γὰρ, καὶ (connectives) and τάδ', τά, οἱ (pronouns) are not targets; they are marked only as FEs.",
+      "Sentence 2, τέτυκται: τεύχω (perf. pass. 'has been made ready') is annotated with Intentionally_create. In Homer τέτυκται is often weakened to 'is', which would leave it frameless. τάδ' is the Created_entity and is spelled out by the appositive πομπὴ καὶ φίλα δῶρα. The Purpose phrase εἵνεκα ... ξείνοιο ... αἰδοίοιο is discontinuous: it is given as two Purpose spans, and the first includes the postpositive particle γὰρ.",
+      "Sentence 2, πομπὴ: Sending ('sending home, conveyance'). The guest who is conveyed (ξείνοιο, governed by εἵνεκα in the main clause) is the understood Theme, marked DNI because it is outside the noun's syntactic domain. The Sender (the Phaeacians), the Goal (Ithaca) and the Transport_means (a Phaeacian ship) are DNI. The Recipient of Sending is not part of this scene and is not marked.",
+      "Sentence 2, φίλα: Stimulus_focus via the LU dear.a. Homeric φίλος is partly possessive or affective; the reading 'dear, welcome (gifts)' is adopted.",
+      "Sentence 2, δῶρα: the noun target incorporates the Theme. Donor and Recipient are expressed in the relative clause τά οἱ δίδομεν, which is annotated separately (set 7), so they are DNI on the noun.",
+      "Sentence 2, δίδομεν: Donor is the pro-dropped 1pl subject (CNI); τά (relative, antecedent δῶρα) is the Theme; οἱ is the Recipient; φιλέοντες is marked as Manner ('giving in friendship'). It could also be read as Explanation ('because we hold him dear').",
+      "Sentence 2, φιλέοντες: annotated with Experiencer_focus (love.v). The Experiencer is the shared 1pl subject (CNI) and the Content (the guest) is DNI. As in sentence 1, φιλέω here also carries the hospitality sense 'treating him as a friend/guest'. The different frame reflects the construction (participle of motive vs. passive 'be entertained at our house').",
+      "Translations are the annotator's own and intentionally literal."
+    ]
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "source": "Homer, Odyssey 1.123-124",
+      "text": "χαῖρε, ξεῖνε· παρ' ἄμμι φιλήσεαι· αὐτὰρ ἔπειτα δείπνου πασσάμενος μυθήσεαι ὅττεό σε χρή.",
+      "translation": "Welcome, stranger: among us you will be kindly entertained; and then, when you have tasted the meal, you will tell us what you need.",
+      "annotationSets": [
+        {
+          "id": 1,
+          "luName": "ξένος.n",
+          "frameName": "Guest_and_host",
+          "frameStatus": "existing",
+          "target": {
+            "name": "Target",
+            "start": 7,
+            "end": 11,
+            "text": "ξεῖνε"
+          },
+          "FEs": [
+            {
+              "name": "Host",
+              "itype": "DNI"
+            },
+            {
+              "name": "Host_location",
+              "itype": "DNI"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "luName": "παρά.prep",
+          "frameName": "Locative_relation",
+          "frameStatus": "existing",
+          "target": {
+            "name": "Target",
+            "start": 14,
+            "end": 17,
+            "text": "παρ'"
+          },
+          "FEs": [
+            {
+              "name": "Figure",
+              "itype": "CNI"
+            },
+            {
+              "name": "Ground",
+              "start": 19,
+              "end": 22,
+              "text": "ἄμμι"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "luName": "φιλέω.v",
+          "frameName": "Have_visitor_over",
+          "frameStatus": "existing",
+          "target": {
+            "name": "Target",
+            "start": 24,
+            "end": 31,
+            "text": "φιλήσεαι"
+          },
+          "FEs": [
+            {
+              "name": "Host",
+              "start": 14,
+              "end": 22,
+              "text": "παρ' ἄμμι"
+            },
+            {
+              "name": "Visitor",
+              "itype": "CNI"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "luName": "ἔπειτα.adv",
+          "frameName": "Time_vector",
+          "frameStatus": "existing",
+          "target": {
+            "name": "Target",
+            "start": 40,
+            "end": 45,
+            "text": "ἔπειτα"
+          },
+          "FEs": [
+            {
+              "name": "Event",
+              "start": 47,
+              "end": 86,
+              "text": "δείπνου πασσάμενος μυθήσεαι ὅττεό σε χρή"
+            },
+            {
+              "name": "Landmark_event",
+              "itype": "DNI"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "luName": "δεῖπνον.n",
+          "frameName": "Food",
+          "frameStatus": "existing",
+          "target": {
+            "name": "Target",
+            "start": 47,
+            "end": 53,
+            "text": "δείπνου"
+          },
+          "FEs": []
+        },
+        {
+          "id": 6,
+          "luName": "πατέομαι.v",
+          "frameName": "Ingestion",
+          "frameStatus": "existing",
+          "target": {
+            "name": "Target",
+            "start": 55,
+            "end": 64,
+            "text": "πασσάμενος"
+          },
+          "FEs": [
+            {
+              "name": "Ingestor",
+              "itype": "CNI"
+            },
+            {
+              "name": "Ingestibles",
+              "start": 47,
+              "end": 53,
+              "text": "δείπνου"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "luName": "μυθέομαι.v",
+          "frameName": "Telling",
+          "frameStatus": "existing",
+          "target": {
+            "name": "Target",
+            "start": 66,
+            "end": 73,
+            "text": "μυθήσεαι"
+          },
+          "FEs": [
+            {
+              "name": "Speaker",
+              "itype": "CNI"
+            },
+            {
+              "name": "Message",
+              "start": 75,
+              "end": 86,
+              "text": "ὅττεό σε χρή"
+            },
+            {
+              "name": "Addressee",
+              "itype": "DNI"
+            },
+            {
+              "name": "Time",
+              "start": 40,
+              "end": 45,
+              "text": "ἔπειτα"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "luName": "χρή.v",
+          "frameName": "Needing",
+          "frameStatus": "existing",
+          "target": {
+            "name": "Target",
+            "start": 84,
+            "end": 86,
+            "text": "χρή"
+          },
+          "FEs": [
+            {
+              "name": "Cognizer",
+              "start": 81,
+              "end": 82,
+              "text": "σε"
+            },
+            {
+              "name": "Requirement",
+              "start": 75,
+              "end": 79,
+              "text": "ὅττεό"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

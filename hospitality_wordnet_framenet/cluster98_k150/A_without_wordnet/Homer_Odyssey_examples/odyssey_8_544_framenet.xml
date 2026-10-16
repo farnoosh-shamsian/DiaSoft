@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- FrameNet-style fulltext annotation (approximates the Berkeley FrameNet annotation schema).
+     Passage: Homer, Odyssey 8.544-545 (public-domain text). Annotation: illustrative proposal, using only EXISTING FrameNet 1.7 frames. Offsets are 0-based character positions, end inclusive. -->
+<fullTextAnnotation>
+  <header><corpus name="Ancient_Greek_hospitality_cluster98_k150"><document name="Odyssey"/></corpus></header>
+  <sentence ID="1" source="Homer, Odyssey 8.544-545">
+    <text>εἵνεκα γὰρ ξείνοιο τάδ&#x27; αἰδοίοιο τέτυκται, πομπὴ καὶ φίλα δῶρα, τά οἱ δίδομεν φιλέοντες.</text>
+    <annotationSet ID="1" luName="ξένος.n" frameName="Guest_and_host" status="proposed">
+      <layer name="Target" rank="1">
+        <label name="Target" start="11" end="17"/>
+      </layer>
+      <layer name="FE" rank="1">
+        <label name="Guest" start="11" end="17"/>
+        <label name="Descriptor" start="24" end="31"/>
+        <label name="Host" itype="DNI"/>
+      </layer>
+    </annotationSet>
+    <annotationSet ID="2" luName="αἰδοῖος.a" frameName="Judgment" status="proposed">
+      <layer name="Target" rank="1">
+        <label name="Target" start="24" end="31"/>
+      </layer>
+      <layer name="FE" rank="1">
+        <label name="Evaluee" start="11" end="17"/>
+        <label name="Cognizer" itype="DNI"/>
+        <label name="Reason" itype="INI"/>
+      </layer>
+    </annotationSet>
+    <annotationSet ID="3" luName="τεύχω.v" frameName="Intentionally_create" status="proposed">
+      <layer name="Target" rank="1">
+        <label name="Target" start="33" end="40"/>
+      </layer>
+      <layer name="FE" rank="1">
+        <label name="Created_entity" start="19" end="22"/>
+        <label name="Purpose" start="0" end="17"/>
+        <label name="Purpose" start="24" end="31"/>
+        <label name="Creator" itype="CNI"/>
+      </layer>
+    </annotationSet>
+    <annotationSet ID="4" luName="πομπή.n" frameName="Sending" status="proposed">
+      <layer name="Target" rank="1">
+        <label name="Target" start="43" end="47"/>
+      </layer>
+      <layer name="FE" rank="1">
+        <label name="Sender" itype="DNI"/>
+        <label name="Theme" itype="DNI"/>
+        <label name="Goal" itype="DNI"/>
+      </layer>
+    </annotationSet>
+    <annotationSet ID="5" luName="δῶρον.n" frameName="Giving" status="proposed">
+      <layer name="Target" rank="1">
+        <label name="Target" start="58" end="61"/>
+      </layer>
+      <layer name="FE" rank="1">
+        <label name="Theme" start="58" end="61"/>
+        <label name="Donor" itype="DNI"/>
+        <label name="Recipient" itype="DNI"/>
+      </layer>
+    </annotationSet>
+    <annotationSet ID="6" luName="δίδωμι.v" frameName="Giving" status="proposed">
+      <layer name="Target" rank="1">
+        <label name="Target" start="70" end="76"/>
+      </layer>
+      <layer name="FE" rank="1">
+        <label name="Theme" start="19" end="20"/>
+        <label name="Recipient" start="67" end="68"/>
+        <label name="Depictive" start="78" end="86"/>
+        <label name="Donor" itype="CNI"/>
+      </layer>
+    </annotationSet>
+    <annotationSet ID="7" luName="φιλέω.v" frameName="Experiencer_focus" status="proposed">
+      <layer name="Target" rank="1">
+        <label name="Target" start="78" end="86"/>
+      </layer>
+      <layer name="FE" rank="1">
+        <label name="Experiencer" itype="CNI"/>
+        <label name="Content" itype="DNI"/>
+      </layer>
+    </annotationSet>
+  </sentence>
+</fullTextAnnotation>

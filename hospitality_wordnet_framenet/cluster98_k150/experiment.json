@@ -1,0 +1,653 @@
+{
+ "title": "Homeric gift and hospitality cluster 98",
+ "slug": "cluster98_k150",
+ "page_title": "Cluster 98 (k=150) gift and hospitality field",
+ "cluster_file": "cluster_gloss_embeddings/clusters_ward_k150_no-freq-limit.txt",
+ "cluster_id": 98,
+ "clustering": "Ward k=150",
+ "groups": {
+  "guest/hospitality": "guest",
+  "receiving": "receive",
+  "gift/giving": "gift",
+  "honour/privilege": "honour",
+  "possessions/treasure": "treasure",
+  "exchange": "exchange",
+  "escort": "escort",
+  "attendant/service": "service",
+  "other": "other"
+ },
+ "lemmas": [
+  {
+   "lemma": "ξενίζω",
+   "translit": "xenizo",
+   "group": "guest/hospitality",
+   "cluster_forms": [
+    "ξενίζω"
+   ],
+   "agwn_forms": [
+    "ξενίζω"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "ξεινήιον",
+   "translit": "xeineion",
+   "group": "guest/hospitality",
+   "cluster_forms": [
+    "ξεινήιον"
+   ],
+   "agwn_forms": [
+    "ξεινήιον",
+    "ξεινήϊον",
+    "ξενήιον"
+   ],
+   "note": "Homeric (Ionic) spelling; AGWN spells it ξεινήϊον (diaeresis)"
+  },
+  {
+   "lemma": "ξένιος",
+   "translit": "xenios",
+   "group": "guest/hospitality",
+   "cluster_forms": [
+    "ξένιος"
+   ],
+   "agwn_forms": [
+    "ξένιος"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "δαιτυμών",
+   "translit": "daitymon",
+   "group": "guest/hospitality",
+   "cluster_forms": [
+    "δαιτυμών"
+   ],
+   "agwn_forms": [
+    "δαιτυμών"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "ξενοσύνη",
+   "translit": "xenosyne",
+   "group": "guest/hospitality",
+   "cluster_forms": [
+    "ξενοσύνη"
+   ],
+   "agwn_forms": [
+    "ξενοσύνη"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "φιλόξενος",
+   "translit": "philoxenos",
+   "group": "guest/hospitality",
+   "cluster_forms": [
+    "φιλόξενος"
+   ],
+   "agwn_forms": [
+    "φιλόξενος"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "ξένος",
+   "translit": "xenos",
+   "group": "guest/hospitality",
+   "cluster_forms": [
+    "ξένος",
+    "ξένος2"
+   ],
+   "agwn_forms": [
+    "ξένος"
+   ],
+   "note": "homograph entries ξένος and ξένος2 merged (207 + 6)"
+  },
+  {
+   "lemma": "ξενία",
+   "translit": "xenia",
+   "group": "guest/hospitality",
+   "cluster_forms": [
+    "ξενία"
+   ],
+   "agwn_forms": [
+    "ξενία"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "ὑποδεξίη",
+   "translit": "hypodexie",
+   "group": "guest/hospitality",
+   "cluster_forms": [
+    "ὑποδεξίη"
+   ],
+   "agwn_forms": [
+    "ὑποδεξίη",
+    "ὑποδεξία"
+   ],
+   "note": "Ionic spelling; ὑποδεξία tried as fallback"
+  },
+  {
+   "lemma": "προσδέχομαι",
+   "translit": "prosdechomai",
+   "group": "receiving",
+   "cluster_forms": [
+    "προσδέχομαι"
+   ],
+   "agwn_forms": [
+    "προσδέχομαι"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "ὑποδέχομαι",
+   "translit": "hypodechomai",
+   "group": "receiving",
+   "cluster_forms": [
+    "ὑποδέχομαι"
+   ],
+   "agwn_forms": [
+    "ὑποδέχομαι"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "ἀναδέχομαι",
+   "translit": "anadechomai",
+   "group": "receiving",
+   "cluster_forms": [
+    "ἀναδέχομαι"
+   ],
+   "agwn_forms": [
+    "ἀναδέχομαι"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "δέχομαι",
+   "translit": "dechomai",
+   "group": "receiving",
+   "cluster_forms": [
+    "δέχομαι"
+   ],
+   "agwn_forms": [
+    "δέχομαι"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "ἀποδέχομαι",
+   "translit": "apodechomai",
+   "group": "receiving",
+   "cluster_forms": [
+    "ἀποδέχομαι"
+   ],
+   "agwn_forms": [
+    "ἀποδέχομαι"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "δῶρον",
+   "translit": "doron",
+   "group": "gift/giving",
+   "cluster_forms": [
+    "δῶρον"
+   ],
+   "agwn_forms": [
+    "δῶρον"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "ἐπίηρα",
+   "translit": "epiera",
+   "group": "gift/giving",
+   "cluster_forms": [
+    "ἐπίηρα"
+   ],
+   "agwn_forms": [
+    "ἐπίηρα"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "δωρητός",
+   "translit": "doretos",
+   "group": "gift/giving",
+   "cluster_forms": [
+    "δωρητός"
+   ],
+   "agwn_forms": [
+    "δωρητός"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "δίδωμι",
+   "translit": "didomi",
+   "group": "gift/giving",
+   "cluster_forms": [
+    "δίδωμι"
+   ],
+   "agwn_forms": [
+    "δίδωμι"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "ἐπιδίδωμι",
+   "translit": "epididomi",
+   "group": "gift/giving",
+   "cluster_forms": [
+    "ἐπιδίδωμι"
+   ],
+   "agwn_forms": [
+    "ἐπιδίδωμι"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "προσάγω",
+   "translit": "prosago",
+   "group": "gift/giving",
+   "cluster_forms": [
+    "προσάγω"
+   ],
+   "agwn_forms": [
+    "προσάγω"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "δωτίνη",
+   "translit": "dotine",
+   "group": "gift/giving",
+   "cluster_forms": [
+    "δωτίνη"
+   ],
+   "agwn_forms": [
+    "δωτίνη"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "προίξ",
+   "translit": "proix",
+   "group": "gift/giving",
+   "cluster_forms": [
+    "προίξ"
+   ],
+   "agwn_forms": [
+    "προίξ"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "δωρέω",
+   "translit": "doreo",
+   "group": "gift/giving",
+   "cluster_forms": [
+    "δωρέω"
+   ],
+   "agwn_forms": [
+    "δωρέω"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "παρέχω",
+   "translit": "parecho",
+   "group": "gift/giving",
+   "cluster_forms": [
+    "παρέχω"
+   ],
+   "agwn_forms": [
+    "παρέχω"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "δόσις",
+   "translit": "dosis",
+   "group": "gift/giving",
+   "cluster_forms": [
+    "δόσις"
+   ],
+   "agwn_forms": [
+    "δόσις"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "νέμω",
+   "translit": "nemo",
+   "group": "gift/giving",
+   "cluster_forms": [
+    "νέμω"
+   ],
+   "agwn_forms": [
+    "νέμω"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "δοτήρ",
+   "translit": "doter",
+   "group": "gift/giving",
+   "cluster_forms": [
+    "δοτήρ"
+   ],
+   "agwn_forms": [
+    "δοτήρ"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "εἰσφέρω",
+   "translit": "eisphero",
+   "group": "gift/giving",
+   "cluster_forms": [
+    "εἰσφέρω"
+   ],
+   "agwn_forms": [
+    "εἰσφέρω"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "γεραίρω",
+   "translit": "gerairo",
+   "group": "honour/privilege",
+   "cluster_forms": [
+    "γεραίρω"
+   ],
+   "agwn_forms": [
+    "γεραίρω"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "πρεσβεῖον",
+   "translit": "presbeion",
+   "group": "honour/privilege",
+   "cluster_forms": [
+    "πρεσβεῖον"
+   ],
+   "agwn_forms": [
+    "πρεσβεῖον"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "γέρας",
+   "translit": "geras",
+   "group": "honour/privilege",
+   "cluster_forms": [
+    "γέρας"
+   ],
+   "agwn_forms": [
+    "γέρας"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "ἀγέραστος",
+   "translit": "agerastos",
+   "group": "honour/privilege",
+   "cluster_forms": [
+    "ἀγέραστος"
+   ],
+   "agwn_forms": [
+    "ἀγέραστος"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "κτέρας",
+   "translit": "kteras",
+   "group": "possessions/treasure",
+   "cluster_forms": [
+    "κτέρας"
+   ],
+   "agwn_forms": [
+    "κτέρας"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "κτῆμα",
+   "translit": "ktema",
+   "group": "possessions/treasure",
+   "cluster_forms": [
+    "κτῆμα"
+   ],
+   "agwn_forms": [
+    "κτῆμα"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "ἄθυρμα",
+   "translit": "athyrma",
+   "group": "possessions/treasure",
+   "cluster_forms": [
+    "ἄθυρμα"
+   ],
+   "agwn_forms": [
+    "ἄθυρμα"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "γλῆνος",
+   "translit": "glenos",
+   "group": "possessions/treasure",
+   "cluster_forms": [
+    "γλῆνος"
+   ],
+   "agwn_forms": [
+    "γλῆνος"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "κειμήλιον",
+   "translit": "keimelion",
+   "group": "possessions/treasure",
+   "cluster_forms": [
+    "κειμήλιον"
+   ],
+   "agwn_forms": [
+    "κειμήλιον"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "ἐπαμείβω",
+   "translit": "epameibo",
+   "group": "exchange",
+   "cluster_forms": [
+    "ἐπαμείβω"
+   ],
+   "agwn_forms": [
+    "ἐπαμείβω"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "ἀμοιβός",
+   "translit": "amoibos",
+   "group": "exchange",
+   "cluster_forms": [
+    "ἀμοιβός"
+   ],
+   "agwn_forms": [
+    "ἀμοιβός"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "πομπή",
+   "translit": "pompe",
+   "group": "escort",
+   "cluster_forms": [
+    "πομπή"
+   ],
+   "agwn_forms": [
+    "πομπή"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "πομπεύω",
+   "translit": "pompeuo",
+   "group": "escort",
+   "cluster_forms": [
+    "πομπεύω"
+   ],
+   "agwn_forms": [
+    "πομπεύω"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "πομπός",
+   "translit": "pompos",
+   "group": "escort",
+   "cluster_forms": [
+    "πομπός"
+   ],
+   "agwn_forms": [
+    "πομπός"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "πομπεύς",
+   "translit": "pompeus",
+   "group": "escort",
+   "cluster_forms": [
+    "πομπεύς"
+   ],
+   "agwn_forms": [
+    "πομπεύς"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "θεραπεύω",
+   "translit": "therapeuo",
+   "group": "attendant/service",
+   "cluster_forms": [
+    "θεραπεύω"
+   ],
+   "agwn_forms": [
+    "θεραπεύω"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "ἀμφιπολεύω",
+   "translit": "amphipoleuo",
+   "group": "attendant/service",
+   "cluster_forms": [
+    "ἀμφιπολεύω"
+   ],
+   "agwn_forms": [
+    "ἀμφιπολεύω"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "ταμίας",
+   "translit": "tamias",
+   "group": "attendant/service",
+   "cluster_forms": [
+    "τάμιας",
+    "ταμίας"
+   ],
+   "agwn_forms": [
+    "ταμίας",
+    "ταμίης",
+    "τάμιας"
+   ],
+   "note": "accent variants τάμιας (2) and ταμίας (1) merged; Homeric ταμίης tried as fallback"
+  },
+  {
+   "lemma": "οἰνοχόος",
+   "translit": "oinochoos",
+   "group": "attendant/service",
+   "cluster_forms": [
+    "οἰνοχόος"
+   ],
+   "agwn_forms": [
+    "οἰνοχόος",
+    "οἰνόχοος"
+   ],
+   "note": "AGWN accents it οἰνόχοος"
+  },
+  {
+   "lemma": "ὑποδρηστήρ",
+   "translit": "hypodrester",
+   "group": "attendant/service",
+   "cluster_forms": [
+    "ὑποδρηστήρ"
+   ],
+   "agwn_forms": [
+    "ὑποδρηστήρ"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "ἐπίμαστος",
+   "translit": "epimastos",
+   "group": "other",
+   "cluster_forms": [
+    "ἐπίμαστος"
+   ],
+   "agwn_forms": [
+    "ἐπίμαστος"
+   ],
+   "note": ""
+  },
+  {
+   "lemma": "ἀφήκω",
+   "translit": "apheko",
+   "group": "other",
+   "cluster_forms": [
+    "ἀφήκω"
+   ],
+   "agwn_forms": [
+    "ἀφήκω"
+   ],
+   "note": ""
+  }
+ ],
+ "passages": [
+  {
+   "source": "Homer, Odyssey 1.123-124",
+   "work": "tlg0012.tlg002",
+   "cites": [
+    "1.123",
+    "1.124"
+   ],
+   "text": "χαῖρε, ξεῖνε· παρ' ἄμμι φιλήσεαι· αὐτὰρ ἔπειτα δείπνου πασσάμενος μυθήσεαι ὅττεό σε χρή.",
+   "text_source": "as annotated in the original experiment (AGLDT treebank punctuation differs slightly)"
+  },
+  {
+   "source": "Homer, Odyssey 8.544-545",
+   "work": "tlg0012.tlg002",
+   "cites": [
+    "8.544"
+   ],
+   "text_source": "AGLDT 2.1 treebank (Perseus); verify against a critical edition"
+  }
+ ],
+ "frame_equivalents": {
+  "Honorific_privilege": "Honorific_prerogative"
+ },
+ "frame_equivalents_note": "Run A and run B proposed the same frame under two names (same definition: a share or prerogative allotted in recognition of status)."
+}

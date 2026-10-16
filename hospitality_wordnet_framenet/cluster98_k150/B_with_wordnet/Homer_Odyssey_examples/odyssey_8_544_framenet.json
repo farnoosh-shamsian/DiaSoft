@@ -1,0 +1,264 @@
+{
+  "corpus": "Ancient_Greek_hospitality_cluster98_k150",
+  "document": "Homer, Odyssey",
+  "provenance": {
+    "text": "public-domain (Homer, Odyssey 8.544-545)",
+    "translation": "author's",
+    "annotation": "illustrative proposal, using existing Berkeley FrameNet 1.7 frames only",
+    "offsets": "0-based character positions, end inclusive",
+    "caveats": [
+      "Only existing Berkeley FrameNet 1.7 frames are used. Greek LUs (luName) are proposed additions to those frames; none of them exists in FrameNet.",
+      "Offsets are 0-based with the end inclusive, so text[start:end+1] equals the span. The passage texts are taken exactly from passages.json.",
+      "Sentence 1: χαῖρε is left unannotated because FrameNet 1.7 has no Greeting frame. αὐτὰρ (connective), ἄμμι, ὅττεό and σε (pronouns) are not targets; ἄμμι, ὅττεό and σε are marked only as FEs.",
+      "Sentence 1, ξεῖνε: the target denotes the Guest (incorporated FE). The Host (Telemachus and his household, 'us') appears in the next clause (παρ' ἄμμι) and is marked DNI here.",
+      "Sentence 1, φιλήσεαι: φιλέω is read in its Homeric hospitality sense 'entertain kindly' (cf. Il. 3.207 ἐξείνισσα καὶ ἐν μεγάροισι φίλησα; Od. 19.194, 24.271 ἐξείνισσα ... ἐνδυκέως φιλέων). Have_visitor_over (have over.v) is the closest frame. The passive subject (the guest, 2sg) is the Visitor (CNI), and παρ' ἄμμι 'at our house' is marked as Host, because the frame has no location FE. An Experiencer_focus ('you will be loved') reading is possible but weaker.",
+      "Sentence 1, δείπνου: annotated with Food because it is the food tasted (partitive genitive of πασσάμενος). Social_event (dinner.n) would be the alternative reading 'the dinner (as occasion)'.",
+      "Sentence 1, μυθήσεαι: Telling is used (Statement is the alternative). ὅττεό σε χρή 'what you need' is the Message; the Addressee (the hosts) is DNI. The Speaker of Telling, the Ingestor of Ingestion and the Figure of Locative_relation are the pro-dropped 2sg subject (CNI).",
+      "Sentence 1, χρή: Needing. σε (accusative of the person) is the Cognizer and ὅττεό (genitive of the thing needed) is the Requirement.",
+      "Sentence 2: εἵνεκα 'for the sake of' is left unannotated as a target: FrameNet 1.7 has no LU for 'for the sake of', and Causation (because of.prep) would misrepresent the beneficiary/purpose reading. γὰρ, καὶ (connectives) and τάδ', τά, οἱ (pronouns) are not targets; they are marked only as FEs.",
+      "Sentence 2, τέτυκται: τεύχω (perf. pass. 'has been made ready') is annotated with Intentionally_create. In Homer τέτυκται is often weakened to 'is', which would leave it frameless. τάδ' is the Created_entity and is spelled out by the appositive πομπὴ καὶ φίλα δῶρα. The Purpose phrase εἵνεκα ... ξείνοιο ... αἰδοίοιο is discontinuous: it is given as two Purpose spans, and the first includes the postpositive particle γὰρ.",
+      "Sentence 2, πομπὴ: Sending ('sending home, conveyance'). The guest who is conveyed (ξείνοιο, governed by εἵνεκα in the main clause) is the understood Theme, marked DNI because it is outside the noun's syntactic domain. The Sender (the Phaeacians), the Goal (Ithaca) and the Transport_means (a Phaeacian ship) are DNI. The Recipient of Sending is not part of this scene and is not marked.",
+      "Sentence 2, φίλα: Stimulus_focus via the LU dear.a. Homeric φίλος is partly possessive or affective; the reading 'dear, welcome (gifts)' is adopted.",
+      "Sentence 2, δῶρα: the noun target incorporates the Theme. Donor and Recipient are expressed in the relative clause τά οἱ δίδομεν, which is annotated separately (set 7), so they are DNI on the noun.",
+      "Sentence 2, δίδομεν: Donor is the pro-dropped 1pl subject (CNI); τά (relative, antecedent δῶρα) is the Theme; οἱ is the Recipient; φιλέοντες is marked as Manner ('giving in friendship'). It could also be read as Explanation ('because we hold him dear').",
+      "Sentence 2, φιλέοντες: annotated with Experiencer_focus (love.v). The Experiencer is the shared 1pl subject (CNI) and the Content (the guest) is DNI. As in sentence 1, φιλέω here also carries the hospitality sense 'treating him as a friend/guest'. The different frame reflects the construction (participle of motive vs. passive 'be entertained at our house').",
+      "Translations are the annotator's own and intentionally literal."
+    ]
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "source": "Homer, Odyssey 8.544-545",
+      "text": "εἵνεκα γὰρ ξείνοιο τάδ' αἰδοίοιο τέτυκται, πομπὴ καὶ φίλα δῶρα, τά οἱ δίδομεν φιλέοντες.",
+      "translation": "For it is for the sake of the revered guest that these things have been made ready, his conveyance home and the welcome gifts, which we give him in friendship.",
+      "annotationSets": [
+        {
+          "id": 1,
+          "luName": "ξένος.n",
+          "frameName": "Guest_and_host",
+          "frameStatus": "existing",
+          "target": {
+            "name": "Target",
+            "start": 11,
+            "end": 17,
+            "text": "ξείνοιο"
+          },
+          "FEs": [
+            {
+              "name": "Descriptor",
+              "start": 24,
+              "end": 31,
+              "text": "αἰδοίοιο"
+            },
+            {
+              "name": "Host",
+              "itype": "DNI"
+            },
+            {
+              "name": "Host_location",
+              "itype": "DNI"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "luName": "αἰδοῖος.a",
+          "frameName": "Judgment",
+          "frameStatus": "existing",
+          "target": {
+            "name": "Target",
+            "start": 24,
+            "end": 31,
+            "text": "αἰδοίοιο"
+          },
+          "FEs": [
+            {
+              "name": "Evaluee",
+              "start": 11,
+              "end": 17,
+              "text": "ξείνοιο"
+            },
+            {
+              "name": "Cognizer",
+              "itype": "DNI"
+            },
+            {
+              "name": "Reason",
+              "itype": "INI"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "luName": "τεύχω.v",
+          "frameName": "Intentionally_create",
+          "frameStatus": "existing",
+          "target": {
+            "name": "Target",
+            "start": 33,
+            "end": 40,
+            "text": "τέτυκται"
+          },
+          "FEs": [
+            {
+              "name": "Created_entity",
+              "start": 19,
+              "end": 22,
+              "text": "τάδ'"
+            },
+            {
+              "name": "Creator",
+              "itype": "DNI"
+            },
+            {
+              "name": "Purpose",
+              "start": 0,
+              "end": 17,
+              "text": "εἵνεκα γὰρ ξείνοιο"
+            },
+            {
+              "name": "Purpose",
+              "start": 24,
+              "end": 31,
+              "text": "αἰδοίοιο"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "luName": "πομπή.n",
+          "frameName": "Sending",
+          "frameStatus": "existing",
+          "target": {
+            "name": "Target",
+            "start": 43,
+            "end": 47,
+            "text": "πομπὴ"
+          },
+          "FEs": [
+            {
+              "name": "Sender",
+              "itype": "DNI"
+            },
+            {
+              "name": "Theme",
+              "itype": "DNI"
+            },
+            {
+              "name": "Goal",
+              "itype": "DNI"
+            },
+            {
+              "name": "Transport_means",
+              "itype": "DNI"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "luName": "φίλος.a",
+          "frameName": "Stimulus_focus",
+          "frameStatus": "existing",
+          "target": {
+            "name": "Target",
+            "start": 53,
+            "end": 56,
+            "text": "φίλα"
+          },
+          "FEs": [
+            {
+              "name": "Stimulus",
+              "start": 58,
+              "end": 61,
+              "text": "δῶρα"
+            },
+            {
+              "name": "Experiencer",
+              "itype": "DNI"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "luName": "δῶρον.n",
+          "frameName": "Giving",
+          "frameStatus": "existing",
+          "target": {
+            "name": "Target",
+            "start": 58,
+            "end": 61,
+            "text": "δῶρα"
+          },
+          "FEs": [
+            {
+              "name": "Donor",
+              "itype": "DNI"
+            },
+            {
+              "name": "Recipient",
+              "itype": "DNI"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "luName": "δίδωμι.v",
+          "frameName": "Giving",
+          "frameStatus": "existing",
+          "target": {
+            "name": "Target",
+            "start": 70,
+            "end": 76,
+            "text": "δίδομεν"
+          },
+          "FEs": [
+            {
+              "name": "Donor",
+              "itype": "CNI"
+            },
+            {
+              "name": "Theme",
+              "start": 64,
+              "end": 65,
+              "text": "τά"
+            },
+            {
+              "name": "Recipient",
+              "start": 67,
+              "end": 68,
+              "text": "οἱ"
+            },
+            {
+              "name": "Manner",
+              "start": 78,
+              "end": 86,
+              "text": "φιλέοντες"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "luName": "φιλέω.v",
+          "frameName": "Experiencer_focus",
+          "frameStatus": "existing",
+          "target": {
+            "name": "Target",
+            "start": 78,
+            "end": 86,
+            "text": "φιλέοντες"
+          },
+          "FEs": [
+            {
+              "name": "Experiencer",
+              "itype": "CNI"
+            },
+            {
+              "name": "Content",
+              "itype": "DNI"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

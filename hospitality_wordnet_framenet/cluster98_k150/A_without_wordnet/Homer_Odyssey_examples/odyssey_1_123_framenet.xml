@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- FrameNet-style fulltext annotation (approximates the Berkeley FrameNet annotation schema).
+     Passage: Homer, Odyssey 1.123-124 (public-domain text). Annotation: illustrative proposal, using only EXISTING FrameNet 1.7 frames. Offsets are 0-based character positions, end inclusive. -->
+<fullTextAnnotation>
+  <header><corpus name="Ancient_Greek_hospitality_cluster98_k150"><document name="Odyssey"/></corpus></header>
+  <sentence ID="1" source="Homer, Odyssey 1.123-124">
+    <text>χαῖρε, ξεῖνε· παρ&#x27; ἄμμι φιλήσεαι· αὐτὰρ ἔπειτα δείπνου πασσάμενος μυθήσεαι ὅττεό σε χρή.</text>
+    <annotationSet ID="1" luName="ξένος.n" frameName="Guest_and_host" status="proposed">
+      <layer name="Target" rank="1">
+        <label name="Target" start="7" end="11"/>
+      </layer>
+      <layer name="FE" rank="1">
+        <label name="Guest" start="7" end="11"/>
+        <label name="Host" itype="DNI"/>
+      </layer>
+    </annotationSet>
+    <annotationSet ID="2" luName="παρά.prep" frameName="Locative_relation" status="proposed">
+      <layer name="Target" rank="1">
+        <label name="Target" start="14" end="17"/>
+      </layer>
+      <layer name="FE" rank="1">
+        <label name="Ground" start="19" end="22"/>
+        <label name="Figure" itype="CNI"/>
+      </layer>
+    </annotationSet>
+    <annotationSet ID="3" luName="φιλέω.v" frameName="Have_visitor_over" status="proposed">
+      <layer name="Target" rank="1">
+        <label name="Target" start="24" end="31"/>
+      </layer>
+      <layer name="FE" rank="1">
+        <label name="Host" start="14" end="22"/>
+        <label name="Visitor" itype="CNI"/>
+      </layer>
+    </annotationSet>
+    <annotationSet ID="4" luName="ἔπειτα.adv" frameName="Time_vector" status="proposed">
+      <layer name="Target" rank="1">
+        <label name="Target" start="40" end="45"/>
+      </layer>
+      <layer name="FE" rank="1">
+        <label name="Event" start="47" end="86"/>
+        <label name="Landmark_event" itype="DNI"/>
+        <label name="Distance" itype="INI"/>
+      </layer>
+    </annotationSet>
+    <annotationSet ID="5" luName="δεῖπνον.n" frameName="Food" status="proposed">
+      <layer name="Target" rank="1">
+        <label name="Target" start="47" end="53"/>
+      </layer>
+      <layer name="FE" rank="1">
+        <label name="Food" start="47" end="53"/>
+      </layer>
+    </annotationSet>
+    <annotationSet ID="6" luName="πατέομαι.v" frameName="Ingestion" status="proposed">
+      <layer name="Target" rank="1">
+        <label name="Target" start="55" end="64"/>
+      </layer>
+      <layer name="FE" rank="1">
+        <label name="Ingestibles" start="47" end="53"/>
+        <label name="Ingestor" itype="CNI"/>
+      </layer>
+    </annotationSet>
+    <annotationSet ID="7" luName="μυθέομαι.v" frameName="Telling" status="proposed">
+      <layer name="Target" rank="1">
+        <label name="Target" start="66" end="73"/>
+      </layer>
+      <layer name="FE" rank="1">
+        <label name="Message" start="75" end="86"/>
+        <label name="Speaker" itype="CNI"/>
+        <label name="Addressee" itype="DNI"/>
+      </layer>
+    </annotationSet>
+    <annotationSet ID="8" luName="χρή.v" frameName="Needing" status="proposed">
+      <layer name="Target" rank="1">
+        <label name="Target" start="84" end="86"/>
+      </layer>
+      <layer name="FE" rank="1">
+        <label name="Cognizer" start="28" end="29"/>
+        <label name="Requirement" start="75" end="79"/>
+        <label name="Dependent" itype="INI"/>
+      </layer>
+    </annotationSet>
+  </sentence>
+</fullTextAnnotation>

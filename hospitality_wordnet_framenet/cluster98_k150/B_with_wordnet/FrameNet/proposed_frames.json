@@ -1,0 +1,273 @@
+[
+  {
+    "name": "Guest_friendship",
+    "definition": "Two individuals (or their houses), the Guest_friends, usually members of different communities, are bound by a lasting, reciprocal and often hereditary relationship that obliges each to receive, protect, feast and give gifts to the other (or his descendants) whenever he comes to the other's land. The bond is created or renewed by hospitality and by an exchange of Tokens (guest-gifts) and is held to be guaranteed by a divine Guarantor (Zeus Xenios). Unlike Guest_and_host, the relationship outlasts any single visit and is symmetrical: either party may act as host on a given occasion.",
+    "inherits": [
+      "Relation_between_individuals"
+    ],
+    "uses": [
+      "Guest_and_host",
+      "Exchange",
+      "Giving"
+    ],
+    "core_FEs": [
+      {
+        "name": "Guest_friend_1",
+        "definition": "One party to the bond, when the parties are expressed separately."
+      },
+      {
+        "name": "Guest_friend_2",
+        "definition": "The other party to the bond, when the parties are expressed separately."
+      },
+      {
+        "name": "Guest_friends",
+        "definition": "Both parties expressed together (e.g. ξεῖνοι ἀλλήλων, 'guest-friends of each other')."
+      }
+    ],
+    "noncore_FEs": [
+      {
+        "name": "Token",
+        "definition": "The gift(s) exchanged to found, mark or renew the bond (ξεινήιον, arms, a bow)."
+      },
+      {
+        "name": "Origin_of_bond",
+        "definition": "How or when the bond arose, in particular inheritance from the parties' fathers (πατρώϊος, παλαιός)."
+      },
+      {
+        "name": "Guarantor",
+        "definition": "The deity held to protect guest-friends and punish violations (Ζεὺς ξείνιος)."
+      },
+      {
+        "name": "Home_community",
+        "definition": "The community or land of one of the parties."
+      },
+      {
+        "name": "Time",
+        "definition": "When the bond was formed or exercised."
+      }
+    ],
+    "lexical_units": [
+      {
+        "lemma": "ξένος",
+        "pos": "N",
+        "gloss": "guest-friend (one party to the bond)"
+      },
+      {
+        "lemma": "ξενία",
+        "pos": "N",
+        "gloss": "guest-friendship, the relation itself (Od. 24.314)"
+      },
+      {
+        "lemma": "ξενοσύνη",
+        "pos": "N",
+        "gloss": "guest-friendship (Od. 21.35)"
+      },
+      {
+        "lemma": "ξεινήιον",
+        "pos": "N",
+        "gloss": "guest-gift as token of the bond"
+      },
+      {
+        "lemma": "ξένιος",
+        "pos": "A",
+        "gloss": "(of Zeus) protector of guests and guest-friends"
+      },
+      {
+        "lemma": "δωτίνη",
+        "pos": "N",
+        "gloss": "gift that is customary (θέμις) for guests (Od. 9.268)"
+      }
+    ],
+    "examples": [
+      {
+        "text": "ἦ ῥά νύ [μοι|Guest_friend_1] ξεῖνος [πατρώϊός|Origin_of_bond] ἐσσι [παλαιός|Origin_of_bond]",
+        "note": "Homer, Iliad 6.215, verified in the AGLDT treebank (tlg0012.tlg001); Guest_friend_2 = CNI (2sg ἐσσι, Glaukos)"
+      },
+      {
+        "text": "[ξεῖνοι|Guest_friends] δ' [ἀλλήλων|Guest_friends] [πατρώιοι|Origin_of_bond] εὐχόμεθ' εἶναι",
+        "note": "Homer, Odyssey 1.187, verified in the AGLDT treebank (tlg0012.tlg002); target ξεῖνοι, reciprocal ἀλλήλων"
+      },
+      {
+        "text": "[τῷ|Guest_friend_2] δ' [Ὀδυσεὺς|Guest_friend_1] [ξίφος ὀξὺ καὶ ἄλκιμον ἔγχος|Token] ἔδωκεν, ἀρχὴν ξεινοσύνης προσκηδέος",
+        "note": "Homer, Odyssey 21.34-35, verified in the AGLDT treebank; target ξεινοσύνης; Iphitus had given Odysseus the bow"
+      },
+      {
+        "text": "[Ζεὺς|Guarantor] δ' ἐπιτιμήτωρ ἱκετάων τε [ξείνων|Guest_friends] τε, ξείνιος",
+        "note": "Homer, Odyssey 9.270-271, verified in the AGLDT treebank; target ξείνιος; here ξεῖνοι are guests in general"
+      }
+    ]
+  },
+  {
+    "name": "Honorific_privilege",
+    "definition": "A Holder is accorded a Privilege by a Grantor (a community, a leader, an army or a god) as public recognition of the Holder's status, merit, age or role (the Basis). The Privilege may be a material share singled out for the Holder (a prize from the spoils, the choice cut of meat, an estate) or an immaterial prerogative (a seat of honour, the right to counsel, funeral rites); it both marks and constitutes the Holder's honour, so that withholding or removing it is a dishonour. The Privilege is often taken from a common Pool (spoils divided by the army, the meat of the feast).",
+    "inherits": [],
+    "uses": [
+      "Giving",
+      "Judgment",
+      "Rewards_and_punishments"
+    ],
+    "core_FEs": [
+      {
+        "name": "Holder",
+        "definition": "The person (or class, e.g. elders, the dead) to whom the Privilege belongs or is given."
+      },
+      {
+        "name": "Privilege",
+        "definition": "The share or prerogative itself; often incorporated in the target (γέρας)."
+      },
+      {
+        "name": "Grantor",
+        "definition": "The party that accords the Privilege (δῆμος, υἷες Ἀχαιῶν, a king, a god)."
+      },
+      {
+        "name": "Basis",
+        "definition": "The status, merit, age or service in recognition of which the Privilege is accorded."
+      }
+    ],
+    "noncore_FEs": [
+      {
+        "name": "Pool",
+        "definition": "The common stock from which the Privilege is taken (spoils, the feast)."
+      },
+      {
+        "name": "Material_form",
+        "definition": "The concrete object in which the Privilege is embodied (a tripod, a woman, the chine of an ox)."
+      },
+      {
+        "name": "Time",
+        "definition": "When the Privilege is granted."
+      },
+      {
+        "name": "Manner",
+        "definition": "How the Privilege is granted or held."
+      }
+    ],
+    "lexical_units": [
+      {
+        "lemma": "γέρας",
+        "pos": "N",
+        "gloss": "gift of honour, prize; privilege, prerogative"
+      },
+      {
+        "lemma": "πρεσβεῖον",
+        "pos": "N",
+        "gloss": "gift of honour (Hom. πρεσβήϊον); privilege of age"
+      },
+      {
+        "lemma": "γεραίρω",
+        "pos": "V",
+        "gloss": "honour someone with a gift of honour"
+      },
+      {
+        "lemma": "ἀγέραστος",
+        "pos": "A",
+        "gloss": "lacking a gift of honour"
+      },
+      {
+        "lemma": "δῶρον",
+        "pos": "N",
+        "gloss": "gift of honour (secondary sense)"
+      }
+    ],
+    "examples": [
+      {
+        "text": "καὶ παισὶν ἐπιτρέψειεν [ἕκαστος|Holder] κτήματ' ἐνὶ μεγάροισι γέρας θ' ὅ τι [δῆμος|Grantor] ἔδωκεν",
+        "note": "Homer, Odyssey 7.149-150, verified in the AGLDT treebank; target γέρας"
+      },
+      {
+        "text": "τὸ γὰρ γέρας ἐστὶ [γερόντων|Holder]",
+        "note": "Homer, Iliad 4.323, verified in the AGLDT treebank; Basis (age) implied by the Holder; Grantor DNI"
+      },
+      {
+        "text": "καὶ δή [μοι|Holder] γέρας αὐτὸς ἀφαιρήσεσθαι ἀπειλεῖς, [ᾧ ἔπι πολλὰ μόγησα|Basis], δόσαν δέ μοι [υἷες Ἀχαιῶν|Grantor]",
+        "note": "Homer, Iliad 1.161-162, verified in the AGLDT treebank; target γέρας"
+      },
+      {
+        "text": "[νώτοισιν|Material_form] δ' [Αἴαντα|Holder] [διηνεκέεσσι|Material_form] γέραιρεν [ἥρως Ἀτρεΐδης εὐρὺ κρείων Ἀγαμέμνων|Grantor]",
+        "note": "Homer, Iliad 7.321, verified in the AGLDT treebank; target γέραιρεν; Basis (Ajax's duel with Hector) in context"
+      },
+      {
+        "text": "αὐτὰρ [ἐμοὶ|Holder] γέρας αὐτίχ' ἑτοιμάσατ', ὄφρα μὴ οἶος Ἀργείων ἀγέραστος ἔω",
+        "note": "Homer, Iliad 1.118-119, verified in the AGLDT treebank; targets γέρας and ἀγέραστος; Grantor = CNI (2pl imperative, the Achaeans)"
+      }
+    ]
+  },
+  {
+    "name": "Apportioning",
+    "definition": "A Distributor divides a Resource (a whole or a stock) into Shares and allots a Share to each member of a set of Recipients, according to some Basis (equality, rank, merit, the Distributor's will). Unlike Giving, which profiles a single transfer from Donor to Recipient, this frame profiles the distributive structure: one source, many recipients, each receiving his own portion, and the fairness or arbitrariness of the allotment. Typical scenes are the carving and serving of portions at a feast, the division of spoils or land, and a god's allotment of fortune to mortals.",
+    "inherits": [
+      "Giving"
+    ],
+    "uses": [
+      "Sharing",
+      "Fairness_evaluation"
+    ],
+    "core_FEs": [
+      {
+        "name": "Distributor",
+        "definition": "The agent who divides and allots."
+      },
+      {
+        "name": "Recipients",
+        "definition": "The set of individuals each of whom receives a Share; may be expressed distributively (ἑκάστῳ)."
+      },
+      {
+        "name": "Shares",
+        "definition": "The portions allotted (μοῖραι)."
+      },
+      {
+        "name": "Resource",
+        "definition": "The whole or stock that is divided (meat, wine, food, prosperity)."
+      }
+    ],
+    "noncore_FEs": [
+      {
+        "name": "Basis",
+        "definition": "The principle governing the allotment (equality, rank, merit, the Distributor's will)."
+      },
+      {
+        "name": "Occasion",
+        "definition": "The event at which the distribution takes place (a feast, a division of spoils)."
+      },
+      {
+        "name": "Place",
+        "definition": "Where the distribution takes place."
+      },
+      {
+        "name": "Manner",
+        "definition": "How the distribution is carried out."
+      }
+    ],
+    "lexical_units": [
+      {
+        "lemma": "νέμω",
+        "pos": "V",
+        "gloss": "deal out, distribute, allot"
+      },
+      {
+        "lemma": "δοτήρ",
+        "pos": "N",
+        "gloss": "dispenser (of rations), Il. 19.44"
+      },
+      {
+        "lemma": "ταμίας",
+        "pos": "N",
+        "gloss": "dispenser, steward (of food; Zeus as dispenser of war)"
+      }
+    ],
+    "examples": [
+      {
+        "text": "[Ζεὺς|Distributor] δ' αὐτὸς νέμει [ὄλβον|Resource] [Ὀλύμπιος|Distributor] [ἀνθρώποισιν, ἐσθλοῖς ἠδὲ κακοῖσιν|Recipients], [ὅπως ἐθέλῃσιν|Basis], [ἑκάστῳ|Recipients]",
+        "note": "Homer, Odyssey 6.188-189, verified in the AGLDT treebank; target νέμει"
+      },
+      {
+        "text": "[οἱ|Distributor] δ' ἤδη [μοίρας|Shares] τ' ἔνεμον κερόωντό τε οἶνον",
+        "note": "Homer, Odyssey 8.470, verified in the AGLDT treebank; target ἔνεμον; Recipients DNI (the banqueters)"
+      },
+      {
+        "text": "καὶ ταμίαι παρὰ νηυσὶν ἔσαν [σίτοιο|Resource] δοτῆρες",
+        "note": "Homer, Iliad 19.44, verified in the AGLDT treebank; target δοτῆρες (incorporates the Distributor); Recipients DNI (the army)"
+      }
+    ]
+  }
+]
