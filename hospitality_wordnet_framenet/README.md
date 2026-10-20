@@ -17,7 +17,7 @@ The Ancient Greek hospitality WordNet & FrameNet experiment (July 2026), redone 
 | [`cluster128_k200/`](cluster128_k200/) | Cluster 128 of the Ward k=200 clustering — "guest, hospitality, escort, attendant", 18 lemmas |
 | [`cluster98_k150/`](cluster98_k150/) | Cluster 98 of the Ward k=150 clustering — "gift, guest, receive, hospitality", 50 lemmas (contains all of cluster 128) |
 | [`wordnet_check_cluster128/`](wordnet_check_cluster128/) | The first step: the WordNet check (core / plausible / noise) on cluster 128 |
-| [`pipeline/`](pipeline/) | `pipeline.py` (all mechanical steps), `check_frames.py` (FrameNet 1.7 lookup and validation), `FORMAT_SPEC_template.md` (the output format given to the runs) |
+| [`pipeline/`](pipeline/) | `pipeline.py` (all mechanical steps), `check_frames.py` (FrameNet 1.7 lookup and validation), `FORMAT_SPEC_template.md` (the output format given to the runs), `greek_glosses.json` (English glosses for all Greek on the pages) |
 
 Each cluster folder has the same layout: `experiment.json` (lemmas, merges, groups, passages), `common/` (the inputs given to both runs), `AGWN_PWN/` (WordNet layer), `A_without_wordnet/`, `B_with_wordnet/`, `comparison/`, a README and a protocol.
 
@@ -27,6 +27,11 @@ Each cluster folder has the same layout: `experiment.json` (lemmas, merges, grou
 2. `py pipeline/pipeline.py prepare <folder>`, then `passages` to rank candidate passages, and `extract` for the AGWN synsets.
 3. Flag the synsets (judgment step) into `<folder>/AGWN_PWN/sense_flags.csv`, then `resolve` and `links`.
 4. Give `common/` (plus the WordNet layer for run B) to two fresh agents; render each run with `render`, then `compare` and `index`.
+5. Add glosses to `pipeline/greek_glosses.json` for any Greek the render steps report as unglossed, then `rerender <folder>` and `index`.
+
+## Glosses
+
+Every Greek word on the HTML pages carries an English gloss, taken from `pipeline/greek_glosses.json` and checked against LSJ (`../lsj_semantic_search/lsj_chicago.cex`): headwords and quoted words get a short gloss after them, the Homeric examples of the proposed frames get a translation line, and the annotated Odyssey passages are glossed word by word (hover a word for its lemma, morphology and frame). After editing the glosses, `py pipeline/pipeline.py rerender <folder>` rebuilds a cluster's pages from the files already in its folder.
 
 Requirements: Python 3.12 with `nltk` (WordNet 3.0 and FrameNet 1.7 data: `nltk.download("wordnet")`, `nltk.download("framenet_v17")`).
 

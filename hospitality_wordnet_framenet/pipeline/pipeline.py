@@ -11,6 +11,8 @@ passages to annotate. Steps, in order:
     py pipeline.py resolve  <exp>   resolve synsets to PWN 3.0, add sense flags
     py pipeline.py links    <exp>   WordNet layer as HTML
     py pipeline.py render   <exp> <run_output> <A_without_wordnet|B_with_wordnet> [--wordnet]
+    py pipeline.py rerender <exp>   re-render both runs and the links page
+                                    from the files already in <exp>
     py pipeline.py compare  <exp> <original_framenet_csv> <original_odyssey_1_123_json>
     py pipeline.py index    <exp> [<exp> ...]   index.html in the project folder
 
@@ -19,6 +21,9 @@ and `resolve`: AGWN_PWN/sense_flags.csv lists the core and plausible synsets
 with a reason; every other synset counts as noise. Frame assignments and
 passage annotations come from the two runs (without / with WordNet), each
 written to <run_output> by a separate agent following common/FORMAT_SPEC.md.
+Every Greek word on the pages gets an English gloss from greek_glosses.json;
+`render`, `rerender`, `links` and `index` list any Greek they found no gloss
+for.
 """
 
 import collections
@@ -117,6 +122,135 @@ def treebank_sentences():
 
 def cite(w):
     return w.get("cite", "").split(":")[-1]
+
+
+# ------------------------------------------------------------------ glosses
+
+# English glosses for every Greek string on the HTML pages, checked against
+# LSJ (../lsj_semantic_search/lsj_chicago.cex). Sections: "lemmas" (headword
+# glosses), "forms" (inflected words and phrases quoted in the notes and
+# annotations), "examples" (translations of the proposed frames' examples),
+# "passages" (one [form, gloss] pair per token of each annotated passage).
+GLOSSES = HERE / "greek_glosses.json"
+GK = "Ͱ-Ͽἀ-῿"
+APOS = "'’ʼ"
+GK_WORD = rf"[{GK}][{GK}̀-ͯ]*(?:[{APOS}](?![{GK}]))?"
+# Greek words joined by spaces, elision marks or an ellipsis
+GK_RUN = re.compile(rf"{GK_WORD}(?:(?:\s+|\s*(?:\.\.\.|…)\s*){GK_WORD})*")
+# an English gloss already follows the Greek
+GLOSSED = re.compile(r"[\s,]*\(?\s*['‘\"“]")
+POSTAG = [
+    {"n": "noun", "v": "verb", "t": "participle", "a": "adj.", "d": "adv.",
+     "l": "article", "g": "particle", "c": "conj.", "r": "prep.",
+     "p": "pron.", "m": "numeral", "i": "interj.", "u": "punct."},
+    {"1": "1st", "2": "2nd", "3": "3rd"},
+    {"s": "sg.", "p": "pl.", "d": "dual"},
+    {"p": "pres.", "i": "impf.", "r": "perf.", "l": "plpf.", "t": "fut. perf.",
+     "f": "fut.", "a": "aor."},
+    {"i": "ind.", "s": "subj.", "o": "opt.", "n": "inf.", "m": "imper.",
+     "p": "part."},
+    {"a": "act.", "p": "pass.", "m": "mid.", "e": "mid./pass."},
+    {"m": "masc.", "f": "fem.", "n": "neut."},
+    {"n": "nom.", "g": "gen.", "d": "dat.", "a": "acc.", "v": "voc.",
+     "l": "loc."},
+    {"c": "comp.", "s": "superl."}]
+
+
+def gkey(s):
+    s = nfc(s.strip())
+    for a in APOS[1:]:
+        s = s.replace(a, "'")
+    return re.sub(r"\s+([,.;·])", r"\1", re.sub(r"\s+", " ", s))
+
+
+def parse_postag(tag):
+    """AGLDT postag -> readable morphology, e.g. 'aor. mid. part. nom. sg.
+    masc.' or 'fut. mid./pass. ind. 2nd sg.'."""
+    if not tag:
+        return ""
+    tag = tag.ljust(9, "-")
+    b = [POSTAG[i].get(c, "") for i, c in enumerate(tag[:9])]
+    if tag[0] in "vt":
+        order = [b[3], b[5], b[4]] + ([b[7], b[2], b[6]] if tag[4] == "p"
+                                      else [b[1], b[2]])
+    else:
+        order = [b[0] if tag[0] not in "na" else "", b[7], b[2], b[6], b[8]]
+    return " ".join(x for x in order if x)
+
+
+class Glosses:
+    def __init__(self):
+        d = json.loads(GLOSSES.read_text(encoding="utf-8")) \
+            if GLOSSES.exists() else {}
+        self.lemmas = {gkey(k): v for k, v in d.get("lemmas", {}).items()}
+        self.forms = {gkey(k): v for k, v in d.get("forms", {}).items()}
+        self.examples = {gkey(k): v for k, v in d.get("examples", {}).items()}
+        self.passages = d.get("passages", {})
+        self.missing = collections.defaultdict(set)
+
+    def lemma(self, lem):
+        g = self.lemmas.get(gkey(lem))
+        if g is None:
+            self.missing["lemmas"].add(nfc(lem))
+        return g
+
+    def form(self, s):
+        k = gkey(s)
+        g = self.forms.get(k) or self.lemmas.get(k)
+        if g is None:
+            self.missing["forms"].add(k)
+        return g
+
+    def example(self, s):
+        g = self.examples.get(gkey(s))
+        if g is None:
+            self.missing["examples"].add(gkey(s))
+        return g
+
+    def passage(self, source, tokens):
+        pairs = self.passages.get(source)
+        if not pairs or [gkey(f) for f, _ in pairs] != \
+                [gkey(t["form"]) for t in tokens]:
+            self.missing["passages"].add(source)
+            return [None] * len(tokens)
+        return [g for _, g in pairs]
+
+    def report(self):
+        for kind, keys in sorted(self.missing.items()):
+            print(f"no gloss ({kind}): " + " | ".join(sorted(keys)))
+        self.missing.clear()
+
+
+GL = Glosses()
+
+
+def gl(gloss, cls="gl"):
+    return f'<span class="{cls}">‘{esc(gloss)}’</span>' if gloss else ""
+
+
+def gk_lemma(lem):
+    """A headword with its gloss after it."""
+    g = GL.lemma(lem)
+    return f'{esc(lem)} {gl(g)}' if g else esc(lem)
+
+
+def gk_list(lemmas, sep=", "):
+    return sep.join(gk_lemma(l) for l in lemmas)
+
+
+def gk_prose(text):
+    """Escaped English text with a gloss after every Greek word or phrase
+    that is not already followed by one."""
+    out, pos = [], 0
+    for m in GK_RUN.finditer(text):
+        out.append(esc(text[pos:m.end()]))
+        pos = m.end()
+        if not GLOSSED.match(text, pos):
+            g = GL.form(m.group())
+            if g:
+                out.append(" " + gl(g))
+    out.append(esc(text[pos:]))
+    return "".join(out)
 
 
 # ------------------------------------------------------------------ prepare
@@ -447,6 +581,7 @@ code{font-family:monospace;font-size:12px;color:var(--mut);background:#f1efe8;pa
 .m{font-size:11px;padding:1px 6px;border-radius:4px;background:#f1efe8;color:var(--mut)}.m.unresolved{background:#fcebeb;color:var(--warn)}
 .f{font-size:11px;padding:1px 6px;border-radius:4px;font-weight:500}.f.core{background:#e1f5ee;color:var(--acc)}.f.plausible{background:#eeedfe;color:#534AB7}.f.noise{background:#f1efe8;color:var(--mut)}
 .note{font-size:12px;color:var(--warn);padding:6px 18px 10px;margin:0}.rel{color:var(--mut);font-size:12.5px}.ext{font-size:10px;vertical-align:1px}
+.gl{font-family:'Noto Sans',system-ui,sans-serif;font-style:normal;font-weight:400;color:#4a4943}summary .gl{font-size:14px}
 footer{color:var(--mut);font-size:12.5px;margin-top:40px;border-top:1px solid var(--line);padding-top:16px}
 """
 
@@ -514,10 +649,11 @@ def cmd_links(exp):
         g = exp.groups[l["group"]]
         res = sum(1 for r in rs if r["id_match"] != "unresolved")
         kept = sum(1 for r in rs if r["sense_flag"] != "noise")
-        h.append(f'<details data-lemma="{esc(lem)} {esc(l["translit"])}" '
-                 f'data-role="{g}">')
+        h.append(f'<details data-lemma="{esc(lem)} {esc(l["translit"])} '
+                 f'{esc(GL.lemma(lem) or "")}" data-role="{g}">')
         h.append(f'<summary><span class="lem gk">{esc(lem)}</span> <span '
-                 f'class="tr">{esc(l["translit"])}</span> <span class="tag {g}">'
+                 f'class="tr">{esc(l["translit"])}</span> '
+                 f'{gl(GL.lemma(lem))} <span class="tag {g}">'
                  f'{esc(l["group"])}</span> <span class="rel">{esc(l["pos"])}'
                  f'</span> <a href="{agwn_lemma_url(form[lem], l["pos"])}" '
                  'target="_blank" rel="noopener">AGWN entry<span class="ext">↗'
@@ -529,7 +665,7 @@ def cmd_links(exp):
             continue
         if form[lem] != lem:
             h.append(f'<p class="note" style="color:var(--mut)">AGWN spells '
-                     f'this lemma {esc(form[lem])}.</p>')
+                     f'this lemma {esc(form[lem])} {gl(GL.lemma(lem))}.</p>')
         h.append('<div class="wt"><table><thead><tr><th>AGWN synset</th><th>'
                  'English</th><th>gloss</th><th>Open English WordNet</th><th>'
                  'sense key</th><th>match</th><th>sense</th></tr></thead>'
@@ -620,6 +756,8 @@ a{color:var(--acc);text-decoration:none}a:hover{text-decoration:underline}a.ext:
 .fetab td{padding:5px 10px;border-top:1px solid var(--line);vertical-align:top}.fetab .fen{font-weight:500;white-space:nowrap}
 .ex{background:#faf9f5;border-radius:8px;padding:8px 12px;margin:6px 0;font-size:13.5px}
 .fe{background:#eeedfe;border-radius:4px;padding:0 3px}.fe sub{color:var(--acc);font-size:9px;vertical-align:2px;margin-left:1px}
+.gl{font-family:'Noto Sans',system-ui,sans-serif;font-style:normal;font-weight:400;color:#4a4943}.lem .gl{font-size:14px}
+.extr{color:#4a4943;margin-top:3px}
 code{font-family:monospace;font-size:12px;background:#f1efe8;padding:1px 5px;border-radius:4px}
 footer{color:var(--mut);font-size:12.5px;margin-top:40px;border-top:1px solid var(--line);padding-top:16px}
 """
@@ -654,6 +792,10 @@ td{padding:5px 10px;border-top:1px solid #f0eee7;vertical-align:top}
 .ni{color:var(--mut);font-style:italic;font-family:'Noto Sans'}
 .off{color:#b3b1a8;font-size:11px;font-family:monospace}
 .note{font-size:13px;color:#5a5852;background:#faf9f5;border:1px solid var(--line);border-radius:10px;padding:10px 14px;margin-top:16px}
+.grk.il{line-height:1.3}.w{display:inline-flex;flex-direction:column;vertical-align:top;margin:0 .3em .65em 0;max-width:10.5em}
+.w .e{font-family:'Noto Sans',system-ui,sans-serif;font-size:11.5px;line-height:1.3;color:var(--mut);margin-top:2px}
+.w[title]{cursor:help}
+.gl{font-family:'Noto Sans',system-ui,sans-serif;font-style:normal;font-weight:400;color:#4a4943;font-size:14px}
 code{font-family:monospace;font-size:12px;background:#f1efe8;padding:1px 5px;border-radius:4px}
 footer{color:var(--mut);font-size:12px;margin-top:26px;border-top:1px solid var(--line);padding-top:14px}
 """
@@ -753,7 +895,8 @@ def render_framenet(exp, run, dest, with_wn):
             else "existing"
         h.append(f'<tr><td class="lem" style="font-size:16px">'
                  f'{esc(l["greek_lemma"])} <span class="tr" style="font-size:'
-                 f'13px">{esc(l["translit"])}</span></td><td>'
+                 f'13px">{esc(l["translit"])}</span> '
+                 f'{gl(GL.lemma(l["greek_lemma"]))}</td><td>'
                  f'{frame_link(p["frame"], p["frame_status"], pnames)}</td>'
                  f'<td class="pos">{st}</td></tr>')
     h.append('</table>\n<div class="bar"><input type="search" id="q" '
@@ -770,10 +913,12 @@ def render_framenet(exp, run, dest, with_wn):
         if with_wn:
             txt += " " + " ".join(r["english_words"].replace("_", " ")
                                   for r in kept.get(lem, []))
-        h.append(f'<details data-lemma="{esc(lem)} {esc(l["translit"])}" '
-                 f'data-role="{g}" data-txt="{esc(txt.lower())}">\n'
+        h.append(f'<details data-lemma="{esc(lem)} {esc(l["translit"])} '
+                 f'{esc(GL.lemma(lem) or "")}" data-role="{g}" '
+                 f'data-txt="{esc(txt.lower())}">\n'
                  f'<summary><span class="lem">{esc(lem)}</span> <span '
-                 f'class="tr">{esc(l["translit"])}</span> <span class="tag '
+                 f'class="tr">{esc(l["translit"])}</span> {gl(GL.lemma(lem))} '
+                 f'<span class="tag '
                  f'{g}">{esc(l["group"])}</span> <span class="pos">'
                  f'{esc(l["pos"])}</span> <a class="aright ext" href="'
                  f'{agwn_lemma_url(form[lem], l["pos"])}" target="_blank">'
@@ -783,15 +928,16 @@ def render_framenet(exp, run, dest, with_wn):
                         else ("role-a", "alt"))
             h.append(f'<tr><td class="{cls}">{lab}</td><td>'
                      f'{frame_link(r["frame"], r["frame_status"], pnames)}'
-                     f'</td><td><i>{esc(r["word_sense"])}</i></td><td '
-                     f'class="pos">{esc(r["participant_to_FE_mapping"])}</td>'
+                     f'</td><td><i>{gk_prose(r["word_sense"])}</i></td><td '
+                     f'class="pos">{gk_prose(r["participant_to_FE_mapping"])}'
+                     '</td>'
                      '</tr>')
         p = rows[0]
         h.append(f'</table></div>\n<div class="fes"><b>Core FEs of '
                  f'{esc(p["frame"])}:</b> {esc(p["frame_core_FEs"])}</div>')
         notes = [f'{r["frame"]}: {r["note"]}' for r in rows if r["note"]]
         if notes:
-            h.append('<div class="nt">' + "<br>".join(esc(n) for n in notes)
+            h.append('<div class="nt">' + "<br>".join(gk_prose(n) for n in notes)
                      + '</div>')
         if with_wn:
             all_rows, k = wn.get(lem, []), kept.get(lem, [])
@@ -822,7 +968,7 @@ def render_framenet(exp, run, dest, with_wn):
                 for x in p["uses"]))
         h.append(f'<div class="framecard" id="frame-{esc(p["name"])}"><h3>'
                  f'<span class="new">🆕</span> {esc(p["name"])}</h3><p>'
-                 f'{esc(p["definition"])}</p>'
+                 f'{gk_prose(p["definition"])}</p>'
                  + (f'<p class="pos">{"; ".join(rel)}.</p>' if rel else ""))
         for title, key in (("Core frame elements", "core_FEs"),
                            ("Selected non-core FEs", "noncore_FEs")):
@@ -830,22 +976,30 @@ def render_framenet(exp, run, dest, with_wn):
                 h.append(f'<b style="font-size:13px">{title}</b><table '
                          'class="fetab">' + "".join(
                              f'<tr><td class="fen">{esc(fe["name"])}</td><td>'
-                             f'{esc(fe["definition"])}</td></tr>'
+                             f'{gk_prose(fe["definition"])}</td></tr>'
                              for fe in p[key]) + '</table>')
         h.append('<b style="font-size:13px">Lexical units</b><table '
                  'class="fetab">' + "".join(
                      f'<tr><td class="fen" style="font-family:Noto Serif,serif">'
                      f'{esc(u["lemma"])}</td><td class="pos">{esc(u["pos"])}'
-                     f'</td><td>{esc(u["gloss"])}</td></tr>'
+                     f'</td><td>{gk_prose(u["gloss"])}</td></tr>'
                      for u in p["lexical_units"]) + '</table>')
         if p.get("examples"):
             h.append('<b style="font-size:13px">Annotated examples</b>')
             lus = [u["lemma"] for u in p["lexical_units"]]
             for ex in p["examples"]:
-                note = f' <span class="pos">({esc(ex["note"])})</span>' \
+                note = f' <span class="pos">({gk_prose(ex["note"])})</span>' \
                     if ex.get("note") else ""
+                plain = re.sub(r"\[([^\]|]+)\|[^\]]+\]", r"\1", ex["text"])
+                if re.search(r"[A-Za-z]{3}", plain):
+                    # an English paraphrase: gloss its Greek words only
+                    tr = " · ".join(f'{esc(m)} {gl(GL.form(m))}'
+                                    for m in GK_RUN.findall(plain))
+                else:
+                    tr = gl(GL.example(plain))
+                tr = f'<div class="extr">{tr}{note}</div>' if tr else note
                 h.append(f'<div class="ex">{example_html(ex["text"], lus)}'
-                         f'{note}</div>')
+                         f'{tr}</div>')
         h.append('</div>')
     foot = 'Existing frames link to Berkeley FrameNet. '
     if with_wn:
@@ -961,21 +1115,68 @@ def passage_xml(doc, s):
     return "\n".join(x)
 
 
-def passage_html(doc, s):
+def interlinear(text, tokens, targets, colour, glosses):
+    # one block per token: the word (frame targets coloured) over its gloss;
+    # the tooltip gives lemma, lemma gloss, morphology and frame
+    out = [esc(text[:tokens[0]["start"]])]
+    for i, (t, g) in enumerate(zip(tokens, glosses)):
+        end = tokens[i + 1]["start"] if i + 1 < len(tokens) else len(text)
+        word, rest = text[t["start"]:t["end"] + 1], text[t["end"] + 1:end]
+        a = next((a for st, en, a in targets
+                  if st <= t["end"] and en >= t["start"]), None)
+        if a:
+            word = (f'<b class="tg" style="color:{colour[a["frameName"]]}">'
+                    f'{esc(word)}</b>')
+        else:
+            word = esc(word)
+        lg = GL.lemma(t["lemma"])
+        tip = [t["lemma"] + (f" ‘{lg}’" if lg else ""),
+               parse_postag(t["postag"])]
+        if a:
+            tip.append(f'frame: {a["frameName"]}')
+        out.append(f'<span class="w" title="{esc(" · ".join(x for x in tip if x))}">'
+                   f'<span class="g">{word}{esc(rest.strip())}</span>'
+                   f'<span class="e">{esc(g or "")}</span></span>')
+    return "".join(out)
+
+
+def span_gloss(fe, tokens, glosses):
+    # one word: its gloss in this passage; several: the glossary's phrase,
+    # else the word glosses of the span's tokens
+    k = gkey(fe["text"])
+    inside = [g for t, g in zip(tokens, glosses)
+              if fe["start"] <= t["start"] and t["end"] <= fe["end"]]
+    if len(inside) == 1 and inside[0]:
+        return inside[0]
+    if k in GL.forms:
+        return GL.forms[k]
+    if len(inside) > 1:
+        GL.missing["forms"].add(k)
+    return " ".join(g for g in inside if g) or None
+
+
+def passage_html(doc, s, tokens=None):
     text, sets = s["text"], s["annotationSets"]
     colour = {}
     for a in sets:
         colour.setdefault(a["frameName"], COLOURS[len(colour) % len(COLOURS)])
-    out, pos = [], 0
-    for st, en, a in sorted(((a["target"]["start"], a["target"]["end"], a)
-                             for a in sets), key=lambda m: m[0]):
-        if st < pos:
-            continue
-        out.append(esc(text[pos:st]))
-        out.append(f'<b class="tg" style="color:{colour[a["frameName"]]}" '
-                   f'title="{esc(a["frameName"])}">{esc(text[st:en + 1])}</b>')
-        pos = en + 1
-    out.append(esc(text[pos:]))
+    targets = sorted(((a["target"]["start"], a["target"]["end"], a)
+                      for a in sets), key=lambda m: m[0])
+    glosses = GL.passage(s["source"], tokens) if tokens else []
+    if tokens:
+        grk = interlinear(text, tokens, targets, colour, glosses)
+    else:
+        out, pos = [], 0
+        for st, en, a in targets:
+            if st < pos:
+                continue
+            out.append(esc(text[pos:st]))
+            out.append(f'<b class="tg" style="color:{colour[a["frameName"]]}" '
+                       f'title="{esc(a["frameName"])}">'
+                       f'{esc(text[st:en + 1])}</b>')
+            pos = en + 1
+        out.append(esc(text[pos:]))
+        grk = "".join(out)
     src = s["source"].replace("-", "–")
     short = src.replace("Homer, ", "")
     h = [f'<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">'
@@ -985,14 +1186,17 @@ def passage_html(doc, s):
          f'<h1>{esc(short)} <span style="color:var(--mut);font-weight:400">· '
          'FrameNet annotation</span></h1>\n'
          '<p class="sub">Annotated with <b>existing</b> Berkeley FrameNet 1.7 '
-         'frames only. Colours mark frame-evoking targets.</p>\n'
+         'frames only. Colours mark frame-evoking targets.'
+         + (' Each word carries an English gloss; hover a word for its lemma, '
+            'morphology and frame.' if tokens else '') + '</p>\n'
          f'<div class="passage"><div class="src">{esc(src)}</div><div '
-         f'class="grk">{"".join(out)}</div>\n<div class="tr">"'
+         f'class="grk{" il" if tokens else ""}">{grk}</div>\n<div class="tr">"'
          f'{esc(s.get("translation", ""))}"</div></div>']
     for a in sets:
         t = a["target"]
         h.append(f'<div class="card"><div class="hd"><span class="lu">'
-                 f'{esc(a["luName"].rsplit(".", 1)[0])}</span><a class="ext" '
+                 f'{gk_lemma(a["luName"].rsplit(".", 1)[0])}</span>'
+                 '<a class="ext" '
                  f'target="_blank" href="{FN_URL}{esc(a["frameName"])}"><span '
                  f'class="fr">{esc(a["frameName"])}</span></a><span '
                  f'class="badge">extant</span><span class="off" style="margin-'
@@ -1000,9 +1204,12 @@ def passage_html(doc, s):
                  '\n<table>')
         for fe in a["FEs"]:
             if "start" in fe:
+                g = span_gloss(fe, tokens, glosses) if tokens \
+                    else GL.form(fe["text"])
                 h.append(f'<tr><td class="role">{esc(fe["name"])}</td><td '
-                         f'class="fev">{esc(fe["text"])} <span class="off">@ '
-                         f'{fe["start"]}–{fe["end"]}</span></td></tr>')
+                         f'class="fev">{esc(fe["text"])} {gl(g)} <span '
+                         f'class="off">@ {fe["start"]}–{fe["end"]}</span>'
+                         '</td></tr>')
             else:
                 h.append(f'<tr><td class="role">{esc(fe["name"])}</td><td '
                          f'class="ni">— {esc(fe["itype"])}: '
@@ -1010,7 +1217,7 @@ def passage_html(doc, s):
         h.append('</table></div>')
     cav = doc["provenance"].get("caveats", [])
     if cav:
-        h.append('<div class="note">' + "<br>".join(esc(c) for c in cav)
+        h.append('<div class="note">' + "<br>".join(gk_prose(c) for c in cav)
                  + '</div>')
     h.append('<footer>Text is public-domain (Homer). Annotation is an '
              'illustrative proposal by Claude Opus 5.5; verify orthography '
@@ -1025,7 +1232,12 @@ def render_passages(exp, run, dest):
     doc = json.loads((run / "passage_annotations.json").read_text(
         encoding="utf-8"))
     dest.mkdir(parents=True, exist_ok=True)
+    tokens = {p["source"]: p for p in json.loads(
+        (exp.common / "passages.json").read_text(encoding="utf-8"))
+        ["sentences"]}
     for s in doc["sentences"]:
+        p = tokens.get(s["source"])
+        toks = p["tokens"] if p and p["text"] == s["text"] else None
         slug = passage_slug(s["source"])
         single = {k: v for k, v in doc.items() if k != "sentences"}
         single["provenance"] = dict(doc["provenance"])
@@ -1034,7 +1246,7 @@ def render_passages(exp, run, dest):
         (dest / f"{slug}.json").write_text(
             json.dumps(single, ensure_ascii=False, indent=2), encoding="utf-8")
         (dest / f"{slug}.xml").write_text(passage_xml(doc, s), encoding="utf-8")
-        (dest / f"{slug}.html").write_text(passage_html(doc, s),
+        (dest / f"{slug}.html").write_text(passage_html(doc, s, toks),
                                            encoding="utf-8")
 
 
@@ -1052,6 +1264,34 @@ def cmd_render(exp, run, name, with_wn):
     render_notes(exp, run, fnd, with_wn)
     render_passages(exp, run, out / exp.examples)
     print(f"rendered {name}")
+    GL.report()
+
+
+def cmd_rerender(exp):
+    """Re-render both runs from the copies `render` left in the experiment
+    folder (the agents' original output folders are not kept)."""
+    import tempfile
+    for name, _, _ in RUN_NAMES:
+        out = exp.dir / name
+        if not (out / "FrameNet").exists():
+            continue
+        with tempfile.TemporaryDirectory() as tmp:
+            run = Path(tmp)
+            fnd = out / "FrameNet"
+            shutil.copy(fnd / f"{exp.slug}_field_framenet_full.csv",
+                        run / "frame_assignments.csv")
+            for f in ("proposed_frames.json", "lemma_senses.csv"):
+                shutil.copy(fnd / f, run / f)
+            shutil.copy(out / "method_notes.md", run / "method_notes.md")
+            doc = None
+            for p in sorted((out / exp.examples).glob("*.json")):
+                single = json.loads(p.read_text(encoding="utf-8"))
+                if doc is None:
+                    doc = dict(single, sentences=[])
+                doc["sentences"] += single["sentences"]
+            (run / "passage_annotations.json").write_text(
+                json.dumps(doc, ensure_ascii=False, indent=2), encoding="utf-8")
+            cmd_render(exp, run, name, name.startswith("B_"))
 
 
 # ------------------------------------------------------------------ compare
@@ -1238,6 +1478,7 @@ table{width:100%;border-collapse:collapse;font-size:14px;margin:8px 0}
 th,td{text-align:left;padding:7px 10px;border-top:1px solid var(--line);vertical-align:top}
 th{color:var(--mut);font-size:12px;text-transform:uppercase;letter-spacing:.03em;font-weight:500}
 td.c{text-align:center}.yes{color:var(--new);font-weight:600}
+.gl{font-family:'Noto Sans',system-ui,sans-serif;font-style:normal;font-weight:400;color:#4a4943}
 .tw{overflow-x:auto}
 footer{color:var(--mut);font-size:12.5px;margin-top:44px;border-top:1px solid var(--line);padding-top:16px}
 """
@@ -1411,7 +1652,7 @@ def cmd_index(exps):
             'vocabulary table</a></li></ul>'
             f'<div class="stat">{st["synsets"]:,} synsets · {st["core"]} core · '
             f'{st["plausible"]} plausible'
-            + (f' · no WordNet data: <span class="gk">{esc(", ".join(st["no_wn"]))}'
+            + (f' · no WordNet data: <span class="gk">{gk_list(st["no_wn"])}'
                '</span>' if st["no_wn"] else "") + '</div></div>')
         for name, label, k in RUN_NAMES:
             r = st["runs"][k]
@@ -1472,8 +1713,8 @@ def cmd_index(exps):
                      '</b></td>' + "".join(
                 f'<td class="c">{"<span class=yes>✓</span>" if (e.slug, k) in f["in"] else ""}</td>'
                 for e, k in cols) +
-                f'<td class="gk">{esc(", ".join(sorted(f["lus"])))}</td>'
-                f'<td>{esc(first_sentence(f["def"]))}</td></tr>')
+                f'<td class="gk">{gk_list(sorted(f["lus"]), "<br>")}</td>'
+                f'<td>{gk_prose(first_sentence(f["def"]))}</td></tr>')
         h.append('</table></div>')
 
     # comparisons
@@ -1522,6 +1763,7 @@ def cmd_index(exps):
     out = PROJECT / "index.html"
     out.write_text("\n".join(h) + "\n", encoding="utf-8")
     print(f"wrote {out}")
+    GL.report()
 
 
 # ------------------------------------------------------------------ main
@@ -1544,6 +1786,10 @@ def main():
         cmd_links(exp)
     elif cmd == "render":
         cmd_render(exp, args[0], args[1], "--wordnet" in args)
+    elif cmd == "rerender":
+        cmd_rerender(exp)
+        cmd_links(exp)
+        GL.report()
     elif cmd == "compare":
         cmd_compare(exp, args[0], args[1])
     else:
