@@ -33,6 +33,8 @@ Each cluster folder has the same layout: `experiment.json` (lemmas, merges, grou
 
 Every Greek word on the HTML pages carries an English gloss, taken from `pipeline/greek_glosses.json` and checked against LSJ (`../lsj_semantic_search/lsj_chicago.cex`): headwords and quoted words get a short gloss after them, the Homeric examples of the proposed frames get a translation line, and the annotated Odyssey passages are glossed word by word (hover a word for its lemma, morphology and frame). After editing the glosses, `py pipeline/pipeline.py rerender <folder>` rebuilds a cluster's pages from the files already in its folder.
 
+The markdown pages are glossed the same way: the comparison tables and the lemma, target and frame tables in the protocols and READMEs have a Gloss column next to the Greek (`lemma_frames.csv` and `passage_targets.csv` have a `gloss` column), and Greek in running text, in the Obsidian lemma notes and in the method notes has its gloss after it. `render` and `compare` do this when they write their files; for hand-written pages run `py pipeline/pipeline.py gloss <file.md> ...`, which only adds glosses that are missing. The inputs given to the runs (`common/`, `WORDNET_LAYER.md`, `FLAGGING_CRITERIA.md`, `PROMPT.md`) and the data CSVs are left as they were.
+
 Requirements: Python 3.12 with `nltk` (WordNet 3.0 and FrameNet 1.7 data: `nltk.download("wordnet")`, `nltk.download("framenet_v17")`).
 
 ## Data not included
@@ -45,7 +47,7 @@ Requirements: Python 3.12 with `nltk` (WordNet 3.0 and FrameNet 1.7 data: `nltk.
   https://raw.githubusercontent.com/jcuenod/greekwordnet/master/greekwordnet/db/common/common_relation.sql
   ```
 
-- **The original experiment's files** (its frame-assignment CSV and Odyssey 1.123 JSON, needed for `compare`; its WordNet-check CSV, needed for the ξενία check in `wordnet_check_cluster128/build_flagged_csv.py`) are shared within the team. The comparisons already made are in each cluster's `comparison/` folder and in `wordnet_check_cluster128/output/summary.txt`.
+- **The original experiment's files** (its frame-assignment CSV and Odyssey 1.123 JSON, needed for `compare`; its WordNet-check CSV, needed for the ξενία ‘hospitality, guest-friendship’ check in `wordnet_check_cluster128/build_flagged_csv.py`) are shared within the team. The comparisons already made are in each cluster's `comparison/` folder and in `wordnet_check_cluster128/output/summary.txt`.
 
 ## Provenance
 

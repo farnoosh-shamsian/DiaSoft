@@ -1,17 +1,17 @@
-passage,target,start,end,A_frame,B_frame,A_FEs,B_FEs
-"Homer, Odyssey 1.123-124",ξεῖνε,7,11,Guest_and_host,Guest_and_host,Guest; Host,Host; Host_location
-"Homer, Odyssey 1.123-124",παρ',14,17,Locative_relation,Locative_relation,Figure; Ground,Figure; Ground
-"Homer, Odyssey 1.123-124",φιλήσεαι,24,31,Have_visitor_over,Have_visitor_over,Host; Visitor,Host; Visitor
-"Homer, Odyssey 1.123-124",ἔπειτα,40,45,Time_vector,Time_vector,Distance; Event; Landmark_event,Event; Landmark_event
-"Homer, Odyssey 1.123-124",δείπνου,47,53,Food,Food,Food,
-"Homer, Odyssey 1.123-124",πασσάμενος,55,64,Ingestion,Ingestion,Ingestibles; Ingestor,Ingestibles; Ingestor
-"Homer, Odyssey 1.123-124",μυθήσεαι,66,73,Telling,Telling,Addressee; Message; Speaker,Addressee; Message; Speaker; Time
-"Homer, Odyssey 1.123-124",χρή,84,86,Needing,Needing,Cognizer; Dependent; Requirement,Cognizer; Requirement
-"Homer, Odyssey 8.544-545",ξείνοιο,11,17,Guest_and_host,Guest_and_host,Descriptor; Guest; Host,Descriptor; Host; Host_location
-"Homer, Odyssey 8.544-545",αἰδοίοιο,24,31,Judgment,Judgment,Cognizer; Evaluee; Reason,Cognizer; Evaluee; Reason
-"Homer, Odyssey 8.544-545",τέτυκται,33,40,Intentionally_create,Intentionally_create,Created_entity; Creator; Purpose,Created_entity; Creator; Purpose
-"Homer, Odyssey 8.544-545",πομπὴ,43,47,Sending,Sending,Goal; Sender; Theme,Goal; Sender; Theme; Transport_means
-"Homer, Odyssey 8.544-545",φίλα,53,56,–,Stimulus_focus,,Experiencer; Stimulus
-"Homer, Odyssey 8.544-545",δῶρα,58,61,Giving,Giving,Donor; Recipient; Theme,Donor; Recipient
-"Homer, Odyssey 8.544-545",δίδομεν,70,76,Giving,Giving,Depictive; Donor; Recipient; Theme,Donor; Manner; Recipient; Theme
-"Homer, Odyssey 8.544-545",φιλέοντες,78,86,Experiencer_focus,Experiencer_focus,Content; Experiencer,Content; Experiencer
+passage,target,gloss,start,end,A_frame,B_frame,A_FEs,B_FEs
+"Homer, Odyssey 1.123-124",ξεῖνε,stranger,7,11,Guest_and_host,Guest_and_host,Guest; Host,Host; Host_location
+"Homer, Odyssey 1.123-124",παρ',among,14,17,Locative_relation,Locative_relation,Figure; Ground,Figure; Ground
+"Homer, Odyssey 1.123-124",φιλήσεαι,you will be made welcome,24,31,Have_visitor_over,Have_visitor_over,Host; Visitor,Host; Visitor
+"Homer, Odyssey 1.123-124",ἔπειτα,then,40,45,Time_vector,Time_vector,Distance; Event; Landmark_event,Event; Landmark_event
+"Homer, Odyssey 1.123-124",δείπνου,of the meal,47,53,Food,Food,Food,
+"Homer, Odyssey 1.123-124",πασσάμενος,having tasted,55,64,Ingestion,Ingestion,Ingestibles; Ingestor,Ingestibles; Ingestor
+"Homer, Odyssey 1.123-124",μυθήσεαι,you will tell,66,73,Telling,Telling,Addressee; Message; Speaker,Addressee; Message; Speaker; Time
+"Homer, Odyssey 1.123-124",χρή,need,84,86,Needing,Needing,Cognizer; Dependent; Requirement,Cognizer; Requirement
+"Homer, Odyssey 8.544-545",ξείνοιο,the guest,11,17,Guest_and_host,Guest_and_host,Descriptor; Guest; Host,Descriptor; Host; Host_location
+"Homer, Odyssey 8.544-545",αἰδοίοιο,revered,24,31,Judgment,Judgment,Cognizer; Evaluee; Reason,Cognizer; Evaluee; Reason
+"Homer, Odyssey 8.544-545",τέτυκται,have been made ready,33,40,Intentionally_create,Intentionally_create,Created_entity; Creator; Purpose,Created_entity; Creator; Purpose
+"Homer, Odyssey 8.544-545",πομπὴ,conveyance home,43,47,Sending,Sending,Goal; Sender; Theme,Goal; Sender; Theme; Transport_means
+"Homer, Odyssey 8.544-545",φίλα,welcome,53,56,–,Stimulus_focus,,Experiencer; Stimulus
+"Homer, Odyssey 8.544-545",δῶρα,gifts,58,61,Giving,Giving,Donor; Recipient; Theme,Donor; Recipient
+"Homer, Odyssey 8.544-545",δίδομεν,we give,70,76,Giving,Giving,Depictive; Donor; Recipient; Theme,Donor; Manner; Recipient; Theme
+"Homer, Odyssey 8.544-545",φιλέοντες,in friendship,78,86,Experiencer_focus,Experiencer_focus,Content; Experiencer,Content; Experiencer

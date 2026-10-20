@@ -15,15 +15,16 @@ passages to annotate. Steps, in order:
                                     from the files already in <exp>
     py pipeline.py compare  <exp> <original_framenet_csv> <original_odyssey_1_123_json>
     py pipeline.py index    <exp> [<exp> ...]   index.html in the project folder
+    py pipeline.py gloss    <file.md> [...]     add glosses to hand-written pages
 
 Sense flags (core / plausible / noise) are a judgment step between `extract`
 and `resolve`: AGWN_PWN/sense_flags.csv lists the core and plausible synsets
 with a reason; every other synset counts as noise. Frame assignments and
 passage annotations come from the two runs (without / with WordNet), each
 written to <run_output> by a separate agent following common/FORMAT_SPEC.md.
-Every Greek word on the pages gets an English gloss from greek_glosses.json;
-`render`, `rerender`, `links` and `index` list any Greek they found no gloss
-for.
+Every Greek word on the pages (HTML and markdown) gets an English gloss from
+greek_glosses.json; `render`, `rerender`, `links`, `index`, `compare` and
+`gloss` list any Greek they found no gloss for.
 """
 
 import collections
@@ -253,6 +254,139 @@ def gk_prose(text):
     return "".join(out)
 
 
+# markdown: link targets and URLs are left alone; a gloss goes after any
+# closing markup, wikilink or italic transliteration that follows the Greek
+MD_SKIP = re.compile(r"\]\([^)]*\)|https?://[^\s|)]+")
+MD_CLOSE = re.compile(r"\d*(?:\]\]|\]\([^)]*\)|\*\*|[*_`\]])*")
+MD_TRANSLIT = re.compile(r"\s*(?:(?:·\s*)?\*[A-Za-z-]+\*|\([a-z.]+\))")
+GLOSS_COLS = {"gloss", "description", "sense", "meaning", "english",
+              "translation"}
+
+
+def passage_ctx(line):
+    """Token glosses of the passage a heading or line names, if any."""
+    m = re.search(r"Odyssey (\d+\.\d+)", line)
+    for src, pairs in GL.passages.items() if m else ():
+        if f"Odyssey {m.group(1)}-" in src:
+            ctx = {}
+            for f, g in pairs:
+                ctx.setdefault(gkey(f), g)
+            return ctx
+    return None
+
+
+def md_inline(s, ctx=None, done=None):
+    """One line (or table cell) of markdown with a gloss after every Greek
+    word or phrase not already followed by one, each glossed once."""
+    done = set() if done is None else done
+    skip = [m.span() for m in MD_SKIP.finditer(s)]
+    out, pos = [], 0
+    for m in GK_RUN.finditer(s):
+        if any(a <= m.start() < b for a, b in skip) or len(m.group()) == 1:
+            continue
+        end = MD_CLOSE.match(s, m.end()).end()
+        t = MD_TRANSLIT.match(s, end)
+        k = gkey(m.group())
+        if GLOSSED.match(s, end) or (t and GLOSSED.match(s, t.end())):
+            done.add(k)
+            continue
+        if k in done:
+            continue
+        g = (ctx or {}).get(k) or GL.form(m.group())
+        if g:
+            done.add(k)
+            end = t.end() if t else end
+            out += [s[pos:end], f" ‘{g}’"]
+            pos = end
+    return "".join(out) + s[pos:]
+
+
+def md_cells(line):
+    return [c.strip() for c in line.strip().strip("|").split("|")]
+
+
+def md_table(lines, ctx):
+    """A markdown table with a Gloss column after each all-Greek column
+    (lemmas, targets) that has no gloss column beside it."""
+    head, body = md_cells(lines[0]), [md_cells(l) for l in lines[2:]]
+    pure, add = set(), []
+    for j, h in enumerate(head):
+        vals = [r[j].strip("*_` ") for r in body
+                if j < len(r) and r[j] not in ("", "–", "-")]
+        if vals and all(GK_RUN.fullmatch(v) for v in vals):
+            pure.add(j)
+            nxt = head[j + 1].lower() if j + 1 < len(head) else ""
+            if h.lower() not in GLOSS_COLS and nxt not in GLOSS_COLS:
+                add.append(j)
+
+    def row(cells, extra):
+        out = []
+        for j, c in enumerate(cells):
+            out.append(c)
+            if j in add:
+                out.append(extra(j, c))
+        return "| " + " | ".join(out) + " |"
+
+    out = [row(head, lambda j, c: "Gloss"), row(md_cells(lines[1]),
+                                                 lambda j, c: "---")] \
+        if add else lines[:2]
+    for line, r in zip(lines[2:], body):
+        done = {gkey(r[j].strip("*_` ")) for j in pure if j < len(r)}
+        cells = [c if j in pure else md_inline(c, ctx, done)
+                 for j, c in enumerate(r)]
+
+        def g(j, c):
+            v = c.strip("*_` ")
+            if v in ("", "–", "-"):
+                return ""
+            return (ctx or {}).get(gkey(v)) or GL.form(v) or ""
+        out.append(row(cells, g) if add or cells != r else line)
+    return out
+
+
+def gk_md(text):
+    """Markdown with English glosses after the Greek, outside YAML front
+    matter and code blocks; tables get a Gloss column (see md_table)."""
+    lines, out, i, ctx = text.split("\n"), [], 0, None
+    if lines and lines[0] == "---":
+        i = lines.index("---", 1) + 1
+        out += lines[:i]
+    fence = False
+    while i < len(lines):
+        line = lines[i]
+        if line.lstrip().startswith("```"):
+            fence = not fence
+        if fence or line.lstrip().startswith("```"):
+            out.append(line)
+            i += 1
+            continue
+        if line.startswith("#") or "Odyssey" in line:
+            ctx = passage_ctx(line) or (ctx if not line.startswith("#")
+                                        else None)
+        if line.lstrip().startswith("|") and i + 1 < len(lines) and \
+                re.fullmatch(r"\s*\|[\s|:-]+\|?\s*", lines[i + 1]):
+            j = i + 2
+            while j < len(lines) and lines[j].lstrip().startswith("|"):
+                j += 1
+            out += md_table(lines[i:j], ctx)
+            i = j
+            continue
+        out.append(md_inline(line, ctx))
+        i += 1
+    return "\n".join(out)
+
+
+def cmd_gloss(paths):
+    """Add glosses to hand-written markdown pages in place."""
+    for p in paths:
+        p = Path(p)
+        old = p.read_text(encoding="utf-8")
+        new = gk_md(old)
+        if new != old:
+            p.write_text(new, encoding="utf-8")
+            print(f"glossed {p}")
+
+
 # ------------------------------------------------------------------ prepare
 
 def cluster_block(exp):
@@ -314,8 +448,8 @@ def cmd_prepare(exp):
         md.append(f"| {r['group']} | {r['translit']} | {r['greek_lemma']} | "
                   f"{r['lsj_glosses']} | https://logeion.uchicago.edu/"
                   f"{r['greek_lemma']} |  |  |  | {notes[r['greek_lemma']]} |")
-    (exp.dir / f"{exp.slug}_terms_table.md").write_text("\n".join(md) + "\n",
-                                                       encoding="utf-8")
+    (exp.dir / f"{exp.slug}_terms_table.md").write_text(
+        gk_md("\n".join(md)) + "\n", encoding="utf-8")
     print(block[0])
     print(f"{len(rows)} lemmas; passages: {sources}")
 
@@ -1073,7 +1207,7 @@ def render_notes(exp, run, dest, with_wn):
                "", "## References",
                f"- [Logeion (LSJ etc.)](https://logeion.uchicago.edu/"
                f"{urllib.parse.quote(lem)})", ""]
-        (dest / "Lemmata" / f"{lem}.md").write_text("\n".join(md),
+        (dest / "Lemmata" / f"{lem}.md").write_text(gk_md("\n".join(md)),
                                                     encoding="utf-8")
 
 
@@ -1352,8 +1486,9 @@ def cmd_compare(exp, original_csv, original_json):
         same_prim += pa == pb
         jac.append(jaccard(fa, fb))
         rows.append({
-            "greek_lemma": lem, "group": l["group"],
-            "A_primary": pa, "B_primary": pb, "same_primary": pa == pb,
+            "greek_lemma": lem, "gloss": GL.lemma(lem) or "",
+            "group": l["group"], "A_primary": pa, "B_primary": pb,
+            "same_primary": pa == pb,
             "A_frames": "; ".join(sorted(fa)), "B_frames": "; ".join(sorted(fb)),
             "only_A": "; ".join(sorted(fa - fb)),
             "only_B": "; ".join(sorted(fb - fa)),
@@ -1389,6 +1524,7 @@ def cmd_compare(exp, original_csv, original_json):
     for slug in sorted(set(pasA) | set(pasB)):
         sa, sb = sets_by_target(pasA[slug]), sets_by_target(pasB[slug])
         text = pasA[slug]["text"]
+        ctx = passage_ctx(pasA[slug]["source"]) or {}
         shared = sa.keys() & sb.keys()
         same_frame = sum(1 for k in shared
                          if sa[k]["frameName"] == sb[k]["frameName"])
@@ -1404,8 +1540,10 @@ def cmd_compare(exp, original_csv, original_json):
             fa = sa[k]["frameName"] if k in sa else "–"
             fb = sb[k]["frameName"] if k in sb else "–"
             md.append(f"| {text[k[0]:k[1] + 1]} | {fa} | {fb} |")
-            prow.append({"passage": pasA[slug]["source"],
-                         "target": text[k[0]:k[1] + 1], "start": k[0],
+            tgt = text[k[0]:k[1] + 1]
+            prow.append({"passage": pasA[slug]["source"], "target": tgt,
+                         "gloss": ctx.get(gkey(tgt)) or GL.form(tgt) or "",
+                         "start": k[0],
                          "end": k[1], "A_frame": fa, "B_frame": fb,
                          "A_FEs": "; ".join(sorted(fe_names(sa[k])))
                          if k in sa else "",
@@ -1440,8 +1578,10 @@ def cmd_compare(exp, original_csv, original_json):
                       f"{sz[k]['frameName'] if k in sz else '–'} | "
                       f"{sa[k]['frameName'] if k in sa else '–'} | "
                       f"{sb[k]['frameName'] if k in sb else '–'} |")
-    (out / "comparison.md").write_text("\n".join(md) + "\n", encoding="utf-8")
-    print("\n".join(md))
+    md = gk_md("\n".join(md))
+    (out / "comparison.md").write_text(md + "\n", encoding="utf-8")
+    print(md)
+    GL.report()
 
 
 # ------------------------------------------------------------------ index page
@@ -1772,6 +1912,9 @@ def main():
     sys.stdout.reconfigure(encoding="utf-8")
     if sys.argv[1] == "index":
         return cmd_index([Exp(p) for p in sys.argv[2:]])
+    if sys.argv[1] == "gloss":
+        cmd_gloss(sys.argv[2:])
+        return GL.report()
     cmd, exp = sys.argv[1], Exp(sys.argv[2])
     args = sys.argv[3:]
     if cmd == "prepare":

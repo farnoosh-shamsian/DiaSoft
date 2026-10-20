@@ -30,13 +30,13 @@ The work ran in five stages. Stages 1, 2 and 5 are scripted (`../pipeline/pipeli
 
 ### Stage 1: Take the word list from the cluster
 
-1. Take cluster 128 (20 entries) from the Ward k=200 gloss-embedding clustering. Merge ξένος / ξένος2 and τάμιας / ταμίας, leaving 18 lemmas in three groups: guest/hospitality (9), escort (4), attendant/service (5).
+1. Take cluster 128 (20 entries) from the Ward k=200 gloss-embedding clustering. Merge ξένος ‘guest, stranger; guest-friend’ / ξένος2 and τάμιας ‘steward’ / ταμίας ‘steward, dispenser’, leaving 18 lemmas in three groups: guest/hospitality (9), escort (4), attendant/service (5).
 2. Take each lemma's LSJ glosses from the cluster file and its part of speech from the AGLDT treebank.
 3. Write the vocabulary list (`cluster128_terms_table.md`).
 
 ### Stage 2: Build the WordNet layer
 
-1. Extract every AGWN synset of each lemma from the AGWN database dump, matching exact lemmas: 2,168 synsets for 15 lemmas. ὑποδεξίη, ὑποδρηστήρ and ταμίας have none.
+1. Extract every AGWN synset of each lemma from the AGWN database dump, matching exact lemmas: 2,168 synsets for 15 lemmas. ὑποδεξίη ‘means of entertaining guests’, ὑποδρηστήρ ‘attendant’ and ταμίας ‘steward, dispenser’ have none.
 2. Resolve each synset to Princeton WordNet 3.0. The candidates are the PWN 3.0 synsets, with the same part of speech, of the synset's English words. Label the match:
    - `exact_gloss`: a candidate has the same gloss (after normalising case and punctuation).
    - `gloss+lemma`: otherwise, the candidate with the most similar gloss, if the similarity is at least 0.6 (Python `difflib` ratio).
@@ -46,14 +46,14 @@ The work ran in five stages. Stages 1, 2 and 5 are scripted (`../pipeline/pipeli
 
 ### Stage 3: Map the lemmas to FrameNet, twice
 
-1. Prepare identical inputs for both runs: the lemma list, the cluster, the two passages with treebank lemmas and character offsets, a format specification, and a FrameNet 1.7 lookup and validation tool (`common/`). The format specification shows example rows from the original experiment, all for lemmas outside the cluster (πρόξενος, φιλία, φίλος, and a proposed frame Proxeny). Run B also gets the WordNet layer (`AGWN_PWN/cluster128_field_wordnet_full.csv`, described in `AGWN_PWN/WORDNET_LAYER.md`), with the instruction to use its core and plausible senses as evidence.
+1. Prepare identical inputs for both runs: the lemma list, the cluster, the two passages with treebank lemmas and character offsets, a format specification, and a FrameNet 1.7 lookup and validation tool (`common/`). The format specification shows example rows from the original experiment, all for lemmas outside the cluster (πρόξενος ‘proxenos: public guest-friend of a foreign state’, φιλία ‘friendship’, φίλος ‘dear; one's own’, and a proposed frame Proxeny). Run B also gets the WordNet layer (`AGWN_PWN/cluster128_field_wordnet_full.csv`, described in `AGWN_PWN/WORDNET_LAYER.md`), with the instruction to use its core and plausible senses as evidence.
 2. Start both runs within one minute of each other, each as a separate Claude Code subagent with no access to the main session's conversation. The prompts are in `common/run_prompts.md`. Each run may read only its inputs and the Homer treebanks (to check usage and citations), must not search the web, and in run A must not use any WordNet. These rules were given as instructions; file access was not technically restricted.
 3. Each run maps every lemma to one primary and any number of alternative FrameNet 1.7 frames, proposes a new frame only where no existing frame captures a concept, and records its senses and decisions (`method_notes.md`). The rule for the primary frame was each run's own; both chose the lemma's dominant Homeric sense.
 4. Check every existing frame and its core frame elements against the FrameNet 1.7 data (`check_frames.py csv`). Both runs: 0 problems.
 
 ### Stage 4: Annotate two Homeric passages
 
-1. Odyssey 1.123–124, the same text as the original experiment, and Odyssey 7.189–196, the treebank sentence with the most cluster words (ξεῖνον, ξεινίσσομεν, πομπῆς, ξεῖνος, πομπῇ), in the AGLDT text.
+1. Odyssey 1.123–124, the same text as the original experiment, and Odyssey 7.189–196, the treebank sentence with the most cluster words (ξεῖνον ‘the stranger, the guest’, ξεινίσσομεν ‘we will entertain (as a guest)’, πομπῆς ‘of the escort, conveyance home’, ξεῖνος ‘guest, stranger; guest-friend’, πομπῇ ‘by escort, by conveyance’), in the AGLDT text.
 2. Annotate with existing FrameNet 1.7 frames only: targets, frame elements with 0-based, end-inclusive character offsets, null instantiations (CNI / DNI / INI), and caveats for words left unannotated.
 3. Check that every span matches its offsets and every frame element exists (`check_frames.py json`). Both runs: 0 problems.
 
@@ -78,14 +78,14 @@ The work ran in five stages. Stages 1, 2 and 5 are scripted (`../pipeline/pipeli
 
 Primary frames on which the runs differ:
 
-| Lemma | Run A | Run B | WordNet data? |
-| --- | --- | --- | --- |
-| ξενίζω | Guest_and_host | Have_visitor_over | yes: "have as a guest", "receive into one's home" |
-| δαιτυμών | Social_event | Guest_and_host | yes: "guest, invitee" |
-| ὑποδεξίη | Have_visitor_over | Hospitality | none |
-| ταμίας | Being_in_control | Supply | none |
+| Lemma | Gloss | Run A | Run B | WordNet data? |
+| --- | --- | --- | --- | --- |
+| ξενίζω | receive as a guest, entertain | Guest_and_host | Have_visitor_over | yes: "have as a guest", "receive into one's home" |
+| δαιτυμών | guest at a feast | Social_event | Guest_and_host | yes: "guest, invitee" |
+| ὑποδεξίη | means of entertaining guests | Have_visitor_over | Hospitality | none |
+| ταμίας | steward, dispenser | Being_in_control | Supply | none |
 
-Run B's extra pairings come mostly from WordNet senses, e.g. ξένος → Foreign_or_domestic_country, Member_of_military (mercenary); ξενία → Temporary_stay; πομπή → Entourage, Being_obligated; θεραπεύω → Cure. Run B names the synsets behind them in its `note` column and in `method_notes.md`. The full lemma-by-lemma comparison is in `comparison/comparison.md`.
+Run B's extra pairings come mostly from WordNet senses, e.g. ξένος ‘guest, stranger; guest-friend’ → Foreign_or_domestic_country, Member_of_military (mercenary); ξενία ‘hospitality, guest-friendship’ → Temporary_stay; πομπή ‘escort, conveyance home’ → Entourage, Being_obligated; θεραπεύω ‘serve, attend; take care of’ → Cure. Run B names the synsets behind them in its `note` column and in `method_notes.md`. The full lemma-by-lemma comparison is in `comparison/comparison.md`.
 
 ### Proposed frames
 
@@ -93,8 +93,8 @@ Both runs proposed two frames under the same names. The definitions describe the
 
 | Frame | Both runs | Run A | Run B |
 | --- | --- | --- | --- |
-| **Guest_friendship** | A lasting, reciprocal, often inherited bond between guest-friends of different communities, sealed by gifts. Inherits Personal_relationship. Core FEs: Partner_1, Partner_2, Partners. | Uses Guest_and_host, Giving. LUs: ξενοσύνη, ξένος, ξενία, ξεινήιον | Uses Guest_and_host, Exchange. LUs: ξένος, ξενοσύνη, ξενία, ξένιος; ξεινήιον fills the Token FE |
-| **Tending** | Ongoing care of a person, animal, plant or property; FrameNet 1.7 has no frame for *tend* or *look after*. Inherits Intentionally_act; uses Assistance. LUs: ἀμφιπολεύω, θεραπεύω | Core FEs: Caretaker, Ward | Core FEs: Caretaker, Charge |
+| **Guest_friendship** | A lasting, reciprocal, often inherited bond between guest-friends of different communities, sealed by gifts. Inherits Personal_relationship. Core FEs: Partner_1, Partner_2, Partners. | Uses Guest_and_host, Giving. LUs: ξενοσύνη ‘guest-friendship’, ξένος ‘guest, stranger; guest-friend’, ξενία ‘hospitality, guest-friendship’, ξεινήιον ‘guest-gift’ | Uses Guest_and_host, Exchange. LUs: ξένος, ξενοσύνη, ξενία, ξένιος ‘of guests, hospitable’; ξεινήιον fills the Token FE |
+| **Tending** | Ongoing care of a person, animal, plant or property; FrameNet 1.7 has no frame for *tend* or *look after*. Inherits Intentionally_act; uses Assistance. LUs: ἀμφιπολεύω ‘tend, take care of’, θεραπεύω ‘serve, attend; take care of’ | Core FEs: Caretaker, Ward | Core FEs: Caretaker, Charge |
 
 Guest_friendship corresponds to Ritualized_guest_friendship, proposed in the original experiment.
 
@@ -107,15 +107,15 @@ Guest_friendship corresponds to Ritualized_guest_friendship, proposed in the ori
 
 ### Comparison with the original experiment
 
-| Lemma | Original primary | Run A | Run B |
-| --- | --- | --- | --- |
-| ξένος | Guest_and_host | Guest_and_host | Guest_and_host |
-| ξενίζω | Provide_lodging | Guest_and_host | Have_visitor_over |
-| ξενία | Ritualized_guest_friendship (proposed) | Hospitality | Hospitality |
-| ξεινήιον | Giving | Giving | Giving |
-| φιλόξενος | Hospitality | Hospitality | Hospitality |
+| Lemma | Gloss | Original primary | Run A | Run B |
+| --- | --- | --- | --- | --- |
+| ξένος | guest, stranger; guest-friend | Guest_and_host | Guest_and_host | Guest_and_host |
+| ξενίζω | receive as a guest, entertain | Provide_lodging | Guest_and_host | Have_visitor_over |
+| ξενία | hospitality, guest-friendship | Ritualized_guest_friendship (proposed) | Hospitality | Hospitality |
+| ξεινήιον | guest-gift | Giving | Giving | Giving |
+| φιλόξενος | hospitable, kind to strangers | Hospitality | Hospitality | Hospitality |
 
-In both runs ξενία has Guest_friendship as an alternative frame. On Odyssey 1.123–124 the three annotations agree on ξεῖνε (Guest_and_host), πασσάμενος (Ingestion) and χρή (Needing). They differ on φιλήσεαι (Provide_lodging / Guest_and_host / Have_visitor_over) and μυθήσεαι (Telling / Statement / Telling), and both runs also annotate ἔπειτα and δείπνου.
+In both runs ξενία ‘hospitality, guest-friendship’ has Guest_friendship as an alternative frame. On Odyssey 1.123–124 the three annotations agree on ξεῖνε ‘stranger’ (Guest_and_host), πασσάμενος ‘having tasted’ (Ingestion) and χρή ‘need’ (Needing). They differ on φιλήσεαι ‘you will be made welcome’ (Provide_lodging / Guest_and_host / Have_visitor_over) and μυθήσεαι ‘you will tell’ (Telling / Statement / Telling), and both runs also annotate ἔπειτα ‘then’ and δείπνου ‘of the meal’.
 
 The WordNet layers differ too: on the 482 AGWN synsets that both contain, this experiment's script picks the same PWN 3.0 synset as the original in 369 cases (77%).
 
@@ -145,7 +145,7 @@ The WordNet layers differ too: on the 482 AGWN synsets that both contain, this e
 
 The frame assignments and annotations are drafts for team review, not validated data.
 
-- **One run per condition.** Two of the four primary-frame differences (ὑποδεξίη, ταμίας) are on lemmas without any WordNet data, so they come from run-to-run variation, not from WordNet. Separating the WordNet effect from this variation needs several runs per condition.
+- **One run per condition.** Two of the four primary-frame differences (ὑποδεξίη ‘means of entertaining guests’, ταμίας ‘steward, dispenser’) are on lemmas without any WordNet data, so they come from run-to-run variation, not from WordNet. Separating the WordNet effect from this variation needs several runs per condition.
 - **Same model, same prior knowledge.** Run A had no WordNet data but still knows Greek: it found senses such as ξενίζω "surprise" without WordNet. The comparison measures what WordNet adds to a model that already knows the language. Shared knowledge, and the shared format specification with its example rows from the original experiment, can also explain why both runs proposed frames under the same names.
 - **Isolation by instruction.** The runs were told to read only their own inputs; this was not technically enforced. Their method notes list only the permitted inputs.
 - **Model judgment.** Senses, frames, proposed frames and annotations are Claude Opus 5.5's proposals; the sense flags behind run B are too (see the WordNet check). The original experiment used Claude Opus 4.8.

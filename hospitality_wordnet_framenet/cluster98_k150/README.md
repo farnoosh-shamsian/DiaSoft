@@ -6,17 +6,17 @@ Done on October 16, 2026, with Claude Opus 5.5.
 
 The experiment was run twice, once **without** and once **with** WordNet, to see what the WordNet layer contributes to the frame assignments. Each run was done by a separate, fresh Claude Opus 5.5 agent that saw only its own inputs.
 
-Fifty lemmata (52 cluster entries; ξένος / ξένος2 and τάμιας / ταμίας merged) in nine groups:
+Fifty lemmata (52 cluster entries; ξένος ‘guest, stranger; guest-friend’ / ξένος2 and τάμιας ‘steward’ / ταμίας ‘steward, dispenser’ merged) in nine groups:
 
-- **guest/hospitality:** ξενίζω, ξεινήιον, ξένιος, δαιτυμών, ξενοσύνη, φιλόξενος, ξένος, ξενία, ὑποδεξίη
-- **receiving:** προσδέχομαι, ὑποδέχομαι, ἀναδέχομαι, δέχομαι, ἀποδέχομαι
-- **gift/giving:** δῶρον, ἐπίηρα, δωρητός, δίδωμι, ἐπιδίδωμι, προσάγω, δωτίνη, προίξ, δωρέω, παρέχω, δόσις, νέμω, δοτήρ, εἰσφέρω
-- **honour/privilege:** γεραίρω, πρεσβεῖον, γέρας, ἀγέραστος
-- **possessions/treasure:** κτέρας, κτῆμα, ἄθυρμα, γλῆνος, κειμήλιον
-- **exchange:** ἐπαμείβω, ἀμοιβός
-- **escort:** πομπή, πομπεύω, πομπός, πομπεύς
-- **attendant/service:** θεραπεύω, ἀμφιπολεύω, ταμίας, οἰνοχόος, ὑποδρηστήρ
-- **other:** ἐπίμαστος, ἀφήκω
+- **guest/hospitality:** ξενίζω ‘receive as a guest, entertain’, ξεινήιον ‘guest-gift’, ξένιος ‘of guests, hospitable’, δαιτυμών ‘guest at a feast’, ξενοσύνη ‘guest-friendship’, φιλόξενος ‘hospitable, kind to strangers’, ξένος ‘guest, stranger; guest-friend’, ξενία ‘hospitality, guest-friendship’, ὑποδεξίη ‘means of entertaining guests’
+- **receiving:** προσδέχομαι ‘wait for; receive, accept’, ὑποδέχομαι ‘receive (as a guest)’, ἀναδέχομαι ‘take up; endure’, δέχομαι ‘receive, accept’, ἀποδέχομαι ‘accept, receive’
+- **gift/giving:** δῶρον ‘gift’, ἐπίηρα ‘acceptable gifts, favours’, δωρητός ‘open to gifts’, δίδωμι ‘give’, ἐπιδίδωμι ‘give besides; (mid.) take as witnesses’, προσάγω ‘bring to, bring upon’, δωτίνη ‘gift’, προίξ ‘gift’, δωρέω ‘give, present’, παρέχω ‘provide, furnish’, δόσις ‘gift, giving’, νέμω ‘deal out, distribute’, δοτήρ ‘giver, dispenser’, εἰσφέρω ‘carry in, bring in’
+- **honour/privilege:** γεραίρω ‘honour (with a gift of honour)’, πρεσβεῖον ‘gift of honour; privilege of age’, γέρας ‘gift of honour, prize’, ἀγέραστος ‘without a gift of honour’
+- **possessions/treasure:** κτέρας ‘possession; gift’, κτῆμα ‘possession’, ἄθυρμα ‘plaything, toy’, γλῆνος ‘trinkets, pretty things’, κειμήλιον ‘treasure, heirloom’
+- **exchange:** ἐπαμείβω ‘exchange; (mid.) pass in turn to’, ἀμοιβός ‘relief; one who exchanges’
+- **escort:** πομπή ‘escort, conveyance home’, πομπεύω ‘escort, conduct’, πομπός ‘escort, guide’, πομπεύς ‘escort, conductor’
+- **attendant/service:** θεραπεύω ‘serve, attend; take care of’, ἀμφιπολεύω ‘tend, take care of’, ταμίας ‘steward, dispenser’, οἰνοχόος ‘wine-pourer’, ὑποδρηστήρ ‘attendant’
+- **other:** ἐπίμαστος ‘sought out, brought in’, ἀφήκω ‘arrive; depart’
 
 ## Folder contents
 
@@ -61,7 +61,7 @@ Each AGWN synset of a lemma is listed and resolved to a Princeton WordNet 3.0 sy
 - `sense_flag`, `flag_reason` — core / plausible / noise, with a reason for each kept sense
 - `agwn_synset_url`, `pwn_url` — live AGWN entry and the concept on Open English WordNet
 
-Of 14,466 synsets, 626 are kept as real senses (144 core, 482 plausible). The 15 lemmas shared with cluster 128 keep their cluster-128 flags; the other synsets were flagged by four parallel agents with the same criteria (`FLAGGING_CRITERIA.md`), calibrated on the cluster-128 flags. ὑποδεξίη, ὑποδέχομαι, ἀγέραστος, ταμίας and ὑποδρηστήρ are in AGWN but have no synsets linked.
+Of 14,466 synsets, 626 are kept as real senses (144 core, 482 plausible). The 15 lemmas shared with cluster 128 keep their cluster-128 flags; the other synsets were flagged by four parallel agents with the same criteria (`FLAGGING_CRITERIA.md`), calibrated on the cluster-128 flags. ὑποδεξίη ‘means of entertaining guests’, ὑποδέχομαι ‘receive (as a guest)’, ἀγέραστος ‘without a gift of honour’, ταμίας ‘steward, dispenser’ and ὑποδρηστήρ ‘attendant’ are in AGWN but have no synsets linked.
 
 ## The FrameNet layer (`A_…/FrameNet/`, `B_…/FrameNet/`)
 
@@ -69,10 +69,10 @@ Each lemma is mapped to the FrameNet frame(s) it evokes: one primary frame and a
 
 | Proposed frame | Run A | Run B | Lexical units |
 | --- | --- | --- | --- |
-| **Guest_friendship** — the lasting, reciprocal bond between guest-friends | ✓ | ✓ | ξενοσύνη, ξένος, ξενία, ξεινήιον (B also ξένιος, δωτίνη) |
-| **Honorific_prerogative** (A) / **Honorific_privilege** (B) — a share or privilege allotted in recognition of status | ✓ | ✓ | γέρας, γεραίρω, πρεσβεῖον, ἀγέραστος (B also δῶρον) |
-| **Plaything** — an object kept for amusement rather than use | ✓ | | ἄθυρμα, γλῆνος |
-| **Apportioning** — dividing a stock into shares for many recipients | | ✓ | νέμω, δοτήρ, ταμίας |
+| **Guest_friendship** — the lasting, reciprocal bond between guest-friends | ✓ | ✓ | ξενοσύνη ‘guest-friendship’, ξένος ‘guest, stranger; guest-friend’, ξενία ‘hospitality, guest-friendship’, ξεινήιον ‘guest-gift’ (B also ξένιος ‘of guests, hospitable’, δωτίνη ‘gift’) |
+| **Honorific_prerogative** (A) / **Honorific_privilege** (B) — a share or privilege allotted in recognition of status | ✓ | ✓ | γέρας ‘gift of honour, prize’, γεραίρω ‘honour (with a gift of honour)’, πρεσβεῖον ‘gift of honour; privilege of age’, ἀγέραστος ‘without a gift of honour’ (B also δῶρον ‘gift’) |
+| **Plaything** — an object kept for amusement rather than use | ✓ |  | ἄθυρμα ‘plaything, toy’, γλῆνος ‘trinkets, pretty things’ |
+| **Apportioning** — dividing a stock into shares for many recipients |  | ✓ | νέμω ‘deal out, distribute’, δοτήρ ‘giver, dispenser’, ταμίας ‘steward, dispenser’ |
 
 The two honour frames are the same frame under two names; `experiment.json` records the equivalence, and the comparison counts both ways.
 

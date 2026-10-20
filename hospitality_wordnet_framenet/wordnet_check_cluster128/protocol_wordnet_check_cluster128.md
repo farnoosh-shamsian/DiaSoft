@@ -6,9 +6,9 @@ Model: Claude Opus 5.5 (`claude-opus-5-5`), run in Claude Code.
 
 ## Summary
 
-**Aim.** Find out how well Ancient Greek WordNet (AGWN) covers the lemmas of a semantic cluster, and which of its synset links are real senses. This is the first step towards the FrameNet layer (`../cluster128_k200/`), and a redo of the WordNet stage of the ξενία / προξενία protocol with the lemmas of a cluster: cluster 128 ("guest, hospitality, escort, attendant") of the Ward k=200 gloss-embedding clustering of Homeric lemmas.
+**Aim.** Find out how well Ancient Greek WordNet (AGWN) covers the lemmas of a semantic cluster, and which of its synset links are real senses. This is the first step towards the FrameNet layer (`../cluster128_k200/`), and a redo of the WordNet stage of the ξενία ‘hospitality, guest-friendship’ / προξενία ‘proxeny: public guest-friendship between a state and a foreigner’ protocol with the lemmas of a cluster: cluster 128 ("guest, hospitality, escort, attendant") of the Ward k=200 gloss-embedding clustering of Homeric lemmas.
 
-**Result.** Of the cluster's 18 lemmas, 15 are linked to 2,168 synsets in AGWN. Most links are noise: 42 senses were judged core and 126 plausible. On ξενία the flags agree with the original protocol's manual flags on 73 of 78 synsets (Cohen's κ = 0.82). This check was not blind (see Caveats). No FrameNet annotation was done in this round.
+**Result.** Of the cluster's 18 lemmas, 15 are linked to 2,168 synsets in AGWN. Most links are noise: 42 senses were judged core and 126 plausible. On ξενία ‘hospitality, guest-friendship’ the flags agree with the original protocol's manual flags on 73 of 78 synsets (Cohen's κ = 0.82). This check was not blind (see Caveats). No FrameNet annotation was done in this round.
 
 ## Materials
 
@@ -27,16 +27,16 @@ The work ran in five stages.
 ### Stage 1: Take the word list from the cluster
 
 1. Take cluster 128 (20 entries) from `input/clusters_ward_k200_no-freq-limit.txt`.
-2. Merge duplicates: ξένος / ξένος2 (homograph entries) and τάμιας / ταμίας (accent variants), leaving 18 lemmas.
+2. Merge duplicates: ξένος ‘guest, stranger; guest-friend’ / ξένος2 (homograph entries) and τάμιας ‘steward’ / ταμίας ‘steward, dispenser’ (accent variants), leaving 18 lemmas.
 3. Group the lemmas by meaning: guest/hospitality (9), escort (4), attendant/service (5).
 
 ### Stage 2: Extract the AGWN synsets
 
 1. Query the live AGWN API (`greekwordnet.chs.harvard.edu`). On Oct 13, 2026 the host did not answer (connection timed out), so use the AGWN database dump instead.
-2. Match exact lemma fields (Unicode NFC), not substrings, because ξενία is contained in προξενία.
-3. Where the Homeric spelling is missing, try the AGWN spelling (ξεινήιον → ξεινήϊον, οἰνοχόος → οἰνόχοος).
+2. Match exact lemma fields (Unicode NFC), not substrings, because ξενία ‘hospitality, guest-friendship’ is contained in προξενία ‘proxeny: public guest-friendship between a state and a foreigner’.
+3. Where the Homeric spelling is missing, try the AGWN spelling (ξεινήιον ‘guest-gift’ → ξεινήϊον ‘guest-gift’, οἰνοχόος ‘wine-pourer’ → οἰνόχοος ‘wine-pourer’).
 4. Export every synset linked to each lemma with its English words, gloss and hypernym (`extract_synsets.py`).
-5. Confirm that the dump holds the same data as the original protocol: ξενία and ξένος return the same 78 and 150 synsets.
+5. Confirm that the dump holds the same data as the original protocol: ξενία ‘hospitality, guest-friendship’ and ξένος ‘guest, stranger; guest-friend’ return the same 78 and 150 synsets.
 
 ### Stage 3: Separate real senses from noise
 
@@ -54,7 +54,7 @@ The work ran in five stages.
 
 ### Stage 5: Compare with the original protocol
 
-1. Compare the flags on the two lemmas that both share: ξενία (manual flags in the original) and ξένος (heuristic, unreviewed flags in the original).
+1. Compare the flags on the two lemmas that both share: ξενία ‘hospitality, guest-friendship’ (manual flags in the original) and ξένος ‘guest, stranger; guest-friend’ (heuristic, unreviewed flags in the original).
 2. Report percent agreement, Cohen's κ, and every disagreement by category.
 
 ## Deviations from the planned procedure
@@ -73,46 +73,46 @@ The plan written on Oct 13, 2026 (`PROMPT.md`) differs from what was done on Oct
 
 | Group | Lemmas | Synsets linked | Core | Plausible | Noise |
 | --- | --- | --- | --- | --- | --- |
-| Guest / hospitality | ξένος, ξένιος, ξενίζω, ξενία, ξενοσύνη, ξεινήιον, φιλόξενος, δαιτυμών | 568 | 18 | 50 | 500 |
-| Escort | πομπή, πομπός, πομπεύς, πομπεύω | 562 | 12 | 28 | 522 |
-| Attendant / service | θεραπεύω, ἀμφιπολεύω, οἰνοχόος | 1,038 | 12 | 48 | 978 |
+| Guest / hospitality | ξένος ‘guest, stranger; guest-friend’, ξένιος ‘of guests, hospitable’, ξενίζω ‘receive as a guest, entertain’, ξενία ‘hospitality, guest-friendship’, ξενοσύνη ‘guest-friendship’, ξεινήιον ‘guest-gift’, φιλόξενος ‘hospitable, kind to strangers’, δαιτυμών ‘guest at a feast’ | 568 | 18 | 50 | 500 |
+| Escort | πομπή ‘escort, conveyance home’, πομπός ‘escort, guide’, πομπεύς ‘escort, conductor’, πομπεύω ‘escort, conduct’ | 562 | 12 | 28 | 522 |
+| Attendant / service | θεραπεύω ‘serve, attend; take care of’, ἀμφιπολεύω ‘tend, take care of’, οἰνοχόος ‘wine-pourer’ | 1,038 | 12 | 48 | 978 |
 | **Total** | 15 | **2,168** | **42** | **126** | **2,000** |
 
-The table lists the 15 lemmas with synsets. ὑποδεξίη (guest / hospitality), ὑποδρηστήρ and ταμίας (attendant / service) are in AGWN but have no synsets linked. Counts per lemma are in `output/summary.txt`.
+The table lists the 15 lemmas with synsets. ὑποδεξίη ‘means of entertaining guests’ (guest / hospitality), ὑποδρηστήρ ‘attendant’ and ταμίας ‘steward, dispenser’ (attendant / service) are in AGWN but have no synsets linked. Counts per lemma are in `output/summary.txt`.
 
 ### Core senses kept
 
-| Lemma | Senses |
-| --- | --- |
-| ξένος | foreign; alien, strange; foreign-born; visiting, guest |
-| ξένιος | hospitable |
-| ξενίζω | welcome; entertain; have as a guest; receive into one's home; take in |
-| ξενία | hospitality; guest, invitee; guest, visitor; friendship |
-| ξενοσύνη | hospitality |
-| ξεινήιον | gift |
-| δαιτυμών | guest, invitee; guest, visitor |
-| πομπή | escort; ceremonial procession; sending |
-| πομπός | guide; escort; bodyguard |
-| πομπεύς | guide; usher |
-| πομπεύω | escort (2); lead, conduct; march in procession |
-| θεραπεύω | attend, wait on; serve; worship; treat medically; cure; care for |
-| ἀμφιπολεύω | attend, wait on; minister; care for; tend (2) |
-| οἰνοχόος | cupbearer |
+| Lemma | Gloss | Senses |
+| --- | --- | --- |
+| ξένος | guest, stranger; guest-friend | foreign; alien, strange; foreign-born; visiting, guest |
+| ξένιος | of guests, hospitable | hospitable |
+| ξενίζω | receive as a guest, entertain | welcome; entertain; have as a guest; receive into one's home; take in |
+| ξενία | hospitality, guest-friendship | hospitality; guest, invitee; guest, visitor; friendship |
+| ξενοσύνη | guest-friendship | hospitality |
+| ξεινήιον | guest-gift | gift |
+| δαιτυμών | guest at a feast | guest, invitee; guest, visitor |
+| πομπή | escort, conveyance home | escort; ceremonial procession; sending |
+| πομπός | escort, guide | guide; escort; bodyguard |
+| πομπεύς | escort, conductor | guide; usher |
+| πομπεύω | escort, conduct | escort (2); lead, conduct; march in procession |
+| θεραπεύω | serve, attend; take care of | attend, wait on; serve; worship; treat medically; cure; care for |
+| ἀμφιπολεύω | tend, take care of | attend, wait on; minister; care for; tend (2) |
+| οἰνοχόος | wine-pourer | cupbearer |
 
-Notable plausible senses: for ξένος, mercenary, unacquainted with, non-citizen; for ξενίζω, astonish, give as a present; for ξενία, lawsuit (γραφὴ ξενίας), lodging, guest-gifts; for πομπεύω, revile (from the jests of processions); for θεραπεύω, honour, court, cultivate, heal.
+Notable plausible senses: for ξένος ‘guest, stranger; guest-friend’, mercenary, unacquainted with, non-citizen; for ξενίζω ‘receive as a guest, entertain’, astonish, give as a present; for ξενία ‘hospitality, guest-friendship’, lawsuit (γραφὴ ξενίας ‘indictment for usurping citizenship’), lodging, guest-gifts; for πομπεύω ‘escort, conduct’, revile (from the jests of processions); for θεραπεύω ‘serve, attend; take care of’, honour, court, cultivate, heal.
 
 ### Comparison with the original protocol
 
-| Lemma | Original flags | Same flag | Cohen's κ | Disagreements (original → this check) |
-| --- | --- | --- | --- | --- |
-| ξενία | manual | 73 of 78 (94%) | 0.82 | noise → plausible 2; plausible → noise 3 |
-| ξένος | heuristic | 116 of 150 (77%) | 0.22 | core → plausible 6; core → noise 2; noise → plausible 10; plausible → noise 16 |
+| Lemma | Gloss | Original flags | Same flag | Cohen's κ | Disagreements (original → this check) |
+| --- | --- | --- | --- | --- | --- |
+| ξενία | hospitality, guest-friendship | manual | 73 of 78 (94%) | 0.82 | noise → plausible 2; plausible → noise 3 |
+| ξένος | guest, stranger; guest-friend | heuristic | 116 of 150 (77%) | 0.22 | core → plausible 6; core → noise 2; noise → plausible 10; plausible → noise 16 |
 
-Because most synsets are noise in both flag sets, percent agreement is high by chance alone; κ corrects for this. On ξενία the four core senses are the same and agreement is high. On ξένος agreement is low: the two flag sets share only 1 of their 17 plausible senses each, and the original's 12 core senses include 8 that this check did not keep as core. The original's ξένος flags were made heuristically and never reviewed, so this comparison shows that the two methods differ, not which one is right.
+Because most synsets are noise in both flag sets, percent agreement is high by chance alone; κ corrects for this. On ξενία ‘hospitality, guest-friendship’ the four core senses are the same and agreement is high. On ξένος ‘guest, stranger; guest-friend’ agreement is low: the two flag sets share only 1 of their 17 plausible senses each, and the original's 12 core senses include 8 that this check did not keep as core. The original's ξένος flags were made heuristically and never reviewed, so this comparison shows that the two methods differ, not which one is right.
 
 ### Why the noise appears
 
-As in the original protocol, AGWN attached every sense of a polysemous English gloss word. Here the verbs carry most of the noise: θεραπεύω, πομπεύω, ἀμφιπολεύω and ξενίζω have 1,653 of the 2,168 synsets, pulled in by "make", "take", "hold", "carry" and "run". Examples: "make" brought defecate; "dress" brought dress a salad; "sweet" brought sweet wine (ξένος); "date" brought the date palm (πομπή).
+As in the original protocol, AGWN attached every sense of a polysemous English gloss word. Here the verbs carry most of the noise: θεραπεύω ‘serve, attend; take care of’, πομπεύω ‘escort, conduct’, ἀμφιπολεύω ‘tend, take care of’ and ξενίζω ‘receive as a guest, entertain’ have 1,653 of the 2,168 synsets, pulled in by "make", "take", "hold", "carry" and "run". Examples: "make" brought defecate; "dress" brought dress a salad; "sweet" brought sweet wine (ξένος ‘guest, stranger; guest-friend’); "date" brought the date palm (πομπή ‘escort, conveyance home’).
 
 ## Outputs
 
@@ -138,7 +138,7 @@ Stages 2, 4 and 5 are deterministic. Stage 3 is not: a new flagging by the same 
 The flags are drafts for team review, not validated data.
 
 - **Flags are model judgment.** Core / plausible / noise was decided by Claude Opus 5.5 reading each gloss. A team member should confirm at least the core and plausible rows.
-- **The ξενία check is not blind.** The flags were made in the same session in which the original protocol's CSV, including its ξενία flags, had already been read. The agreement of 94% (κ = 0.82) is therefore an upper bound, not an independent validation.
+- **The ξενία ‘hospitality, guest-friendship’ check is not blind.** The flags were made in the same session in which the original protocol's CSV, including its ξενία flags, had already been read. The agreement of 94% (κ = 0.82) is therefore an upper bound, not an independent validation.
 - **Categories inferred.** The original protocol gives examples of core and plausible but no definitions. The definitions in stage 3 were written to fit those examples.
 - **Dump, not live API.** The dump may predate manual corrections in the live AGWN, and the commit it came from was not recorded.
-- **Gaps in AGWN.** ξένος is linked only as an adjective, so "guest-friend" is missing; φιλόξενος has no "hospitable" synset.
+- **Gaps in AGWN.** ξένος ‘guest, stranger; guest-friend’ is linked only as an adjective, so "guest-friend" is missing; φιλόξενος ‘hospitable, kind to strangers’ has no "hospitable" synset.

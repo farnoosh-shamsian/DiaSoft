@@ -8,9 +8,9 @@ The experiment was run twice, once **without** and once **with** WordNet, to see
 
 Eighteen lemmata in three groups:
 
-- **guest/hospitality:** ξένος, ξένιος, ξενίζω, ξενία, ξενοσύνη, ξεινήιον, ὑποδεξίη, φιλόξενος, δαιτυμών
-- **escort:** πομπή, πομπός, πομπεύς, πομπεύω
-- **attendant/service:** θεραπεύω, ἀμφιπολεύω, οἰνοχόος, ὑποδρηστήρ, ταμίας
+- **guest/hospitality:** ξένος ‘guest, stranger; guest-friend’, ξένιος ‘of guests, hospitable’, ξενίζω ‘receive as a guest, entertain’, ξενία ‘hospitality, guest-friendship’, ξενοσύνη ‘guest-friendship’, ξεινήιον ‘guest-gift’, ὑποδεξίη ‘means of entertaining guests’, φιλόξενος ‘hospitable, kind to strangers’, δαιτυμών ‘guest at a feast’
+- **escort:** πομπή ‘escort, conveyance home’, πομπός ‘escort, guide’, πομπεύς ‘escort, conductor’, πομπεύω ‘escort, conduct’
+- **attendant/service:** θεραπεύω ‘serve, attend; take care of’, ἀμφιπολεύω ‘tend, take care of’, οἰνοχόος ‘wine-pourer’, ὑποδρηστήρ ‘attendant’, ταμίας ‘steward, dispenser’
 
 ## Folder contents
 
@@ -60,8 +60,8 @@ Each AGWN synset of a lemma is listed and resolved to a Princeton WordNet 3.0 sy
 
 Each lemma is mapped to the FrameNet frame(s) it evokes: one primary frame and alternatives, with the frame's core frame elements and how the Greek participant fills a role. Both runs proposed the same two new frames where FrameNet 1.7 has none:
 
-- **Guest_friendship** — the lasting, reciprocal bond between guest-friends (ξενοσύνη, ξένος, ξενία)
-- **Tending** — ongoing care of a person, animal, plant or property (ἀμφιπολεύω, θεραπεύω)
+- **Guest_friendship** — the lasting, reciprocal bond between guest-friends (ξενοσύνη ‘guest-friendship’, ξένος ‘guest, stranger; guest-friend’, ξενία ‘hospitality, guest-friendship’)
+- **Tending** — ongoing care of a person, animal, plant or property (ἀμφιπολεύω ‘tend, take care of’, θεραπεύω ‘serve, attend; take care of’)
 
 The `Lemmata/` notes are for **Obsidian** (YAML frontmatter, tags, `[[wikilinks]]`). In run B they also list each lemma's WordNet senses.
 

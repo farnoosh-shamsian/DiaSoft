@@ -3,14 +3,14 @@
 | Category | Term | Ancient Greek | Description | LSJ | Wikipedia | Wikidata | Wiktionary | Notes |
 |---|---|---|---|---|---|---|---|---|
 | guest/hospitality | xenizo | ξενίζω | receive; entertain as a guest; to present with; with | https://logeion.uchicago.edu/ξενίζω |  |  |  |  |
-| guest/hospitality | xeineion | ξεινήιον | hostʼs gift; provision made for a guest; gifts of (guest-) friendship | https://logeion.uchicago.edu/ξεινήιον |  |  |  | Homeric (Ionic) spelling; AGWN spells it ξεινήϊον (diaeresis) |
+| guest/hospitality | xeineion | ξεινήιον | hostʼs gift; provision made for a guest; gifts of (guest-) friendship | https://logeion.uchicago.edu/ξεινήιον |  |  |  | Homeric (Ionic) spelling; AGWN spells it ξεινήϊον (diaeresis) ‘guest-gift’ |
 | guest/hospitality | xenios | ξένιος | belonging to friendship and hospitality, hospitable; protector of the rights of hospitalit | https://logeion.uchicago.edu/ξένιος |  |  |  |  |
 | guest/hospitality | daitymon | δαιτυμών | one that is entertained, guest; those who bring each his portion | https://logeion.uchicago.edu/δαιτυμών |  |  |  |  |
 | guest/hospitality | xenosyne | ξενοσύνη | hospitality | https://logeion.uchicago.edu/ξενοσύνη |  |  |  |  |
 | guest/hospitality | philoxenos | φιλόξενος | loving strangers, hospitable; of hospitality | https://logeion.uchicago.edu/φιλόξενος |  |  |  |  |
 | guest/hospitality | xenos | ξένος | guest-friend; guest; visitor; guests | https://logeion.uchicago.edu/ξένος |  |  |  | homograph entries ξένος and ξένος2 merged (207 + 6) |
 | guest/hospitality | xenia | ξενία | hospitality shown to a guest, entertainment; hospitii causa; as a guest; friendly relation | https://logeion.uchicago.edu/ξενία |  |  |  |  |
-| guest/hospitality | hypodexie | ὑποδεξίη | reception of a guest, means of entertainment | https://logeion.uchicago.edu/ὑποδεξίη |  |  |  | Ionic spelling; ὑποδεξία tried as fallback |
+| guest/hospitality | hypodexie | ὑποδεξίη | reception of a guest, means of entertainment | https://logeion.uchicago.edu/ὑποδεξίη |  |  |  | Ionic spelling; ὑποδεξία ‘reception of a guest, entertainment’ tried as fallback |
 | receiving | prosdechomai | προσδέχομαι | receive favourably, accept; receive hospitably; admit; admit into oneʼs presence | https://logeion.uchicago.edu/προσδέχομαι |  |  |  |  |
 | receiving | hypodechomai | ὑποδέχομαι | receive into oneʼs house, welcome; received; who had received him; harbour | https://logeion.uchicago.edu/ὑποδέχομαι |  |  |  |  |
 | receiving | anadechomai | ἀναδέχομαι | take up, catch, receive; receive, entertain; take upon oneself, submit to; acknowledge | https://logeion.uchicago.edu/ἀναδέχομαι |  |  |  |  |
@@ -47,8 +47,8 @@
 | escort | pompeus | πομπεύς | one who attends; escorts, conductor, guide; one who takes part in a procession | https://logeion.uchicago.edu/πομπεύς |  |  |  |  |
 | attendant/service | therapeuo | θεραπεύω | to be an attendant, do service; do service to; serve; worship | https://logeion.uchicago.edu/θεραπεύω |  |  |  |  |
 | attendant/service | amphipoleuo | ἀμφιπολεύω | serve as an attendant, tend, care for; serve, have the care of; hold the; office of | https://logeion.uchicago.edu/ἀμφιπολεύω |  |  |  |  |
-| attendant/service | tamias | ταμίας | the ship's officer who is in charge of provisions and dining arrangements | https://logeion.uchicago.edu/ταμίας |  |  |  | accent variants τάμιας (2) and ταμίας (1) merged; Homeric ταμίης tried as fallback |
-| attendant/service | oinochoos | οἰνοχόος | the attendant (usually an officer of a nobleman's household) whose duty is to fill and ser | https://logeion.uchicago.edu/οἰνοχόος |  |  |  | AGWN accents it οἰνόχοος |
+| attendant/service | tamias | ταμίας | the ship's officer who is in charge of provisions and dining arrangements | https://logeion.uchicago.edu/ταμίας |  |  |  | accent variants τάμιας ‘steward’ (2) and ταμίας (1) merged; Homeric ταμίης ‘steward, dispenser’ tried as fallback |
+| attendant/service | oinochoos | οἰνοχόος | the attendant (usually an officer of a nobleman's household) whose duty is to fill and ser | https://logeion.uchicago.edu/οἰνοχόος |  |  |  | AGWN accents it οἰνόχοος ‘wine-pourer’ |
 | attendant/service | hypodrester | ὑποδρηστήρ | attendant, assistant | https://logeion.uchicago.edu/ὑποδρηστήρ |  |  |  |  |
 | other | epimastos | ἐπίμαστος | sought out, brought in | https://logeion.uchicago.edu/ἐπίμαστος |  |  |  |  |
 | other | apheko | ἀφήκω | arrive at or have arrived; is a case; depart | https://logeion.uchicago.edu/ἀφήκω |  |  |  |  |

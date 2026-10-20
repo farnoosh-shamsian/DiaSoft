@@ -14,13 +14,13 @@ The work ran in five stages, as for cluster 128, with the shared pipeline (`../p
 
 ### Stage 1: Take the word list from the cluster
 
-1. Take cluster 98 (52 entries) from the Ward k=150 clustering; merge ξένος / ξένος2 and τάμιας / ταμίας, leaving 50 lemmas in nine groups.
+1. Take cluster 98 (52 entries) from the Ward k=150 clustering; merge ξένος ‘guest, stranger; guest-friend’ / ξένος2 and τάμιας ‘steward’ / ταμίας ‘steward, dispenser’, leaving 50 lemmas in nine groups.
 2. Take each lemma's LSJ glosses from the cluster file and its part of speech from the AGLDT treebank.
 3. Write the vocabulary list (`cluster98_k150_terms_table.md`).
 
 ### Stage 2: Build the WordNet layer
 
-1. Extract every AGWN synset of each lemma from the AGWN database dump, matching exact lemmas: 14,466 synsets for 45 lemmas; ὑποδεξίη, ὑποδέχομαι, ἀγέραστος, ταμίας and ὑποδρηστήρ have none.
+1. Extract every AGWN synset of each lemma from the AGWN database dump, matching exact lemmas: 14,466 synsets for 45 lemmas; ὑποδεξίη ‘means of entertaining guests’, ὑποδέχομαι ‘receive (as a guest)’, ἀγέραστος ‘without a gift of honour’, ταμίας ‘steward, dispenser’ and ὑποδρηστήρ ‘attendant’ have none.
 2. Flag each synset core, plausible or noise. The 15 lemmas shared with cluster 128 keep their cluster-128 flags (2,168 synsets). The other 12,298 synsets were split into four batches and flagged by four parallel agents, each reading every synset, with the written criteria (`AGWN_PWN/FLAGGING_CRITERIA.md`) and the cluster-128 flags as calibration. Result: 144 core, 482 plausible, 13,840 noise.
 3. Resolve each synset to Princeton WordNet 3.0 and label the match `exact_gloss`, `gloss+lemma`, `lemma_set` or `unresolved`.
 
@@ -33,7 +33,7 @@ The work ran in five stages, as for cluster 128, with the shared pipeline (`../p
 
 ### Stage 4: Annotate two Homeric passages
 
-1. Odyssey 1.123–124 (same text as the original experiment) and Odyssey 8.544–545, the treebank sentence with the most distinct cluster lemmas, shortest first: ξείνοιο, πομπή, δῶρα, δίδομεν ("for the honoured stranger's sake all this is made ready: his escort home and the dear gifts that we give him in friendship").
+1. Odyssey 1.123–124 (same text as the original experiment) and Odyssey 8.544–545, the treebank sentence with the most distinct cluster lemmas, shortest first: ξείνοιο ‘of the guest’, πομπή ‘escort, conveyance home’, δῶρα ‘gifts’, δίδομεν ("for the honoured stranger's sake all this is made ready: his escort home and the dear gifts that we give him in friendship").
 2. Annotate with existing FrameNet 1.7 frames only: targets, frame elements with 0-based, end-inclusive offsets, null instantiations, and caveats for words left unannotated.
 3. Check that every span matches its offsets and every frame element exists. Both runs: 0 problems.
 
@@ -55,19 +55,19 @@ The work ran in five stages, as for cluster 128, with the shared pipeline (`../p
 
 Primary frames on which the runs differ (besides the honour-frame name):
 
-| Lemma | Run A | Run B | WordNet data? |
-| --- | --- | --- | --- |
-| ξενίζω | Provide_lodging | Have_visitor_over | yes |
-| δαιτυμών | Social_event | Guest_and_host | yes: "guest, invitee" |
-| ὑποδέχομαι | Have_visitor_over | Receive_visitor_scenario | none |
-| ἀναδέχομαι | Receiving | Tolerating | yes: "digest, endure" |
-| νέμω | Giving | Apportioning (proposed) | yes: "distribute", "share", "assign" |
-| δοτήρ | Supply | Giving | yes |
-| ἄθυρμα | Plaything (proposed) | Artifact | yes |
-| γλῆνος | Accoutrements | Possession | yes |
-| ἀμφιπολεύω | Subordinates_and_superiors | Assistance | yes |
+| Lemma | Gloss | Run A | Run B | WordNet data? |
+| --- | --- | --- | --- | --- |
+| ξενίζω | receive as a guest, entertain | Provide_lodging | Have_visitor_over | yes |
+| δαιτυμών | guest at a feast | Social_event | Guest_and_host | yes: "guest, invitee" |
+| ὑποδέχομαι | receive (as a guest) | Have_visitor_over | Receive_visitor_scenario | none |
+| ἀναδέχομαι | take up; endure | Receiving | Tolerating | yes: "digest, endure" |
+| νέμω | deal out, distribute | Giving | Apportioning (proposed) | yes: "distribute", "share", "assign" |
+| δοτήρ | giver, dispenser | Supply | Giving | yes |
+| ἄθυρμα | plaything, toy | Plaything (proposed) | Artifact | yes |
+| γλῆνος | trinkets, pretty things | Accoutrements | Possession | yes |
+| ἀμφιπολεύω | tend, take care of | Subordinates_and_superiors | Assistance | yes |
 
-Run B's extra pairings come mostly from WordNet senses, e.g. δέχομαι → Relative_time ("follow, come next"), δίδωμι → Exchange, Forming_relationships, παρέχω → Preventing_or_letting, ἐπιδίδωμι → Change_position_on_a_scale ("increase"), νέμω → Fire_burning.
+Run B's extra pairings come mostly from WordNet senses, e.g. δέχομαι ‘receive, accept’ → Relative_time ("follow, come next"), δίδωμι ‘give’ → Exchange, Forming_relationships, παρέχω ‘provide, furnish’ → Preventing_or_letting, ἐπιδίδωμι ‘give besides; (mid.) take as witnesses’ → Change_position_on_a_scale ("increase"), νέμω ‘deal out, distribute’ → Fire_burning.
 
 ### Proposed frames
 
@@ -76,7 +76,7 @@ Run B's extra pairings come mostly from WordNet senses, e.g. δέχομαι → 
 - **Plaything** (run A): an object kept for amusement rather than use.
 - **Apportioning** (run B): a Distributor divides a stock into shares for many Recipients; FrameNet's Giving covers a single transfer, Dispersal is spatial.
 
-Tending, proposed in both cluster-128 runs for ἀμφιπολεύω and θεραπεύω, was not proposed here: both runs used existing service frames instead.
+Tending, proposed in both cluster-128 runs for ἀμφιπολεύω ‘tend, take care of’ and θεραπεύω ‘serve, attend; take care of’, was not proposed here: both runs used existing service frames instead.
 
 ### Passage annotations
 
@@ -87,15 +87,15 @@ Tending, proposed in both cluster-128 runs for ἀμφιπολεύω and θερ�
 
 ### Comparison with the original experiment and with cluster 128
 
-| Lemma | Original primary | Run A | Run B |
-| --- | --- | --- | --- |
-| ξένος | Guest_and_host | Guest_and_host | Guest_and_host |
-| ξενίζω | Provide_lodging | Provide_lodging | Have_visitor_over |
-| ξενία | Ritualized_guest_friendship (proposed) | Hospitality | Hospitality |
-| ξεινήιον | Giving | Giving | Giving |
-| φιλόξενος | Hospitality | Hospitality | Hospitality |
+| Lemma | Gloss | Original primary | Run A | Run B |
+| --- | --- | --- | --- | --- |
+| ξένος | guest, stranger; guest-friend | Guest_and_host | Guest_and_host | Guest_and_host |
+| ξενίζω | receive as a guest, entertain | Provide_lodging | Provide_lodging | Have_visitor_over |
+| ξενία | hospitality, guest-friendship | Ritualized_guest_friendship (proposed) | Hospitality | Hospitality |
+| ξεινήιον | guest-gift | Giving | Giving | Giving |
+| φιλόξενος | hospitable, kind to strangers | Hospitality | Hospitality | Hospitality |
 
-On Odyssey 1.123–124 the original and both runs agree on ξεῖνε (Guest_and_host), πασσάμενος (Ingestion), μυθήσεαι (Telling) and χρή (Needing); for φιλήσεαι the original has Provide_lodging and both runs Have_visitor_over.
+On Odyssey 1.123–124 the original and both runs agree on ξεῖνε ‘stranger’ (Guest_and_host), πασσάμενος ‘having tasted’ (Ingestion), μυθήσεαι ‘you will tell’ (Telling) and χρή ‘need’ (Needing); for φιλήσεαι ‘you will be made welcome’ the original has Provide_lodging and both runs Have_visitor_over.
 
 The 18 lemmas shared with cluster 128 get the same primary frame in both clusters for 14 of 18 (without WordNet) and 15 of 18 (with WordNet).
 
@@ -115,9 +115,9 @@ The 18 lemmas shared with cluster 128 get the same primary frame in both cluster
 
 The flags, frame assignments and annotations are drafts for team review, not validated data.
 
-- **One run per condition.** Some differences between A and B come from run-to-run variation, not from WordNet: ὑποδέχομαι has no WordNet data but still differs, and both runs reached some decisions (προσδέχομαι → Waiting, ἀμοιβός → Take_place_of) from Homeric usage in the treebank, with or without WordNet.
+- **One run per condition.** Some differences between A and B come from run-to-run variation, not from WordNet: ὑποδέχομαι ‘receive (as a guest)’ has no WordNet data but still differs, and both runs reached some decisions (προσδέχομαι ‘wait for; receive, accept’ → Waiting, ἀμοιβός ‘relief; one who exchanges’ → Take_place_of) from Homeric usage in the treebank, with or without WordNet.
 - **Same model, same prior knowledge.** Run A had no WordNet data but knows Greek; the comparison measures what WordNet adds to a model that already knows the language.
 - **Flags by several agents.** Most of the 14,466 synsets were flagged by four agents rather than one reader; consistency rests on the shared criteria and calibration file.
-- **Cluster noise.** ἀφήκω has no genuine Homeric occurrence: its only treebank token (Il. 8.133) is a form of ἀφίημι, mislemmatized. The treebank also files some ξεινήιον forms under ξένιος.
+- **Cluster noise.** ἀφήκω ‘arrive; depart’ has no genuine Homeric occurrence: its only treebank token (Il. 8.133) is a form of ἀφίημι ‘let go, let fly’, mislemmatized. The treebank also files some ξεινήιον ‘guest-gift’ forms under ξένιος ‘of guests, hospitable’.
 - **Frame names.** Proposed frames are matched by name across runs; the honour frame is the one case of the same frame under two names.
 - **Check the Greek text.** Verify both passages against a critical edition before reusing the offsets.
