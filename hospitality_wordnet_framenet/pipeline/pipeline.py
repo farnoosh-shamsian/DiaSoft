@@ -131,11 +131,12 @@ def cite(w):
 # LSJ (../lsj_semantic_search/lsj_chicago.cex). Sections: "lemmas" (headword
 # glosses), "forms" (inflected words and phrases quoted in the notes and
 # annotations), "examples" (translations of the proposed frames' examples),
-# "passages" (one [form, gloss] pair per token of each annotated passage).
+# "passages" (one [form, gloss] pair per token of each annotated passage),
+# "translit" (each headword transliterated with accents and vowel length).
 GLOSSES = HERE / "greek_glosses.json"
 GK = "Ͱ-Ͽἀ-῿"
 APOS = "'’ʼ"
-GK_WORD = rf"[{GK}][{GK}̀-ͯ]*(?:[{APOS}](?![{GK}]))?"
+GK_WORD = rf"[{GK}][{GK}\u0300-\u036F]*(?:[{APOS}](?![{GK}]))?"
 # Greek words joined by spaces, elision marks or an ellipsis
 GK_RUN = re.compile(rf"{GK_WORD}(?:(?:\s+|\s*(?:\.\.\.|…)\s*){GK_WORD})*")
 # an English gloss already follows the Greek
@@ -184,6 +185,8 @@ class Glosses:
         d = json.loads(GLOSSES.read_text(encoding="utf-8")) \
             if GLOSSES.exists() else {}
         self.lemmas = {gkey(k): v for k, v in d.get("lemmas", {}).items()}
+        self.translits = {gkey(k): v
+                          for k, v in d.get("translit", {}).items()}
         self.forms = {gkey(k): v for k, v in d.get("forms", {}).items()}
         self.examples = {gkey(k): v for k, v in d.get("examples", {}).items()}
         self.passages = d.get("passages", {})
@@ -194,6 +197,12 @@ class Glosses:
         if g is None:
             self.missing["lemmas"].add(nfc(lem))
         return g
+
+    def translit(self, lem, plain):
+        t = self.translits.get(gkey(lem))
+        if t is None:
+            self.missing["translit"].add(nfc(lem))
+        return t or plain
 
     def form(self, s):
         k = gkey(s)
@@ -223,6 +232,15 @@ class Glosses:
 
 
 GL = Glosses()
+# how to read the transliterations, on the pages that show them
+TRANSLIT_KEY = ("Transliteration: ē ō = η ω; ā ī ȳ = long α ι υ (a i y "
+                "unmarked are short); ´ ` ˆ = acute, grave, circumflex accent; "
+                "h = rough breathing; ï = a separate syllable.")
+
+
+def tr_of(l):
+    """A lemma row's transliteration with accents and vowel length."""
+    return GL.translit(l["greek_lemma"], l["translit"])
 
 
 def gl(gloss, cls="gl"):
@@ -258,7 +276,10 @@ def gk_prose(text):
 # closing markup, wikilink or italic transliteration that follows the Greek
 MD_SKIP = re.compile(r"\]\([^)]*\)|https?://[^\s|)]+")
 MD_CLOSE = re.compile(r"\d*(?:\]\]|\]\([^)]*\)|\*\*|[*_`\]])*")
-MD_TRANSLIT = re.compile(r"\s*(?:(?:·\s*)?\*[A-Za-z-]+\*|\([a-z.]+\))")
+# a transliteration in italics (Latin letters with accents and macrons) or a
+# grammatical note such as (mid.)
+MD_TRANSLIT = re.compile(r"\s*(?:(?:·\s*)?\*[A-Za-z\u00C0-\u024F\u1E00-\u1EFF"
+                         r"\u0300-\u036F-]+\*|\([a-z.]+\))")
 GLOSS_COLS = {"gloss", "description", "sense", "meaning", "english",
               "translation"}
 
@@ -282,7 +303,8 @@ def md_inline(s, ctx=None, done=None):
     skip = [m.span() for m in MD_SKIP.finditer(s)]
     out, pos = [], 0
     for m in GK_RUN.finditer(s):
-        if any(a <= m.start() < b for a, b in skip) or len(m.group()) == 1:
+        if any(a <= m.start() < b for a, b in skip) or \
+                all(len(w) == 1 for w in m.group().split()):
             continue
         end = MD_CLOSE.match(s, m.end()).end()
         t = MD_TRANSLIT.match(s, end)
@@ -439,13 +461,13 @@ def cmd_prepare(exp):
     spec = spec.replace("{corpus}", f"Ancient_Greek_hospitality_{exp.slug}")
     spec = spec.replace("{sources}", "Homer, " + sources)
     (exp.common / "FORMAT_SPEC.md").write_text(spec, encoding="utf-8")
-    md = [f"# {exp.title}", "",
+    md = [f"# {exp.title}", "", TRANSLIT_KEY, "",
           "| Category | Term | Ancient Greek | Description | LSJ | Wikipedia "
           "| Wikidata | Wiktionary | Notes |",
           "|---|---|---|---|---|---|---|---|---|"]
     notes = {l["lemma"]: l.get("note", "") for l in exp.lemmas}
     for r in rows:
-        md.append(f"| {r['group']} | {r['translit']} | {r['greek_lemma']} | "
+        md.append(f"| {r['group']} | {tr_of(r)} | {r['greek_lemma']} | "
                   f"{r['lsj_glosses']} | https://logeion.uchicago.edu/"
                   f"{r['greek_lemma']} |  |  |  | {notes[r['greek_lemma']]} |")
     (exp.dir / f"{exp.slug}_terms_table.md").write_text(
@@ -773,7 +795,7 @@ def cmd_links(exp):
          f'<p class="sub">{len(lemmas)} lemmata · {len(rows)} AGWN synsets · '
          f'{n_res} resolved to Princeton WordNet 3.0 · {n_kept} kept as core '
          'or plausible senses. Greek links → Ancient Greek WordNet; Princeton '
-         'links → Open English WordNet (en-word.net).</p>',
+         f'links → Open English WordNet (en-word.net). {TRANSLIT_KEY}</p>',
          '<div class="bar"><input type="search" id="q" placeholder="filter by '
          'word or gloss…"><label><input type="checkbox" id="ro"> core &amp; '
          'plausible only</label><label><input type="radio" name="role" '
@@ -784,9 +806,10 @@ def cmd_links(exp):
         res = sum(1 for r in rs if r["id_match"] != "unresolved")
         kept = sum(1 for r in rs if r["sense_flag"] != "noise")
         h.append(f'<details data-lemma="{esc(lem)} {esc(l["translit"])} '
-                 f'{esc(GL.lemma(lem) or "")}" data-role="{g}">')
+                 f'{esc(tr_of(l))} {esc(GL.lemma(lem) or "")}" '
+                 f'data-role="{g}">')
         h.append(f'<summary><span class="lem gk">{esc(lem)}</span> <span '
-                 f'class="tr">{esc(l["translit"])}</span> '
+                 f'class="tr">{esc(tr_of(l))}</span> '
                  f'{gl(GL.lemma(lem))} <span class="tag {g}">'
                  f'{esc(l["group"])}</span> <span class="rel">{esc(l["pos"])}'
                  f'</span> <a href="{agwn_lemma_url(form[lem], l["pos"])}" '
@@ -1019,7 +1042,8 @@ def render_framenet(exp, run, dest, with_wn):
          '</code>. Existing frames and frame elements checked against the '
          f'FrameNet 1.7 data. Greek senses = {sense_src}. Word-to-frame '
          'pairings are analytical proposals by Claude Opus 5.5. Frames marked '
-         '<span class="new">🆕</span> are proposed here.</div>\n'
+         '<span class="new">🆕</span> are proposed here. '
+         f'{TRANSLIT_KEY}</div>\n'
          '<h2>Primary frame per lemma</h2><table class="sum"><tr><th>Lemma'
          '</th><th>Primary frame</th><th>Status</th></tr>']
     for l in lemmas:
@@ -1029,7 +1053,7 @@ def render_framenet(exp, run, dest, with_wn):
             else "existing"
         h.append(f'<tr><td class="lem" style="font-size:16px">'
                  f'{esc(l["greek_lemma"])} <span class="tr" style="font-size:'
-                 f'13px">{esc(l["translit"])}</span> '
+                 f'13px">{esc(tr_of(l))}</span> '
                  f'{gl(GL.lemma(l["greek_lemma"]))}</td><td>'
                  f'{frame_link(p["frame"], p["frame_status"], pnames)}</td>'
                  f'<td class="pos">{st}</td></tr>')
@@ -1048,10 +1072,11 @@ def render_framenet(exp, run, dest, with_wn):
             txt += " " + " ".join(r["english_words"].replace("_", " ")
                                   for r in kept.get(lem, []))
         h.append(f'<details data-lemma="{esc(lem)} {esc(l["translit"])} '
-                 f'{esc(GL.lemma(lem) or "")}" data-role="{g}" '
+                 f'{esc(tr_of(l))} {esc(GL.lemma(lem) or "")}" '
+                 f'data-role="{g}" '
                  f'data-txt="{esc(txt.lower())}">\n'
                  f'<summary><span class="lem">{esc(lem)}</span> <span '
-                 f'class="tr">{esc(l["translit"])}</span> {gl(GL.lemma(lem))} '
+                 f'class="tr">{esc(tr_of(l))}</span> {gl(GL.lemma(lem))} '
                  f'<span class="tag '
                  f'{g}">{esc(l["group"])}</span> <span class="pos">'
                  f'{esc(l["pos"])}</span> <a class="aright ext" href="'
@@ -1166,7 +1191,7 @@ def render_notes(exp, run, dest, with_wn):
         lem = l["greek_lemma"]
         rows = sorted(by_lemma[lem], key=lambda r: r["assignment"] != "primary")
         prim = rows[0]
-        front = [f"lemma: {lem}", f"translit: {l['translit']}",
+        front = [f"lemma: {lem}", f"translit: {tr_of(l)}",
                  f"pos: {l['pos']}", f"group: {l['group']}",
                  f'sense: "{senses.get(lem, "")}"',
                  f"homer_count: {l['homer_count']}"]
@@ -1179,8 +1204,8 @@ def render_notes(exp, run, dest, with_wn):
         front += [f"primary_frame: {prim['frame']}",
                   f"tags: [{exp.slug}/lemma, {exp.slug}/"
                   f"{exp.groups[l['group']]}]",
-                  f"aliases: [{l['translit']}]"]
-        md = ["---", *front, "---", "", f"# {lem}  ·  *{l['translit']}*", "",
+                  f"aliases: [{l['translit']}, {tr_of(l)}]"]
+        md = ["---", *front, "---", "", f"# {lem}  ·  *{tr_of(l)}*", "",
               "> [!abstract] Sense (LSJ)", f"> {senses.get(lem, '')}", "",
               "## FrameNet",
               f"- **Primary frame:** [[{prim['frame']}]] — "

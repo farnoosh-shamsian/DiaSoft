@@ -35,6 +35,8 @@ Every Greek word on the HTML pages carries an English gloss, taken from `pipelin
 
 The markdown pages are glossed the same way: the comparison tables and the lemma, target and frame tables in the protocols and READMEs have a Gloss column next to the Greek (`lemma_frames.csv` and `passage_targets.csv` have a `gloss` column), and Greek in running text, in the Obsidian lemma notes and in the method notes has its gloss after it. `render` and `compare` do this when they write their files; for hand-written pages run `py pipeline/pipeline.py gloss <file.md> ...`, which only adds glosses that are missing. The inputs given to the runs (`common/`, `WORDNET_LAYER.md`, `FLAGGING_CRITERIA.md`, `PROMPT.md`) and the data CSVs are left as they were.
 
+Transliterations on the pages, in the lemma notes and in the terms tables show accent and vowel length: ē ō = η ω; ā ī ȳ = long α ι υ (a i y unmarked are short); ´ ` ˆ = acute, grave, circumflex accent; h = rough breathing; ï = a separate syllable (e.g. ξεινήιον *xeinḗïon* ‘guest-gift’, ταμίας *tamíās* ‘steward, dispenser’, δῶρον *dôron* ‘gift’). Lengths of α ι υ follow LSJ's quantity marks where LSJ gives them, otherwise the regular morphology. They are listed per headword under `translit` in `pipeline/greek_glosses.json`. The plain ASCII form stays in `experiment.json` and the data CSVs, where it serves as an identifier, and still works in the pages' search boxes and as an Obsidian alias.
+
 Requirements: Python 3.12 with `nltk` (WordNet 3.0 and FrameNet 1.7 data: `nltk.download("wordnet")`, `nltk.download("framenet_v17")`).
 
 ## Data not included
